@@ -1,0 +1,25 @@
+{
+  "name": "ai-news-dashboard",
+  "version": "1.0.0",
+  "description": "Daily AI news intelligence dashboard with email digest",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node scripts/runDaily.js",
+    "fetch": "node scripts/fetchSources.js",
+    "score": "node scripts/scoreRankCluster.js",
+    "summarize": "node scripts/summarize.js",
+    "email": "node scripts/sendEmail.js",
+    "dev": "node --env-file=.env scripts/runDaily.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.3",
+    "fast-xml-parser": "^4.4.1",
+    "natural": "^8.0.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.67.3"
+  },
+  "devDependencies": {}
+}
