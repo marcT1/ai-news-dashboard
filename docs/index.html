@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Intelligence Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="header-logo">🤖</span>
+        <div>
+          <h1 class="header-title">AI Intelligence</h1>
+          <p class="header-sub">Daily signal from the frontier</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span id="last-updated" class="last-updated">Loading…</span>
+        <button id="refresh-btn" class="btn-refresh" onclick="loadData()" title="Refresh">↻</button>
+      </div>
+    </div>
+
+    <!-- Filter Bar -->
+    <div class="filter-bar">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="topNews">Top News</button>
+      <button class="filter-btn" data-filter="trending">Trending</button>
+      <button class="filter-btn" data-filter="tools">Tools</button>
+      <button class="filter-btn" data-filter="research">Research</button>
+      <button class="filter-btn" data-filter="reddit">Reddit</button>
+      <button class="filter-btn" data-filter="funding">Funding</button>
+    </div>
+  </header>
+
+  <!-- Loading Overlay -->
+  <div id="loading" class="loading-overlay">
+    <div class="spinner"></div>
+    <p>Fetching today's AI signals…</p>
+  </div>
+
+  <!-- Error State -->
+  <div id="error-state" class="error-state hidden">
+    <span class="error-icon">⚠️</span>
+    <p id="error-msg">Failed to load data.</p>
+    <button onclick="loadData()">Retry</button>
+  </div>
+
+  <!-- Main Content -->
+  <main id="main-content" class="main hidden">
+
+    <!-- Daily Brief Banner -->
+    <section id="section-brief" class="brief-banner section-block" data-section="all">
+      <div class="brief-inner">
+        <div class="brief-label">⚡ Daily Brief</div>
+        <p id="brief-text" class="brief-text"></p>
+      </div>
+    </section>
+
+    <!-- Two-Column Layout -->
+    <div class="two-col">
+
+      <!-- LEFT: Top News -->
+      <section id="section-topNews" class="section-block" data-section="topNews">
+        <h2 class="section-title">📰 Top News <span id="news-count" class="badge"></span></h2>
+        <div id="top-news-list" class="card-list"></div>
+      </section>
+
+      <!-- RIGHT Column -->
+      <aside class="right-col">
+
+        <!-- Trending Topics -->
+        <section id="section-trending" class="section-block" data-section="trending">
+          <h2 class="section-title">🔥 Trending Topics</h2>
+          <div id="trending-list" class="trend-list"></div>
+        </section>
+
+        <!-- Tool Launches -->
+        <section id="section-tools" class="section-block" data-section="tools">
+          <h2 class="section-title">🚀 Tool Launches</h2>
+          <div id="tools-list" class="card-list compact"></div>
+        </section>
+
+      </aside>
+    </div>
+
+    <!-- Bottom Grid -->
+    <div class="bottom-grid">
+
+      <section id="section-reddit" class="section-block" data-section="reddit">
+        <h2 class="section-title">💬 Reddit Signals</h2>
+        <div id="reddit-list" class="card-list compact"></div>
+      </section>
+
+      <section id="section-research" class="section-block" data-section="research">
+        <h2 class="section-title">🔬 Research</h2>
+        <div id="research-list" class="card-list compact"></div>
+      </section>
+
+      <section id="section-funding" class="section-block" data-section="funding">
+        <h2 class="section-title">💰 Funding & M&A</h2>
+        <div id="funding-list" class="card-list compact"></div>
+      </section>
+
+    </div>
+
+  </main>
+
+  <footer class="footer">
+    <p>AI Intelligence Dashboard · Data updates daily at 7 AM ET · 
+       Built with GitHub Actions + OpenAI + SendGrid
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
