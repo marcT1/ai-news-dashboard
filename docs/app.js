@@ -3,7 +3,7 @@
  * Loads /data/latest.json and renders all sections.
  */
 
-const DATA_URL = const DATA_URL = './data.json';
+const DATA_URL = './data.json';
 let currentFilter = 'all';
 let data = null;
 
