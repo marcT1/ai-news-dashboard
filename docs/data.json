@@ -1,0 +1,169 @@
+{
+  "generatedAt": "2025-01-20T12:00:00.000Z",
+  "dailyBrief": "Today in AI: OpenAI unveiled GPT-5 with dramatically improved reasoning capabilities, setting off a wave of enterprise adoption announcements. Meanwhile, the EU AI Act's first enforcement actions targeted three major tech companies for non-compliant high-risk AI deployments. On the research front, a Stanford paper demonstrated a novel training technique that reduces LLM compute costs by 40%, potentially reshaping the economics of AI development. Anthropic raised $2B at a $60B valuation to fund its next model generation, while GitHub's new AI-native IDE feature crossed 10 million developers — signaling that agentic coding tools have reached mainstream adoption.",
+  "topNews": [
+    {
+      "id": "rss-1705747200000-0",
+      "title": "OpenAI Announces GPT-5 with Advanced Reasoning and Long-Context Support",
+      "url": "https://openai.com/blog/gpt-5",
+      "source": "OpenAI Blog",
+      "publishedAt": "2025-01-20T08:00:00.000Z",
+      "score": 95,
+      "scoreBreakdown": { "freshness": 30, "authority": 20, "engagement": 25, "novelty": 10, "businessImpact": 10 },
+      "summary": "• What happened: OpenAI released GPT-5, featuring 1M-token context and dramatically improved multi-step reasoning.\n• Why it matters: Sets a new performance bar that competitors must match, accelerating the AI arms race.\n• Business opportunity: Early enterprise integrators gain a 6–12 month advantage in AI-powered product differentiation.",
+      "rawTextSnippet": "OpenAI today announced GPT-5, its most capable model to date, featuring support for one million token context windows and significantly improved performance on complex reasoning tasks...",
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "rss-1705747200000-1",
+      "title": "EU AI Act First Enforcement Actions Target High-Risk Deployments",
+      "url": "https://techcrunch.com/2025/01/20/eu-ai-act-enforcement",
+      "source": "TechCrunch AI",
+      "publishedAt": "2025-01-20T07:30:00.000Z",
+      "score": 88,
+      "scoreBreakdown": { "freshness": 30, "authority": 16, "engagement": 18, "novelty": 14, "businessImpact": 10 },
+      "summary": "• What happened: EU regulators issued the first AI Act fines to three companies for deploying non-compliant high-risk AI systems.\n• Why it matters: Signals that AI compliance is now an enforcement priority with real financial consequences.\n• Business opportunity: AI governance consulting, compliance tooling, and audit services will see rapid demand growth.",
+      "rawTextSnippet": "The European AI Office issued its first enforcement actions under the EU AI Act on Monday, targeting biometric surveillance and credit-scoring systems deemed high-risk...",
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1705747200000-2",
+      "title": "Efficient LLM Training via Gradient Checkpointing and Sparse Attention",
+      "url": "https://arxiv.org/abs/2501.12345",
+      "source": "arXiv",
+      "publishedAt": "2025-01-19T14:00:00.000Z",
+      "score": 76,
+      "scoreBreakdown": { "freshness": 22, "authority": 15, "engagement": 0, "novelty": 15, "businessImpact": 8 },
+      "summary": "• What happened: Stanford researchers published a technique reducing LLM training compute by 40% with no quality loss.\n• Why it matters: Lowers the barrier to training competitive frontier models outside top labs.\n• Business opportunity: Mid-market AI companies can now build proprietary models at dramatically reduced cost.",
+      "rawTextSnippet": "We present SparseGrad, a novel combination of sparse attention patterns and adaptive gradient checkpointing that achieves a 40% reduction in training FLOPs...",
+      "cluster": "Research & Benchmarks"
+    }
+  ],
+  "trendingTopics": [
+    {
+      "name": "Large Language Models",
+      "itemCount": 28,
+      "trendScore": 310,
+      "whyTrending": "28 stories across OpenAI, TechCrunch, VentureBeat, 18 in the last 24h.",
+      "topStory": {
+        "title": "OpenAI Announces GPT-5 with Advanced Reasoning",
+        "url": "https://openai.com/blog/gpt-5"
+      },
+      "items": []
+    },
+    {
+      "name": "AI Safety & Regulation",
+      "itemCount": 14,
+      "trendScore": 183,
+      "whyTrending": "14 stories across TechCrunch, MIT, Reuters, 9 in the last 24h.",
+      "topStory": {
+        "title": "EU AI Act First Enforcement Actions",
+        "url": "https://techcrunch.com/2025/01/20/eu-ai-act-enforcement"
+      },
+      "items": []
+    },
+    {
+      "name": "AI Agents & Automation",
+      "itemCount": 12,
+      "trendScore": 152,
+      "whyTrending": "12 stories across VentureBeat, HN, GitHub, 7 in the last 24h.",
+      "topStory": {
+        "title": "GitHub Copilot Workspace Hits 10M Developers",
+        "url": "https://github.blog/copilot-workspace"
+      },
+      "items": []
+    },
+    {
+      "name": "Funding & Acquisitions",
+      "itemCount": 8,
+      "trendScore": 120,
+      "whyTrending": "8 stories across TechCrunch, VentureBeat, 5 in the last 24h.",
+      "topStory": {
+        "title": "Anthropic Raises $2B Series E at $60B Valuation",
+        "url": "https://techcrunch.com/2025/01/20/anthropic-series-e"
+      },
+      "items": []
+    },
+    {
+      "name": "Open Source AI",
+      "itemCount": 10,
+      "trendScore": 115,
+      "whyTrending": "10 stories across GitHub, HN, Hugging Face, 6 in the last 24h.",
+      "topStory": {
+        "title": "Meta Releases Llama 4 Under Open License",
+        "url": "https://ai.meta.com/llama"
+      },
+      "items": []
+    }
+  ],
+  "toolLaunches": [
+    {
+      "id": "rss-1705747200000-10",
+      "title": "Anthropic Releases Claude 3.5 API with Tool Use and Vision",
+      "url": "https://www.anthropic.com/news/claude-3-5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2025-01-20T09:00:00.000Z",
+      "score": 91,
+      "scoreBreakdown": { "freshness": 30, "authority": 20, "engagement": 20, "novelty": 11, "businessImpact": 10 },
+      "summary": "• What happened: Anthropic launched Claude 3.5 with enhanced tool-use, vision, and a new 200K context window.\n• Why it matters: Closes the capability gap with GPT-4o and expands agentic application use cases.\n• Business opportunity: Developers can now build reliable multi-step AI workflows with structured outputs.",
+      "rawTextSnippet": "Anthropic today released Claude 3.5 via its API, adding support for parallel tool calls, vision inputs, and a 200,000-token context window...",
+      "cluster": "AI Tools & Products"
+    }
+  ],
+  "redditSignals": [
+    {
+      "id": "reddit-1705747200000-20",
+      "title": "I've been using AI coding assistants for 6 months — here's what actually works",
+      "url": "https://reddit.com/r/MachineLearning/comments/abc123",
+      "source": "Reddit r/MachineLearning",
+      "publishedAt": "2025-01-20T06:00:00.000Z",
+      "score": 72,
+      "scoreBreakdown": { "freshness": 30, "authority": 10, "engagement": 22, "novelty": 10, "businessImpact": 0 },
+      "summary": null,
+      "rawTextSnippet": "After 6 months of daily use across Copilot, Cursor, and Claude, here are the real-world patterns I've noticed...",
+      "cluster": "AI Tools & Products",
+      "redditMeta": {
+        "subreddit": "MachineLearning",
+        "upvotes": 2847,
+        "comments": 342,
+        "permalink": "https://reddit.com/r/MachineLearning/comments/abc123"
+      }
+    }
+  ],
+  "research": [
+    {
+      "id": "arxiv-1705747200000-2",
+      "title": "Efficient LLM Training via Gradient Checkpointing and Sparse Attention",
+      "url": "https://arxiv.org/abs/2501.12345",
+      "source": "arXiv",
+      "publishedAt": "2025-01-19T14:00:00.000Z",
+      "score": 76,
+      "scoreBreakdown": { "freshness": 22, "authority": 15, "engagement": 0, "novelty": 15, "businessImpact": 8 },
+      "summary": "• What happened: Stanford researchers published a technique reducing LLM training compute by 40% with no quality loss.\n• Why it matters: Lowers the barrier to training competitive frontier models outside top labs.\n• Business opportunity: Mid-market AI companies can now build proprietary models at dramatically reduced cost.",
+      "rawTextSnippet": "We present SparseGrad, a novel combination of sparse attention patterns and adaptive gradient checkpointing...",
+      "cluster": "Research & Benchmarks"
+    }
+  ],
+  "funding": [
+    {
+      "id": "rss-1705747200000-30",
+      "title": "Anthropic Raises $2B Series E at $60B Valuation to Fund Next Model Generation",
+      "url": "https://techcrunch.com/2025/01/20/anthropic-series-e",
+      "source": "TechCrunch AI",
+      "publishedAt": "2025-01-20T10:00:00.000Z",
+      "score": 90,
+      "scoreBreakdown": { "freshness": 30, "authority": 16, "engagement": 20, "novelty": 14, "businessImpact": 10 },
+      "summary": "• What happened: Anthropic closed a $2B Series E round at a $60B post-money valuation.\n• Why it matters: Signals sustained investor conviction in frontier AI labs despite market uncertainty.\n• Business opportunity: Watch for Anthropic's expanded enterprise tier and new API capabilities funded by this round.",
+      "rawTextSnippet": "Anthropic, the AI safety company behind the Claude model family, has raised $2 billion in a Series E round...",
+      "cluster": "Funding & Acquisitions"
+    }
+  ],
+  "meta": {
+    "topNewsCount": 3,
+    "trendingTopicsCount": 5,
+    "toolLaunchesCount": 1,
+    "redditSignalsCount": 1,
+    "researchCount": 1,
+    "fundingCount": 1
+  }
+}
