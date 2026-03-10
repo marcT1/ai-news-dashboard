@@ -3,7 +3,7 @@
  * Loads /data/latest.json and renders all sections.
  */
 
-const DATA_URL = '../data/latest.json';
+const DATA_URL = 'const DATA_URL = 'https://raw.githubusercontent.com/marcT1/ai-news-dashboard/main/data/latest.json';
 let currentFilter = 'all';
 let data = null;
 
