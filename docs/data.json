@@ -1,169 +1,1394 @@
 {
-  "generatedAt": "2025-01-20T12:00:00.000Z",
-  "dailyBrief": "Today in AI: OpenAI unveiled GPT-5 with dramatically improved reasoning capabilities, setting off a wave of enterprise adoption announcements. Meanwhile, the EU AI Act's first enforcement actions targeted three major tech companies for non-compliant high-risk AI deployments. On the research front, a Stanford paper demonstrated a novel training technique that reduces LLM compute costs by 40%, potentially reshaping the economics of AI development. Anthropic raised $2B at a $60B valuation to fund its next model generation, while GitHub's new AI-native IDE feature crossed 10 million developers — signaling that agentic coding tools have reached mainstream adoption.",
   "topNews": [
     {
-      "id": "rss-1705747200000-0",
-      "title": "OpenAI Announces GPT-5 with Advanced Reasoning and Long-Context Support",
-      "url": "https://openai.com/blog/gpt-5",
-      "source": "OpenAI Blog",
-      "publishedAt": "2025-01-20T08:00:00.000Z",
-      "score": 95,
-      "scoreBreakdown": { "freshness": 30, "authority": 20, "engagement": 25, "novelty": 10, "businessImpact": 10 },
-      "summary": "• What happened: OpenAI released GPT-5, featuring 1M-token context and dramatically improved multi-step reasoning.\n• Why it matters: Sets a new performance bar that competitors must match, accelerating the AI arms race.\n• Business opportunity: Early enterprise integrators gain a 6–12 month advantage in AI-powered product differentiation.",
-      "rawTextSnippet": "OpenAI today announced GPT-5, its most capable model to date, featuring support for one million token context windows and significantly improved performance on complex reasoning tasks...",
-      "cluster": "Large Language Models"
+      "id": "hn-1773197504465-180",
+      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-09T23:22:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 445,
+        "comments": 321
+      },
+      "rawTextSnippet": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "hnMeta": {
+        "points": 445,
+        "comments": 321,
+        "hnUrl": "https://news.ycombinator.com/item?id=47317132"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 14,
+        "engagement": 25,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Anthropic clarified that it does not charge $5,000 per user for Claude Code.  \n• Why it matters: This misinformation could impact user perceptions and adoption of their AI services.  \n• Business opportunity: Clear communication can enhance trust and attract more users to Anthropic's offerings."
     },
     {
-      "id": "rss-1705747200000-1",
-      "title": "EU AI Act First Enforcement Actions Target High-Risk Deployments",
-      "url": "https://techcrunch.com/2025/01/20/eu-ai-act-enforcement",
+      "id": "hn-1773197505821-202",
+      "title": "Think Twice Before Buying or Using Meta's Ray-Bans",
+      "url": "https://www.eff.org/deeplinks/2026/03/think-twice-buying-or-using-metas-ray-bans",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T23:34:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 11,
+        "comments": 4
+      },
+      "rawTextSnippet": "Think Twice Before Buying or Using Meta's Ray-Bans",
+      "hnMeta": {
+        "points": 11,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47330132"
+      },
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Concerns have been raised about privacy and data security regarding Meta's Ray-Bans.  \n• Why it matters: Potential risks may deter consumers from adopting smart eyewear technology.  \n• Business opportunity: Companies can innovate safer, privacy-focused smart eyewear to capture market interest."
+    },
+    {
+      "id": "hn-1773197504465-173",
+      "title": "Rebasing in Magit",
+      "url": "https://entropicthoughts.com/rebasing-in-magit",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T13:38:39.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 187,
+        "comments": 125
+      },
+      "rawTextSnippet": "Rebasing in Magit",
+      "hnMeta": {
+        "points": 187,
+        "comments": 125,
+        "hnUrl": "https://news.ycombinator.com/item?id=47323105"
+      },
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Magit introduced new features for rebasing in its Git interface.  \n• Why it matters: Enhanced rebasing capabilities improve user experience and efficiency for developers.  \n• Business opportunity: Companies can leverage improved Git tools to streamline workflows and increase productivity in software development."
+    },
+    {
+      "id": "hn-1773197500285-82",
+      "title": "Military AI Policy by Contract: The Limits of Procurement as Governance",
+      "url": "https://www.lawfaremedia.org/article/military-ai-policy-by-contract--the-limits-of-procurement-as-governance",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T22:43:51.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 0
+      },
+      "rawTextSnippet": "Military AI Policy by Contract: The Limits of Procurement as Governance",
+      "hnMeta": {
+        "points": 5,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47329692"
+      },
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A discussion on the effectiveness of procurement contracts in governing military AI policy.  \n• Why it matters: It highlights potential shortcomings in current governance frameworks for emerging technologies in defense.  \n• Business opportunity: Companies can innovate solutions that enhance compliance and oversight in military AI procurement processes."
+    },
+    {
+      "id": "hn-1773197498815-62",
+      "title": "I Got Root on Meta AI's Infrastructure Using a Chat Prompt",
+      "url": "https://netguard24-7.com/blog/meta-ai-root",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T23:07:35.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 3
+      },
+      "rawTextSnippet": "I Got Root on Meta AI's Infrastructure Using a Chat Prompt",
+      "hnMeta": {
+        "points": 5,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47329904"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A security researcher gained unauthorized access to Meta AI's infrastructure through a chat prompt.  \n• Why it matters: This incident highlights vulnerabilities in AI systems and the potential for exploitation.  \n• Business opportunity: Companies can invest in robust security measures and AI training to prevent similar breaches."
+    },
+    {
+      "id": "hn-1773197498815-57",
+      "title": "Log4j – Addressing AI-slop in security reports",
+      "url": "https://github.com/apache/logging-log4j2/discussions/4052",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T23:44:22.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "Log4j – Addressing AI-slop in security reports",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47330201"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Log4j is focusing on improving the accuracy of AI-generated security reports.  \n• Why it matters: Enhancing report reliability can significantly reduce vulnerabilities and improve cybersecurity.  \n• Business opportunity: Companies can invest in AI tools that refine security reporting processes to enhance trust and effectiveness."
+    },
+    {
+      "id": "hn-1773197498815-58",
+      "title": "Anthropic gives lesson in AI revenue hallucination",
+      "url": "https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T23:30:28.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 3
+      },
+      "rawTextSnippet": "Anthropic gives lesson in AI revenue hallucination",
+      "hnMeta": {
+        "points": 2,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47330107"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Anthropic highlighted the phenomenon of AI revenue hallucination, where projected earnings from AI technologies are often overstated.  \n• Why it matters: This serves as a cautionary tale for investors and companies evaluating AI's financial potential.  \n• Business opportunity: There is a growing need for accurate AI revenue forecasting tools to help businesses make informed decisions."
+    },
+    {
+      "id": "hn-1773197501680-117",
+      "title": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+      "url": "https://jmcentire.github.io/pact/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-11T01:04:18.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47330717"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Pact introduced a contracts-first multi-agent coding approach, achieving 212/212 ICPC performance compared to Claude Code's 79-92%.  \n• Why it matters: This innovation highlights significant advancements in coding efficiency and accuracy, potentially transforming software development practices.  \n• Business opportunity: Companies can leverage Pact's technology to enhance coding productivity and reduce errors, leading to cost savings and faster project delivery."
+    },
+    {
+      "id": "rss-1773197501426-94",
+      "title": "Google brings Gemini in Chrome to India",
+      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
       "source": "TechCrunch AI",
-      "publishedAt": "2025-01-20T07:30:00.000Z",
-      "score": 88,
-      "scoreBreakdown": { "freshness": 30, "authority": 16, "engagement": 18, "novelty": 14, "businessImpact": 10 },
-      "summary": "• What happened: EU regulators issued the first AI Act fines to three companies for deploying non-compliant high-risk AI systems.\n• Why it matters: Signals that AI compliance is now an enforcement priority with real financial consequences.\n• Business opportunity: AI governance consulting, compliance tooling, and audit services will see rapid demand growth.",
-      "rawTextSnippet": "The European AI Office issued its first enforcement actions under the EU AI Act on Monday, targeting biometric surveillance and credit-scoring systems deemed high-risk...",
-      "cluster": "AI Safety & Regulation"
+      "publishedAt": "2026-03-11T02:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Google launched its Gemini AI feature in Chrome for users in India.  \n• Why it matters: This expansion enhances accessibility and usability for millions of Indian language speakers.  \n• Business opportunity: Companies can leverage Gemini's capabilities to create localized content and services for diverse Indian audiences."
     },
     {
-      "id": "arxiv-1705747200000-2",
-      "title": "Efficient LLM Training via Gradient Checkpointing and Sparse Attention",
-      "url": "https://arxiv.org/abs/2501.12345",
-      "source": "arXiv",
-      "publishedAt": "2025-01-19T14:00:00.000Z",
-      "score": 76,
-      "scoreBreakdown": { "freshness": 22, "authority": 15, "engagement": 0, "novelty": 15, "businessImpact": 8 },
-      "summary": "• What happened: Stanford researchers published a technique reducing LLM training compute by 40% with no quality loss.\n• Why it matters: Lowers the barrier to training competitive frontier models outside top labs.\n• Business opportunity: Mid-market AI companies can now build proprietary models at dramatically reduced cost.",
-      "rawTextSnippet": "We present SparseGrad, a novel combination of sparse attention patterns and adaptive gradient checkpointing that achieves a 40% reduction in training FLOPs...",
-      "cluster": "Research & Benchmarks"
+      "id": "hn-1773197503079-150",
+      "title": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-2026-03-06/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T19:46:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
+      },
+      "rawTextSnippet": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47327937"
+      },
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: SoftBank is considering a loan of up to $40 billion to invest in OpenAI.  \n• Why it matters: This significant funding could accelerate AI development and innovation.  \n• Business opportunity: Companies can explore partnerships or services leveraging advanced AI technologies from OpenAI."
     }
   ],
   "trendingTopics": [
     {
       "name": "Large Language Models",
-      "itemCount": 28,
-      "trendScore": 310,
-      "whyTrending": "28 stories across OpenAI, TechCrunch, VentureBeat, 18 in the last 24h.",
+      "itemCount": 60,
+      "trendScore": 212,
+      "whyTrending": "60 stories across Hacker, TechCrunch, arXiv, 42 in the last 24h.",
       "topStory": {
-        "title": "OpenAI Announces GPT-5 with Advanced Reasoning",
-        "url": "https://openai.com/blog/gpt-5"
+        "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+        "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/"
       },
-      "items": []
+      "items": [
+        {
+          "id": "hn-1773197504465-180",
+          "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+          "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-09T23:22:06.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 445,
+            "comments": 321
+          },
+          "rawTextSnippet": "No, it doesn't cost Anthropic $5k per Claude Code user",
+          "hnMeta": {
+            "points": 445,
+            "comments": 321,
+            "hnUrl": "https://news.ycombinator.com/item?id=47317132"
+          },
+          "score": 69,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 14,
+            "engagement": 25,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1773197498815-62",
+          "title": "I Got Root on Meta AI's Infrastructure Using a Chat Prompt",
+          "url": "https://netguard24-7.com/blog/meta-ai-root",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T23:07:35.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 3
+          },
+          "rawTextSnippet": "I Got Root on Meta AI's Infrastructure Using a Chat Prompt",
+          "hnMeta": {
+            "points": 5,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47329904"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1773197501426-94",
+          "title": "Google brings Gemini in Chrome to India",
+          "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-11T02:30:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1773197507489-210",
+          "title": "Maybe the G in AGI stands for Gemini",
+          "url": "https://www.robinsloan.com/lab/gemini-agi/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T18:37:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 13,
+            "comments": 9
+          },
+          "rawTextSnippet": "Maybe the G in AGI stands for Gemini",
+          "hnMeta": {
+            "points": 13,
+            "comments": 9,
+            "hnUrl": "https://news.ycombinator.com/item?id=47327143"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1773197507489-213",
+          "title": "Gemini Embedding 2: natively multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T16:58:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 17,
+            "comments": 1
+          },
+          "rawTextSnippet": "Gemini Embedding 2: natively multimodal embedding model",
+          "hnMeta": {
+            "points": 17,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47325887"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        }
+      ]
     },
     {
-      "name": "AI Safety & Regulation",
-      "itemCount": 14,
-      "trendScore": 183,
-      "whyTrending": "14 stories across TechCrunch, MIT, Reuters, 9 in the last 24h.",
+      "name": "General AI",
+      "itemCount": 37,
+      "trendScore": 191,
+      "whyTrending": "37 stories across Hacker, TechCrunch, MIT, 23 in the last 24h.",
       "topStory": {
-        "title": "EU AI Act First Enforcement Actions",
-        "url": "https://techcrunch.com/2025/01/20/eu-ai-act-enforcement"
+        "title": "Rebasing in Magit",
+        "url": "https://entropicthoughts.com/rebasing-in-magit"
       },
-      "items": []
+      "items": [
+        {
+          "id": "hn-1773197504465-173",
+          "title": "Rebasing in Magit",
+          "url": "https://entropicthoughts.com/rebasing-in-magit",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T13:38:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 187,
+            "comments": 125
+          },
+          "rawTextSnippet": "Rebasing in Magit",
+          "hnMeta": {
+            "points": 187,
+            "comments": 125,
+            "hnUrl": "https://news.ycombinator.com/item?id=47323105"
+          },
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773197498815-57",
+          "title": "Log4j – Addressing AI-slop in security reports",
+          "url": "https://github.com/apache/logging-log4j2/discussions/4052",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T23:44:22.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "Log4j – Addressing AI-slop in security reports",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330201"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773197498815-58",
+          "title": "Anthropic gives lesson in AI revenue hallucination",
+          "url": "https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T23:30:28.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 3
+          },
+          "rawTextSnippet": "Anthropic gives lesson in AI revenue hallucination",
+          "hnMeta": {
+            "points": 2,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330107"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1773197501426-96",
+          "title": "AI-powered apps struggle with long-term retention, new report shows",
+          "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-10T18:42:33.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773197504465-168",
+          "title": "Trump Plots Petty Revenge on Anthropic CEO",
+          "url": "https://www.thedailybeast.com/donald-trump-plots-petty-revenge-on-ceo-dario-amodei-who-called-him-dictator/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T18:44:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 14,
+            "comments": 6
+          },
+          "rawTextSnippet": "Trump Plots Petty Revenge on Anthropic CEO",
+          "hnMeta": {
+            "points": 14,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=47327236"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        }
+      ]
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 12,
-      "trendScore": 152,
-      "whyTrending": "12 stories across VentureBeat, HN, GitHub, 7 in the last 24h.",
+      "itemCount": 32,
+      "trendScore": 180,
+      "whyTrending": "32 stories across Hacker, TechCrunch, GitHub, 20 in the last 24h.",
       "topStory": {
-        "title": "GitHub Copilot Workspace Hits 10M Developers",
-        "url": "https://github.blog/copilot-workspace"
+        "title": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+        "url": "https://jmcentire.github.io/pact/"
       },
-      "items": []
+      "items": [
+        {
+          "id": "hn-1773197501680-117",
+          "title": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+          "url": "https://jmcentire.github.io/pact/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-11T01:04:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330717"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773197498815-44",
+          "title": "The \"Bloomberg Terminal\" for Agents – Real-Time Intelligence API for AI Agents",
+          "url": "https://thepolarisreport.com/agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-11T02:38:49.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "The \"Bloomberg Terminal\" for Agents – Real-Time Intelligence API for AI Agents",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47331211"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773197498815-53",
+          "title": "Datafly – data agent that automatically understands any database you connect",
+          "url": "https://github.com/dkeviv/datafly",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-11T00:34:50.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 3
+          },
+          "rawTextSnippet": "Datafly – data agent that automatically understands any database you connect",
+          "hnMeta": {
+            "points": 1,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330546"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773197500285-86",
+          "title": "Show HN: Lumen – vision-first browser agent (state of the art, open source)",
+          "url": "https://github.com/omxyz/lumen",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T21:22:11.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "We&#x27;re open sourcing Lumen — state of the art, vision-first browser agent. Problem Browser automation is fragile. Scripts break constantly and agents waste tokens getting stuck in loops. Today there are two options: Selector-based scripting like Playwright and Puppeteer: these require you to tar…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47328931"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773197501680-115",
+          "title": "Robinhood Agent Integration",
+          "url": "https://github.com/kevin1chun/rh-for-agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-11T02:13:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Robinhood Agent Integration",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47331078"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
     },
     {
-      "name": "Funding & Acquisitions",
-      "itemCount": 8,
-      "trendScore": 120,
-      "whyTrending": "8 stories across TechCrunch, VentureBeat, 5 in the last 24h.",
+      "name": "AI Safety & Regulation",
+      "itemCount": 21,
+      "trendScore": 154,
+      "whyTrending": "21 stories across Hacker, arXiv, MIT, 9 in the last 24h.",
       "topStory": {
-        "title": "Anthropic Raises $2B Series E at $60B Valuation",
-        "url": "https://techcrunch.com/2025/01/20/anthropic-series-e"
+        "title": "Think Twice Before Buying or Using Meta's Ray-Bans",
+        "url": "https://www.eff.org/deeplinks/2026/03/think-twice-buying-or-using-metas-ray-bans"
       },
-      "items": []
+      "items": [
+        {
+          "id": "hn-1773197505821-202",
+          "title": "Think Twice Before Buying or Using Meta's Ray-Bans",
+          "url": "https://www.eff.org/deeplinks/2026/03/think-twice-buying-or-using-metas-ray-bans",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T23:34:24.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 11,
+            "comments": 4
+          },
+          "rawTextSnippet": "Think Twice Before Buying or Using Meta's Ray-Bans",
+          "hnMeta": {
+            "points": 11,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330132"
+          },
+          "score": 67,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1773197500285-82",
+          "title": "Military AI Policy by Contract: The Limits of Procurement as Governance",
+          "url": "https://www.lawfaremedia.org/article/military-ai-policy-by-contract--the-limits-of-procurement-as-governance",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T22:43:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 0
+          },
+          "rawTextSnippet": "Military AI Policy by Contract: The Limits of Procurement as Governance",
+          "hnMeta": {
+            "points": 5,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47329692"
+          },
+          "score": 65,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1773197503079-150",
+          "title": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+          "url": "https://www.reuters.com/business/media-telecom/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-2026-03-06/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T19:46:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47327937"
+          },
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "arxiv-1773197498555-18",
+          "title": "When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic",
+          "url": "https://arxiv.org/abs/2603.09950v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-10T17:46:31.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "Deep Reinforcement Learning systems are highly sensitive to the learning rate (LR), and selecting stable and performant training runs often requires extensive hyperparameter search. In Proximal Policy Optimization (PPO) actor--critic methods, small LR values lead to slow convergence, whereas large L…",
+          "arxivMeta": {
+            "authors": "Alberto Fernández-Hernández, Cristian Pérez-Corral, Jose I. Mestre, Manuel F. Dolz, Jose Duato, Enrique S. Quintana-Ortí",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "arxiv-1773197498555-32",
+          "title": "Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning",
+          "url": "https://arxiv.org/abs/2603.09882v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-10T16:40:30.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "Extrinsic dexterity leverages environmental contact to overcome the limitations of prehensile manipulation. However, achieving such dexterity in cluttered scenes remains challenging and underexplored, as it requires selectively exploiting contact among multiple interacting objects with inherently co…",
+          "arxivMeta": {
+            "authors": "Yixin Zheng, Jiangran Lyu, Yifan Zhang, Jiayi Chen, Mi Yan, Yuntian Deng, Xuesong Shi, Xiaoguang Zhao, Yizhou Wang, Zhizheng Zhang, He Wang",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
     },
     {
-      "name": "Open Source AI",
-      "itemCount": 10,
-      "trendScore": 115,
-      "whyTrending": "10 stories across GitHub, HN, Hugging Face, 6 in the last 24h.",
+      "name": "AI Tools & Products",
+      "itemCount": 15,
+      "trendScore": 131,
+      "whyTrending": "15 stories across TechCrunch, Hacker, arXiv, 7 in the last 24h.",
       "topStory": {
-        "title": "Meta Releases Llama 4 Under Open License",
-        "url": "https://ai.meta.com/llama"
+        "title": "Amazon launches its healthcare AI assistant on its website and app",
+        "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/"
       },
-      "items": []
+      "items": [
+        {
+          "id": "rss-1773197501426-95",
+          "title": "Amazon launches its healthcare AI assistant on its website and app",
+          "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-10T20:10:06.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1773197503079-148",
+          "title": "How HN: Specwatch – Generate OpenAPI specs by watching live API traffic",
+          "url": "https://github.com/rajeevramani/specwatch",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-11T01:38:49.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "How HN: Specwatch – Generate OpenAPI specs by watching live API traffic",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330903"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1773197501426-100",
+          "title": "Google gives in to users&#8217; complaints over AI-powered &#8216;Ask Photos&#8217; search feature",
+          "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-10T14:58:29.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+          "score": 57,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "arxiv-1773197498554-10",
+          "title": "From Data Statistics to Feature Geometry: How Correlations Shape Superposition",
+          "url": "https://arxiv.org/abs/2603.09972v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-10T17:59:02.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "A central idea in mechanistic interpretability is that neural networks represent more features than they have dimensions, arranging them in superposition to form an over-complete basis. This framing has been influential, motivating dictionary learning approaches such as sparse autoencoders. However,…",
+          "arxivMeta": {
+            "authors": "Lucas Prieto, Edward Stevinson, Melih Barsbey, Tolga Birdal, Pedro A. M. Mediano",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 56,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1773197503079-156",
+          "title": "Show HN: Get a demo video with AI voiceover using DemoFly",
+          "url": "https://demofly.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T15:28:07.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 1
+          },
+          "rawTextSnippet": "Hi HN, I&#x27;m Matt, one of the engineers behind DemoFly! We built DemoFly because we got tired of the gap between building features and showing them to people. Our team has been doing full-stack engineering for over a decade (most recently building Rownd, an authentication platform) and the one th…",
+          "hnMeta": {
+            "points": 4,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47324590"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        }
+      ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1705747200000-10",
-      "title": "Anthropic Releases Claude 3.5 API with Tool Use and Vision",
-      "url": "https://www.anthropic.com/news/claude-3-5",
-      "source": "Anthropic Blog",
-      "publishedAt": "2025-01-20T09:00:00.000Z",
-      "score": 91,
-      "scoreBreakdown": { "freshness": 30, "authority": 20, "engagement": 20, "novelty": 11, "businessImpact": 10 },
-      "summary": "• What happened: Anthropic launched Claude 3.5 with enhanced tool-use, vision, and a new 200K context window.\n• Why it matters: Closes the capability gap with GPT-4o and expands agentic application use cases.\n• Business opportunity: Developers can now build reliable multi-step AI workflows with structured outputs.",
-      "rawTextSnippet": "Anthropic today released Claude 3.5 via its API, adding support for parallel tool calls, vision inputs, and a 200,000-token context window...",
-      "cluster": "AI Tools & Products"
-    }
-  ],
-  "redditSignals": [
-    {
-      "id": "reddit-1705747200000-20",
-      "title": "I've been using AI coding assistants for 6 months — here's what actually works",
-      "url": "https://reddit.com/r/MachineLearning/comments/abc123",
-      "source": "Reddit r/MachineLearning",
-      "publishedAt": "2025-01-20T06:00:00.000Z",
-      "score": 72,
-      "scoreBreakdown": { "freshness": 30, "authority": 10, "engagement": 22, "novelty": 10, "businessImpact": 0 },
-      "summary": null,
-      "rawTextSnippet": "After 6 months of daily use across Copilot, Cursor, and Claude, here are the real-world patterns I've noticed...",
+      "id": "rss-1773197501426-95",
+      "title": "Amazon launches its healthcare AI assistant on its website and app",
+      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-10T20:10:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
       "cluster": "AI Tools & Products",
-      "redditMeta": {
-        "subreddit": "MachineLearning",
-        "upvotes": 2847,
-        "comments": 342,
-        "permalink": "https://reddit.com/r/MachineLearning/comments/abc123"
-      }
+      "summary": "• What happened: Amazon launched a healthcare AI assistant on its website and app.  \n• Why it matters: This innovation enhances user experience by providing accessible health information and services.  \n• Business opportunity: Companies can explore partnerships with Amazon to integrate health solutions and improve patient engagement."
+    },
+    {
+      "id": "hn-1773197507489-213",
+      "title": "Gemini Embedding 2: natively multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T16:58:40.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 17,
+        "comments": 1
+      },
+      "rawTextSnippet": "Gemini Embedding 2: natively multimodal embedding model",
+      "hnMeta": {
+        "points": 17,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47325887"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Gemini Embedding 2 has been launched as a natively multimodal embedding model.  \n• Why it matters: This advancement enhances the integration of various data types, improving AI's understanding and processing capabilities.  \n• Business opportunity: Companies can leverage this technology to create more sophisticated AI applications across diverse industries."
+    },
+    {
+      "id": "hn-1773197498815-44",
+      "title": "The \"Bloomberg Terminal\" for Agents – Real-Time Intelligence API for AI Agents",
+      "url": "https://thepolarisreport.com/agents",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-11T02:38:49.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "The \"Bloomberg Terminal\" for Agents – Real-Time Intelligence API for AI Agents",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47331211"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A new Real-Time Intelligence API for AI agents has been launched, likened to the Bloomberg Terminal.  \n• Why it matters: This innovation provides agents with instant access to critical data, enhancing decision-making capabilities.  \n• Business opportunity: Companies can leverage this API to develop more efficient AI-driven solutions across various industries."
+    },
+    {
+      "id": "hn-1773197500285-86",
+      "title": "Show HN: Lumen – vision-first browser agent (state of the art, open source)",
+      "url": "https://github.com/omxyz/lumen",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T21:22:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "We&#x27;re open sourcing Lumen — state of the art, vision-first browser agent. Problem Browser automation is fragile. Scripts break constantly and agents waste tokens getting stuck in loops. Today there are two options: Selector-based scripting like Playwright and Puppeteer: these require you to tar…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47328931"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation"
+    },
+    {
+      "id": "hn-1773197501680-115",
+      "title": "Robinhood Agent Integration",
+      "url": "https://github.com/kevin1chun/rh-for-agents",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-11T02:13:10.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 0
+      },
+      "rawTextSnippet": "Robinhood Agent Integration",
+      "hnMeta": {
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47331078"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation"
     }
   ],
+  "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1705747200000-2",
-      "title": "Efficient LLM Training via Gradient Checkpointing and Sparse Attention",
-      "url": "https://arxiv.org/abs/2501.12345",
+      "id": "arxiv-1773197498555-18",
+      "title": "When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic",
+      "url": "https://arxiv.org/abs/2603.09950v1",
       "source": "arXiv",
-      "publishedAt": "2025-01-19T14:00:00.000Z",
-      "score": 76,
-      "scoreBreakdown": { "freshness": 22, "authority": 15, "engagement": 0, "novelty": 15, "businessImpact": 8 },
-      "summary": "• What happened: Stanford researchers published a technique reducing LLM training compute by 40% with no quality loss.\n• Why it matters: Lowers the barrier to training competitive frontier models outside top labs.\n• Business opportunity: Mid-market AI companies can now build proprietary models at dramatically reduced cost.",
-      "rawTextSnippet": "We present SparseGrad, a novel combination of sparse attention patterns and adaptive gradient checkpointing...",
-      "cluster": "Research & Benchmarks"
+      "publishedAt": "2026-03-10T17:46:31.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Deep Reinforcement Learning systems are highly sensitive to the learning rate (LR), and selecting stable and performant training runs often requires extensive hyperparameter search. In Proximal Policy Optimization (PPO) actor--critic methods, small LR values lead to slow convergence, whereas large L…",
+      "arxivMeta": {
+        "authors": "Alberto Fernández-Hernández, Cristian Pérez-Corral, Jose I. Mestre, Manuel F. Dolz, Jose Duato, Enrique S. Quintana-Ortí",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1773197498555-28",
+      "title": "MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2603.09892v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-10T16:49:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Continual fine-tuning of large language models (LLMs) is becoming increasingly crucial as these models are deployed in dynamic environments where tasks and data distributions evolve over time. While strong adaptability enables rapid acquisition of new knowledge, it also exposes LLMs to catastrophic …",
+      "arxivMeta": {
+        "authors": "Yiyang Lu, Yu He, Jianlong Chen, Hongyuan Zha",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1773197498555-29",
+      "title": "Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts",
+      "url": "https://arxiv.org/abs/2603.09890v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-10T16:47:25.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Large Language Models (LLMs) have emerged as a new paradigm for multi-agent systems. However, existing research on the behaviour of LLM-based multi-agents relies on ad hoc prompts and lacks a principled policy perspective. Different from reinforcement learning, we investigate whether prompt-as-actio…",
+      "arxivMeta": {
+        "authors": "Hongbo Bo, Jingyu Hu, Weiru Liu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1773197498555-32",
+      "title": "Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning",
+      "url": "https://arxiv.org/abs/2603.09882v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-10T16:40:30.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Extrinsic dexterity leverages environmental contact to overcome the limitations of prehensile manipulation. However, achieving such dexterity in cluttered scenes remains challenging and underexplored, as it requires selectively exploiting contact among multiple interacting objects with inherently co…",
+      "arxivMeta": {
+        "authors": "Yixin Zheng, Jiangran Lyu, Yifan Zhang, Jiayi Chen, Mi Yan, Yuntian Deng, Xuesong Shi, Xiaoguang Zhao, Yizhou Wang, Zhizheng Zhang, He Wang",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1773197498555-35",
+      "title": "A Graph-Based Approach to Spectrum Demand Prediction Using Hierarchical Attention Networks",
+      "url": "https://arxiv.org/abs/2603.09859v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-10T16:20:51.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "The surge in wireless connectivity demand, coupled with the finite nature of spectrum resources, compels the development of efficient spectrum management approaches. Spectrum sharing presents a promising avenue, although it demands precise characterization of spectrum demand for informed policy-maki…",
+      "arxivMeta": {
+        "authors": "Mohamad Alkadamani, Halim Yanikomeroglu, Amir Ghasemi",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
     }
   ],
   "funding": [
     {
-      "id": "rss-1705747200000-30",
-      "title": "Anthropic Raises $2B Series E at $60B Valuation to Fund Next Model Generation",
-      "url": "https://techcrunch.com/2025/01/20/anthropic-series-e",
+      "id": "hn-1773197503079-150",
+      "title": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-2026-03-06/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T19:46:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
+      },
+      "rawTextSnippet": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47327937"
+      },
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: SoftBank is seeking a loan of up to $40 billion to invest in OpenAI.  \n• Why it matters: This significant funding could accelerate AI advancements and market competition.  \n• Business opportunity: Companies can explore partnerships or innovations in AI technologies to capitalize on this investment trend."
+    },
+    {
+      "id": "rss-1773197501426-99",
+      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+      "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
       "source": "TechCrunch AI",
-      "publishedAt": "2025-01-20T10:00:00.000Z",
-      "score": 90,
-      "scoreBreakdown": { "freshness": 30, "authority": 16, "engagement": 20, "novelty": 14, "businessImpact": 10 },
-      "summary": "• What happened: Anthropic closed a $2B Series E round at a $60B post-money valuation.\n• Why it matters: Signals sustained investor conviction in frontier AI labs despite market uncertainty.\n• Business opportunity: Watch for Anthropic's expanded enterprise tier and new API capabilities funded by this round.",
-      "rawTextSnippet": "Anthropic, the AI safety company behind the Claude model family, has raised $2 billion in a Series E round...",
-      "cluster": "Funding & Acquisitions"
+      "publishedAt": "2026-03-10T15:08:39.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Thinking Machines Lab secured a multi-year deal with Nvidia for at least a gigawatt of compute power.  \n• Why it matters: This partnership enhances AI capabilities and infrastructure, positioning both companies for growth in the tech sector.  \n• Business opportunity: Companies can leverage this advanced compute power for innovative AI solutions and applications."
+    },
+    {
+      "id": "rss-1773197501426-101",
+      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
+      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-10T14:34:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Legora, an AI platform for lawyers, achieved a $5.55 billion valuation after a $550 million Series D funding round.  \n• Why it matters: This valuation highlights the ongoing growth and demand for AI solutions in the legal sector.  \n• Business opportunity: Companies can explore partnerships or innovations in AI legal tech to capitalize on this expanding market."
+    },
+    {
+      "id": "arxiv-1773197498555-28",
+      "title": "MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2603.09892v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-10T16:49:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Continual fine-tuning of large language models (LLMs) is becoming increasingly crucial as these models are deployed in dynamic environments where tasks and data distributions evolve over time. While strong adaptability enables rapid acquisition of new knowledge, it also exposes LLMs to catastrophic …",
+      "arxivMeta": {
+        "authors": "Yiyang Lu, Yu He, Jianlong Chen, Hongyuan Zha",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1773197498555-29",
+      "title": "Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts",
+      "url": "https://arxiv.org/abs/2603.09890v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-10T16:47:25.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Large Language Models (LLMs) have emerged as a new paradigm for multi-agent systems. However, existing research on the behaviour of LLM-based multi-agents relies on ad hoc prompts and lacks a principled policy perspective. Different from reinforcement learning, we investigate whether prompt-as-actio…",
+      "arxivMeta": {
+        "authors": "Hongbo Bo, Jingyu Hu, Weiru Liu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
     }
   ],
-  "meta": {
-    "topNewsCount": 3,
-    "trendingTopicsCount": 5,
-    "toolLaunchesCount": 1,
-    "redditSignalsCount": 1,
-    "researchCount": 1,
-    "fundingCount": 1
-  }
+  "dailyBrief": "In today's AI landscape, Anthropic clarified that its Claude Code service does not incur a $5,000 fee per user, alleviating concerns about accessibility for businesses looking to integrate AI solutions. Meanwhile, potential buyers of Meta's Ray-Bans are advised to exercise caution due to privacy implications raised by recent reports, which could affect consumer trust and brand reputation. On the military front, discussions around AI procurement policies highlight the challenges of governance in rapidly evolving technologies, emphasizing the need for robust frameworks. Additionally, security vulnerabilities were exposed within Meta AI's infrastructure, showcasing the risks associated with AI deployment and the importance of stringent cybersecurity measures for organizations leveraging AI technologies."
 }
