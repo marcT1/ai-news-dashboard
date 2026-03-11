@@ -33,14 +33,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin
-          git checkout main
-          git pull origin main --no-rebase
-          cp /home/runner/work/ai-news-dashboard/ai-news-dashboard/data/latest.json data/latest.json
           git add data/latest.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "chore: update AI news data [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+            git pull --rebase origin main
             git push origin main
           fi
