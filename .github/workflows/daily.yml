@@ -36,5 +36,6 @@ jobs:
           git add data/latest.json
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "chore: update AI news data [$(date -u +'%Y-%m-%d %H:%M UTC')]"
-          git pull --rebase origin main
-          git push origin main
+          git fetch origin main
+          git rebase origin/main
+          git push origin main --force-with-lease
