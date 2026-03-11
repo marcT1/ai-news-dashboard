@@ -78,17 +78,9 @@ async function main() {
     });
 
     // 9. Send email
-    await sendDailyEmail(payload);
-
-    const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
-    console.log(`=== Done in ${elapsed}s ===`);
-    process.exit(0);
-
-  } catch (err) {
-    console.error('[pipeline] FATAL:', err.message);
-    console.error(err.stack);
-    process.exit(1);
-  }
-}
-
-main();
+    // 9. Send email
+    try {
+      await sendDailyEmail(payload);
+    } catch (emailErr) {
+      console.error('[email] Non-fatal error:', emailErr.message);
+    }
