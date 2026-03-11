@@ -1,142 +1,86 @@
-/**
- * sendEmail.js
- * Sends the daily AI brief email via SendGrid.
- */
-
 import sgMail from '@sendgrid/mail';
 
-const RECIPIENT   = process.env.RECIPIENT_EMAIL || 'marct191@gmail.com';
-const SENDER      = process.env.FROM_EMAIL      || 'noreply@yourdomain.com';
-const DASHBOARD   = process.env.DASHBOARD_URL   || 'https://your-org.github.io/ai-news-dashboard/';
-
-export async function sendDailyEmail(payload) {
-  const apiKey = process.env.SENDGRID_API_KEY;
-  if (!apiKey) {
-    console.warn('[email] SENDGRID_API_KEY not set — skipping email.');
+export async function sendDailyEmail(data) {
+  if (!process.env.SENDGRID_API_KEY) {
+    console.log('[email] No SENDGRID_API_KEY — skipping email.');
+    return;
+  }
+  if (!data || !data.topNews) {
+    console.log('[email] No data to send — skipping email.');
     return;
   }
 
-  sgMail.setApiKey(apiKey);
+  sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
-  const today  = new Date().toISOString().slice(0, 10);
-  const subject = `AI Brief — ${today}`;
+  const date = new Date().toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+  const subject = `AI Brief — ${new Date().toISOString().slice(0,10)}`;
+  const html = buildHtml(data, date);
+  const text = buildText(data, date);
 
-  const html  = buildHtml(payload, today);
-  const text  = buildText(payload, today);
+  const msg = {
+    to: process.env.RECIPIENT_EMAIL,
+    from: process.env.FROM_EMAIL,
+    subject,
+    text,
+    html,
+  };
 
   try {
-    await sgMail.send({
-      to:      RECIPIENT,
-      from:    SENDER,
-      subject,
-      html,
-      text,
-    });
-    console.log(`[email] Sent to ${RECIPIENT}`);
+    await sgMail.send(msg);
+    console.log(`[email] Sent to ${process.env.RECIPIENT_EMAIL}`);
   } catch (err) {
-    console.error('[email] SendGrid error:', err?.response?.body || err.message);
-    throw err;
+    console.error('[email] Failed:', err.response?.body || err.message);
   }
 }
 
-// ─── HTML builder ─────────────────────────────────────────────────────────────
+function buildHtml(data, date) {
+  const { topNews = [], dailyBrief = '', trendingTopics = [] } = data;
 
-function buildHtml(payload, today) {
-  const storiesHtml = payload.topNews
-    .slice(0, 5)
-    .map((item) => {
-      const bullets = (item.summary || '')
-        .split('\n')
-        .filter(Boolean)
-        .map((b) => `<li style="margin:4px 0;">${escapeHtml(b.replace(/^[•\-]\s*/, ''))}</li>`)
-        .join('');
+  const newsHtml = topNews.slice(0, 5).map((item, i) => {
+    const summary = (item.summary || '').split('\n').filter(Boolean)
+      .map(l => `<li style="margin:4px 0;">${l.replace(/^[•\-]\s*/,'')}</li>`).join('');
+    return `
+      <div style="margin-bottom:24px;padding:16px;background:#f9fafb;border-radius:8px;border-left:4px solid #4F46E5;">
+        <div style="font-size:12px;color:#6B7280;margin-bottom:6px;">#${i+1} · ${item.source} · Score: ${item.score}/100</div>
+        <a href="${item.url}" style="font-size:16px;font-weight:bold;color:#1F2937;text-decoration:none;">${item.title}</a>
+        ${summary ? `<ul style="margin:10px 0 0 0;padding-left:20px;color:#374151;font-size:14px;">${summary}</ul>` : ''}
+      </div>`;
+  }).join('');
 
-      return `
-        <div style="margin-bottom:24px;padding-bottom:16px;border-bottom:1px solid #e5e7eb;">
-          <h3 style="margin:0 0 6px;font-size:15px;">
-            <a href="${item.url}" style="color:#1d4ed8;text-decoration:none;">${escapeHtml(item.title)}</a>
-          </h3>
-          <p style="margin:0 0 8px;font-size:12px;color:#6b7280;">
-            ${escapeHtml(item.source)} &nbsp;·&nbsp; Score: ${item.score}/100
-          </p>
-          <ul style="margin:0;padding-left:20px;font-size:13px;color:#374151;">${bullets}</ul>
-        </div>`;
-    })
-    .join('');
+  const trendingHtml = trendingTopics.slice(0, 5).map((t, i) =>
+    `<div style="margin:6px 0;"><strong>${i+1}. ${t.name}</strong> — ${t.itemCount} stories</div>`
+  ).join('');
 
-  return `<!DOCTYPE html>
-<html>
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
-<body style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:640px;margin:0 auto;padding:20px;background:#f9fafb;">
-  <div style="background:#fff;border-radius:8px;padding:24px;box-shadow:0 1px 3px rgba(0,0,0,.1);">
+  const dashUrl = process.env.DASHBOARD_URL || '#';
 
-    <h1 style="margin:0 0 4px;font-size:22px;color:#111827;">🤖 AI Brief</h1>
-    <p style="margin:0 0 20px;color:#6b7280;font-size:14px;">${today} &nbsp;·&nbsp;
-      <a href="${DASHBOARD}" style="color:#1d4ed8;">View Dashboard →</a>
-    </p>
-
-    <div style="background:#f0f9ff;border-left:4px solid #0ea5e9;padding:16px;border-radius:0 6px 6px 0;margin-bottom:28px;">
-      <h2 style="margin:0 0 8px;font-size:14px;font-weight:700;color:#0369a1;text-transform:uppercase;letter-spacing:.05em;">
-        ⚡ Daily Brief
-      </h2>
-      <p style="margin:0;font-size:14px;line-height:1.6;color:#0c4a6e;">${escapeHtml(payload.dailyBrief || '')}</p>
-    </div>
-
-    <h2 style="margin:0 0 16px;font-size:16px;font-weight:700;color:#111827;">📰 Top 5 Stories</h2>
-    ${storiesHtml}
-
-    ${payload.trendingTopics?.length ? `
-    <h2 style="margin:24px 0 12px;font-size:16px;font-weight:700;color:#111827;">🔥 Trending Topics</h2>
-    <ul style="margin:0;padding-left:20px;font-size:13px;color:#374151;">
-      ${payload.trendingTopics.map((t) => `<li style="margin-bottom:6px;"><strong>${escapeHtml(t.name)}</strong> — ${escapeHtml(t.whyTrending)}</li>`).join('')}
-    </ul>` : ''}
-
-    <hr style="margin:24px 0;border:none;border-top:1px solid #e5e7eb;">
-    <p style="margin:0;font-size:11px;color:#9ca3af;text-align:center;">
-      AI News Dashboard &nbsp;·&nbsp;
-      <a href="${DASHBOARD}" style="color:#9ca3af;">${DASHBOARD}</a>
-    </p>
-  </div>
-</body>
-</html>`;
+  return `
+    <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;color:#1F2937;">
+      <div style="background:#4F46E5;padding:24px;border-radius:8px 8px 0 0;">
+        <h1 style="color:white;margin:0;font-size:24px;">🤖 AI Intelligence Brief</h1>
+        <p style="color:#C7D2FE;margin:6px 0 0;">${date}</p>
+      </div>
+      <div style="padding:24px;background:white;border:1px solid #E5E7EB;">
+        <h2 style="color:#4F46E5;font-size:16px;">⚡ DAILY BRIEF</h2>
+        <p style="line-height:1.6;">${dailyBrief}</p>
+        <hr style="border:none;border-top:1px solid #E5E7EB;margin:24px 0;">
+        <h2 style="color:#1F2937;font-size:18px;">📰 Top Stories</h2>
+        ${newsHtml}
+        ${trendingHtml ? `<hr style="border:none;border-top:1px solid #E5E7EB;margin:24px 0;"><h2 style="color:#1F2937;font-size:18px;">🔥 Trending Topics</h2>${trendingHtml}` : ''}
+        <hr style="border:none;border-top:1px solid #E5E7EB;margin:24px 0;">
+        <div style="text-align:center;">
+          <a href="${dashUrl}" style="background:#4F46E5;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">View Full Dashboard →</a>
+        </div>
+      </div>
+      <div style="padding:16px;text-align:center;color:#9CA3AF;font-size:12px;">
+        AI Intelligence Dashboard · Automated daily digest
+      </div>
+    </div>`;
 }
 
-// ─── Plain text builder ───────────────────────────────────────────────────────
-
-function buildText(payload, today) {
-  const lines = [
-    `AI Brief — ${today}`,
-    `Dashboard: ${DASHBOARD}`,
-    '',
-    '=== DAILY BRIEF ===',
-    payload.dailyBrief || '',
-    '',
-    '=== TOP 5 STORIES ===',
-  ];
-
-  payload.topNews.slice(0, 5).forEach((item, i) => {
-    lines.push('', `${i + 1}. ${item.title}`);
-    lines.push(`   Source: ${item.source} | Score: ${item.score}/100`);
-    lines.push(`   URL: ${item.url}`);
-    if (item.summary) {
-      item.summary.split('\n').filter(Boolean).forEach((b) => lines.push(`   ${b}`));
-    }
-  });
-
-  if (payload.trendingTopics?.length) {
-    lines.push('', '=== TRENDING TOPICS ===');
-    payload.trendingTopics.forEach((t) => {
-      lines.push(`• ${t.name}: ${t.whyTrending}`);
-    });
-  }
-
-  return lines.join('\n');
-}
-
-function escapeHtml(str) {
-  return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+function buildText(data, date) {
+  const { topNews = [], dailyBrief = '' } = data;
+  const stories = topNews.slice(0, 5).map((item, i) =>
+    `${i+1}. ${item.title}\n   ${item.source} · Score: ${item.score}/100\n   ${item.url}`
+  ).join('\n\n');
+  return `AI Intelligence Brief — ${date}\n\n${dailyBrief}\n\nTOP STORIES\n\n${stories}\n\nView dashboard: ${process.env.DASHBOARD_URL||''}`;
 }
