@@ -1,8 +1,7 @@
 import fs from 'fs';
-import path from 'path';
 
 export function writeOutputJson(data) {
-  writeJson(data);
+  return writeJson(data);
 }
 
 export function writeJson(data) {
@@ -16,4 +15,6 @@ export function writeJson(data) {
   
   fs.writeFileSync(docsPath, json, 'utf8');
   console.log(`[writeJson] Wrote ${docsPath}`);
+  
+  return data;
 }
