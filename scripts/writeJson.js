@@ -1,8 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 
+export function writeOutputJson(data) {
+  writeJson(data);
+}
+
 export function writeJson(data) {
-  // Write to both locations
   const dataPath = 'data/latest.json';
   const docsPath = 'docs/data.json';
   
