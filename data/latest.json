@@ -1,66 +1,78 @@
 {
-  "generatedAt": "2026-03-10T12:40:26.555Z",
   "topNews": [
     {
-      "id": "hn-1773146245853-89",
-      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-10T08:54:53.000Z",
-      "score": 82,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "summary": "• What happened: Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "hn-1773146248665-158",
-      "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-      "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-09T20:36:43.000Z",
-      "score": 74,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "summary": "• What happened: OpenAI is walking away from expanding its Stargate data center with Oracle\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-      "cluster": "General AI"
-    },
-    {
-      "id": "hn-1773146250061-193",
+      "id": "hn-1773197504465-180",
       "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
       "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
       "source": "Hacker News",
       "publishedAt": "2026-03-09T23:22:06.000Z",
-      "score": 71,
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 445,
+        "comments": 321
+      },
+      "rawTextSnippet": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "hnMeta": {
+        "points": 445,
+        "comments": 321,
+        "hnUrl": "https://news.ycombinator.com/item?id=47317132"
+      },
+      "score": 69,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 14,
-        "engagement": 20,
+        "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
-      "summary": "• What happened: No, it doesn't cost Anthropic $5k per Claude Code user\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "No, it doesn't cost Anthropic $5k per Claude Code user",
-      "cluster": "Large Language Models"
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Anthropic clarified that it does not charge $5,000 per user for Claude Code.  \n• Why it matters: This misinformation could impact user perceptions and adoption of their AI services.  \n• Business opportunity: Clear communication can enhance trust and attract more users to Anthropic's offerings."
     },
     {
-      "id": "hn-1773146248665-163",
-      "title": "Show HN: The Mog Programming Language",
-      "url": "https://moglang.org",
+      "id": "hn-1773197505821-202",
+      "title": "Think Twice Before Buying or Using Meta's Ray-Bans",
+      "url": "https://www.eff.org/deeplinks/2026/03/think-twice-buying-or-using-metas-ray-bans",
       "source": "Hacker News",
-      "publishedAt": "2026-03-09T17:57:00.000Z",
+      "publishedAt": "2026-03-10T23:34:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 11,
+        "comments": 4
+      },
+      "rawTextSnippet": "Think Twice Before Buying or Using Meta's Ray-Bans",
+      "hnMeta": {
+        "points": 11,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47330132"
+      },
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Concerns have been raised about privacy and data security regarding Meta's Ray-Bans.  \n• Why it matters: Potential risks may deter consumers from adopting smart eyewear technology.  \n• Business opportunity: Companies can innovate safer, privacy-focused smart eyewear to capture market interest."
+    },
+    {
+      "id": "hn-1773197504465-173",
+      "title": "Rebasing in Magit",
+      "url": "https://entropicthoughts.com/rebasing-in-magit",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T13:38:39.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 187,
+        "comments": 125
+      },
+      "rawTextSnippet": "Rebasing in Magit",
+      "hnMeta": {
+        "points": 187,
+        "comments": 125,
+        "hnUrl": "https://news.ycombinator.com/item?id=47323105"
+      },
       "score": 66,
       "scoreBreakdown": {
         "freshness": 22,
@@ -69,347 +81,366 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "summary": "• What happened: Show HN: The Mog Programming Language\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "Hi, Ted here, creator of Mog. - Mog is a statically typed, compiled, embedded language (think statically typed Lua) designed to be written by LLMs -- the full spec fits in 3,200 tokens. - An AI agent writes a Mog program, compiles it, and dynamically loads it as a plugin, script, or hook. - The host",
-      "cluster": "Large Language Models"
+      "cluster": "General AI",
+      "summary": "• What happened: Magit introduced new features for rebasing in its Git interface.  \n• Why it matters: Enhanced rebasing capabilities improve user experience and efficiency for developers.  \n• Business opportunity: Companies can leverage improved Git tools to streamline workflows and increase productivity in software development."
     },
     {
-      "id": "hn-1773146251450-204",
-      "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-      "url": "https://loger-project.github.io",
+      "id": "hn-1773197500285-82",
+      "title": "Military AI Policy by Contract: The Limits of Procurement as Governance",
+      "url": "https://www.lawfaremedia.org/article/military-ai-policy-by-contract--the-limits-of-procurement-as-governance",
       "source": "Hacker News",
-      "publishedAt": "2026-03-10T06:16:06.000Z",
+      "publishedAt": "2026-03-10T22:43:51.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 0
+      },
+      "rawTextSnippet": "Military AI Policy by Contract: The Limits of Procurement as Governance",
+      "hnMeta": {
+        "points": 5,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47329692"
+      },
       "score": 65,
       "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "summary": "• What happened: LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-      "cluster": "Generative AI & Media"
-    },
-    {
-      "id": "hn-1773146244444-25",
-      "title": "Chinese tech hubs promote OpenClaw AI agent despite security warnings",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-shenzhen-backs-openclaw-ai-with-subsidies-despite-beijings-security-2026-03-09/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-10T11:47:21.000Z",
-      "score": 62,
-      "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "summary": "• What happened: Chinese tech hubs promote OpenClaw AI agent despite security warnings\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "Chinese tech hubs promote OpenClaw AI agent despite security warnings",
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "hn-1773146245853-78",
-      "title": "Stop Lamenting Inequality–Start Questioning Bad Policy",
-      "url": "https://thedailyeconomy.org/article/stop-lamenting-inequality-start-questioning-bad-policy/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-10T12:25:05.000Z",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "summary": "• What happened: Stop Lamenting Inequality–Start Questioning Bad Policy\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "Stop Lamenting Inequality–Start Questioning Bad Policy",
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "hn-1773146251450-203",
-      "title": "Vibe Tuning Startup - Waitlist (ex google labs + deepmind)",
-      "url": "https://vibetune.framer.ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-10T09:43:57.000Z",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "summary": "• What happened: Vibe Tuning Startup - Waitlist (ex google labs + deepmind)\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "Vibe Tuning Startup - Waitlist (ex google labs + deepmind)",
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1773146244205-1",
-      "title": "The usability imperative for securing digital asset devices",
-      "url": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-03-09T14:00:00.000Z",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 18,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
-      "summary": "• What happened: The usability imperative for securing digital asset devices\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be f",
-      "cluster": "AI Safety & Regulation"
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A discussion on the effectiveness of procurement contracts in governing military AI policy.  \n• Why it matters: It highlights potential shortcomings in current governance frameworks for emerging technologies in defense.  \n• Business opportunity: Companies can innovate solutions that enhance compliance and oversight in military AI procurement processes."
     },
     {
-      "id": "rss-1773146246772-96",
-      "title": "Yann LeCun&#8217;s AMI Labs raises $1.03 billion to build world models",
-      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-10T05:00:00.000Z",
-      "score": 60,
+      "id": "hn-1773197498815-62",
+      "title": "I Got Root on Meta AI's Infrastructure Using a Chat Prompt",
+      "url": "https://netguard24-7.com/blog/meta-ai-root",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T23:07:35.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 3
+      },
+      "rawTextSnippet": "I Got Root on Meta AI's Infrastructure Using a Chat Prompt",
+      "hnMeta": {
+        "points": 5,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47329904"
+      },
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 16,
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A security researcher gained unauthorized access to Meta AI's infrastructure through a chat prompt.  \n• Why it matters: This incident highlights vulnerabilities in AI systems and the potential for exploitation.  \n• Business opportunity: Companies can invest in robust security measures and AI training to prevent similar breaches."
+    },
+    {
+      "id": "hn-1773197498815-57",
+      "title": "Log4j – Addressing AI-slop in security reports",
+      "url": "https://github.com/apache/logging-log4j2/discussions/4052",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T23:44:22.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "Log4j – Addressing AI-slop in security reports",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47330201"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "summary": "• What happened: Yann LeCun&#8217;s AMI Labs raises $1.03 billion to build world models\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-      "cluster": "Funding & Acquisitions"
+      "cluster": "General AI",
+      "summary": "• What happened: Log4j is focusing on improving the accuracy of AI-generated security reports.  \n• Why it matters: Enhancing report reliability can significantly reduce vulnerabilities and improve cybersecurity.  \n• Business opportunity: Companies can invest in AI tools that refine security reporting processes to enhance trust and effectiveness."
+    },
+    {
+      "id": "hn-1773197498815-58",
+      "title": "Anthropic gives lesson in AI revenue hallucination",
+      "url": "https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T23:30:28.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 3
+      },
+      "rawTextSnippet": "Anthropic gives lesson in AI revenue hallucination",
+      "hnMeta": {
+        "points": 2,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47330107"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Anthropic highlighted the phenomenon of AI revenue hallucination, where projected earnings from AI technologies are often overstated.  \n• Why it matters: This serves as a cautionary tale for investors and companies evaluating AI's financial potential.  \n• Business opportunity: There is a growing need for accurate AI revenue forecasting tools to help businesses make informed decisions."
+    },
+    {
+      "id": "hn-1773197501680-117",
+      "title": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+      "url": "https://jmcentire.github.io/pact/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-11T01:04:18.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47330717"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Pact introduced a contracts-first multi-agent coding approach, achieving 212/212 ICPC performance compared to Claude Code's 79-92%.  \n• Why it matters: This innovation highlights significant advancements in coding efficiency and accuracy, potentially transforming software development practices.  \n• Business opportunity: Companies can leverage Pact's technology to enhance coding productivity and reduce errors, leading to cost savings and faster project delivery."
+    },
+    {
+      "id": "rss-1773197501426-94",
+      "title": "Google brings Gemini in Chrome to India",
+      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-11T02:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Google launched its Gemini AI feature in Chrome for users in India.  \n• Why it matters: This expansion enhances accessibility and usability for millions of Indian language speakers.  \n• Business opportunity: Companies can leverage Gemini's capabilities to create localized content and services for diverse Indian audiences."
+    },
+    {
+      "id": "hn-1773197503079-150",
+      "title": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-2026-03-06/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T19:46:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
+      },
+      "rawTextSnippet": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47327937"
+      },
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: SoftBank is considering a loan of up to $40 billion to invest in OpenAI.  \n• Why it matters: This significant funding could accelerate AI development and innovation.  \n• Business opportunity: Companies can explore partnerships or services leveraging advanced AI technologies from OpenAI."
     }
   ],
   "trendingTopics": [
     {
-      "name": "General AI",
-      "itemCount": 50,
-      "trendScore": 199,
-      "whyTrending": "50 stories across Hacker, MIT, GitHub, 35 in the last 24h.",
-      "topStory": {
-        "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-        "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html"
-      },
-      "items": [
-        {
-          "id": "hn-1773146248665-158",
-          "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-          "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-09T20:36:43.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 385,
-            "comments": 226
-          },
-          "rawTextSnippet": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-          "hnMeta": {
-            "points": 385,
-            "comments": 226,
-            "hnUrl": "https://news.ycombinator.com/item?id=47315128"
-          },
-          "score": 74,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773146244444-13",
-          "title": "AI changed the build equation. It didn't change the maintenance equation",
-          "url": "https://runframe.io/blog/incident-management-build-or-buy",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:36:25.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "AI changed the build equation. It didn't change the maintenance equation",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322409"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773146244444-15",
-          "title": "AI Particle Simulator",
-          "url": "https://particles.casberry.in/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:32:33.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "AI Particle Simulator",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322359"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773146244444-17",
-          "title": "State of Decentralized AI 2026",
-          "url": "http://deaination.com/state-of-deai-2026",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:29:24.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "State of Decentralized AI 2026",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322319"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773146244444-21",
-          "title": "AI chooses nuclear escalation in 95% of simulated crises",
-          "url": "https://www.computerweekly.com/news/366639877/AI-chooses-nuclear-escalation-in-95-of-simulated-crises",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:10:01.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "AI chooses nuclear escalation in 95% of simulated crises",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322145"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        }
-      ]
-    },
-    {
       "name": "Large Language Models",
-      "itemCount": 52,
-      "trendScore": 198,
-      "whyTrending": "52 stories across Hacker, arXiv, GitHub, 30 in the last 24h.",
+      "itemCount": 60,
+      "trendScore": 212,
+      "whyTrending": "60 stories across Hacker, TechCrunch, arXiv, 42 in the last 24h.",
       "topStory": {
-        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
+        "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+        "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/"
       },
       "items": [
         {
-          "id": "hn-1773146245853-89",
-          "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-          "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-10T08:54:53.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 201,
-            "comments": 168
-          },
-          "rawTextSnippet": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-          "hnMeta": {
-            "points": 201,
-            "comments": 168,
-            "hnUrl": "https://news.ycombinator.com/item?id=47320661"
-          },
-          "score": 82,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1773146250061-193",
+          "id": "hn-1773197504465-180",
           "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
           "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
           "source": "Hacker News",
           "publishedAt": "2026-03-09T23:22:06.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 279,
-            "comments": 201
+            "upvotes": 445,
+            "comments": 321
           },
           "rawTextSnippet": "No, it doesn't cost Anthropic $5k per Claude Code user",
           "hnMeta": {
-            "points": 279,
-            "comments": 201,
+            "points": 445,
+            "comments": 321,
             "hnUrl": "https://news.ycombinator.com/item?id=47317132"
           },
-          "score": 71,
+          "score": 69,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 14,
-            "engagement": 20,
+            "engagement": 25,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1773146248665-163",
-          "title": "Show HN: The Mog Programming Language",
-          "url": "https://moglang.org",
+          "id": "hn-1773197498815-62",
+          "title": "I Got Root on Meta AI's Infrastructure Using a Chat Prompt",
+          "url": "https://netguard24-7.com/blog/meta-ai-root",
           "source": "Hacker News",
-          "publishedAt": "2026-03-09T17:57:00.000Z",
+          "publishedAt": "2026-03-10T23:07:35.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 152,
-            "comments": 72
+            "upvotes": 5,
+            "comments": 3
           },
-          "rawTextSnippet": "Hi, Ted here, creator of Mog. - Mog is a statically typed, compiled, embedded language (think statically typed Lua) designed to be written by LLMs -- the full spec fits in 3,200 tokens. - An AI agent writes a Mog program, compiles it, and dynamically loads it as a plugin, script, or hook. - The host…",
+          "rawTextSnippet": "I Got Root on Meta AI's Infrastructure Using a Chat Prompt",
           "hnMeta": {
-            "points": 152,
-            "comments": 72,
-            "hnUrl": "https://news.ycombinator.com/item?id=47312728"
+            "points": 5,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47329904"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1773197501426-94",
+          "title": "Google brings Gemini in Chrome to India",
+          "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-11T02:30:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1773197507489-210",
+          "title": "Maybe the G in AGI stands for Gemini",
+          "url": "https://www.robinsloan.com/lab/gemini-agi/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T18:37:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 13,
+            "comments": 9
+          },
+          "rawTextSnippet": "Maybe the G in AGI stands for Gemini",
+          "hnMeta": {
+            "points": 13,
+            "comments": 9,
+            "hnUrl": "https://news.ycombinator.com/item?id=47327143"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1773197507489-213",
+          "title": "Gemini Embedding 2: natively multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T16:58:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 17,
+            "comments": 1
+          },
+          "rawTextSnippet": "Gemini Embedding 2: natively multimodal embedding model",
+          "hnMeta": {
+            "points": 17,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47325887"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        }
+      ]
+    },
+    {
+      "name": "General AI",
+      "itemCount": 37,
+      "trendScore": 191,
+      "whyTrending": "37 stories across Hacker, TechCrunch, MIT, 23 in the last 24h.",
+      "topStory": {
+        "title": "Rebasing in Magit",
+        "url": "https://entropicthoughts.com/rebasing-in-magit"
+      },
+      "items": [
+        {
+          "id": "hn-1773197504465-173",
+          "title": "Rebasing in Magit",
+          "url": "https://entropicthoughts.com/rebasing-in-magit",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T13:38:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 187,
+            "comments": 125
+          },
+          "rawTextSnippet": "Rebasing in Magit",
+          "hnMeta": {
+            "points": 187,
+            "comments": 125,
+            "hnUrl": "https://news.ycombinator.com/item?id=47323105"
           },
           "score": 66,
           "scoreBreakdown": {
@@ -419,90 +450,137 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1773146244444-20",
-          "title": "Show HN: Crit – Review AI agent work like you review PRs",
-          "url": "https://github.com/tomasz-tomczyk/crit",
+          "id": "hn-1773197498815-57",
+          "title": "Log4j – Addressing AI-slop in security reports",
+          "url": "https://github.com/apache/logging-log4j2/discussions/4052",
           "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:25:00.000Z",
+          "publishedAt": "2026-03-10T23:44:22.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 2,
             "comments": 1
           },
-          "rawTextSnippet": "Reviewing agent output in a terminal is painful. When Claude generates a 1000-line markdown plan, you can&#x27;t easily say &quot;change this specific bullet&quot; without copying the text, switching to the chat, and hoping the agent understands the reference. When it updates the plan, you start ove…",
+          "rawTextSnippet": "Log4j – Addressing AI-slop in security reports",
           "hnMeta": {
-            "points": 1,
+            "points": 2,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322273"
+            "hnUrl": "https://news.ycombinator.com/item?id=47330201"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1773146244444-22",
-          "title": "vLLM Semantic Router v0.2 Athena: ClawOS, Model Refresh, and the System Brain",
-          "url": "https://vllm.ai/blog/v0.2-vllm-sr-athena-release",
+          "id": "hn-1773197498815-58",
+          "title": "Anthropic gives lesson in AI revenue hallucination",
+          "url": "https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:05:18.000Z",
+          "publishedAt": "2026-03-10T23:30:28.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 2,
+            "comments": 3
           },
-          "rawTextSnippet": "vLLM Semantic Router v0.2 Athena: ClawOS, Model Refresh, and the System Brain",
+          "rawTextSnippet": "Anthropic gives lesson in AI revenue hallucination",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322107"
+            "points": 2,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330107"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1773197501426-96",
+          "title": "AI-powered apps struggle with long-term retention, new report shows",
+          "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-10T18:42:33.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773197504465-168",
+          "title": "Trump Plots Petty Revenge on Anthropic CEO",
+          "url": "https://www.thedailybeast.com/donald-trump-plots-petty-revenge-on-ceo-dario-amodei-who-called-him-dictator/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T18:44:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 14,
+            "comments": 6
+          },
+          "rawTextSnippet": "Trump Plots Petty Revenge on Anthropic CEO",
+          "hnMeta": {
+            "points": 14,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=47327236"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         }
       ]
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 34,
+      "itemCount": 32,
       "trendScore": 180,
-      "whyTrending": "34 stories across Hacker, GitHub, arXiv, 22 in the last 24h.",
+      "whyTrending": "32 stories across Hacker, TechCrunch, GitHub, 20 in the last 24h.",
       "topStory": {
-        "title": "Chinese tech hubs promote OpenClaw AI agent despite security warnings",
-        "url": "https://www.reuters.com/world/asia-pacific/chinas-shenzhen-backs-openclaw-ai-with-subsidies-despite-beijings-security-2026-03-09/"
+        "title": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+        "url": "https://jmcentire.github.io/pact/"
       },
       "items": [
         {
-          "id": "hn-1773146244444-25",
-          "title": "Chinese tech hubs promote OpenClaw AI agent despite security warnings",
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-shenzhen-backs-openclaw-ai-with-subsidies-despite-beijings-security-2026-03-09/",
+          "id": "hn-1773197501680-117",
+          "title": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
+          "url": "https://jmcentire.github.io/pact/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-10T11:47:21.000Z",
+          "publishedAt": "2026-03-11T01:04:18.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Chinese tech hubs promote OpenClaw AI agent despite security warnings",
+          "rawTextSnippet": "Pact – contracts-first multi-agent coding (212/212 ICPC vs. 79-92% Claude Code)",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47321949"
+            "hnUrl": "https://news.ycombinator.com/item?id=47330717"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -515,21 +593,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1773146244444-14",
-          "title": "Stop talking \"human\" to your agents to get consistent quality results",
-          "url": "https://at0mic-thoughts.github.io/at0mic-thoughts/structured-ai-agent-execution/",
+          "id": "hn-1773197498815-44",
+          "title": "The \"Bloomberg Terminal\" for Agents – Real-Time Intelligence API for AI Agents",
+          "url": "https://thepolarisreport.com/agents",
           "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:34:19.000Z",
+          "publishedAt": "2026-03-11T02:38:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Stop talking \"human\" to your agents to get consistent quality results",
+          "rawTextSnippet": "The \"Bloomberg Terminal\" for Agents – Real-Time Intelligence API for AI Agents",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322382"
+            "hnUrl": "https://news.ycombinator.com/item?id=47331211"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -542,75 +620,75 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1773146244444-16",
-          "title": "Akashik Protocol – An open shared memory protocol for multi-agent AI",
-          "url": "https://akashikprotocol.com",
+          "id": "hn-1773197498815-53",
+          "title": "Datafly – data agent that automatically understands any database you connect",
+          "url": "https://github.com/dkeviv/datafly",
           "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:29:50.000Z",
+          "publishedAt": "2026-03-11T00:34:50.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
+            "comments": 3
+          },
+          "rawTextSnippet": "Datafly – data agent that automatically understands any database you connect",
+          "hnMeta": {
+            "points": 1,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330546"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773197500285-86",
+          "title": "Show HN: Lumen – vision-first browser agent (state of the art, open source)",
+          "url": "https://github.com/omxyz/lumen",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T21:22:11.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "We&#x27;re open sourcing Lumen — state of the art, vision-first browser agent. Problem Browser automation is fragile. Scripts break constantly and agents waste tokens getting stuck in loops. Today there are two options: Selector-based scripting like Playwright and Puppeteer: these require you to tar…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47328931"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773197501680-115",
+          "title": "Robinhood Agent Integration",
+          "url": "https://github.com/kevin1chun/rh-for-agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-11T02:13:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "Akashik Protocol – An open shared memory protocol for multi-agent AI",
+          "rawTextSnippet": "Robinhood Agent Integration",
           "hnMeta": {
-            "points": 1,
+            "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322324"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773146244444-18",
-          "title": "Ask HN: How are teams validating AI-generated tests today?",
-          "url": "https://news.ycombinator.com/item?id=47322292",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:27:13.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "With the rise of AI-assisted development, many tools generate tests automatically. But validating whether those tests actually cover meaningful edge cases seems harder. Curious how teams here handle this in real workflows.",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322292"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773146244444-19",
-          "title": "Mithril – Credit lines for AI agents so they can spend before they earn",
-          "url": "https://trymithril.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:25:22.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "Mithril – Credit lines for AI agents so they can spend before they earn",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322277"
+            "hnUrl": "https://news.ycombinator.com/item?id=47331078"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -627,54 +705,61 @@
     {
       "name": "AI Safety & Regulation",
       "itemCount": 21,
-      "trendScore": 149,
-      "whyTrending": "21 stories across Hacker, MIT, arXiv, 14 in the last 24h.",
+      "trendScore": 154,
+      "whyTrending": "21 stories across Hacker, arXiv, MIT, 9 in the last 24h.",
       "topStory": {
-        "title": "Stop Lamenting Inequality–Start Questioning Bad Policy",
-        "url": "https://thedailyeconomy.org/article/stop-lamenting-inequality-start-questioning-bad-policy/"
+        "title": "Think Twice Before Buying or Using Meta's Ray-Bans",
+        "url": "https://www.eff.org/deeplinks/2026/03/think-twice-buying-or-using-metas-ray-bans"
       },
       "items": [
         {
-          "id": "hn-1773146245853-78",
-          "title": "Stop Lamenting Inequality–Start Questioning Bad Policy",
-          "url": "https://thedailyeconomy.org/article/stop-lamenting-inequality-start-questioning-bad-policy/",
+          "id": "hn-1773197505821-202",
+          "title": "Think Twice Before Buying or Using Meta's Ray-Bans",
+          "url": "https://www.eff.org/deeplinks/2026/03/think-twice-buying-or-using-metas-ray-bans",
           "source": "Hacker News",
-          "publishedAt": "2026-03-10T12:25:05.000Z",
+          "publishedAt": "2026-03-10T23:34:24.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 11,
+            "comments": 4
           },
-          "rawTextSnippet": "Stop Lamenting Inequality–Start Questioning Bad Policy",
+          "rawTextSnippet": "Think Twice Before Buying or Using Meta's Ray-Bans",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47322274"
+            "points": 11,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330132"
           },
-          "score": 62,
+          "score": 67,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 3
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1773146244205-1",
-          "title": "The usability imperative for securing digital asset devices",
-          "url": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-03-09T14:00:00.000Z",
+          "id": "hn-1773197500285-82",
+          "title": "Military AI Policy by Contract: The Limits of Procurement as Governance",
+          "url": "https://www.lawfaremedia.org/article/military-ai-policy-by-contract--the-limits-of-procurement-as-governance",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-10T22:43:51.000Z",
           "scoreSignals": {
-            "sourceAuthority": 18
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 0
           },
-          "rawTextSnippet": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be f…",
-          "score": 61,
+          "rawTextSnippet": "Military AI Policy by Contract: The Limits of Procurement as Governance",
+          "hnMeta": {
+            "points": 5,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47329692"
+          },
+          "score": 65,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 18,
+            "freshness": 30,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 6
@@ -682,76 +767,85 @@
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1773146250061-194",
-          "title": "Anthropic says Trump ban puts federal contractor partnerships 'in jeopardy'",
-          "url": "https://fedscoop.com/anthropic-says-trump-ban-puts-federal-contractor-partnerships-jeopardy/",
+          "id": "hn-1773197503079-150",
+          "title": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+          "url": "https://www.reuters.com/business/media-telecom/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-2026-03-06/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-09T22:22:28.000Z",
+          "publishedAt": "2026-03-10T19:46:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 5,
+            "upvotes": 4,
             "comments": 0
           },
-          "rawTextSnippet": "Anthropic says Trump ban puts federal contractor partnerships 'in jeopardy'",
+          "rawTextSnippet": "SoftBank eyes up to $40B loan to fund OpenAI investment",
           "hnMeta": {
-            "points": 5,
+            "points": 4,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47316498"
+            "hnUrl": "https://news.ycombinator.com/item?id=47327937"
           },
-          "score": 60,
+          "score": 61,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 26,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 9
+            "businessImpact": 6
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1773146250061-198",
-          "title": "Anthropic sues US Government for calling it a risk",
-          "url": "https://www.bbc.com/news/articles/cq571w5vllxo",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-09T18:48:58.000Z",
+          "id": "arxiv-1773197498555-18",
+          "title": "When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic",
+          "url": "https://arxiv.org/abs/2603.09950v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-10T17:46:31.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 26,
-            "comments": 3
+            "sourceAuthority": 15
           },
-          "rawTextSnippet": "Anthropic sues US Government for calling it a risk",
-          "hnMeta": {
-            "points": 26,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47313573"
+          "rawTextSnippet": "Deep Reinforcement Learning systems are highly sensitive to the learning rate (LR), and selecting stable and performant training runs often requires extensive hyperparameter search. In Proximal Policy Optimization (PPO) actor--critic methods, small LR values lead to slow convergence, whereas large L…",
+          "arxivMeta": {
+            "authors": "Alberto Fernández-Hernández, Cristian Pérez-Corral, Jose I. Mestre, Manuel F. Dolz, Jose Duato, Enrique S. Quintana-Ortí",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
           },
-          "score": 56,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 5,
+            "freshness": 26,
+            "authority": 15,
+            "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1773146244205-2",
-          "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-          "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-03-09T13:57:44.000Z",
+          "id": "arxiv-1773197498555-32",
+          "title": "Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning",
+          "url": "https://arxiv.org/abs/2603.09882v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-10T16:40:30.000Z",
           "scoreSignals": {
-            "sourceAuthority": 18
+            "sourceAuthority": 15
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raise…",
-          "score": 55,
+          "rawTextSnippet": "Extrinsic dexterity leverages environmental contact to overcome the limitations of prehensile manipulation. However, achieving such dexterity in cluttered scenes remains challenging and underexplored, as it requires selectively exploiting contact among multiple interacting objects with inherently co…",
+          "arxivMeta": {
+            "authors": "Yixin Zheng, Jiangran Lyu, Yifan Zhang, Jiayi Chen, Mi Yan, Yuntian Deng, Xuesong Shi, Xiaoguang Zhao, Yizhou Wang, Zhizheng Zhang, He Wang",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 18,
+            "freshness": 26,
+            "authority": 15,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "AI Safety & Regulation"
         }
@@ -759,62 +853,102 @@
     },
     {
       "name": "AI Tools & Products",
-      "itemCount": 11,
-      "trendScore": 111,
-      "whyTrending": "11 stories across Hacker, arXiv, TechCrunch, 6 in the last 24h.",
+      "itemCount": 15,
+      "trendScore": 131,
+      "whyTrending": "15 stories across TechCrunch, Hacker, arXiv, 7 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Fakebase – a lightweight PostgreSQL browser for development databases",
-        "url": "https://fakebase.studio"
+        "title": "Amazon launches its healthcare AI assistant on its website and app",
+        "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/"
       },
       "items": [
         {
-          "id": "hn-1773146248665-156",
-          "title": "Show HN: Fakebase – a lightweight PostgreSQL browser for development databases",
-          "url": "https://fakebase.studio",
+          "id": "rss-1773197501426-95",
+          "title": "Amazon launches its healthcare AI assistant on its website and app",
+          "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-10T20:10:06.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1773197503079-148",
+          "title": "How HN: Specwatch – Generate OpenAPI specs by watching live API traffic",
+          "url": "https://github.com/rajeevramani/specwatch",
           "source": "Hacker News",
-          "publishedAt": "2026-03-09T20:59:33.000Z",
+          "publishedAt": "2026-03-11T01:38:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 4
+            "upvotes": 1,
+            "comments": 1
           },
-          "rawTextSnippet": "Hi HN, Over the past year I’ve been building a lot of products on PostgreSQL and kept needing a very simple way to quickly inspect tables, run queries, and sanity-check data without opening a heavy database client. So I built a small tool for myself called Fakebase - a lightweight PostgreSQL browser…",
+          "rawTextSnippet": "How HN: Specwatch – Generate OpenAPI specs by watching live API traffic",
           "hnMeta": {
-            "points": 4,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=47315429"
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47330903"
           },
-          "score": 56,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "arxiv-1773146244784-36",
-          "title": "A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies",
-          "url": "https://arxiv.org/abs/2603.08692v1",
+          "id": "rss-1773197501426-100",
+          "title": "Google gives in to users&#8217; complaints over AI-powered &#8216;Ask Photos&#8217; search feature",
+          "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-10T14:58:29.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+          "score": 57,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "arxiv-1773197498554-10",
+          "title": "From Data Statistics to Feature Geometry: How Correlations Shape Superposition",
+          "url": "https://arxiv.org/abs/2603.09972v1",
           "source": "arXiv",
-          "publishedAt": "2026-03-09T17:54:32.000Z",
+          "publishedAt": "2026-03-10T17:59:02.000Z",
           "scoreSignals": {
             "sourceAuthority": 15
           },
-          "rawTextSnippet": "The rapid advancement of artificial intelligence (AI) technologies presents both unprecedented opportunities and significant challenges for sustainable economic development. While AI offers transformative potential for addressing environmental challenges and enhancing economic resilience, its deploy…",
+          "rawTextSnippet": "A central idea in mechanistic interpretability is that neural networks represent more features than they have dimensions, arranging them in superposition to form an over-complete basis. This framing has been influential, motivating dictionary learning approaches such as sparse autoencoders. However,…",
           "arxivMeta": {
-            "authors": "Anas ALsobeh, Raneem Alkurdi",
+            "authors": "Lucas Prieto, Edward Stevinson, Melih Barsbey, Tolga Birdal, Pedro A. M. Mediano",
             "categories": [
               "cs.AI",
               "cs.CL",
               "stat.ML"
             ]
           },
-          "score": 52,
+          "score": 56,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 26,
             "authority": 15,
             "engagement": 0,
             "novelty": 15,
@@ -823,79 +957,25 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1773146250061-192",
-          "title": "Show HN: I built an AI-powered technical interview prep tool",
-          "url": "https://crackr.dev/",
+          "id": "hn-1773197503079-156",
+          "title": "Show HN: Get a demo video with AI voiceover using DemoFly",
+          "url": "https://demofly.ai",
           "source": "Hacker News",
-          "publishedAt": "2026-03-09T23:32:17.000Z",
+          "publishedAt": "2026-03-10T15:28:07.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 4,
             "comments": 1
           },
-          "rawTextSnippet": "LeetCode wasn&#x27;t actually preparing me or anyone else for the pressure of a real technical interview. Most platforms just give you a text box and a compiler. I wanted something that actually simulates the back-and-forth of an interviewer pushing you on time complexity, asking follow-up questions…",
+          "rawTextSnippet": "Hi HN, I&#x27;m Matt, one of the engineers behind DemoFly! We built DemoFly because we got tired of the gap between building features and showing them to people. Our team has been doing full-stack engineering for over a decade (most recently building Rownd, an authentication platform) and the one th…",
           "hnMeta": {
-            "points": 1,
+            "points": 4,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47317236"
+            "hnUrl": "https://news.ycombinator.com/item?id=47324590"
           },
-          "score": 51,
+          "score": 55,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1773146252896-212",
-          "title": "Show HN: Free AI resume tailor I built after a recent layoff (300+ users so far)",
-          "url": "https://jobbi.app/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-09T23:06:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "Hey HN, I’m a Staff Software Engineer, and just recently, on February 24, 2026, I was laid off along with 200+ coworkers. To survive the brutal job market, I hacked together a tool to automate my own applications: jobbi.app. It just crossed 300+ users organically, so I wanted to share it here. How i…",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47316999"
-          },
-          "score": 51,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1773146252896-213",
-          "title": "Show HN: An open-source DAW plugin built on JUCE, React, and Lyria RealTime",
-          "url": "https://github.com/magenta/the-infinite-crate",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-09T22:14:40.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Hi HN! I&#x27;m a former YC founder&#x2F;visiting partner and independent musician&#x2F;producer in SF. About a year ago I started collaborating with the Magenta research team as an artist to explore the role of realtime generative music models in studio production and live performances Through our …",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47316378"
-          },
-          "score": 51,
-          "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 26,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
@@ -908,29 +988,15 @@
   ],
   "toolLaunches": [
     {
-      "id": "hn-1773146248665-163",
-      "title": "Show HN: The Mog Programming Language",
-      "url": "https://moglang.org",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-09T17:57:00.000Z",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "summary": "• What happened: Show HN: The Mog Programming Language\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "Hi, Ted here, creator of Mog. - Mog is a statically typed, compiled, embedded language (think statically typed Lua) designed to be written by LLMs -- the full spec fits in 3,200 tokens. - An AI agent writes a Mog program, compiles it, and dynamically loads it as a plugin, script, or hook. - The host",
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "rss-1773146246772-96",
-      "title": "Yann LeCun&#8217;s AMI Labs raises $1.03 billion to build world models",
-      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "id": "rss-1773197501426-95",
+      "title": "Amazon launches its healthcare AI assistant on its website and app",
+      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-10T05:00:00.000Z",
+      "publishedAt": "2026-03-10T20:10:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
       "score": 60,
       "scoreBreakdown": {
         "freshness": 26,
@@ -939,16 +1005,54 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "summary": "• What happened: Yann LeCun&#8217;s AMI Labs raises $1.03 billion to build world models\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-      "cluster": "Funding & Acquisitions"
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Amazon launched a healthcare AI assistant on its website and app.  \n• Why it matters: This innovation enhances user experience by providing accessible health information and services.  \n• Business opportunity: Companies can explore partnerships with Amazon to integrate health solutions and improve patient engagement."
     },
     {
-      "id": "hn-1773146244444-20",
-      "title": "Show HN: Crit – Review AI agent work like you review PRs",
-      "url": "https://github.com/tomasz-tomczyk/crit",
+      "id": "hn-1773197507489-213",
+      "title": "Gemini Embedding 2: natively multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/",
       "source": "Hacker News",
-      "publishedAt": "2026-03-10T12:25:00.000Z",
+      "publishedAt": "2026-03-10T16:58:40.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 17,
+        "comments": 1
+      },
+      "rawTextSnippet": "Gemini Embedding 2: natively multimodal embedding model",
+      "hnMeta": {
+        "points": 17,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47325887"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Gemini Embedding 2 has been launched as a natively multimodal embedding model.  \n• Why it matters: This advancement enhances the integration of various data types, improving AI's understanding and processing capabilities.  \n• Business opportunity: Companies can leverage this technology to create more sophisticated AI applications across diverse industries."
+    },
+    {
+      "id": "hn-1773197498815-44",
+      "title": "The \"Bloomberg Terminal\" for Agents – Real-Time Intelligence API for AI Agents",
+      "url": "https://thepolarisreport.com/agents",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-11T02:38:49.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "The \"Bloomberg Terminal\" for Agents – Real-Time Intelligence API for AI Agents",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47331211"
+      },
       "score": 59,
       "scoreBreakdown": {
         "freshness": 30,
@@ -957,16 +1061,26 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "summary": "• What happened: Show HN: Crit – Review AI agent work like you review PRs\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "Reviewing agent output in a terminal is painful. When Claude generates a 1000-line markdown plan, you can&#x27;t easily say &quot;change this specific bullet&quot; without copying the text, switching to the chat, and hoping the agent understands the reference. When it updates the plan, you start ove",
-      "cluster": "Large Language Models"
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A new Real-Time Intelligence API for AI agents has been launched, likened to the Bloomberg Terminal.  \n• Why it matters: This innovation provides agents with instant access to critical data, enhancing decision-making capabilities.  \n• Business opportunity: Companies can leverage this API to develop more efficient AI-driven solutions across various industries."
     },
     {
-      "id": "hn-1773146244444-22",
-      "title": "vLLM Semantic Router v0.2 Athena: ClawOS, Model Refresh, and the System Brain",
-      "url": "https://vllm.ai/blog/v0.2-vllm-sr-athena-release",
+      "id": "hn-1773197500285-86",
+      "title": "Show HN: Lumen – vision-first browser agent (state of the art, open source)",
+      "url": "https://github.com/omxyz/lumen",
       "source": "Hacker News",
-      "publishedAt": "2026-03-10T12:05:18.000Z",
+      "publishedAt": "2026-03-10T21:22:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "We&#x27;re open sourcing Lumen — state of the art, vision-first browser agent. Problem Browser automation is fragile. Scripts break constantly and agents waste tokens getting stuck in loops. Today there are two options: Selector-based scripting like Playwright and Puppeteer: these require you to tar…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47328931"
+      },
       "score": 59,
       "scoreBreakdown": {
         "freshness": 30,
@@ -975,16 +1089,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "summary": null,
-      "rawTextSnippet": "vLLM Semantic Router v0.2 Athena: ClawOS, Model Refresh, and the System Brain",
-      "cluster": "Large Language Models"
+      "cluster": "AI Agents & Automation"
     },
     {
-      "id": "hn-1773146244445-30",
-      "title": "Show HN: SiClaw – an open-source agent for debugging infrastructure incidents",
-      "url": "https://siclaw.ai/",
+      "id": "hn-1773197501680-115",
+      "title": "Robinhood Agent Integration",
+      "url": "https://github.com/kevin1chun/rh-for-agents",
       "source": "Hacker News",
-      "publishedAt": "2026-03-10T11:35:29.000Z",
+      "publishedAt": "2026-03-11T02:13:10.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 0
+      },
+      "rawTextSnippet": "Robinhood Agent Integration",
+      "hnMeta": {
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47331078"
+      },
       "score": 59,
       "scoreBreakdown": {
         "freshness": 30,
@@ -993,129 +1116,191 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "summary": null,
-      "rawTextSnippet": "Hi everyone, I’m Fred, one of the builders of SiClaw ( https:&#x2F;&#x2F;github.com&#x2F;scitix&#x2F;siclaw ). We work as SREs at an AI infrastructure company, operating GPU clusters and large-scale model infrastructure across heterogeneous compute environments. As SREs working on AI infrastructure,",
-      "cluster": "AI Hardware & Chips"
+      "cluster": "AI Agents & Automation"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1773146244785-44",
-      "title": "OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning",
-      "url": "https://arxiv.org/abs/2603.08655v1",
+      "id": "arxiv-1773197498555-18",
+      "title": "When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic",
+      "url": "https://arxiv.org/abs/2603.09950v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-09T17:34:53.000Z",
-      "score": 58,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
+      "publishedAt": "2026-03-10T17:46:31.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
       },
-      "summary": null,
-      "rawTextSnippet": "We introduce OfficeQA Pro, a benchmark for evaluating AI agents on grounded, multi-document reasoning over a large and heterogeneous document corpus. The corpus consists of U.S. Treasury Bulletins spanning nearly 100 years, comprising 89,000 pages and over 26 million numerical values. OfficeQA Pro c",
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1773146244784-35",
-      "title": "Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines",
-      "url": "https://arxiv.org/abs/2603.08704v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-09T17:58:54.000Z",
-      "score": 55,
+      "rawTextSnippet": "Deep Reinforcement Learning systems are highly sensitive to the learning rate (LR), and selecting stable and performant training runs often requires extensive hyperparameter search. In Proximal Policy Optimization (PPO) actor--critic methods, small LR values lead to slow convergence, whereas large L…",
+      "arxivMeta": {
+        "authors": "Alberto Fernández-Hernández, Cristian Pérez-Corral, Jose I. Mestre, Manuel F. Dolz, Jose Duato, Enrique S. Quintana-Ortí",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "summary": null,
-      "rawTextSnippet": "Large language models are increasingly used for financial analysis and investment research, yet systematic evaluation of their financial reasoning capabilities remains limited. In this work, we introduce the AI Financial Intelligence Benchmark (AFIB), a multi-dimensional evaluation framework designe",
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1773197498555-28",
+      "title": "MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2603.09892v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-10T16:49:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Continual fine-tuning of large language models (LLMs) is becoming increasingly crucial as these models are deployed in dynamic environments where tasks and data distributions evolve over time. While strong adaptability enables rapid acquisition of new knowledge, it also exposes LLMs to catastrophic …",
+      "arxivMeta": {
+        "authors": "Yiyang Lu, Yu He, Jianlong Chen, Hongyuan Zha",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1773146244785-54",
-      "title": "OSS-CRS: Liberating AIxCC Cyber Reasoning Systems for Real-World Open-Source Security",
-      "url": "https://arxiv.org/abs/2603.08566v1",
+      "id": "arxiv-1773197498555-29",
+      "title": "Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts",
+      "url": "https://arxiv.org/abs/2603.09890v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-09T16:26:33.000Z",
-      "score": 55,
+      "publishedAt": "2026-03-10T16:47:25.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Large Language Models (LLMs) have emerged as a new paradigm for multi-agent systems. However, existing research on the behaviour of LLM-based multi-agents relies on ad hoc prompts and lacks a principled policy perspective. Different from reinforcement learning, we investigate whether prompt-as-actio…",
+      "arxivMeta": {
+        "authors": "Hongbo Bo, Jingyu Hu, Weiru Liu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "summary": null,
-      "rawTextSnippet": "DARPA's AI Cyber Challenge (AIxCC) showed that cyber reasoning systems (CRSs) can go beyond vulnerability discovery to autonomously confirm and patch bugs: seven teams built such systems and open-sourced them after the competition. Yet all seven open-sourced CRSs remain largely unusable outside thei",
-      "cluster": "AI Agents & Automation"
+      "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1773146244784-33",
-      "title": "Scale Space Diffusion",
-      "url": "https://arxiv.org/abs/2603.08709v1",
+      "id": "arxiv-1773197498555-32",
+      "title": "Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning",
+      "url": "https://arxiv.org/abs/2603.09882v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-09T17:59:42.000Z",
-      "score": 52,
+      "publishedAt": "2026-03-10T16:40:30.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Extrinsic dexterity leverages environmental contact to overcome the limitations of prehensile manipulation. However, achieving such dexterity in cluttered scenes remains challenging and underexplored, as it requires selectively exploiting contact among multiple interacting objects with inherently co…",
+      "arxivMeta": {
+        "authors": "Yixin Zheng, Jiangran Lyu, Yifan Zhang, Jiayi Chen, Mi Yan, Yuntian Deng, Xuesong Shi, Xiaoguang Zhao, Yizhou Wang, Zhizheng Zhang, He Wang",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "summary": null,
-      "rawTextSnippet": "Diffusion models degrade images through noise, and reversing this process reveals an information hierarchy across timesteps. Scale-space theory exhibits a similar hierarchy via low-pass filtering. We formalize this connection and show that highly noisy diffusion states contain no more information th",
-      "cluster": "Generative AI & Media"
+      "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1773146244784-34",
-      "title": "Agentic Critical Training",
-      "url": "https://arxiv.org/abs/2603.08706v1",
+      "id": "arxiv-1773197498555-35",
+      "title": "A Graph-Based Approach to Spectrum Demand Prediction Using Hierarchical Attention Networks",
+      "url": "https://arxiv.org/abs/2603.09859v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-09T17:58:56.000Z",
-      "score": 52,
+      "publishedAt": "2026-03-10T16:20:51.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "The surge in wireless connectivity demand, coupled with the finite nature of spectrum resources, compels the development of efficient spectrum management approaches. Spectrum sharing presents a promising avenue, although it demands precise characterization of spectrum demand for informed policy-maki…",
+      "arxivMeta": {
+        "authors": "Mohamad Alkadamani, Halim Yanikomeroglu, Amir Ghasemi",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "summary": null,
-      "rawTextSnippet": "Training large language models (LLMs) as autonomous agents often begins with imitation learning, but it only teaches agents what to do without understanding why: agents never contrast successful actions against suboptimal alternatives and thus lack awareness of action quality. Recent approaches atte",
-      "cluster": "AI Agents & Automation"
+      "cluster": "AI Safety & Regulation"
     }
   ],
   "funding": [
     {
-      "id": "rss-1773146244205-1",
-      "title": "The usability imperative for securing digital asset devices",
-      "url": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-03-09T14:00:00.000Z",
+      "id": "hn-1773197503079-150",
+      "title": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-2026-03-06/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-10T19:46:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
+      },
+      "rawTextSnippet": "SoftBank eyes up to $40B loan to fund OpenAI investment",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47327937"
+      },
       "score": 61,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 18,
+        "freshness": 26,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
-      "summary": "• What happened: The usability imperative for securing digital asset devices\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be f",
-      "cluster": "AI Safety & Regulation"
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: SoftBank is seeking a loan of up to $40 billion to invest in OpenAI.  \n• Why it matters: This significant funding could accelerate AI advancements and market competition.  \n• Business opportunity: Companies can explore partnerships or innovations in AI technologies to capitalize on this investment trend."
     },
     {
-      "id": "rss-1773146246772-96",
-      "title": "Yann LeCun&#8217;s AMI Labs raises $1.03 billion to build world models",
-      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "id": "rss-1773197501426-99",
+      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+      "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-10T05:00:00.000Z",
+      "publishedAt": "2026-03-10T15:08:39.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
       "score": 60,
       "scoreBreakdown": {
         "freshness": 26,
@@ -1124,16 +1309,19 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "summary": "• What happened: Yann LeCun&#8217;s AMI Labs raises $1.03 billion to build world models\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-      "cluster": "Funding & Acquisitions"
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Thinking Machines Lab secured a multi-year deal with Nvidia for at least a gigawatt of compute power.  \n• Why it matters: This partnership enhances AI capabilities and infrastructure, positioning both companies for growth in the tech sector.  \n• Business opportunity: Companies can leverage this advanced compute power for innovative AI solutions and applications."
     },
     {
-      "id": "rss-1773146246772-102",
-      "title": "Sandberg, Clegg join Nscale board as this &#8216;Stargate Norway&#8217; startup hits $14.6B  valuation",
-      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "id": "rss-1773197501426-101",
+      "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
+      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-09T15:09:35.000Z",
+      "publishedAt": "2026-03-10T14:34:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
       "score": 59,
       "scoreBreakdown": {
         "freshness": 22,
@@ -1142,54 +1330,65 @@
         "novelty": 15,
         "businessImpact": 6
       },
-      "summary": "• What happened: Sandberg, Clegg join Nscale board as this &#8216;Stargate Norway&#8217; startup hits $14.6B  valuation\n• Why it matters: See full article.\n• Business opportunity: Monitor developments in this space.",
-      "rawTextSnippet": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
-      "cluster": "Funding & Acquisitions"
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Legora, an AI platform for lawyers, achieved a $5.55 billion valuation after a $550 million Series D funding round.  \n• Why it matters: This valuation highlights the ongoing growth and demand for AI solutions in the legal sector.  \n• Business opportunity: Companies can explore partnerships or innovations in AI legal tech to capitalize on this expanding market."
     },
     {
-      "id": "arxiv-1773146244785-44",
-      "title": "OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning",
-      "url": "https://arxiv.org/abs/2603.08655v1",
+      "id": "arxiv-1773197498555-28",
+      "title": "MSSR: Memory-Aware Adaptive Replay for Continual LLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2603.09892v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-09T17:34:53.000Z",
-      "score": 58,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
+      "publishedAt": "2026-03-10T16:49:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
       },
-      "summary": null,
-      "rawTextSnippet": "We introduce OfficeQA Pro, a benchmark for evaluating AI agents on grounded, multi-document reasoning over a large and heterogeneous document corpus. The corpus consists of U.S. Treasury Bulletins spanning nearly 100 years, comprising 89,000 pages and over 26 million numerical values. OfficeQA Pro c",
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1773146244784-35",
-      "title": "Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines",
-      "url": "https://arxiv.org/abs/2603.08704v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-09T17:58:54.000Z",
-      "score": 55,
+      "rawTextSnippet": "Continual fine-tuning of large language models (LLMs) is becoming increasingly crucial as these models are deployed in dynamic environments where tasks and data distributions evolve over time. While strong adaptability enables rapid acquisition of new knowledge, it also exposes LLMs to catastrophic …",
+      "arxivMeta": {
+        "authors": "Yiyang Lu, Yu He, Jianlong Chen, Hongyuan Zha",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "summary": null,
-      "rawTextSnippet": "Large language models are increasingly used for financial analysis and investment research, yet systematic evaluation of their financial reasoning capabilities remains limited. In this work, we introduce the AI Financial Intelligence Benchmark (AFIB), a multi-dimensional evaluation framework designe",
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1773197498555-29",
+      "title": "Influencing LLM Multi-Agent Dialogue via Policy-Parameterized Prompts",
+      "url": "https://arxiv.org/abs/2603.09890v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-10T16:47:25.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Large Language Models (LLMs) have emerged as a new paradigm for multi-agent systems. However, existing research on the behaviour of LLM-based multi-agents relies on ad hoc prompts and lacks a principled policy perspective. Different from reinforcement learning, we investigate whether prompt-as-actio…",
+      "arxivMeta": {
+        "authors": "Hongbo Bo, Jingyu Hu, Weiru Liu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
       "cluster": "Large Language Models"
     }
   ],
-  "dailyBrief": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy. OpenAI is walking away from expanding its Stargate data center with Oracle. No, it doesn't cost Anthropic $5k per Claude Code user. Show HN: The Mog Programming Language. LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley).",
-  "meta": {
-    "topNewsCount": 10,
-    "trendingTopicsCount": 5,
-    "toolLaunchesCount": 5,
-    "redditSignalsCount": 0,
-    "researchCount": 5,
-    "fundingCount": 5
-  }
+  "dailyBrief": "In today's AI landscape, Anthropic clarified that its Claude Code service does not incur a $5,000 fee per user, alleviating concerns about accessibility for businesses looking to integrate AI solutions. Meanwhile, potential buyers of Meta's Ray-Bans are advised to exercise caution due to privacy implications raised by recent reports, which could affect consumer trust and brand reputation. On the military front, discussions around AI procurement policies highlight the challenges of governance in rapidly evolving technologies, emphasizing the need for robust frameworks. Additionally, security vulnerabilities were exposed within Meta AI's infrastructure, showcasing the risks associated with AI deployment and the importance of stringent cybersecurity measures for organizations leveraging AI technologies."
 }
