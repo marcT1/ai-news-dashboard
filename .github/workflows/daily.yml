@@ -33,23 +33,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json
+          git add data/latest.json docs/data.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           git commit -m "chore: update AI news data [$(date -u +'%Y-%m-%d %H:%M UTC')]"
-          for i in 1 2 3; do
-            git fetch origin main
-            git rebase origin/main && break
-            echo "Rebase attempt $i failed, retrying..."
-            git rebase --abort || true
-          done
-          git push origin main
-```
-
----
-
-Also — **critically** — go check if `pages.yml` still has the `paths` filter. Go to:
-```
-https://raw.githubusercontent.com/marcT1/ai-news-dashboard/main/.github/workflows/pages.yml
+          git push origin HEAD:main --force-with-lease
