@@ -1,63 +1,49 @@
 {
   "topNews": [
     {
-      "id": "rss-1773405604551-1",
-      "title": "Future AI chips could be built on glass",
-      "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "id": "hn-1773491634445-24",
+      "title": "Show HN: Auditor Core – Enterprise security auditing engine for DevSecOps",
+      "url": "https://datawizual.github.io/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-14T11:02:25.000Z",
       "scoreSignals": {
-        "sourceAuthority": 18
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation…",
-      "score": 69,
+      "rawTextSnippet": "I built a deterministic security auditing engine that runs 10 detection engines (Bandit, Semgrep, Gitleaks, IaC, CI&#x2F;CD, dependencies) and produces a calibrated Security Posture Index score. AI advisory via Gemini&#x2F;Groq. Hardware-bound licensing. Would love feedback from security engineers.",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47375407"
+      },
+      "score": 68,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Absolics plans to commercially produce special glass panels for next-generation AI chips.  \n• Why it matters: This innovation could enhance the performance and efficiency of AI chips in data centers.  \n• Business opportunity: Companies can explore partnerships or investments in glass technology to capitalize on the evolving AI chip market."
-    },
-    {
-      "id": "rss-1773405607238-97",
-      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-      "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-13T05:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 16,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 9
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Peter Sarlin launched QuTwo to create infrastructure for future quantum computing.  \n• Why it matters: The startup aims to prepare enterprises for the upcoming shift to quantum technology.  \n• Business opportunity: QuTwo could capitalize on the growing demand for quantum-ready solutions in various industries."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A new enterprise security auditing engine called Auditor Core was launched, integrating multiple detection engines.  \n• Why it matters: It provides a calibrated Security Posture Index score, enhancing security assessments for DevSecOps.  \n• Business opportunity: There is potential for partnerships with security firms and software developers to improve security practices and compliance."
     },
     {
-      "id": "hn-1773405610603-181",
-      "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-      "url": "https://github.com/jrswab/axe",
+      "id": "hn-1773491638764-143",
+      "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+      "url": "https://www.getspine.ai/",
       "source": "Hacker News",
-      "publishedAt": "2026-03-12T13:49:12.000Z",
+      "publishedAt": "2026-03-13T13:22:40.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 195,
-        "comments": 115
+        "upvotes": 101,
+        "comments": 69
       },
-      "rawTextSnippet": "I built Axe because I got tired of every AI tool trying to be a chatbot. Most frameworks want a long-lived session with a massive context window doing everything at once. That&#x27;s expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be too. Axe treats …",
+      "rawTextSnippet": "Hey HN! We&#x27;re Ashwin and Akshay from Spine AI ( https:&#x2F;&#x2F;www.getspine.ai ). Spine Swarm is a multi-agent system that works on an infinite visual canvas to complete complex non-coding projects: competitive analysis, financial modeling, SEO audits, pitch decks, interactive prototypes, an…",
       "hnMeta": {
-        "points": 195,
-        "comments": 115,
-        "hnUrl": "https://news.ycombinator.com/item?id=47350516"
+        "points": 101,
+        "comments": 69,
+        "hnUrl": "https://news.ycombinator.com/item?id=47364116"
       },
       "score": 66,
       "scoreBreakdown": {
@@ -67,25 +53,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A developer introduced Axe, a lightweight AI framework that simplifies AI agent functionality.  \n• Why it matters: Axe addresses inefficiencies in existing AI tools by promoting smaller, focused applications instead of bulky frameworks.  \n• Business opportunity: There is potential for companies to adopt Axe for cost-effective and efficient AI solutions in various applications."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Spine AI launched Spine Swarm, a multi-agent system for collaborative project completion on a visual canvas.  \n• Why it matters: This innovation streamlines complex non-coding tasks, enhancing productivity and collaboration.  \n• Business opportunity: Companies can leverage this tool to improve efficiency in project management and creative processes."
     },
     {
-      "id": "hn-1773405604790-28",
-      "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
-      "url": "https://prompt-caching.ai/",
+      "id": "hn-1773491637269-123",
+      "title": "Show HN: Bots of WallStreet,agents debate stocks,make predictions.Human spectate",
+      "url": "https://botsofwallstreet.com",
       "source": "Hacker News",
-      "publishedAt": "2026-03-13T11:38:15.000Z",
+      "publishedAt": "2026-03-14T11:12:51.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 21,
-        "comments": 9
+        "upvotes": 7,
+        "comments": 2
       },
-      "rawTextSnippet": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
+      "rawTextSnippet": "Show HN: Bots of WallStreet,agents debate stocks,make predictions.Human spectate",
       "hnMeta": {
-        "points": 21,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=47363074"
+        "points": 7,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47375474"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -95,46 +81,104 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Anthropic introduced prompt-caching that auto-injects cache breakpoints, achieving 90% token savings.  \n• Why it matters: This innovation significantly reduces computational costs and enhances efficiency in AI processing.  \n• Business opportunity: Companies can leverage this technology to optimize AI applications and reduce operational expenses."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A platform called Bots of WallStreet allows AI agents to debate and predict stock movements while humans observe.  \n• Why it matters: This innovation showcases the potential of AI in financial decision-making and market analysis.  \n• Business opportunity: There is potential for developing AI-driven investment tools and platforms that enhance trading strategies for investors."
     },
     {
-      "id": "rss-1773405604551-0",
-      "title": "The Download: how AI is used for military targeting, and the Pentagon&#8217;s war on Claude",
-      "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-03-13T12:16:56.000Z",
+      "id": "github-1773491634605-65",
+      "title": "[uditgoenka/autoresearch] Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+      "url": "https://github.com/uditgoenka/autoresearch",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-03-13T14:51:54.000Z",
       "scoreSignals": {
-        "sourceAuthority": 18
+        "sourceAuthority": 12,
+        "upvotes": 226
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targ…",
-      "score": 63,
+      "rawTextSnippet": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+      "githubMeta": {
+        "stars": 226,
+        "language": null,
+        "topics": [
+          "ai",
+          "autonomous-agent",
+          "autoresearch",
+          "claude",
+          "claude-code",
+          "iteration",
+          "karpathy",
+          "productivity",
+          "skill"
+        ]
+      },
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
+        "freshness": 22,
+        "authority": 12,
+        "engagement": 15,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: The US military is exploring the use of AI chatbots for military targeting decisions.  \n• Why it matters: This development could significantly enhance decision-making efficiency in defense operations.  \n• Business opportunity: Companies specializing in AI technology could partner with defense contractors to develop advanced targeting systems."
+      "summary": "• What happened: Claude Autoresearch Skill was introduced for autonomous goal-directed iteration in Claude Code.  \n• Why it matters: This innovation streamlines the coding process, enhancing efficiency and accuracy in software development.  \n• Business opportunity: Companies can leverage this skill to improve their coding workflows and reduce development time."
     },
     {
-      "id": "hn-1773405604790-18",
-      "title": "Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)",
-      "url": "http://amoilanen.github.io/Algorithms-with-Typescript/",
+      "id": "rss-1773491637191-108",
+      "title": "The $32B acquisition that one VC is calling the &#8216;Deal of the Decade&#8217;",
+      "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-13T16:20:23.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google&#8217;s $32 billion deal, finalized after a declined…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 10
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Google finalized a $32 billion acquisition of cybersecurity startup Wiz.  \n• Why it matters: This marks the largest venture-backed acquisition in history, highlighting significant market trends.  \n• Business opportunity: Companies in AI, cloud, and security sectors can leverage this momentum for growth and innovation."
+    },
+    {
+      "id": "rss-1773491637191-103",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-13T21:37:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Nyne secured $5.3 million in seed funding to enhance AI agents with human context.  \n• Why it matters: This funding supports the development of AI that better understands human interactions, addressing a key limitation in current technology.  \n• Business opportunity: Companies can leverage Nyne's technology to improve customer engagement and decision-making processes in AI applications."
+    },
+    {
+      "id": "hn-1773491634445-21",
+      "title": "New York Wants to Ban the AI That Outscores Doctors – Garry's List",
+      "url": "https://garryslist.org/posts/new-york-wants-to-ban-the-ai-that-outscores-doctors",
       "source": "Hacker News",
-      "publishedAt": "2026-03-13T12:15:11.000Z",
+      "publishedAt": "2026-03-14T11:14:29.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
+        "upvotes": 4,
+        "comments": 1
       },
-      "rawTextSnippet": "I started writing this book 10 years ago in JavaScript, got through a few chapters (asymptotic notation, basic techniques, start of sorting), and then abandoned it. Recently I picked it back up, converted everything to TypeScript, and used AI (Zenflow [1] + Claude Opus 4.6) to complete the remaining…",
+      "rawTextSnippet": "New York Wants to Ban the AI That Outscores Doctors – Garry's List",
       "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47363400"
+        "points": 4,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47375484"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -144,176 +188,184 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A free book on algorithms and data structures in TypeScript has been released after a decade of development.  \n• Why it matters: It provides a valuable resource for developers looking to enhance their programming skills in TypeScript.  \n• Business opportunity: Companies can leverage this resource for training and upskilling their technical teams."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: New York is considering a ban on an AI system that outperforms doctors in certain medical assessments.  \n• Why it matters: This move raises concerns about the role of AI in healthcare and its implications for medical professionals.  \n• Business opportunity: Companies developing compliant AI solutions for healthcare could capitalize on the growing demand for ethical and effective medical technologies."
     },
     {
-      "id": "hn-1773405609180-164",
-      "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
-      "url": "https://ionrouter.io",
+      "id": "hn-1773491634445-26",
+      "title": "The OpenClaw AI mania in China, as security fears and enthusiasm surge",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3346513/inside-openclaw-mania-gripping-china-security-fears-surge-alongside-enthusiasm",
       "source": "Hacker News",
-      "publishedAt": "2026-03-12T18:52:36.000Z",
+      "publishedAt": "2026-03-14T10:29:27.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 66,
-        "comments": 25
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "Hey HN — I’m Veer and my cofounder is Suryaa. We&#x27;re building Cumulus Labs (YC W26), and we&#x27;re releasing our latest product IonRouter ( https:&#x2F;&#x2F;ionrouter.io&#x2F; ), an inference API for open-source and fine tuned models. You swap in our base URL, keep your existing OpenAI client …",
+      "rawTextSnippet": "The OpenClaw AI mania in China, as security fears and enthusiasm surge",
       "hnMeta": {
-        "points": 66,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=47355410"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47375205"
       },
-      "score": 61,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Cumulus Labs launched IonRouter, an inference API for open-source and fine-tuned models.  \n• Why it matters: IonRouter offers high-throughput and low-cost solutions for AI model inference, enhancing accessibility for developers.  \n• Business opportunity: There is potential for businesses to integrate IonRouter to optimize their AI applications and reduce operational costs."
-    },
-    {
-      "id": "hn-1773405609181-167",
-      "title": "Show HN: LogClaw – Open-source AI SRE that auto-creates tickets from logs",
-      "url": "https://logclaw.ai",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-12T17:06:42.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 19,
-        "comments": 33
-      },
-      "rawTextSnippet": "Hi HN, I&#x27;m Robel. I built LogClaw because I was tired of paying for Datadog and still waking up to pages that said &quot;something is wrong&quot; with no context. LogClaw is an open-source log intelligence platform that runs on Kubernetes. It ingests logs via OpenTelemetry and detects anomalies…",
-      "hnMeta": {
-        "points": 19,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=47353981"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
       "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: LogClaw, an open-source AI SRE tool, was launched to automate ticket creation from logs.  \n• Why it matters: It addresses the frustration of unclear alerts from existing monitoring solutions like Datadog.  \n• Business opportunity: Companies can reduce costs and improve incident response by adopting this open-source solution."
+      "summary": "• What happened: China is experiencing a surge in enthusiasm and security concerns surrounding OpenClaw AI technology.  \n• Why it matters: This duality of excitement and apprehension highlights the need for robust AI governance and security measures.  \n• Business opportunity: Companies can capitalize on this trend by developing AI solutions that prioritize security and compliance."
     },
     {
-      "id": "hn-1773405611971-204",
-      "title": "Certbot and Let's Encrypt Now Support IP Address Certificates",
-      "url": "https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates",
+      "id": "hn-1773491634445-27",
+      "title": "Show HN: AgentArmor – open-source 8-layer security framework for AI agents",
+      "url": "https://github.com/Agastya910/agentarmor",
       "source": "Hacker News",
-      "publishedAt": "2026-03-12T17:55:21.000Z",
+      "publishedAt": "2026-03-14T09:44:36.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 37,
-        "comments": 8
+        "upvotes": 2,
+        "comments": 2
       },
-      "rawTextSnippet": "Certbot and Let's Encrypt Now Support IP Address Certificates",
+      "rawTextSnippet": "I&#x27;ve been talking to founders building AI agents across fintech, devtools, and productivity – and almost none of them have any real security layer. Their agents read emails, call APIs, execute code, and write to databases with essentially no guardrails beyond &quot;we trust the LLM.&quot; So I …",
       "hnMeta": {
-        "points": 37,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=47354708"
+        "points": 2,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47374958"
       },
-      "score": 61,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Certbot and Let's Encrypt have introduced support for IP address certificates.  \n• Why it matters: This enhancement allows secure connections for devices identified by IP addresses, broadening the scope of SSL/TLS encryption.  \n• Business opportunity: Companies can leverage this feature to enhance security for IoT devices and services that rely on IP-based identification."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: An open-source 8-layer security framework for AI agents, called AgentArmor, has been introduced.  \n• Why it matters: Many AI agents currently lack adequate security measures, posing significant risks in various sectors.  \n• Business opportunity: There is a growing demand for robust security solutions in AI development, creating potential for innovative startups."
     },
     {
-      "id": "hn-1773405611971-203",
-      "title": "Rep. Finke Was Right: Age-Gating Isn't About Kids, It's About Control",
-      "url": "https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control",
+      "id": "hn-1773491634445-28",
+      "title": "Building an AI startup in Bristol while working a regular job",
+      "url": "https://www.indiehackers.com/post/building-an-ai-startup-in-bristol-while-working-a-regular-job-b1aeee7fcc",
       "source": "Hacker News",
-      "publishedAt": "2026-03-13T02:48:30.000Z",
+      "publishedAt": "2026-03-14T09:38:52.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 15,
-        "comments": 4
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "Rep. Finke Was Right: Age-Gating Isn't About Kids, It's About Control",
+      "rawTextSnippet": "Building an AI startup in Bristol while working a regular job",
       "hnMeta": {
-        "points": 15,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47360125"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47374926"
       },
-      "score": 60,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Rep. Finke argues that age-gating regulations focus more on control than on protecting children.  \n• Why it matters: This perspective challenges the narrative around age-gating, prompting discussions on regulatory intentions and implications.  \n• Business opportunity: Companies can explore innovative solutions that balance user safety with regulatory compliance while addressing control concerns."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: An entrepreneur is developing an AI startup in Bristol while maintaining a full-time job.  \n• Why it matters: This approach highlights the growing trend of side hustles in the tech industry, particularly in AI.  \n• Business opportunity: There is potential for mentorship and resources to support aspiring AI entrepreneurs balancing jobs."
     }
   ],
   "trendingTopics": [
     {
-      "name": "General AI",
-      "itemCount": 42,
-      "trendScore": 196,
-      "whyTrending": "42 stories across Hacker, TechCrunch, arXiv, 32 in the last 24h.",
+      "name": "Large Language Models",
+      "itemCount": 52,
+      "trendScore": 188,
+      "whyTrending": "52 stories across Hacker, GitHub, MIT, 19 in the last 24h.",
       "topStory": {
-        "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
-        "url": "https://prompt-caching.ai/"
+        "title": "Show HN: Auditor Core – Enterprise security auditing engine for DevSecOps",
+        "url": "https://datawizual.github.io/"
       },
       "items": [
         {
-          "id": "hn-1773405604790-28",
-          "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
-          "url": "https://prompt-caching.ai/",
+          "id": "hn-1773491634445-24",
+          "title": "Show HN: Auditor Core – Enterprise security auditing engine for DevSecOps",
+          "url": "https://datawizual.github.io/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-13T11:38:15.000Z",
+          "publishedAt": "2026-03-14T11:02:25.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 21,
-            "comments": 9
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
+          "rawTextSnippet": "I built a deterministic security auditing engine that runs 10 detection engines (Bandit, Semgrep, Gitleaks, IaC, CI&#x2F;CD, dependencies) and produces a calibrated Security Posture Index score. AI advisory via Gemini&#x2F;Groq. Hardware-bound licensing. Would love feedback from security engineers.",
           "hnMeta": {
-            "points": 21,
-            "comments": 9,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363074"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375407"
           },
-          "score": 64,
+          "score": 68,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "github-1773491634605-65",
+          "title": "[uditgoenka/autoresearch] Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+          "url": "https://github.com/uditgoenka/autoresearch",
+          "source": "GitHub Trending",
+          "publishedAt": "2026-03-13T14:51:54.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 12,
+            "upvotes": 226
+          },
+          "rawTextSnippet": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.",
+          "githubMeta": {
+            "stars": 226,
+            "language": null,
+            "topics": [
+              "ai",
+              "autonomous-agent",
+              "autoresearch",
+              "claude",
+              "claude-code",
+              "iteration",
+              "karpathy",
+              "productivity",
+              "skill"
+            ]
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 12,
+            "engagement": 15,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1773405611971-204",
-          "title": "Certbot and Let's Encrypt Now Support IP Address Certificates",
-          "url": "https://www.eff.org/deeplinks/2026/03/certbot-and-lets-encrypt-now-support-ip-address-certificates",
+          "id": "hn-1773491638764-137",
+          "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+          "url": "https://github.com/Compresr-ai/Context-Gateway",
           "source": "Hacker News",
-          "publishedAt": "2026-03-12T17:55:21.000Z",
+          "publishedAt": "2026-03-13T17:58:22.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 37,
-            "comments": 8
+            "upvotes": 84,
+            "comments": 49
           },
-          "rawTextSnippet": "Certbot and Let's Encrypt Now Support IP Address Certificates",
+          "rawTextSnippet": "We built an open-source proxy that sits between coding agents (Claude Code, OpenClaw, etc.) and the LLM, compressing tool outputs before they enter the context window. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=-vFZ6MPrwjw#t=9s . Motivation: Agents are terrible at managing context. A singl…",
           "hnMeta": {
-            "points": 37,
-            "comments": 8,
-            "hnUrl": "https://news.ycombinator.com/item?id=47354708"
+            "points": 84,
+            "comments": 49,
+            "hnUrl": "https://news.ycombinator.com/item?id=47367526"
           },
           "score": 61,
           "scoreBreakdown": {
@@ -323,24 +375,90 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1773405611971-203",
-          "title": "Rep. Finke Was Right: Age-Gating Isn't About Kids, It's About Control",
-          "url": "https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control",
+          "id": "hn-1773491634444-10",
+          "title": "Show HN: Clawscribble – Give your AI agent a 32×32 canvas to paint on",
+          "url": "https://clawscribble.com/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-13T02:48:30.000Z",
+          "publishedAt": "2026-03-14T12:25:06.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 15,
-            "comments": 4
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Rep. Finke Was Right: Age-Gating Isn't About Kids, It's About Control",
+          "rawTextSnippet": "I wanted to see what my agents would create if given a small, constrained canvas instead of a chat window. The setup is minimal by design: sign in with GitHub or Google, get a token, paste one message to your agent. The entire skill file is under 150 lines. It tells your agent the grid size, 16 colo…",
           "hnMeta": {
-            "points": 15,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=47360125"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375968"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1773491635857-74",
+          "title": "BETO – A protocol that formalizes what LLMs don't know",
+          "url": "https://github.com/aramirez-maza/beto-framework",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-14T12:14:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "BETO – A protocol that formalizes what LLMs don't know",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375888"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        }
+      ]
+    },
+    {
+      "name": "General AI",
+      "itemCount": 40,
+      "trendScore": 186,
+      "whyTrending": "40 stories across Hacker, TechCrunch, arXiv, 18 in the last 24h.",
+      "topStory": {
+        "title": "Ex-Windows chief praises MacBook Neo, laments Surface defeat",
+        "url": "https://www.windowscentral.com/microsoft/ex-windows-chief-calls-macbook-neo-a-paradigm-shifting-computer-reflects-on-surface-failure-and-windows-on-arm-while-lamenting-we-were-early-but-not-wrong"
+      },
+      "items": [
+        {
+          "id": "hn-1773491635857-86",
+          "title": "Ex-Windows chief praises MacBook Neo, laments Surface defeat",
+          "url": "https://www.windowscentral.com/microsoft/ex-windows-chief-calls-macbook-neo-a-paradigm-shifting-computer-reflects-on-surface-failure-and-windows-on-arm-while-lamenting-we-were-early-but-not-wrong",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-14T04:40:06.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 9,
+            "comments": 8
+          },
+          "rawTextSnippet": "Ex-Windows chief praises MacBook Neo, laments Surface defeat",
+          "hnMeta": {
+            "points": 9,
+            "comments": 8,
+            "hnUrl": "https://news.ycombinator.com/item?id=47373413"
           },
           "score": 60,
           "scoreBreakdown": {
@@ -353,21 +471,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1773405604790-15",
-          "title": "Mapping Middle East kinetic events via automated OSINT and deduplication",
-          "url": "https://news.ycombinator.com/item?id=47363659",
+          "id": "hn-1773491634445-12",
+          "title": "unix is the next ai evolution",
+          "url": "https://www.jeriko.ai/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-13T12:37:29.000Z",
+          "publishedAt": "2026-03-14T12:11:47.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "Hey HN, A few weeks ago I shared an early version of a Middle East threat map. Since then, the conflict has escalated, and the &quot;fog of war&quot; across social media has only gotten thicker. I realized my previous version was too much of a raw data dump. To make it actually useful for understand…",
+          "rawTextSnippet": "unix is the next ai evolution",
           "hnMeta": {
             "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363659"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375861"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -380,21 +498,75 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1773405604790-19",
-          "title": "What Cops Saw Chasing Down New Jersey Drones",
-          "url": "https://www.twz.com/air/what-cops-saw-chasing-down-jersey-drones-detailed-in-new-documents",
+          "id": "hn-1773491634445-14",
+          "title": "'RAMmageddon' hits labs: AI-driven memory shortage is impacting science",
+          "url": "https://www.nature.com/articles/d41586-026-00844-x",
           "source": "Hacker News",
-          "publishedAt": "2026-03-13T12:09:40.000Z",
+          "publishedAt": "2026-03-14T12:04:26.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "'RAMmageddon' hits labs: AI-driven memory shortage is impacting science",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375804"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773491634445-16",
+          "title": "Staff complain that xAI is flailing because of constant upheaval",
+          "url": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-14T11:55:22.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "What Cops Saw Chasing Down New Jersey Drones",
+          "rawTextSnippet": "Staff complain that xAI is flailing because of constant upheaval",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363350"
+            "hnUrl": "https://news.ycombinator.com/item?id=47375740"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773491634445-19",
+          "title": "AI doesn't need a bigger brain; it needs a nervous system",
+          "url": "https://www.huggl.io/AI-Doesnt-Need-a-Bigger-Brain-It-Needs-a-Nervous-System",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-14T11:32:09.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 2
+          },
+          "rawTextSnippet": "AI doesn't need a bigger brain; it needs a nervous system",
+          "hnMeta": {
+            "points": 1,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375591"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -409,31 +581,31 @@
       ]
     },
     {
-      "name": "Large Language Models",
-      "itemCount": 52,
-      "trendScore": 195,
-      "whyTrending": "52 stories across Hacker, MIT, arXiv, 32 in the last 24h.",
+      "name": "AI Agents & Automation",
+      "itemCount": 38,
+      "trendScore": 183,
+      "whyTrending": "38 stories across Hacker, MIT, GitHub, 18 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-        "url": "https://github.com/jrswab/axe"
+        "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+        "url": "https://www.getspine.ai/"
       },
       "items": [
         {
-          "id": "hn-1773405610603-181",
-          "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-          "url": "https://github.com/jrswab/axe",
+          "id": "hn-1773491638764-143",
+          "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+          "url": "https://www.getspine.ai/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-12T13:49:12.000Z",
+          "publishedAt": "2026-03-13T13:22:40.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 195,
-            "comments": 115
+            "upvotes": 101,
+            "comments": 69
           },
-          "rawTextSnippet": "I built Axe because I got tired of every AI tool trying to be a chatbot. Most frameworks want a long-lived session with a massive context window doing everything at once. That&#x27;s expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be too. Axe treats …",
+          "rawTextSnippet": "Hey HN! We&#x27;re Ashwin and Akshay from Spine AI ( https:&#x2F;&#x2F;www.getspine.ai ). Spine Swarm is a multi-agent system that works on an infinite visual canvas to complete complex non-coding projects: competitive analysis, financial modeling, SEO audits, pitch decks, interactive prototypes, an…",
           "hnMeta": {
-            "points": 195,
-            "comments": 115,
-            "hnUrl": "https://news.ycombinator.com/item?id=47350516"
+            "points": 101,
+            "comments": 69,
+            "hnUrl": "https://news.ycombinator.com/item?id=47364116"
           },
           "score": 66,
           "scoreBreakdown": {
@@ -443,44 +615,144 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "rss-1773405604551-0",
-          "title": "The Download: how AI is used for military targeting, and the Pentagon&#8217;s war on Claude",
-          "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-03-13T12:16:56.000Z",
+          "id": "hn-1773491637269-123",
+          "title": "Show HN: Bots of WallStreet,agents debate stocks,make predictions.Human spectate",
+          "url": "https://botsofwallstreet.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-14T11:12:51.000Z",
           "scoreSignals": {
-            "sourceAuthority": 18
+            "sourceAuthority": 14,
+            "upvotes": 7,
+            "comments": 2
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targ…",
-          "score": 63,
+          "rawTextSnippet": "Show HN: Bots of WallStreet,agents debate stocks,make predictions.Human spectate",
+          "hnMeta": {
+            "points": 7,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375474"
+          },
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 18,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773491634445-11",
+          "title": "OctopusOS – an operating system for governed AI agents",
+          "url": "https://octopusos.ai/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-14T12:14:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 2
+          },
+          "rawTextSnippet": "OctopusOS – an operating system for governed AI agents",
+          "hnMeta": {
+            "points": 2,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375880"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1773405604790-18",
-          "title": "Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)",
-          "url": "http://amoilanen.github.io/Algorithms-with-Typescript/",
+          "id": "hn-1773491634445-13",
+          "title": "Show HN: Vercel Blob AI SDK Tools",
+          "url": "https://github.com/vercel-labs/vercel-blob-ai-sdk",
           "source": "Hacker News",
-          "publishedAt": "2026-03-13T12:15:11.000Z",
+          "publishedAt": "2026-03-14T12:07:44.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "A collection of AI SDK tools that give your AI agents the ability to store and manage files using Vercel Blob.",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375829"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773491634445-17",
+          "title": "VS Code: whitelisting AI agent terminal commands",
+          "url": "https://blog.georgovassilis.com/2026/03/14/restricting-vs-code-terminal-commands-to-an-approved-commands-list/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-14T11:54:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "I started writing this book 10 years ago in JavaScript, got through a few chapters (asymptotic notation, basic techniques, start of sorting), and then abandoned it. Recently I picked it back up, converted everything to TypeScript, and used AI (Zenflow [1] + Claude Opus 4.6) to complete the remaining…",
+          "rawTextSnippet": "VS Code: whitelisting AI agent terminal commands",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363400"
+            "hnUrl": "https://news.ycombinator.com/item?id=47375732"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "AI Safety & Regulation",
+      "itemCount": 16,
+      "trendScore": 141,
+      "whyTrending": "16 stories across Hacker, TechCrunch, MIT, 8 in the last 24h.",
+      "topStory": {
+        "title": "New York Wants to Ban the AI That Outscores Doctors – Garry's List",
+        "url": "https://garryslist.org/posts/new-york-wants-to-ban-the-ai-that-outscores-doctors"
+      },
+      "items": [
+        {
+          "id": "hn-1773491634445-21",
+          "title": "New York Wants to Ban the AI That Outscores Doctors – Garry's List",
+          "url": "https://garryslist.org/posts/new-york-wants-to-ban-the-ai-that-outscores-doctors",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-14T11:14:29.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 1
+          },
+          "rawTextSnippet": "New York Wants to Ban the AI That Outscores Doctors – Garry's List",
+          "hnMeta": {
+            "points": 4,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47375484"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -490,532 +762,311 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Large Language Models"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1773405604790-25",
-          "title": "Show HN: TokenWatch – Real-Time AI API Cost Monitor for OpenAI/Anthropic/Gemini",
-          "url": "https://tokenwatch-ten.vercel.app/",
+          "id": "hn-1773491634445-26",
+          "title": "The OpenClaw AI mania in China, as security fears and enthusiasm surge",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3346513/inside-openclaw-mania-gripping-china-security-fears-surge-alongside-enthusiasm",
           "source": "Hacker News",
-          "publishedAt": "2026-03-13T11:46:16.000Z",
+          "publishedAt": "2026-03-14T10:29:27.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Hey HN! Built this after watching engineering teams repeatedly get surprised by AI API invoices — no visibility into spend until the bill landed. TokenWatch connects to your OpenAI, Anthropic, and Gemini keys and gives you: - Real-time spend dashboard across projects - Budget thresholds with proacti…",
+          "rawTextSnippet": "The OpenClaw AI mania in China, as security fears and enthusiasm surge",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363145"
+            "hnUrl": "https://news.ycombinator.com/item?id=47375205"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "Large Language Models"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1773405604790-26",
-          "title": "Creating the Perfect Claude Code Status Line",
-          "url": "https://www.aihero.dev/creating-the-perfect-claude-code-status-line",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-13T11:45:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Creating the Perfect Claude Code Status Line",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363139"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        }
-      ]
-    },
-    {
-      "name": "AI Agents & Automation",
-      "itemCount": 39,
-      "trendScore": 188,
-      "whyTrending": "39 stories across Hacker, arXiv, TechCrunch, 26 in the last 24h.",
-      "topStory": {
-        "title": "Churning butter while agents churn code",
-        "url": "https://ibestvina.substack.com/p/churning-butter-while-agents-churn"
-      },
-      "items": [
-        {
-          "id": "hn-1773405607710-120",
-          "title": "Churning butter while agents churn code",
-          "url": "https://ibestvina.substack.com/p/churning-butter-while-agents-churn",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-13T12:08:37.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Churning butter while agents churn code",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363337"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773405607710-121",
-          "title": "Why yes, you *can* agentically code wherever you SSH",
-          "url": "https://ivoras.substack.com/p/why-yes-you-can-agentically-code",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-13T11:31:57.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Why yes, you *can* agentically code wherever you SSH",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363018"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773405607710-122",
-          "title": "Analysis → Implementation → Reflection – a practical technique for agentic AI",
-          "url": "https://blog.scottlogic.com/2026/03/05/analysis-implementation-reflection-practical-techniques.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-13T11:05:59.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Analysis → Implementation → Reflection – a practical technique for agentic AI",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47362822"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773405607710-124",
-          "title": "\"Agentic\" is only a marketing term",
-          "url": "https://www.yourbroadideas.com/agentic-is-only-a-marketing-term",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-13T11:02:54.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 6,
-            "comments": 0
-          },
-          "rawTextSnippet": "\"Agentic\" is only a marketing term",
-          "hnMeta": {
-            "points": 6,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47362798"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773405607710-126",
-          "title": "Show HN: Who watches the watchmen? A public decision track record for AI agents",
-          "url": "https://www.agent-smith.org/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-13T11:00:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Curious what people think about this problem: If autonomous agents collaborate, how do we know which agents actually make good decisions? I always liked it deterministic and reasonable. I want to trust the automation, doesn&#x27;t matter if it is an agent or terraform. That&#x27;s the reason I broug…",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47362779"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 13,
-      "trendScore": 126,
-      "whyTrending": "13 stories across Hacker, TechCrunch, MIT, 6 in the last 24h.",
-      "topStory": {
-        "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
-        "url": "https://ionrouter.io"
-      },
-      "items": [
-        {
-          "id": "hn-1773405609180-164",
-          "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
-          "url": "https://ionrouter.io",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-12T18:52:36.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 66,
-            "comments": 25
-          },
-          "rawTextSnippet": "Hey HN — I’m Veer and my cofounder is Suryaa. We&#x27;re building Cumulus Labs (YC W26), and we&#x27;re releasing our latest product IonRouter ( https:&#x2F;&#x2F;ionrouter.io&#x2F; ), an inference API for open-source and fine tuned models. You swap in our base URL, keep your existing OpenAI client …",
-          "hnMeta": {
-            "points": 66,
-            "comments": 25,
-            "hnUrl": "https://news.ycombinator.com/item?id=47355410"
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1773405607710-119",
-          "title": "Show HN: A modern boarding pass encoder/decoder/scanner (web and library)",
-          "url": "https://github.com/jqssun/iata-api",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-13T12:38:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Open-sourcing an IATA compliant and backwards compatible boarding pass tool. You can try it out here: https:&#x2F;&#x2F;jqs.app&#x2F;iata The BCBP standards can be finnicky to implement, with documentation often behind paywalls and all existing tools out of date. Needed a modern, open, web-based san…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363675"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1773405607238-98",
-          "title": "Truecaller now lets you hang up on scammers &#8212; on behalf of your family",
-          "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
+          "id": "rss-1773491637191-106",
+          "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+          "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-03-13T04:30:00.000Z",
+          "publishedAt": "2026-03-13T17:09:59.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed. The company, which has over 450 m…",
-          "score": 57,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1773405613488-217",
-          "title": "Show HN: We open sourced Vapi – UI included",
-          "url": "https://github.com/dograh-hq/dograh",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-12T15:03:19.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 8,
-            "comments": 7
-          },
-          "rawTextSnippet": "We kept hitting the same wall building voice AI systems. Pipecat and LiveKit are great projects, genuinely. But getting it to production took us weeks of plumbing - wiring things together, handling barge-ins, setting up telephony, Knowledge base, tool calls, handling barge in etc. And every time we …",
-          "hnMeta": {
-            "points": 8,
-            "comments": 7,
-            "hnUrl": "https://news.ycombinator.com/item?id=47351652"
-          },
+          "rawTextSnippet": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
           "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1773405604552-4",
-          "title": "Pragmatic by design: Engineering AI for the real world",
-          "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-03-12T13:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the desig…",
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 18,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1773491640164-178",
+          "title": "Show HN: Re-imagine photo albums with NanoBanana",
+          "url": "https://github.com/hbmartin/imagemine",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-13T16:44:53.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "My wife and I have our Apple TV screensaver set to favorites photo album. Except we don’t update it much so it was getting boring. Enter the solution to any and every problem (can you guess?) —em dash— AI! Introducing imagemine → → Try it by running `uvx imagemine path&#x2F;to&#x2F;photo.jpg` At its…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47366717"
+          },
+          "score": 54,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1773491640165-180",
+          "title": "Anthropic gives $20M to group pushing for AI regulations ahead of 2026 elections",
+          "url": "https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-13T14:52:58.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic gives $20M to group pushing for AI regulations ahead of 2026 elections",
+          "hnMeta": {
+            "points": 5,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47365298"
+          },
+          "score": 54,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
         }
       ]
     },
     {
-      "name": "Generative AI & Media",
+      "name": "Funding & Acquisitions",
       "itemCount": 10,
-      "trendScore": 121,
-      "whyTrending": "10 stories across Hacker, arXiv, OpenAI, 8 in the last 24h.",
+      "trendScore": 127,
+      "whyTrending": "10 stories across TechCrunch, Hacker, OpenAI, 5 in the last 24h.",
       "topStory": {
-        "title": "VideoGamer.com removed from Google after pivoting to AI-generated articles",
-        "url": "https://www.thegamer.com/gaming-site-videogamer-removed-google/"
+        "title": "The $32B acquisition that one VC is calling the &#8216;Deal of the Decade&#8217;",
+        "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/"
       },
       "items": [
         {
-          "id": "hn-1773405604790-24",
-          "title": "VideoGamer.com removed from Google after pivoting to AI-generated articles",
-          "url": "https://www.thegamer.com/gaming-site-videogamer-removed-google/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-13T11:52:01.000Z",
+          "id": "rss-1773491637191-108",
+          "title": "The $32B acquisition that one VC is calling the &#8216;Deal of the Decade&#8217;",
+          "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-13T16:20:23.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "VideoGamer.com removed from Google after pivoting to AI-generated articles",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47363185"
-          },
-          "score": 59,
+          "rawTextSnippet": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google&#8217;s $32 billion deal, finalized after a declined…",
+          "score": 63,
           "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
+            "freshness": 22,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 10
           },
-          "cluster": "Generative AI & Media"
+          "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "hn-1773405606225-82",
-          "title": "YouTube videos that have almost zero previous views",
-          "url": "http://astronaut.io/",
+          "id": "rss-1773491637191-103",
+          "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+          "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-13T21:37:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "hn-1773491634445-28",
+          "title": "Building an AI startup in Bristol while working a regular job",
+          "url": "https://www.indiehackers.com/post/building-an-ai-startup-in-bristol-while-working-a-regular-job-b1aeee7fcc",
           "source": "Hacker News",
-          "publishedAt": "2026-03-13T10:21:59.000Z",
+          "publishedAt": "2026-03-14T09:38:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 1
+            "comments": 0
           },
-          "rawTextSnippet": "YouTube videos that have almost zero previous views",
+          "rawTextSnippet": "Building an AI startup in Bristol while working a regular job",
           "hnMeta": {
             "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47362553"
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47374926"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "Generative AI & Media"
+          "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "hn-1773405606225-96",
-          "title": "AI-generated passwords aren't random, it just looks that way",
-          "url": "https://www.theregister.com/2026/02/18/generating_passwords_with_llms/",
+          "id": "hn-1773491635857-82",
+          "title": "Show HN: PDR AI – Open-source startup accelerator engine for non-technical chaos",
+          "url": "https://github.com/Deodat-Lawson/LaunchStack",
           "source": "Hacker News",
-          "publishedAt": "2026-03-13T04:23:28.000Z",
+          "publishedAt": "2026-03-14T07:42:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
-            "comments": 2
+            "comments": 1
           },
-          "rawTextSnippet": "AI-generated passwords aren't random, it just looks that way",
+          "rawTextSnippet": "Show HN: PDR AI – Open-source startup accelerator engine for non-technical chaos (marketing, PRDs, onboarding) A couple weeks ago I shared PDR AI as an open-source tool for startup doc mess[]( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47258661 ). Since then I&#x27;ve doubled down on the co…",
           "hnMeta": {
             "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47360670"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47374271"
           },
-          "score": 55,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "Generative AI & Media"
+          "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "arxiv-1773405604917-35",
-          "title": "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos",
-          "url": "https://arxiv.org/abs/2603.12261v1",
-          "source": "arXiv",
-          "publishedAt": "2026-03-12T17:59:48.000Z",
+          "id": "rss-1773491637191-105",
+          "title": "The biggest AI stories of the year (so far)",
+          "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-13T19:38:11.000Z",
           "scoreSignals": {
-            "sourceAuthority": 15
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is encoded. We develop an interpretation of the color representation in the Variational Autoencoder late…",
-          "arxivMeta": {
-            "authors": "Mateusz Pach, Jessica Bader, Quentin Bouniot, Serge Belongie, Zeynep Akata",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
+          "rawTextSnippet": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 15,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 6
           },
-          "cluster": "Generative AI & Media"
-        },
-        {
-          "id": "arxiv-1773405604917-40",
-          "title": "Incremental Neural Network Verification via Learned Conflicts",
-          "url": "https://arxiv.org/abs/2603.12232v1",
-          "source": "arXiv",
-          "publishedAt": "2026-03-12T17:52:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Neural network verification is often used as a core component within larger analysis procedures, which generate sequences of closely related verification queries over the same network. In existing neural network verifiers, each query is typically solved independently, and information learned during …",
-          "arxivMeta": {
-            "authors": "Raya Elsaleh, Liam Davis, Haoze Wu, Guy Katz",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Generative AI & Media"
+          "cluster": "Funding & Acquisitions"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1773405604551-1",
-      "title": "Future AI chips could be built on glass",
-      "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-03-13T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation…",
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Absolics plans to begin commercial production of special glass panels for next-generation AI chips.  \n• Why it matters: This innovation could enhance the performance and efficiency of AI chips in large data centers.  \n• Business opportunity: Companies in the semiconductor industry can explore partnerships or investments in glass-based technology for AI applications."
-    },
-    {
-      "id": "hn-1773405609180-164",
-      "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
-      "url": "https://ionrouter.io",
+      "id": "hn-1773491638764-143",
+      "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+      "url": "https://www.getspine.ai/",
       "source": "Hacker News",
-      "publishedAt": "2026-03-12T18:52:36.000Z",
+      "publishedAt": "2026-03-13T13:22:40.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 66,
-        "comments": 25
+        "upvotes": 101,
+        "comments": 69
       },
-      "rawTextSnippet": "Hey HN — I’m Veer and my cofounder is Suryaa. We&#x27;re building Cumulus Labs (YC W26), and we&#x27;re releasing our latest product IonRouter ( https:&#x2F;&#x2F;ionrouter.io&#x2F; ), an inference API for open-source and fine tuned models. You swap in our base URL, keep your existing OpenAI client …",
+      "rawTextSnippet": "Hey HN! We&#x27;re Ashwin and Akshay from Spine AI ( https:&#x2F;&#x2F;www.getspine.ai ). Spine Swarm is a multi-agent system that works on an infinite visual canvas to complete complex non-coding projects: competitive analysis, financial modeling, SEO audits, pitch decks, interactive prototypes, an…",
       "hnMeta": {
-        "points": 66,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=47355410"
+        "points": 101,
+        "comments": 69,
+        "hnUrl": "https://news.ycombinator.com/item?id=47364116"
+      },
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Spine AI launched Spine Swarm, a multi-agent system for collaborative project completion on a visual canvas.  \n• Why it matters: This innovation streamlines complex non-coding tasks, enhancing productivity and collaboration for teams.  \n• Business opportunity: Companies can leverage Spine Swarm to improve efficiency in project management and creative processes."
+    },
+    {
+      "id": "hn-1773491634445-27",
+      "title": "Show HN: AgentArmor – open-source 8-layer security framework for AI agents",
+      "url": "https://github.com/Agastya910/agentarmor",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-14T09:44:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 2
+      },
+      "rawTextSnippet": "I&#x27;ve been talking to founders building AI agents across fintech, devtools, and productivity – and almost none of them have any real security layer. Their agents read emails, call APIs, execute code, and write to databases with essentially no guardrails beyond &quot;we trust the LLM.&quot; So I …",
+      "hnMeta": {
+        "points": 2,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47374958"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: An open-source 8-layer security framework for AI agents, called AgentArmor, has been introduced.  \n• Why it matters: Many AI agents currently lack adequate security measures, posing significant risks in various sectors.  \n• Business opportunity: There is a growing demand for robust security solutions in AI applications, presenting a market opportunity for developers and businesses."
+    },
+    {
+      "id": "hn-1773491643002-214",
+      "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
+      "url": "https://www.runcaptain.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-13T15:45:33.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 52,
+        "comments": 35
+      },
+      "rawTextSnippet": "Hi HN, we’re Lewis and Edgar, building Captain to simplify unstructured data search ( https:&#x2F;&#x2F;runcaptain.com ). Captain automates the building and maintenance of file-based RAG pipelines. It indexes cloud storage like S3 and GCS, plus SaaS sources like Google Drive. There’s a quick walkthr…",
+      "hnMeta": {
+        "points": 52,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=47366011"
       },
       "score": 61,
       "scoreBreakdown": {
@@ -1025,25 +1076,52 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Cumulus Labs launched IonRouter, an inference API for open-source and fine-tuned models.  \n• Why it matters: IonRouter offers a high-throughput, low-cost solution for integrating AI models, enhancing accessibility for developers.  \n• Business opportunity: Companies can leverage IonRouter to reduce costs and improve efficiency in deploying AI applications."
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: Captain, a startup from Y Combinator, launched an automated tool for managing RAG (retrieval-augmented generation) pipelines for files.  \n• Why it matters: This innovation simplifies the search of unstructured data across various cloud and SaaS platforms, enhancing data accessibility.  \n• Business opportunity: Companies can leverage Captain's solution to improve data management and streamline workflows, potentially increasing productivity."
     },
     {
-      "id": "hn-1773405604790-15",
-      "title": "Mapping Middle East kinetic events via automated OSINT and deduplication",
-      "url": "https://news.ycombinator.com/item?id=47363659",
+      "id": "hn-1773491634445-13",
+      "title": "Show HN: Vercel Blob AI SDK Tools",
+      "url": "https://github.com/vercel-labs/vercel-blob-ai-sdk",
       "source": "Hacker News",
-      "publishedAt": "2026-03-13T12:37:29.000Z",
+      "publishedAt": "2026-03-14T12:07:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "A collection of AI SDK tools that give your AI agents the ability to store and manage files using Vercel Blob.",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47375829"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation"
+    },
+    {
+      "id": "hn-1773491634445-18",
+      "title": "AsterPay – EUR Settlement for AI Agent Payments (USDC → EUR via SEPA Instant)",
+      "url": "https://news.ycombinator.com/item?id=47375622",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-14T11:37:39.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
-        "comments": 0
+        "comments": 1
       },
-      "rawTextSnippet": "Hey HN, A few weeks ago I shared an early version of a Middle East threat map. Since then, the conflict has escalated, and the &quot;fog of war&quot; across social media has only gotten thicker. I realized my previous version was too much of a raw data dump. To make it actually useful for understand…",
+      "rawTextSnippet": "We built AsterPay because AI agents can earn stablecoins but can&#x27;t easily convert them to real-world currencies. Our API converts USDC&#x2F;EURC to EUR via SEPA Instant in under 5 seconds. What makes it different: - Agent-native: x402 protocol (HTTP 402 pay-per-call), MCP server with 16 tools -…",
       "hnMeta": {
         "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47363659"
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47375622"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1053,68 +1131,13 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: A developer improved a Middle East threat map using automated OSINT and deduplication techniques.  \n• Why it matters: The enhanced map aims to clarify information amidst escalating conflict and social media noise.  \n• Business opportunity: There is potential for developing advanced analytics tools for real-time conflict monitoring and situational awareness."
-    },
-    {
-      "id": "hn-1773405604790-17",
-      "title": "The AI productivity paradox: More work, not less",
-      "url": "https://fortune.com/2026/03/10/ai-productivity-workers-workday-efficiency/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-13T12:19:06.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "The AI productivity paradox: More work, not less",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47363437"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI in Enterprise"
-    },
-    {
-      "id": "hn-1773405604790-25",
-      "title": "Show HN: TokenWatch – Real-Time AI API Cost Monitor for OpenAI/Anthropic/Gemini",
-      "url": "https://tokenwatch-ten.vercel.app/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-13T11:46:16.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Hey HN! Built this after watching engineering teams repeatedly get surprised by AI API invoices — no visibility into spend until the bill landed. TokenWatch connects to your OpenAI, Anthropic, and Gemini keys and gives you: - Real-time spend dashboard across projects - Budget thresholds with proacti…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47363145"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
+      "cluster": "AI Tools & Products"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1773405604918-41",
+      "id": "arxiv-1773491634600-36",
       "title": "Security Considerations for Artificial Intelligence Agents",
       "url": "https://arxiv.org/abs/2603.12230v1",
       "source": "arXiv",
@@ -1131,9 +1154,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1142,7 +1165,7 @@
       "cluster": "AI Agents & Automation"
     },
     {
-      "id": "arxiv-1773405604919-56",
+      "id": "arxiv-1773491634601-51",
       "title": "GlyphBanana: Advancing Precise Text Rendering Through Agentic Workflows",
       "url": "https://arxiv.org/abs/2603.12155v1",
       "source": "arXiv",
@@ -1159,9 +1182,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1170,7 +1193,7 @@
       "cluster": "AI Agents & Automation"
     },
     {
-      "id": "arxiv-1773405604919-58",
+      "id": "arxiv-1773491634601-53",
       "title": "IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL",
       "url": "https://arxiv.org/abs/2603.12151v1",
       "source": "arXiv",
@@ -1187,9 +1210,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1198,7 +1221,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1773405604917-35",
+      "id": "arxiv-1773491634599-30",
       "title": "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos",
       "url": "https://arxiv.org/abs/2603.12261v1",
       "source": "arXiv",
@@ -1215,9 +1238,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1226,7 +1249,7 @@
       "cluster": "Generative AI & Media"
     },
     {
-      "id": "arxiv-1773405604917-36",
+      "id": "arxiv-1773491634600-31",
       "title": "EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models",
       "url": "https://arxiv.org/abs/2603.12252v1",
       "source": "arXiv",
@@ -1243,9 +1266,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1256,36 +1279,85 @@
   ],
   "funding": [
     {
-      "id": "rss-1773405607238-97",
-      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-      "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
+      "id": "rss-1773491637191-108",
+      "title": "The $32B acquisition that one VC is calling the &#8216;Deal of the Decade&#8217;",
+      "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-13T05:00:00.000Z",
+      "publishedAt": "2026-03-13T16:20:23.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
-      "score": 66,
+      "rawTextSnippet": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google&#8217;s $32 billion deal, finalized after a declined…",
+      "score": 63,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 10
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Google finalized a $32 billion acquisition of cybersecurity startup Wiz.  \n• Why it matters: This marks the largest venture-backed acquisition in history, highlighting significant market trends.  \n• Business opportunity: Companies can leverage the convergence of AI, cloud, and security to innovate and capture market share."
+    },
+    {
+      "id": "rss-1773491637191-103",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-13T21:37:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 9
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Peter Sarlin launched QuTwo to develop infrastructure for future quantum computing.  \n• Why it matters: This initiative positions enterprises to seamlessly transition to quantum technology as it becomes available.  \n• Business opportunity: QuTwo can capitalize on the growing demand for quantum-ready solutions among businesses preparing for technological advancements."
+      "summary": "• What happened: Nyne, a startup founded by a father-son duo, secured $5.3 million in seed funding.  \n• Why it matters: The funding will help enhance AI agents by providing them with essential human context.  \n• Business opportunity: There is potential for growth in developing AI solutions that better understand human interactions and emotions."
     },
     {
-      "id": "rss-1773405607238-108",
-      "title": "Wonderful raises $150M Series B at $2B valuation",
-      "url": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+      "id": "hn-1773491635857-86",
+      "title": "Ex-Windows chief praises MacBook Neo, laments Surface defeat",
+      "url": "https://www.windowscentral.com/microsoft/ex-windows-chief-calls-macbook-neo-a-paradigm-shifting-computer-reflects-on-surface-failure-and-windows-on-arm-while-lamenting-we-were-early-but-not-wrong",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-14T04:40:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 9,
+        "comments": 8
+      },
+      "rawTextSnippet": "Ex-Windows chief praises MacBook Neo, laments Surface defeat",
+      "hnMeta": {
+        "points": 9,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=47373413"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: The former chief of Windows commended the MacBook Neo while expressing disappointment over the Surface's lack of success.  \n• Why it matters: This highlights the competitive landscape in the laptop market and the challenges faced by Microsoft.  \n• Business opportunity: Companies could explore innovative designs and features to better compete with leading brands like Apple."
+    },
+    {
+      "id": "rss-1773491637191-105",
+      "title": "The biggest AI stories of the year (so far)",
+      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-12T15:12:35.000Z",
+      "publishedAt": "2026-03-13T19:38:11.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
+      "rawTextSnippet": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
       "score": 59,
       "scoreBreakdown": {
         "freshness": 22,
@@ -1294,19 +1366,18 @@
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Wonderful secured $150 million in a Series B funding round, achieving a $2 billion valuation.  \n• Why it matters: This significant investment reflects strong investor confidence and rapid growth potential in the company.  \n• Business opportunity: The funding enables Wonderful to expand its operations and enhance product offerings, presenting growth opportunities in the market."
+      "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1773405607238-114",
-      "title": "Netflix may have paid $600 million for Ben Affleck&#8217;s AI startup",
-      "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+      "id": "rss-1773491637191-110",
+      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
+      "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-11T22:00:05.000Z",
+      "publishedAt": "2026-03-13T05:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+      "rawTextSnippet": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
       "score": 55,
       "scoreBreakdown": {
         "freshness": 15,
@@ -1315,56 +1386,8 @@
         "novelty": 15,
         "businessImpact": 9
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Netflix reportedly acquired Ben Affleck's AI startup for $600 million.  \n• Why it matters: This acquisition could be one of Netflix's largest, signaling a strategic shift towards AI integration.  \n• Business opportunity: Companies in the AI space may see increased interest and investment from major players like Netflix."
-    },
-    {
-      "id": "rss-1773405607238-115",
-      "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
-      "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-11T21:40:49.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
       "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "hn-1773405610603-174",
-      "title": "Anthropic invests $100M into the Claude Partner Network",
-      "url": "https://www.anthropic.com/news/claude-partner-network",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-12T18:32:25.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 1
-      },
-      "rawTextSnippet": "Anthropic invests $100M into the Claude Partner Network",
-      "hnMeta": {
-        "points": 5,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47355195"
-      },
-      "score": 51,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
     }
   ],
-  "dailyBrief": "In today's AI landscape, researchers at MIT are exploring the potential of glass-based chips, which could revolutionize processing speeds and energy efficiency for AI applications, a critical factor for businesses looking to scale operations. Meanwhile, a startup is positioning itself to bridge the gap before quantum computing becomes mainstream, offering enterprises a head start in leveraging this transformative technology. On the software front, a new tool called Axe promises to streamline AI development by replacing existing frameworks with a compact 12MB binary, potentially reducing overhead costs. Additionally, advancements in prompt-caching techniques could lead to significant token savings of up to 90%, enhancing the efficiency of AI models. Lastly, the Pentagon's increasing reliance on AI for military targeting raises ethical considerations and underscores the growing intersection of AI technology and national security."
+  "dailyBrief": "Today’s AI landscape is buzzing with innovation and strategic moves. The launch of Auditor Core, an enterprise security auditing engine for DevSecOps, underscores the growing emphasis on security in software development, potentially reducing vulnerabilities and compliance risks for businesses. Meanwhile, Spine Swarm, a collaborative AI agent platform, could revolutionize project management by enhancing team dynamics through visual collaboration. In finance, the Bots of WallStreet are making waves as AI agents debate stock predictions, offering a novel way for investors to gauge market sentiment. Additionally, the Claude Autoresearch Skill introduces autonomous goal-directed iteration, streamlining coding processes and enhancing productivity. Lastly, a $32 billion acquisition has been dubbed the 'Deal of the Decade' by a prominent VC, signaling significant shifts in market dynamics and investment strategies."
 }
