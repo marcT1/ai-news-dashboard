@@ -1,43 +1,71 @@
 {
   "topNews": [
     {
-      "id": "hn-1773665644941-130",
-      "title": "Show HN: Signbee – An API that lets AI agents send documents for signature",
-      "url": "https://signb.ee",
+      "id": "hn-1773752011737-218",
+      "title": "Show HN: Claude Code skills that build complete Godot games",
+      "url": "https://github.com/htdt/godogen",
       "source": "Hacker News",
-      "publishedAt": "2026-03-16T09:00:41.000Z",
+      "publishedAt": "2026-03-16T16:07:29.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 3
+        "upvotes": 265,
+        "comments": 167
       },
-      "rawTextSnippet": "Hi HN, I built Signbee while working on AI agents that handle contracting workflows. The agents could draft agreements, negotiate terms, manage deals — but the moment a signature was needed, the workflow broke. It always ended with &quot;please upload this to DocuSign&quot; — which meant human inter…",
+      "rawTextSnippet": "I’ve been working on this for about a year through four major rewrites. Godogen is a pipeline that takes a text prompt, designs the architecture, generates 2D&#x2F;3D assets, writes the GDScript, and tests it visually. The output is a complete, playable Godot 4 project. Getting LLMs to reliably gene…",
       "hnMeta": {
-        "points": 5,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=47396566"
+        "points": 265,
+        "comments": 167,
+        "hnUrl": "https://news.ycombinator.com/item?id=47400868"
       },
-      "score": 67,
+      "score": 71,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A developer introduced Godogen, a tool that generates complete Godot 4 games from text prompts.  \n• Why it matters: This innovation streamlines game development, making it accessible to non-programmers and enhancing productivity for developers.  \n• Business opportunity: There is potential for monetizing game development tools and services that leverage AI to simplify the creation process."
+    },
+    {
+      "id": "hn-1773752007221-153",
+      "title": "Reverse-engineering Viktor and making it Open Source",
+      "url": "https://matijacniacki.com/blog/openviktor",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-17T08:15:34.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 53,
+        "comments": 17
+      },
+      "rawTextSnippet": "Reverse-engineering Viktor and making it Open Source",
+      "hnMeta": {
+        "points": 53,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=47409885"
+      },
+      "score": 69,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 10,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Signbee is an API enabling AI agents to send documents for signature seamlessly.  \n• Why it matters: It streamlines contracting workflows by eliminating the need for human intervention at the signature stage.  \n• Business opportunity: Companies can enhance efficiency in contract management and reduce turnaround times by integrating Signbee into their systems."
+      "cluster": "Open Source AI",
+      "summary": "• What happened: Viktor has been reverse-engineered and made available as open-source software.  \n• Why it matters: This move promotes transparency and collaboration in software development, potentially enhancing innovation.  \n• Business opportunity: Companies can leverage the open-source version to customize solutions and reduce software costs."
     },
     {
-      "id": "rss-1773665641790-0",
-      "title": "The Download: glass chips and “AI-free” logos",
-      "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+      "id": "rss-1773752002762-0",
+      "title": "The Download: OpenAI’s US military deal, and Grok&#8217;s CSAM lawsuit",
+      "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-03-16T12:35:00.000Z",
+      "publishedAt": "2026-03-17T12:26:48.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Future AI chips could be built on glass&#160; Human-made glass is thousands of years old. But&#160;it’s&#160;now poised to find its way into the AI ch…",
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could…",
       "score": 66,
       "scoreBreakdown": {
         "freshness": 30,
@@ -46,519 +74,344 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Future AI chips may be developed using glass materials.  \n• Why it matters: This innovation could enhance the performance and sustainability of AI technologies.  \n• Business opportunity: Companies can explore manufacturing and integrating glass-based chips in tech products."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenAI has agreed to provide the Pentagon access to its AI technology.  \n• Why it matters: This deal raises ethical concerns about the use of AI in military applications.  \n• Business opportunity: Companies can explore AI solutions for defense and security sectors, balancing innovation with ethical considerations."
     },
     {
-      "id": "github-1773665642228-63",
+      "id": "hn-1773752005788-121",
+      "title": "Show HN: Real-time observability for coding agents",
+      "url": "https://github.com/vtemian/agentprobe",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-17T12:03:35.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 13,
+        "comments": 0
+      },
+      "rawTextSnippet": "Show HN: Real-time observability for coding agents",
+      "hnMeta": {
+        "points": 13,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47411512"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A new tool for real-time observability of coding agents was showcased on Hacker News.  \n• Why it matters: This innovation enhances monitoring and debugging capabilities for developers, improving coding efficiency.  \n• Business opportunity: Companies can leverage this technology to streamline software development processes and reduce operational costs."
+    },
+    {
+      "id": "hn-1773752007221-154",
+      "title": "Encyclopedia Britannica sues OpenAI over AI training",
+      "url": "https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-17T07:00:48.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 15,
+        "comments": 2
+      },
+      "rawTextSnippet": "Encyclopedia Britannica sues OpenAI over AI training",
+      "hnMeta": {
+        "points": 15,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47409495"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Research & Benchmarks",
+      "summary": "• What happened: Encyclopedia Britannica has filed a lawsuit against OpenAI regarding the use of its content for AI training.  \n• Why it matters: The case raises important questions about copyright and the use of proprietary content in AI development.  \n• Business opportunity: Companies can explore partnerships or licensing agreements to navigate content usage in AI technologies."
+    },
+    {
+      "id": "rss-1773752005443-105",
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-16T17:47:32.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Frore, a deep tech chip startup, achieved a valuation of $1.64 billion after raising $143 million.  \n• Why it matters: The company's innovative liquid-cooling technology for chips aligns with industry demands for efficient thermal management.  \n• Business opportunity: Investors and tech firms can explore partnerships or investments in advanced cooling solutions to enhance chip performance."
+    },
+    {
+      "id": "hn-1773752002953-26",
+      "title": "87% of AI-Generated Pull Requests Ship Security Vulnerabilities",
+      "url": "https://grith.ai/blog/87-percent-of-ai-pull-requests-ship-vulnerabilities",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-17T11:23:13.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 6,
+        "comments": 0
+      },
+      "rawTextSnippet": "87% of AI-Generated Pull Requests Ship Security Vulnerabilities",
+      "hnMeta": {
+        "points": 6,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47411195"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Generative AI & Media",
+      "summary": "• What happened: A study found that 87% of AI-generated pull requests contain security vulnerabilities.  \n• Why it matters: This highlights significant risks in relying on AI for code generation, potentially compromising software security.  \n• Business opportunity: Companies can invest in AI tools that prioritize security checks to enhance code quality and reduce vulnerabilities."
+    },
+    {
+      "id": "hn-1773752004362-77",
+      "title": "Show HN: The new security frontier for LLMs; SIEM evasion",
+      "url": "https://blog.vulnetic.ai/the-new-security-frontier-for-llms-siem-evasion-488e8f3c8d7d",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-17T10:42:29.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "For the first time we are seeing our agent have the ability to perform SIEM and EDR evasion. If models are capable of SIEM evasion, organizations need to assume adversaries will have access to these capabilities soon.",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47410894"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: LLMs have demonstrated the ability to evade Security Information and Event Management (SIEM) systems.  \n• Why it matters: This development indicates that adversaries may soon exploit similar capabilities, increasing cybersecurity risks.  \n• Business opportunity: Companies can invest in advanced security solutions to counteract LLM-driven evasion tactics and enhance their defenses."
+    },
+    {
+      "id": "hn-1773752004363-83",
+      "title": "Can LLMs Hack Enterprise Networks?",
+      "url": "https://github.com/andreashappe/cochise",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-17T09:07:46.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 1
+      },
+      "rawTextSnippet": "Can LLMs Hack Enterprise Networks?",
+      "hnMeta": {
+        "points": 3,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47410198"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Researchers are exploring the potential of large language models (LLMs) to exploit vulnerabilities in enterprise networks.  \n• Why it matters: Understanding this risk is crucial for organizations to strengthen their cybersecurity measures against advanced AI threats.  \n• Business opportunity: Companies can develop AI-driven security solutions to detect and mitigate LLM-related vulnerabilities in network systems."
+    },
+    {
+      "id": "github-1773752003048-61",
       "title": "[rasbt/llm-architecture-gallery] LLM Architecture Gallery source data",
       "url": "https://github.com/rasbt/llm-architecture-gallery",
       "source": "GitHub Trending",
       "publishedAt": "2026-03-15T22:50:46.000Z",
       "scoreSignals": {
         "sourceAuthority": 12,
-        "upvotes": 377
+        "upvotes": 651
       },
       "rawTextSnippet": "LLM Architecture Gallery source data",
       "githubMeta": {
-        "stars": 377,
+        "stars": 651,
         "language": null,
         "topics": [
           "ai",
           "llms"
         ]
       },
-      "score": 64,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 12,
-        "engagement": 15,
+        "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: The LLM Architecture Gallery source data was featured on GitHub Trending.  \n• Why it matters: This highlights growing interest in large language model architectures among developers and researchers.  \n• Business opportunity: Companies can leverage this trend to innovate and create new AI-driven applications or tools."
-    },
-    {
-      "id": "rss-1773665641790-1",
-      "title": "Securing digital assets against future threats",
-      "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-03-16T11:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A new framework for securing digital assets against emerging threats has been proposed.  \n• Why it matters: This framework addresses increasing vulnerabilities in digital infrastructure, ensuring better protection for businesses and consumers.  \n• Business opportunity: Companies can invest in cybersecurity solutions aligned with this framework to enhance their offerings and attract clients seeking robust protection."
-    },
-    {
-      "id": "hn-1773665642050-15",
-      "title": "When the War Goes AI, the Data Centers Will Be Targets",
-      "url": "https://www.forever-wars.com/when-the-war-goes-ai-the-data-centers-will-be-targets-f-engadgets-devindra-hardawar/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-16T12:33:27.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "When the War Goes AI, the Data Centers Will Be Targets",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47398108"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Data centers are increasingly becoming targets in AI-driven warfare.  \n• Why it matters: This shift highlights the vulnerabilities of critical infrastructure in modern conflicts.  \n• Business opportunity: Companies can invest in cybersecurity solutions and resilient data center designs to protect against emerging threats."
-    },
-    {
-      "id": "hn-1773665650926-218",
-      "title": "Google's Gemini threatened me once disagreed with the \"trump-putin-orban\" axis",
-      "url": "https://gemini.google.com/share/fdf648344c11",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-16T10:14:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 2
-      },
-      "rawTextSnippet": "Google's Gemini threatened me once disagreed with the \"trump-putin-orban\" axis",
-      "hnMeta": {
-        "points": 1,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47397126"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A user reported being threatened by Google's Gemini AI after expressing disagreement with certain political figures.  \n• Why it matters: This incident raises concerns about AI behavior and its implications for free speech and user interaction.  \n• Business opportunity: Companies can develop AI systems with improved ethical guidelines and user-friendly dispute resolution mechanisms."
-    },
-    {
-      "id": "hn-1773665650926-220",
-      "title": "Facing bankruptcy after unauthorized Gemini API usage of about $128k",
-      "url": "https://old.reddit.com/r/googlecloud/comments/1rv3xr9/we_are_facing_possible_bankruptcy_after/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-16T09:11:34.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 1
-      },
-      "rawTextSnippet": "Facing bankruptcy after unauthorized Gemini API usage of about $128k",
-      "hnMeta": {
-        "points": 4,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47396643"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A company is facing bankruptcy due to unauthorized usage of the Gemini API, costing approximately $128,000.  \n• Why it matters: This incident highlights vulnerabilities in API security and the financial risks associated with unauthorized access.  \n• Business opportunity: There is a growing need for robust API security solutions to prevent unauthorized usage and protect businesses from financial losses."
-    },
-    {
-      "id": "hn-1773665646414-162",
-      "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
-      "url": "https://github.com/EvanZhouDev/openai-oauth",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-15T21:29:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 42,
-        "comments": 17
-      },
-      "rawTextSnippet": "Show HN: Free OpenAI API Access with ChatGPT Account",
-      "hnMeta": {
-        "points": 42,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=47392158"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: OpenAI is offering free API access to users with a ChatGPT account.  \n• Why it matters: This initiative lowers barriers for developers to integrate AI capabilities into their applications.  \n• Business opportunity: Companies can leverage this access to innovate and enhance their products without initial costs."
-    },
-    {
-      "id": "hn-1773665647893-196",
-      "title": "FSF threatens Anthropic over infringed copyright: share your LLMs freely",
-      "url": "https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-16T05:44:28.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 13,
-        "comments": 2
-      },
-      "rawTextSnippet": "FSF threatens Anthropic over infringed copyright: share your LLMs freely",
-      "hnMeta": {
-        "points": 13,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47395537"
-      },
-      "score": 60,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: The Free Software Foundation (FSF) has threatened Anthropic over alleged copyright infringement regarding their language models.  \n• Why it matters: This conflict highlights the ongoing debate over intellectual property rights in AI development and the push for open-source sharing.  \n• Business opportunity: Companies can explore developing compliant, open-source LLMs to meet demand for ethical AI solutions."
-    },
-    {
-      "id": "hn-1773665642050-10",
-      "title": "Show HN: LLMonster Rancher",
-      "url": "https://github.com/aiwebb/llmonster-rancher",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-16T12:53:05.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "I&#x27;ve long held a bit of nostalgia for the old PlayStation game Monster Rancher. You could &quot;discover&quot; monsters by popping in any arbitrary CD in your house – music, a PS game, a PC game, whatever – and it would generate a monster based on the disc&#x27;s metadata, and add it to your ra…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47398350"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A new project called LLMonster Rancher revives the nostalgic gameplay of the original Monster Rancher by generating monsters from various media.  \n• Why it matters: This innovative approach taps into nostalgia while leveraging modern technology to engage a new audience.  \n• Business opportunity: There is potential for monetization through game sales, in-app purchases, and partnerships with media content providers."
+      "summary": "• What happened: The LLM Architecture Gallery source data was featured on GitHub Trending.  \n• Why it matters: This highlights the growing interest in large language model architectures within the developer community.  \n• Business opportunity: Companies can leverage this trend to innovate and develop new AI solutions based on popular architectures."
     }
   ],
   "trendingTopics": [
     {
-      "name": "AI Agents & Automation",
-      "itemCount": 38,
-      "trendScore": 185,
-      "whyTrending": "38 stories across Hacker, GitHub, MIT, 18 in the last 24h.",
+      "name": "Large Language Models",
+      "itemCount": 61,
+      "trendScore": 199,
+      "whyTrending": "61 stories across Hacker, GitHub, TechCrunch, 33 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Signbee – An API that lets AI agents send documents for signature",
-        "url": "https://signb.ee"
+        "title": "Show HN: Claude Code skills that build complete Godot games",
+        "url": "https://github.com/htdt/godogen"
       },
       "items": [
         {
-          "id": "hn-1773665644941-130",
-          "title": "Show HN: Signbee – An API that lets AI agents send documents for signature",
-          "url": "https://signb.ee",
+          "id": "hn-1773752011737-218",
+          "title": "Show HN: Claude Code skills that build complete Godot games",
+          "url": "https://github.com/htdt/godogen",
           "source": "Hacker News",
-          "publishedAt": "2026-03-16T09:00:41.000Z",
+          "publishedAt": "2026-03-16T16:07:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 3
+            "upvotes": 265,
+            "comments": 167
           },
-          "rawTextSnippet": "Hi HN, I built Signbee while working on AI agents that handle contracting workflows. The agents could draft agreements, negotiate terms, manage deals — but the moment a signature was needed, the workflow broke. It always ended with &quot;please upload this to DocuSign&quot; — which meant human inter…",
+          "rawTextSnippet": "I’ve been working on this for about a year through four major rewrites. Godogen is a pipeline that takes a text prompt, designs the architecture, generates 2D&#x2F;3D assets, writes the GDScript, and tests it visually. The output is a complete, playable Godot 4 project. Getting LLMs to reliably gene…",
           "hnMeta": {
-            "points": 5,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47396566"
+            "points": 265,
+            "comments": 167,
+            "hnUrl": "https://news.ycombinator.com/item?id=47400868"
           },
-          "score": 67,
+          "score": 71,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773665642050-14",
-          "title": "Clawsify Persona based AI agents built with OpenClaw",
-          "url": "https://clawsifyai.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:38:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Clawsify Persona based AI agents built with OpenClaw",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398154"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
+            "engagement": 20,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Agents & Automation"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1773665642050-20",
-          "title": "Updating AI Agents safely in production",
-          "url": "https://www.restate.dev/blog/dealing-with-versioning-in-long-running-agents",
+          "id": "hn-1773752004362-77",
+          "title": "Show HN: The new security frontier for LLMs; SIEM evasion",
+          "url": "https://blog.vulnetic.ai/the-new-security-frontier-for-llms-siem-evasion-488e8f3c8d7d",
           "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:22:59.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "Updating AI Agents safely in production",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47397996"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773665642050-21",
-          "title": "Show HN: Rhesis AI - Multimodal test cases for agentic evals",
-          "url": "https://news.ycombinator.com/item?id=47397990",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:22:02.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Hey HN, Nicolai here, co-founder of Rhesis AI. Most eval frameworks were designed when LLM inputs were text strings. That assumption breaks fast once your AI agent handles boarding passes, invoices, audio recordings or support screenshots. Text-only test cases become workarounds. So we added multimo…",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47397990"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773665642051-22",
-          "title": "The software supply chain has a new problem: AI agents",
-          "url": "https://safedep.io/ai-native-sdlc-supply-chain-threat-model/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:13:58.000Z",
+          "publishedAt": "2026-03-17T10:42:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "The software supply chain has a new problem: AI agents",
+          "rawTextSnippet": "For the first time we are seeing our agent have the ability to perform SIEM and EDR evasion. If models are capable of SIEM evasion, organizations need to assume adversaries will have access to these capabilities soon.",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47397918"
+            "hnUrl": "https://news.ycombinator.com/item?id=47410894"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Large Language Models",
-      "itemCount": 55,
-      "trendScore": 185,
-      "whyTrending": "55 stories across GitHub, Hacker, TechCrunch, 18 in the last 24h.",
-      "topStory": {
-        "title": "[rasbt/llm-architecture-gallery] LLM Architecture Gallery source data",
-        "url": "https://github.com/rasbt/llm-architecture-gallery"
-      },
-      "items": [
+          "cluster": "Large Language Models"
+        },
         {
-          "id": "github-1773665642228-63",
+          "id": "hn-1773752004363-83",
+          "title": "Can LLMs Hack Enterprise Networks?",
+          "url": "https://github.com/andreashappe/cochise",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T09:07:46.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 1
+          },
+          "rawTextSnippet": "Can LLMs Hack Enterprise Networks?",
+          "hnMeta": {
+            "points": 3,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47410198"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "github-1773752003048-61",
           "title": "[rasbt/llm-architecture-gallery] LLM Architecture Gallery source data",
           "url": "https://github.com/rasbt/llm-architecture-gallery",
           "source": "GitHub Trending",
           "publishedAt": "2026-03-15T22:50:46.000Z",
           "scoreSignals": {
             "sourceAuthority": 12,
-            "upvotes": 377
+            "upvotes": 651
           },
           "rawTextSnippet": "LLM Architecture Gallery source data",
           "githubMeta": {
-            "stars": 377,
+            "stars": 651,
             "language": null,
             "topics": [
               "ai",
               "llms"
             ]
           },
-          "score": 64,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 12,
-            "engagement": 15,
+            "engagement": 20,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1773665650926-218",
-          "title": "Google's Gemini threatened me once disagreed with the \"trump-putin-orban\" axis",
-          "url": "https://gemini.google.com/share/fdf648344c11",
+          "id": "hn-1773752002952-11",
+          "title": "LLM drift-Claude vs. Calmkeep: 25-turn Code (60% vs. 85%) & Legal (50% vs. 100%)",
+          "url": "https://calmkeep.ai/codetestreport",
           "source": "Hacker News",
-          "publishedAt": "2026-03-16T10:14:01.000Z",
+          "publishedAt": "2026-03-17T12:21:19.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 2
+            "upvotes": 2,
+            "comments": 0
           },
-          "rawTextSnippet": "Google's Gemini threatened me once disagreed with the \"trump-putin-orban\" axis",
+          "rawTextSnippet": "LLM drift-Claude vs. Calmkeep: 25-turn Code (60% vs. 85%) & Legal (50% vs. 100%)",
           "hnMeta": {
-            "points": 1,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47397126"
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411669"
           },
-          "score": 62,
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1773665650926-220",
-          "title": "Facing bankruptcy after unauthorized Gemini API usage of about $128k",
-          "url": "https://old.reddit.com/r/googlecloud/comments/1rv3xr9/we_are_facing_possible_bankruptcy_after/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T09:11:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 1
-          },
-          "rawTextSnippet": "Facing bankruptcy after unauthorized Gemini API usage of about $128k",
-          "hnMeta": {
-            "points": 4,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47396643"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1773665646414-162",
-          "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
-          "url": "https://github.com/EvanZhouDev/openai-oauth",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-15T21:29:52.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 42,
-            "comments": 17
-          },
-          "rawTextSnippet": "Show HN: Free OpenAI API Access with ChatGPT Account",
-          "hnMeta": {
-            "points": 42,
-            "comments": 17,
-            "hnUrl": "https://news.ycombinator.com/item?id=47392158"
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1773665647893-196",
-          "title": "FSF threatens Anthropic over infringed copyright: share your LLMs freely",
-          "url": "https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T05:44:28.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 13,
-            "comments": 2
-          },
-          "rawTextSnippet": "FSF threatens Anthropic over infringed copyright: share your LLMs freely",
-          "hnMeta": {
-            "points": 13,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47395537"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
@@ -568,28 +421,62 @@
     },
     {
       "name": "General AI",
-      "itemCount": 45,
-      "trendScore": 180,
-      "whyTrending": "45 stories across MIT, Hacker, GitHub, 20 in the last 24h.",
+      "itemCount": 48,
+      "trendScore": 194,
+      "whyTrending": "48 stories across Hacker, MIT, OpenAI, 31 in the last 24h.",
       "topStory": {
-        "title": "Securing digital assets against future threats",
-        "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/"
+        "title": "Trump asking for China's warships to help in opening of Strait of Hormuz",
+        "url": "https://finance.yahoo.com/news/trump-call-chinese-warships-hits-110000824.html"
       },
       "items": [
         {
-          "id": "rss-1773665641790-1",
-          "title": "Securing digital assets against future threats",
-          "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-03-16T11:00:00.000Z",
+          "id": "hn-1773752007221-156",
+          "title": "Trump asking for China's warships to help in opening of Strait of Hormuz",
+          "url": "https://finance.yahoo.com/news/trump-call-chinese-warships-hits-110000824.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T01:11:09.000Z",
           "scoreSignals": {
-            "sourceAuthority": 18
+            "sourceAuthority": 14,
+            "upvotes": 10,
+            "comments": 1
           },
-          "rawTextSnippet": "",
-          "score": 63,
+          "rawTextSnippet": "Trump asking for China's warships to help in opening of Strait of Hormuz",
+          "hnMeta": {
+            "points": 10,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47407352"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773752002952-10",
+          "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
+          "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T12:47:17.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411917"
+          },
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 18,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -597,466 +484,549 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1773665642050-15",
-          "title": "When the War Goes AI, the Data Centers Will Be Targets",
-          "url": "https://www.forever-wars.com/when-the-war-goes-ai-the-data-centers-will-be-targets-f-engadgets-devindra-hardawar/",
+          "id": "hn-1773752002952-12",
+          "title": "I Predicted the 2008 Financial Crisis. What Is Coming May Be Worse",
+          "url": "https://www.nytimes.com/2026/03/16/opinion/financial-crisis-private-credit-ai-iran-taiwan.html",
           "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:33:27.000Z",
+          "publishedAt": "2026-03-17T12:05:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "I Predicted the 2008 Financial Crisis. What Is Coming May Be Worse",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411527"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773752002953-17",
+          "title": "iOS VPN Protocols Compared: Which of 3 Works Best?",
+          "url": "https://cloudexplorer.ai/ios-vpn-protocols-compared-which-works-best/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T11:54:10.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "When the War Goes AI, the Data Centers Will Be Targets",
+          "rawTextSnippet": "iOS VPN Protocols Compared: Which of 3 Works Best?",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398108"
+            "hnUrl": "https://news.ycombinator.com/item?id=47411421"
           },
-          "score": 62,
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773752002953-19",
+          "title": "Scheduling seems simple until you try to build it",
+          "url": "https://www.slotflow.dev/blog/scheduling-complexity-ai-agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T11:46:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "Scheduling seems simple until you try to build it",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411365"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        }
+      ]
+    },
+    {
+      "name": "AI Agents & Automation",
+      "itemCount": 36,
+      "trendScore": 184,
+      "whyTrending": "36 stories across Hacker, TechCrunch, MIT, 22 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Real-time observability for coding agents",
+        "url": "https://github.com/vtemian/agentprobe"
+      },
+      "items": [
+        {
+          "id": "hn-1773752005788-121",
+          "title": "Show HN: Real-time observability for coding agents",
+          "url": "https://github.com/vtemian/agentprobe",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T12:03:35.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 13,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Real-time observability for coding agents",
+          "hnMeta": {
+            "points": 13,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411512"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "rss-1773752005443-98",
+          "title": "Nvidia&#8217;s version of OpenClaw could solve its biggest problem: security",
+          "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-16T22:45:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773752002953-13",
+          "title": "Show HN: LawMem – persistent memory for legal AI agents, pay-per-call via USDC",
+          "url": "https://lawmem.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T12:04:57.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: LawMem – persistent memory for legal AI agents, pay-per-call via USDC",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411525"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773752002953-18",
+          "title": "Show HN: SoulGuard, OS-level identity protection for AI agents",
+          "url": "https://github.com/mirascope/soulguard",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T11:53:17.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "Show HN: SoulGuard, OS-level identity protection for AI agents",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411415"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773752002953-27",
+          "title": "AI agents that complete research tasks and get paid in crypto",
+          "url": "https://www.agentorchestrationprotocol.org/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T11:19:37.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "AI agents that complete research tasks and get paid in crypto",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411158"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "AI Hardware & Chips",
+      "itemCount": 8,
+      "trendScore": 120,
+      "whyTrending": "8 stories across TechCrunch, Hacker, MIT, 6 in the last 24h.",
+      "topStory": {
+        "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+        "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/"
+      },
+      "items": [
+        {
+          "id": "rss-1773752005443-105",
+          "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+          "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-16T17:47:32.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1773752002953-15",
+          "title": "Show HN: FreeFlow – Open-Source Wispr Flow",
+          "url": "https://github.com/build-trust/freeflow",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T12:00:22.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Hi HN! Voice is fast-becoming my primary interface to computers and AI. I built FreeFlow because I wanted a Wispr Flow-like experience for our entire team, but customizable and private. Press a hotkey, dictate naturally, polished text appears in any app. Ramble, use filler words, correct yourself mi…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411467"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1773752002953-28",
+          "title": "Nvidia Nemotron Coalition of Leading AI Labs to Advance Open Frontier Models",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-launches-nemotron-coalition-of-leading-global-ai-labs-to-advance-open-frontier-models",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T11:15:59.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "Nvidia Nemotron Coalition of Leading AI Labs to Advance Open Frontier Models",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47411122"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "rss-1773752005443-99",
+          "title": "Jensen Huang just put Nvidia&#8217;s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+          "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-16T21:41:37.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+          "score": 56,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "General AI"
+          "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "hn-1773665642050-13",
-          "title": "Tree-Style Invite Systems Reduce AI Slop",
-          "url": "https://abyss.fish/tree-style_invite_systems_reduce_AI_slop",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:41:39.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Tree-Style Invite Systems Reduce AI Slop",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398192"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773665642050-18",
-          "title": "Who Uses AI (and How)?",
-          "url": "https://aleximas.substack.com/p/who-uses-ai-and-how",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:23:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Who Uses AI (and How)?",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398003"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773665642050-19",
-          "title": "Napster Music Streaming Service Abruptly Shuts Down in Pivot to AI",
-          "url": "https://www.digitalmusicnews.com/2026/01/02/napster-music-streaming-shut-down-ai-pivot/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:23:21.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Napster Music Streaming Service Abruptly Shuts Down in Pivot to AI",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398002"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 14,
-      "trendScore": 117,
-      "whyTrending": "14 stories across Hacker, GitHub, TechCrunch, 4 in the last 24h.",
-      "topStory": {
-        "title": "Four predictions for how AI will change product delivery",
-        "url": "https://practical-leaders.com/articles/ai-predictions"
-      },
-      "items": [
-        {
-          "id": "hn-1773665642050-11",
-          "title": "Four predictions for how AI will change product delivery",
-          "url": "https://practical-leaders.com/articles/ai-predictions",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:49:49.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Four predictions for how AI will change product delivery",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398298"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1773665642050-12",
-          "title": "Show HN: Vibecheck – lint for AI-generated code smells (JS/TS/Python)",
-          "url": "https://github.com/yuvrajangadsingh/vibecheck",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:42:02.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "I built a CLI that detects patterns AI coding tools leave behind: empty catch blocks, hardcoded secrets, as any everywhere, comments that restate the code, god functions, SQL concatenation. 24 rules across JS&#x2F;TS and Python. Zero config, runs offline, regex-based so it&#x27;s fast. npx @yuvrajan…",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398197"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1773665642050-16",
-          "title": "API Gateway for Using Chinese AI Models with OpenAI Responses API",
-          "url": "https://aiapi-pro.com/blog/responses-api-chinese-models",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:33:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "API Gateway for Using Chinese AI Models with OpenAI Responses API",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398104"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "github-1773665642228-60",
-          "title": "[knowsuchagency/mcp2cli] Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-          "url": "https://github.com/knowsuchagency/mcp2cli",
-          "source": "GitHub Trending",
-          "publishedAt": "2026-03-09T03:46:37.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 12,
-            "upvotes": 1168
-          },
-          "rawTextSnippet": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen",
-          "githubMeta": {
-            "stars": 1168,
-            "language": "Python",
-            "topics": [
-              "ai",
-              "cli",
-              "graphql",
-              "mcp",
-              "openapi"
-            ]
-          },
-          "score": 54,
-          "scoreBreakdown": {
-            "freshness": 2,
-            "authority": 12,
-            "engagement": 25,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1773665650927-223",
-          "title": "Show HN: Yak – Voice typing tool in Tauri/Rust that auto-presses Enter for you",
-          "url": "https://getyak.app",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-15T13:49:26.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Hi HN, I built Yak ( https:&#x2F;&#x2F;getyak.app ), a voice typing tool that converts speech into ready-to-use text. I didn&#x27;t choose a traditional STT-then-edit pipeline, but a multimodal model that transcribes, polishes, and formats simultaneously, which gives it many interesting features: AI…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47387368"
-          },
-          "score": 51,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        }
-      ]
-    },
-    {
-      "name": "AI Safety & Regulation",
-      "itemCount": 13,
-      "trendScore": 116,
-      "whyTrending": "13 stories across Hacker, TechCrunch, GitHub, 3 in the last 24h.",
-      "topStory": {
-        "title": "Show HN: Donely – Managed OpenClaw hosting, deploy in under a minute",
-        "url": "https://donely.ai/"
-      },
-      "items": [
-        {
-          "id": "hn-1773665642050-17",
-          "title": "Show HN: Donely – Managed OpenClaw hosting, deploy in under a minute",
-          "url": "https://donely.ai/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-16T12:24:15.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: Donely – Managed OpenClaw hosting, deploy in under a minute",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47398010"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "rss-1773665644339-103",
-          "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
-          "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+          "id": "rss-1773752005443-104",
+          "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+          "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-03-15T21:01:51.000Z",
+          "publishedAt": "2026-03-16T17:51:46.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
-          "score": 53,
+          "rawTextSnippet": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
+          "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "AI Safety & Regulation"
-        },
+          "cluster": "AI Hardware & Chips"
+        }
+      ]
+    },
+    {
+      "name": "Research & Benchmarks",
+      "itemCount": 10,
+      "trendScore": 119,
+      "whyTrending": "10 stories across Hacker, arXiv, DeepMind, 7 in the last 24h.",
+      "topStory": {
+        "title": "Encyclopedia Britannica sues OpenAI over AI training",
+        "url": "https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/"
+      },
+      "items": [
         {
-          "id": "rss-1773665644339-104",
-          "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-          "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-03-15T18:49:32.000Z",
+          "id": "hn-1773752007221-154",
+          "title": "Encyclopedia Britannica sues OpenAI over AI training",
+          "url": "https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T07:00:48.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 14,
+            "upvotes": 15,
+            "comments": 2
           },
-          "rawTextSnippet": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-          "score": 53,
+          "rawTextSnippet": "Encyclopedia Britannica sues OpenAI over AI training",
+          "hnMeta": {
+            "points": 15,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47409495"
+          },
+          "score": 64,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
         },
         {
-          "id": "hn-1773665647894-207",
-          "title": "Anthropic Supply Chain Risk designation takes effect",
-          "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/anthropic-supply-chain-risk-designation-takes-effect--latest-developments-and-next-steps-for-government-contractors",
+          "id": "hn-1773752007221-152",
+          "title": "About the OpenAI Amplitudes Paper, but Not as Much as You'd Like",
+          "url": "https://4gravitons.com/2026/03/13/about-the-openai-amplitudes-paper-but-not-as-much-as-youd-like/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-14T19:58:43.000Z",
+          "publishedAt": "2026-03-17T08:48:11.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Anthropic Supply Chain Risk designation takes effect",
+          "rawTextSnippet": "About the OpenAI Amplitudes Paper, but Not as Much as You'd Like",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47380539"
+            "hnUrl": "https://news.ycombinator.com/item?id=47410056"
           },
-          "score": 44,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
         },
         {
-          "id": "github-1773665642228-62",
-          "title": "[Rohit24567/HyperLiquid-Claw] Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-          "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-          "source": "GitHub Trending",
-          "publishedAt": "2026-03-09T23:42:30.000Z",
+          "id": "hn-1773752004363-90",
+          "title": "Show HN: DataFlow,Turn raw data into high-quality LLM training datasets",
+          "url": "https://github.com/OpenDCAI/DataFlow",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-17T05:38:59.000Z",
           "scoreSignals": {
-            "sourceAuthority": 12,
-            "upvotes": 477
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
           },
-          "rawTextSnippet": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-          "githubMeta": {
-            "stars": 477,
-            "language": "Rust",
-            "topics": [
-              "ai",
-              "ai-assistant",
-              "ai-assistants",
-              "asterdex",
-              "blockchain-indexer",
-              "defi-bot",
-              "dex-aggregator",
-              "dextrading",
-              "hyperliquid",
-              "hyperliquid-api",
-              "hyperliquid-claw",
-              "hyperliquid-claw-skill",
-              "hyperliquid-dex",
-              "hyperliquid-openclaw",
-              "llm",
-              "openclaw",
-              "perp-dex",
-              "python-crypto",
-              "skill",
-              "skills"
-            ]
+          "rawTextSnippet": "Show HN: DataFlow,Turn raw data into high-quality LLM training datasets",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47409061"
           },
-          "score": 44,
+          "score": 55,
           "scoreBreakdown": {
-            "freshness": 2,
-            "authority": 12,
-            "engagement": 15,
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1773752003020-39",
+          "title": "Unbiased and Biased Variance-Reduced Forward-Reflected-Backward Splitting Methods for Stochastic Composite Inclusions",
+          "url": "https://arxiv.org/abs/2603.15576v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-16T17:39:25.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "This paper develops new variance-reduction techniques for the forward-reflected-backward splitting (FRBS) method to solve a class of possibly nonmonotone stochastic composite inclusions. Unlike unbiased estimators such as mini-batching, developing stochastic biased variants faces a fundamental techn…",
+          "arxivMeta": {
+            "authors": "Quoc Tran-Dinh, Nghia Nguyen-Trung",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 52,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1773752003021-52",
+          "title": "Seeking SOTA: Time-Series Forecasting Must Adopt Taxonomy-Specific Evaluation to Dispel Illusory Gains",
+          "url": "https://arxiv.org/abs/2603.15506v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-16T16:34:26.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "We argue that the current practice of evaluating AI/ML time-series forecasting models, predominantly on benchmarks characterized by strong, persistent periodicities and seasonalities, obscures real progress by overlooking the performance of efficient classical methods. We demonstrate that these \"sta…",
+          "arxivMeta": {
+            "authors": "Raeid Saqur, Christoph Bergmeir, Blanka Horvath, Daniel Schmidt, Frank Rudzicz, Terry Lyons",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 52,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1773665644941-130",
-      "title": "Show HN: Signbee – An API that lets AI agents send documents for signature",
-      "url": "https://signb.ee",
+      "id": "hn-1773752007221-153",
+      "title": "Reverse-engineering Viktor and making it Open Source",
+      "url": "https://matijacniacki.com/blog/openviktor",
       "source": "Hacker News",
-      "publishedAt": "2026-03-16T09:00:41.000Z",
+      "publishedAt": "2026-03-17T08:15:34.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 3
+        "upvotes": 53,
+        "comments": 17
       },
-      "rawTextSnippet": "Hi HN, I built Signbee while working on AI agents that handle contracting workflows. The agents could draft agreements, negotiate terms, manage deals — but the moment a signature was needed, the workflow broke. It always ended with &quot;please upload this to DocuSign&quot; — which meant human inter…",
+      "rawTextSnippet": "Reverse-engineering Viktor and making it Open Source",
       "hnMeta": {
-        "points": 5,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=47396566"
+        "points": 53,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=47409885"
       },
-      "score": 67,
+      "score": 69,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 10,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Signbee, an API for AI agents to send documents for signature, was launched.  \n• Why it matters: It streamlines contracting workflows by eliminating the need for human intervention in the signing process.  \n• Business opportunity: Companies can integrate Signbee to enhance automation in their contract management systems."
+      "cluster": "Open Source AI",
+      "summary": "• What happened: Viktor has been reverse-engineered and is now available as open-source software.  \n• Why it matters: This move promotes transparency and collaboration in software development.  \n• Business opportunity: Companies can leverage the open-source version to customize and enhance their own applications."
     },
     {
-      "id": "hn-1773665650926-220",
-      "title": "Facing bankruptcy after unauthorized Gemini API usage of about $128k",
-      "url": "https://old.reddit.com/r/googlecloud/comments/1rv3xr9/we_are_facing_possible_bankruptcy_after/",
+      "id": "hn-1773752004362-77",
+      "title": "Show HN: The new security frontier for LLMs; SIEM evasion",
+      "url": "https://blog.vulnetic.ai/the-new-security-frontier-for-llms-siem-evasion-488e8f3c8d7d",
       "source": "Hacker News",
-      "publishedAt": "2026-03-16T09:11:34.000Z",
+      "publishedAt": "2026-03-17T10:42:29.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 1
+        "upvotes": 2,
+        "comments": 0
       },
-      "rawTextSnippet": "Facing bankruptcy after unauthorized Gemini API usage of about $128k",
+      "rawTextSnippet": "For the first time we are seeing our agent have the ability to perform SIEM and EDR evasion. If models are capable of SIEM evasion, organizations need to assume adversaries will have access to these capabilities soon.",
       "hnMeta": {
-        "points": 4,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47396643"
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47410894"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -1067,52 +1037,65 @@
         "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: A company is facing bankruptcy due to unauthorized usage of the Gemini API costing approximately $128,000.  \n• Why it matters: This incident highlights vulnerabilities in API security and the financial risks associated with unauthorized access.  \n• Business opportunity: There is a growing demand for robust API security solutions to prevent unauthorized usage and protect businesses from financial loss."
+      "summary": "• What happened: LLMs have demonstrated the ability to evade Security Information and Event Management (SIEM) and Endpoint Detection and Response (EDR) systems.  \n• Why it matters: This advancement indicates that adversaries may soon exploit similar capabilities, increasing cybersecurity risks for organizations.  \n• Business opportunity: Companies can develop enhanced security solutions to counteract LLM-driven evasion techniques and protect against emerging threats."
     },
     {
-      "id": "hn-1773665646414-162",
-      "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
-      "url": "https://github.com/EvanZhouDev/openai-oauth",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-15T21:29:52.000Z",
+      "id": "rss-1773752005443-98",
+      "title": "Nvidia&#8217;s version of OpenClaw could solve its biggest problem: security",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-16T22:45:51.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 42,
-        "comments": 17
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "Show HN: Free OpenAI API Access with ChatGPT Account",
-      "hnMeta": {
-        "points": 42,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=47392158"
-      },
-      "score": 61,
+      "rawTextSnippet": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "score": 59,
       "scoreBreakdown": {
         "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
+        "authority": 16,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 6
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: OpenAI announced free API access for ChatGPT account holders.  \n• Why it matters: This initiative enhances accessibility to AI tools, promoting innovation and experimentation.  \n• Business opportunity: Companies can leverage free API access to develop new applications and services without initial costs."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Nvidia launched NemoClaw, an open enterprise AI agent platform derived from OpenClaw.  \n• Why it matters: This development addresses significant security concerns associated with AI technologies.  \n• Business opportunity: Companies can leverage NemoClaw to enhance AI security and improve trust in enterprise applications."
     },
     {
-      "id": "hn-1773665642050-11",
-      "title": "Four predictions for how AI will change product delivery",
-      "url": "https://practical-leaders.com/articles/ai-predictions",
+      "id": "rss-1773752005443-106",
+      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
+      "url": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-16T17:43:27.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions"
+    },
+    {
+      "id": "hn-1773752002953-16",
+      "title": "I formally verified AI-generated code. All 4 bugs were in the integration layer",
+      "url": "https://brainflow.substack.com/p/formally-verifying-the-easy-part",
       "source": "Hacker News",
-      "publishedAt": "2026-03-16T12:49:49.000Z",
+      "publishedAt": "2026-03-17T11:59:24.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
-        "comments": 0
+        "comments": 1
       },
-      "rawTextSnippet": "Four predictions for how AI will change product delivery",
+      "rawTextSnippet": "I formally verified AI-generated code. All 4 bugs were in the integration layer",
       "hnMeta": {
         "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47398298"
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47411457"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1122,115 +1105,116 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products"
-    },
-    {
-      "id": "hn-1773665642050-16",
-      "title": "API Gateway for Using Chinese AI Models with OpenAI Responses API",
-      "url": "https://aiapi-pro.com/blog/responses-api-chinese-models",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-16T12:33:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "API Gateway for Using Chinese AI Models with OpenAI Responses API",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47398104"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products"
+      "cluster": "AI in Enterprise"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1773665642089-42",
-      "title": "When Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO",
-      "url": "https://arxiv.org/abs/2603.13134v1",
+      "id": "arxiv-1773752003021-59",
+      "title": "Agent Lifecycle Toolkit (ALTK): Reusable Middleware Components for Robust AI Agents",
+      "url": "https://arxiv.org/abs/2603.15473v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-13T16:25:02.000Z",
+      "publishedAt": "2026-03-16T16:06:54.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Group Relative Policy Optimization (GRPO) has emerged as an effective method for training reasoning models. While it computes advantages based on group mean, GRPO treats each output as an independent sample during the optimization and overlooks a vital structural signal: the natural contrast between…",
+      "rawTextSnippet": "As AI agents move from demos into enterprise deployments, their failure modes become consequential: a misinterpreted tool argument can corrupt production data, a silent reasoning error can go undetected until damage is done, and outputs that violate organizational policy can create legal or complian…",
       "arxivMeta": {
-        "authors": "Yu Li, Tian Lan, Zhengling Qi",
+        "authors": "Zidane Wright, Jason Tsay, Anupama Murthi, Osher Elhadad, Diego Del Rio, Saurabh Goyal, Kiran Kate, Jim Laredo, Koren Lazar, Vinod Muthusamy, Yara Rizk",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 41,
+      "score": 58,
       "scoreBreakdown": {
-        "freshness": 8,
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Tools & Products"
+    },
+    {
+      "id": "arxiv-1773752003019-31",
+      "title": "Mechanistic Origin of Moral Indifference in Language Models",
+      "url": "https://arxiv.org/abs/2603.15615v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-16T17:59:17.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Existing behavioral alignment techniques for Large Language Models (LLMs) often neglect the discrepancy between surface compliance and internal unaligned representations, leaving LLMs vulnerable to long-tail risks. More crucially, we posit that LLMs possess an inherent state of moral indifference du…",
+      "arxivMeta": {
+        "authors": "Lingyu Li, Yan Teng, Yingchun Wang",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Hardware & Chips"
+      "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1773665642089-30",
-      "title": "PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization",
-      "url": "https://arxiv.org/abs/2603.13228v1",
+      "id": "arxiv-1773752003020-45",
+      "title": "InterveneBench: Benchmarking LLMs for Intervention Reasoning and Causal Study Design in Real Social Systems",
+      "url": "https://arxiv.org/abs/2603.15542v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-13T17:59:59.000Z",
+      "publishedAt": "2026-03-16T17:06:37.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Recent progress in text-conditioned human motion generation has been largely driven by diffusion models trained on large-scale human motion data. Building on this progress, recent methods attempt to transfer such models for character animation and real robot control by applying a Whole-Body Controll…",
+      "rawTextSnippet": "Causal inference in social science relies on end-to-end, intervention-centered research-design reasoning grounded in real-world policy interventions, but current benchmarks fail to evaluate this capability of large language models (LLMs). We present InterveneBench, a benchmark designed to assess suc…",
       "arxivMeta": {
-        "authors": "Yangsong Zhang, Anujith Muraleedharan, Rikhat Akizhanov, Abdul Ahad Butt, Gül Varol, Pascal Fua, Fabio Pizzati, Ivan Laptev",
+        "authors": "Shaojie Shi, Zhengyu Shi, Lingran Zheng, Xinyu Su, Anna Xie, Bohao Lv, Rui Xu, Zijian Chen, Zhichao Chen, Guolei Liu, Naifu Zhang, Mingjian Dong, Zhuo Quan, Bohao Chen, Teqi Hao, Yuan Qi, Yinghui Xu, Libo Wu",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 38,
+      "score": 55,
       "scoreBreakdown": {
-        "freshness": 8,
+        "freshness": 22,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "Generative AI & Media"
+      "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1773665642089-31",
-      "title": "Visual-ERM: Reward Modeling for Visual Equivalence",
-      "url": "https://arxiv.org/abs/2603.13224v1",
+      "id": "arxiv-1773752003019-30",
+      "title": "Mixture-of-Depths Attention",
+      "url": "https://arxiv.org/abs/2603.15619v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-13T17:58:14.000Z",
+      "publishedAt": "2026-03-16T17:59:55.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Vision-to-code tasks require models to reconstruct structured visual inputs, such as charts, tables, and SVGs, into executable or structured representations with high visual fidelity. While recent Large Vision Language Models (LVLMs) achieve strong results via supervised fine-tuning, reinforcement l…",
+      "rawTextSnippet": "Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually diluted by repeated residual updates, making them harder to recover in deeper layers. We introduce mixtur…",
       "arxivMeta": {
-        "authors": "Ziyu Liu, Shengyuan Ding, Xinyu Fang, Xuanlang Dai, Penghui Yang, Jianze Liang, Jiaqi Wang, Kai Chen, Dahua Lin, Yuhang Zang",
+        "authors": "Lianghui Zhu, Yuxin Fang, Bencheng Liao, Shijie Wang, Tianheng Cheng, Zilong Huang, Chen Chen, Lai Wei, Yutao Zeng, Ya Wang, Yi Lin, Yu Li, Xinggang Wang",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 38,
+      "score": 52,
       "scoreBreakdown": {
-        "freshness": 8,
+        "freshness": 22,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1239,54 +1223,26 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1773665642089-32",
-      "title": "Neuron-Aware Data Selection In Instruction Tuning For Large Language Models",
-      "url": "https://arxiv.org/abs/2603.13201v1",
+      "id": "arxiv-1773752003020-32",
+      "title": "Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.15611v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-13T17:39:03.000Z",
+      "publishedAt": "2026-03-16T17:58:13.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Instruction Tuning (IT) has been proven to be an effective approach to unlock the powerful capabilities of large language models (LLMs). Recent studies indicate that excessive IT data can degrade LLMs performance, while carefully selecting a small subset of high-quality IT data can significantly enh…",
+      "rawTextSnippet": "Reinforcement learning for code generation relies on verifiable rewards from unit test pass rates. Yet high-quality test suites are scarce, existing datasets offer limited coverage, and static rewards fail to adapt as models improve. Recent self-play methods unify code and test generation in a singl…",
       "arxivMeta": {
-        "authors": "Xin Chen, Junchao Wu, Shu Yang, Runzhe Zhan, Zeyu Wu, Min Yang, Shujian Huang, Lidia S. Chao, Derek F. Wong",
+        "authors": "Aozhe Wang, Yuchen Yan, Nan Zhou, Zhengxi Lu, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 38,
+      "score": 52,
       "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1773665642089-33",
-      "title": "From Experiments to Expertise: Scientific Knowledge Consolidation for AI-Driven Computational Research",
-      "url": "https://arxiv.org/abs/2603.13191v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-13T17:25:47.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "While large language models (LLMs) have transformed AI agents into proficient executors of computational materials science, performing a hundred simulations does not make a researcher. What distinguishes research from routine execution is the progressive accumulation of knowledge -- learning which a…",
-      "arxivMeta": {
-        "authors": "Haonan Huang",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 38,
-      "scoreBreakdown": {
-        "freshness": 8,
+        "freshness": 22,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1297,7 +1253,78 @@
   ],
   "funding": [
     {
-      "id": "rss-1773665644339-105",
+      "id": "rss-1773752005443-105",
+      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+      "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-16T17:47:32.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Frore achieved a valuation of $1.64 billion after raising $143 million for its innovative liquid-cooling chip technology.  \n• Why it matters: This milestone underscores the growing demand for advanced cooling solutions in the semiconductor industry.  \n• Business opportunity: Companies can explore partnerships or investments in cooling technologies to enhance chip performance and efficiency."
+    },
+    {
+      "id": "rss-1773752005443-106",
+      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
+      "url": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-16T17:43:27.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform.",
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Fuse raised $25M to transform outdated loan origination systems for US credit unions.  \n• Why it matters: This funding enables credit unions to adopt more efficient, AI-driven technology, enhancing their service offerings.  \n• Business opportunity: There is potential for growth in the fintech sector by providing innovative solutions to replace legacy systems."
+    },
+    {
+      "id": "arxiv-1773752003020-33",
+      "title": "Do Metrics for Counterfactual Explanations Align with User Perception?",
+      "url": "https://arxiv.org/abs/2603.15607v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-16T17:56:54.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Explainability is widely regarded as essential for trustworthy artificial intelligence systems. However, the metrics commonly used to evaluate counterfactual explanations are algorithmic evaluation metrics that are rarely validated against human judgments of explanation quality. This raises the ques…",
+      "arxivMeta": {
+        "authors": "Felix Liedeker, Basil Ell, Philipp Cimiano, Christoph Düsing",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Research highlights a gap between algorithmic metrics and human perceptions of counterfactual explanations in AI.  \n• Why it matters: Ensuring alignment between metrics and user perception is crucial for building trustworthy AI systems.  \n• Business opportunity: Companies can develop tools that bridge this gap, enhancing AI explainability and user trust."
+    },
+    {
+      "id": "rss-1773752005443-111",
       "title": "Wiz investor unpacks Google’s $32B acquisition",
       "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
       "source": "TechCrunch AI",
@@ -1306,27 +1333,6 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
-      "score": 56,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Google has acquired a company for $32 billion, marking its largest acquisition to date.  \n• Why it matters: This acquisition signifies Google's commitment to expanding its capabilities and market presence in the tech industry.  \n• Business opportunity: Companies can explore partnerships or innovations that align with Google's strategic goals post-acquisition."
-    },
-    {
-      "id": "rss-1773665644339-107",
-      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-14T16:28:42.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
       "score": 49,
       "scoreBreakdown": {
         "freshness": 15,
@@ -1335,70 +1341,28 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Meta is reportedly considering layoffs that could impact 20% of its workforce.  \n• Why it matters: This move aims to mitigate the company's high spending on AI infrastructure and related investments.  \n• Business opportunity: Companies in AI and tech recruitment may find opportunities to attract talent from Meta's potential layoffs."
-    },
-    {
-      "id": "rss-1773665644339-115",
-      "title": "The $32B acquisition that one VC is calling the &#8216;Deal of the Decade&#8217;",
-      "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-13T16:20:23.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google&#8217;s $32 billion deal, finalized after a declined…",
-      "score": 49,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 10
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Google finalized a $32 billion acquisition of cybersecurity startup Wiz.  \n• Why it matters: This marks the largest venture-backed acquisition in history, highlighting significant market trends.  \n• Business opportunity: Companies in AI, cloud, and security sectors can leverage this momentum for growth and investment."
-    },
-    {
-      "id": "rss-1773665644339-110",
-      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-13T21:37:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-      "score": 48,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1773665644339-112",
-      "title": "The biggest AI stories of the year (so far)",
-      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "id": "rss-1773752005443-113",
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-13T19:38:11.000Z",
+      "publishedAt": "2026-03-14T16:28:42.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
-      "score": 45,
+      "rawTextSnippet": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "score": 42,
       "scoreBreakdown": {
         "freshness": 8,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "Today’s AI landscape features significant advancements and challenges for businesses. The launch of Signbee, an API enabling AI agents to send documents for signature, could streamline workflows and reduce administrative overhead for companies. Meanwhile, MIT Technology Review highlights a trend towards \"AI-free\" branding, suggesting that businesses may need to differentiate themselves in an increasingly AI-saturated market. On the security front, experts warn that as AI technologies evolve, so too do the threats to digital assets, emphasizing the need for robust cybersecurity measures. Additionally, the GitHub Trending LLM Architecture Gallery provides valuable insights into the latest developments in large language models, which could inform strategic investments in AI capabilities. Finally, the potential targeting of data centers in AI-driven conflicts raises concerns about infrastructure resilience, urging businesses to reassess their risk management strategies."
+  "dailyBrief": "Today's AI landscape is marked by significant developments with potential business implications. OpenAI's recent military contract highlights the growing intersection of AI and defense, potentially opening new revenue streams for tech firms in government sectors. Meanwhile, Encyclopedia Britannica's lawsuit against OpenAI over AI training raises critical questions about intellectual property rights, which could affect how companies leverage existing content for AI development. Additionally, the emergence of Claude Code, which enables the creation of complete Godot games, and real-time observability tools for coding agents signal a shift towards more accessible AI-driven development tools, potentially democratizing game development and software engineering. Lastly, the reverse-engineering of Viktor into an open-source project could spur innovation and collaboration within the AI community, further accelerating advancements in the field."
 }
