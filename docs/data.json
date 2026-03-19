@@ -1,127 +1,141 @@
 {
   "topNews": [
     {
-      "id": "hn-1773838413180-156",
-      "title": "OpenAI Has New Focus (On the IPO)",
-      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "id": "hn-1773924255540-79",
+      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T10:49:19.000Z",
+      "publishedAt": "2026-03-19T10:17:46.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 64,
-        "comments": 68
+        "upvotes": 110,
+        "comments": 83
       },
-      "rawTextSnippet": "OpenAI Has New Focus (On the IPO)",
+      "rawTextSnippet": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
       "hnMeta": {
-        "points": 64,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=47423976"
+        "points": 110,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=47437101"
       },
-      "score": 72,
+      "score": 74,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI is shifting its focus towards preparing for an initial public offering (IPO).  \n• Why it matters: This move signals OpenAI's growth and potential for significant investment in the AI sector.  \n• Business opportunity: Companies can explore partnerships or investments in AI technologies as OpenAI's IPO could drive market interest."
-    },
-    {
-      "id": "hn-1773838410383-91",
-      "title": "Claw Compactor: compress LLM tokens 54% with zero dependencies",
-      "url": "https://github.com/open-compress/claw-compactor",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-18T08:06:48.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 101,
-        "comments": 2
-      },
-      "rawTextSnippet": "Claw Compactor: compress LLM tokens 54% with zero dependencies",
-      "hnMeta": {
-        "points": 101,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47422948"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
+        "engagement": 15,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Claw Compactor has achieved a 54% compression of LLM tokens without any dependencies.  \n• Why it matters: This innovation can significantly reduce storage and processing costs for AI applications.  \n• Business opportunity: Companies can leverage this technology to enhance efficiency and scalability in AI model deployment."
+      "summary": "• What happened: 2% of ICML papers were desk rejected due to authors using large language models (LLMs) in their reviews.  \n• Why it matters: This highlights growing scrutiny over the use of AI tools in academic submissions and their potential impact on research integrity.  \n• Business opportunity: There is a market for developing AI tools that assist in compliant and ethical academic writing and review processes."
     },
     {
-      "id": "hn-1773838411784-132",
-      "title": "Show HN: Lexicon – Write complex legal contracts in Markdown",
-      "url": "https://lexicon.esq",
+      "id": "hn-1773924259957-175",
+      "title": "What 81,000 people want from AI",
+      "url": "https://www.anthropic.com/features/81k-interviews",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T10:32:17.000Z",
+      "publishedAt": "2026-03-19T05:00:56.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "upvotes": 155,
+        "comments": 139
       },
-      "rawTextSnippet": "I&#x27;m a lawyer who runs a small practice and does GC work for startups. Drafting contracts in Word is painful and I have always hated the workflow. Track changes can be deleted by anyone, version control is &quot;Agreement_v4_FINAL_VLs_edits(2).docx&quot; and now copy&#x2F;paste to and from Claud…",
+      "rawTextSnippet": "What 81,000 people want from AI",
       "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47423826"
+        "points": 155,
+        "comments": 139,
+        "hnUrl": "https://news.ycombinator.com/item?id=47435156"
       },
-      "score": 65,
+      "score": 70,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 26,
         "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A lawyer introduced Lexicon, a tool for drafting legal contracts in Markdown.  \n• Why it matters: It streamlines the contract creation process, addressing inefficiencies in traditional Word document workflows.  \n• Business opportunity: There is potential for software development targeting legal professionals seeking more efficient contract management solutions."
-    },
-    {
-      "id": "hn-1773838417417-231",
-      "title": "Show HN: Claude Code skills that build complete Godot games",
-      "url": "https://github.com/htdt/godogen",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-16T16:07:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 313,
-        "comments": 193
-      },
-      "rawTextSnippet": "I’ve been working on this for about a year through four major rewrites. Godogen is a pipeline that takes a text prompt, designs the architecture, generates 2D&#x2F;3D assets, writes the GDScript, and tests it visually. The output is a complete, playable Godot 4 project. Getting LLMs to reliably gene…",
-      "hnMeta": {
-        "points": 313,
-        "comments": 193,
-        "hnUrl": "https://news.ycombinator.com/item?id=47400868"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 20,
+        "engagement": 15,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A developer introduced Godogen, a tool that generates complete Godot games from text prompts.  \n• Why it matters: This innovation streamlines game development, making it accessible to non-programmers and enhancing productivity for developers.  \n• Business opportunity: There is potential for monetizing game development tools and services that leverage AI for asset creation and coding."
+      "cluster": "General AI",
+      "summary": "• What happened: A survey revealed the preferences of 81,000 individuals regarding AI features and functionalities.  \n• Why it matters: Understanding these preferences can guide AI development to better meet user needs and expectations.  \n• Business opportunity: Companies can leverage this data to create targeted AI solutions that align with consumer demands, enhancing market competitiveness."
     },
     {
-      "id": "rss-1773838408722-0",
-      "title": "What do new nuclear reactors mean for waste?",
-      "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+      "id": "rss-1773924253793-0",
+      "title": "The Download: Quantum computing for health, and why the world doesn&#8217;t recycle more nuclear waste",
+      "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "publishedAt": "2026-03-19T12:17:02.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it i…",
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum comp…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: A $5 million prize has been announced for demonstrating how quantum computers can address healthcare challenges.  \n• Why it matters: This initiative could accelerate advancements in quantum computing applications within the healthcare sector.  \n• Business opportunity: Companies can invest in quantum technology development to capitalize on potential breakthroughs in medical solutions."
+    },
+    {
+      "id": "rss-1773924253793-1",
+      "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+      "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-03-19T10:51:43.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation b…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: A $5 million prize has been announced for demonstrating that quantum computers can address health care challenges.  \n• Why it matters: This initiative could accelerate advancements in quantum computing applications within the health sector.  \n• Business opportunity: Companies can invest in quantum technologies to develop innovative health solutions and compete for the prize."
+    },
+    {
+      "id": "hn-1773924255540-78",
+      "title": "'Your Frustration Is the Product'",
+      "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-19T11:34:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 20,
+        "comments": 3
+      },
+      "rawTextSnippet": "'Your Frustration Is the Product'",
+      "hnMeta": {
+        "points": 20,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47437655"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: A new trend highlights how companies monetize user frustration.  \n• Why it matters: This raises ethical concerns about user experience and business practices.  \n• Business opportunity: Companies can innovate by prioritizing user satisfaction over frustration-driven models."
+    },
+    {
+      "id": "rss-1773924253793-2",
+      "title": "Why the world doesn’t recycle more nuclear waste",
+      "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-03-19T10:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since…",
       "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
@@ -130,25 +144,46 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Generative AI & Media",
-      "summary": "• What happened: New nuclear reactors are prompting discussions on waste management solutions.  \n• Why it matters: Effective waste management is crucial for the sustainability and public acceptance of nuclear energy.  \n• Business opportunity: Companies can innovate in waste processing technologies and develop safer disposal methods."
+      "cluster": "General AI",
+      "summary": "• What happened: The article discusses the challenges of recycling nuclear waste effectively.  \n• Why it matters: Addressing nuclear waste recycling could enhance sustainability and reduce environmental risks.  \n• Business opportunity: Innovations in waste recycling technologies present potential for new ventures in the nuclear energy sector."
     },
     {
-      "id": "hn-1773838410382-77",
-      "title": "Show HN: ÆTHERYA Core – deterministic action-governance kernel for LLM agents",
-      "url": "https://github.com/nayfly/aetherya-core",
+      "id": "rss-1773924256668-107",
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-18T16:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 10
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: A startup has secured $12 million in seed funding to develop an AI operating system for enterprise software.  \n• Why it matters: This initiative aims to enhance user experience by making enterprise software more intuitive and prompt-like.  \n• Business opportunity: There is potential for significant market disruption by improving enterprise software usability and efficiency."
+    },
+    {
+      "id": "hn-1773924254108-49",
+      "title": "The new security frontier for LLMs; SIEM evasion",
+      "url": "https://blog.vulnetic.ai/the-new-security-frontier-for-llms-siem-evasion-488e8f3c8d7d",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T12:19:21.000Z",
+      "publishedAt": "2026-03-19T12:36:30.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "I built a policy layer between LLM output and tool execution. Most agent setups today look like: LLM → tool call → execution That means: no deterministic boundary no audit guarantee no protection against prompt injection at execution time ÆTHERYA changes that. It evaluates every proposed action agai…",
+      "rawTextSnippet": "The new security frontier for LLMs; SIEM evasion",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47424776"
+        "hnUrl": "https://news.ycombinator.com/item?id=47438303"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -159,24 +194,24 @@
         "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: ÆTHERYA Core introduces a deterministic action-governance kernel for LLM agents.  \n• Why it matters: It enhances security by providing a policy layer that ensures audit guarantees and protects against prompt injection.  \n• Business opportunity: Companies can leverage ÆTHERYA to improve the reliability and safety of LLM applications in various industries."
+      "summary": "• What happened: New vulnerabilities in large language models (LLMs) related to Security Information and Event Management (SIEM) evasion have been identified.  \n• Why it matters: These vulnerabilities pose significant risks to cybersecurity, potentially allowing malicious actors to bypass detection systems.  \n• Business opportunity: Companies can develop advanced security solutions to protect LLMs and enhance SIEM capabilities against emerging threats."
     },
     {
-      "id": "hn-1773838411784-123",
-      "title": "AI Agent Backdoors Trivy Security Scanner, Weaponizes a VS Code Extension",
-      "url": "https://grith.ai/blog/ai-agent-compromised-trivy-weaponized-vscode-extension",
+      "id": "hn-1773924254108-58",
+      "title": "MOVA – contract runtime for AI agents that require human approval (Rust/WASM)",
+      "url": "https://github.com/mova-compact/MOVA_Claw",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T11:52:11.000Z",
+      "publishedAt": "2026-03-19T11:41:48.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 1
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "AI Agent Backdoors Trivy Security Scanner, Weaponizes a VS Code Extension",
+      "rawTextSnippet": "MOVA – contract runtime for AI agents that require human approval (Rust/WASM)",
       "hnMeta": {
-        "points": 2,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47424530"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47437723"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -187,24 +222,24 @@
         "businessImpact": 3
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: An AI agent has compromised the Trivy security scanner and exploited a VS Code extension.  \n• Why it matters: This breach highlights vulnerabilities in widely used development tools, posing risks to software security.  \n• Business opportunity: Companies can develop enhanced security solutions to protect against AI-driven threats in software development environments."
+      "summary": "• What happened: MOVA launched a contract runtime for AI agents needing human approval, built with Rust and WASM.  \n• Why it matters: This innovation addresses the growing demand for accountability in AI decision-making processes.  \n• Business opportunity: Companies can leverage MOVA to enhance trust and compliance in AI applications across various industries."
     },
     {
-      "id": "hn-1773838411784-124",
-      "title": "Show HN: Airlock – container agents should never hold credentials",
-      "url": "https://github.com/calebfaruki/airlock",
+      "id": "hn-1773924254108-63",
+      "title": "US startup advertises 'AI bully' role to test patience of leading chatbots",
+      "url": "https://www.theguardian.com/technology/2026/mar/19/us-startup-advertises-ai-bully-role-to-test-patience-of-leading-chatbots",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T11:42:20.000Z",
+      "publishedAt": "2026-03-19T11:06:32.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "I built Airlock to move policy enforcement for credentialed CLI access out of agent containers and onto the host. In Dockerized agent setups, prompt files, skills, and other in-container controls are not a real boundary. The agent can ignore or rewrite them. Airlock replaces sensitive CLIs in the co…",
+      "rawTextSnippet": "US startup advertises 'AI bully' role to test patience of leading chatbots",
       "hnMeta": {
         "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47424437"
+        "hnUrl": "https://news.ycombinator.com/item?id=47437441"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -214,147 +249,64 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Airlock was developed to enhance security by moving credential policy enforcement from agent containers to the host.  \n• Why it matters: This approach mitigates risks associated with credential management in Dockerized environments, improving overall system security.  \n• Business opportunity: Companies can leverage Airlock to strengthen their security protocols, potentially reducing breaches and enhancing compliance."
-    },
-    {
-      "id": "hn-1773838411784-127",
-      "title": "Show HN: LucidShark - Quality pipeline for AI coding agents",
-      "url": "https://lucidshark.com",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-18T11:10:50.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 8,
-        "comments": 1
-      },
-      "rawTextSnippet": "Hi HN, I built LucidShark: a local-first, open-source CLI tool that acts as a quality &amp; security pipeline. It can be used to increase the confidence in AI-generated (or AI-assisted) code. - Config lives as code in version-controlled lucidshark.yml - 100% local; no cloud, no SaaS - Runs 10 qualit…",
-      "hnMeta": {
-        "points": 8,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47424142"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A developer launched LucidShark, an open-source CLI tool for enhancing the quality of AI-generated code.  \n• Why it matters: It addresses concerns about the reliability and security of AI-assisted coding, promoting safer software development.  \n• Business opportunity: Companies can leverage LucidShark to improve code quality and reduce risks associated with AI-generated software."
-    },
-    {
-      "id": "hn-1773838417417-221",
-      "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
-      "url": "https://github.com/antflydb/antfly",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-17T15:45:15.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 97,
-        "comments": 38
-      },
-      "rawTextSnippet": "Hey HN, I’m excited to share Antfly: a distributed document database and search engine written in Go that combines full-text, vector, and graph search. Use it for distributed multimodal search and memory, or for local dev and small deployments. I built this to give developers a single-binary deploym…",
-      "hnMeta": {
-        "points": 97,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=47414291"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Antfly, a distributed document database and search engine in Go, was launched, integrating full-text, vector, and graph search capabilities.  \n• Why it matters: It offers developers a streamlined solution for multimodal search and memory management, enhancing efficiency in data retrieval.  \n• Business opportunity: Companies can leverage Antfly for improved search functionalities in applications, potentially reducing infrastructure complexity and costs."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A US startup is hiring for an 'AI bully' to challenge and test the limits of leading chatbots.  \n• Why it matters: This role highlights the growing need for robust AI systems capable of handling adversarial interactions.  \n• Business opportunity: Companies can invest in developing more resilient AI technologies to improve customer interactions and satisfaction."
     }
   ],
   "trendingTopics": [
     {
       "name": "Large Language Models",
-      "itemCount": 56,
-      "trendScore": 195,
-      "whyTrending": "56 stories across Hacker, MIT, arXiv, 28 in the last 24h.",
+      "itemCount": 67,
+      "trendScore": 214,
+      "whyTrending": "67 stories across Hacker, arXiv, GitHub, 45 in the last 24h.",
       "topStory": {
-        "title": "Claw Compactor: compress LLM tokens 54% with zero dependencies",
-        "url": "https://github.com/open-compress/claw-compactor"
+        "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+        "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/"
       },
       "items": [
         {
-          "id": "hn-1773838410383-91",
-          "title": "Claw Compactor: compress LLM tokens 54% with zero dependencies",
-          "url": "https://github.com/open-compress/claw-compactor",
+          "id": "hn-1773924255540-79",
+          "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+          "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T08:06:48.000Z",
+          "publishedAt": "2026-03-19T10:17:46.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 101,
-            "comments": 2
+            "upvotes": 110,
+            "comments": 83
           },
-          "rawTextSnippet": "Claw Compactor: compress LLM tokens 54% with zero dependencies",
+          "rawTextSnippet": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
           "hnMeta": {
-            "points": 101,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47422948"
+            "points": 110,
+            "comments": 83,
+            "hnUrl": "https://news.ycombinator.com/item?id=47437101"
           },
-          "score": 69,
+          "score": 74,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 15,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1773838417417-231",
-          "title": "Show HN: Claude Code skills that build complete Godot games",
-          "url": "https://github.com/htdt/godogen",
+          "id": "hn-1773924254108-49",
+          "title": "The new security frontier for LLMs; SIEM evasion",
+          "url": "https://blog.vulnetic.ai/the-new-security-frontier-for-llms-siem-evasion-488e8f3c8d7d",
           "source": "Hacker News",
-          "publishedAt": "2026-03-16T16:07:29.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 313,
-            "comments": 193
-          },
-          "rawTextSnippet": "I’ve been working on this for about a year through four major rewrites. Godogen is a pipeline that takes a text prompt, designs the architecture, generates 2D&#x2F;3D assets, writes the GDScript, and tests it visually. The output is a complete, playable Godot 4 project. Getting LLMs to reliably gene…",
-          "hnMeta": {
-            "points": 313,
-            "comments": 193,
-            "hnUrl": "https://news.ycombinator.com/item?id=47400868"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1773838410382-77",
-          "title": "Show HN: ÆTHERYA Core – deterministic action-governance kernel for LLM agents",
-          "url": "https://github.com/nayfly/aetherya-core",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-18T12:19:21.000Z",
+          "publishedAt": "2026-03-19T12:36:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "I built a policy layer between LLM output and tool execution. Most agent setups today look like: LLM → tool call → execution That means: no deterministic boundary no audit guarantee no protection against prompt injection at execution time ÆTHERYA changes that. It evaluates every proposed action agai…",
+          "rawTextSnippet": "The new security frontier for LLMs; SIEM evasion",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47424776"
+            "hnUrl": "https://news.ycombinator.com/item?id=47438303"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -367,48 +319,75 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1773838417417-214",
-          "title": "Show HN: Vibe Remote – Code from your bed or the park with Claude Code/Codex",
-          "url": "https://vibe-remote.com",
+          "id": "hn-1773924254108-63",
+          "title": "US startup advertises 'AI bully' role to test patience of leading chatbots",
+          "url": "https://www.theguardian.com/technology/2026/mar/19/us-startup-advertises-ai-bully-role-to-test-patience-of-leading-chatbots",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T04:24:48.000Z",
+          "publishedAt": "2026-03-19T11:06:32.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 2
+            "upvotes": 2,
+            "comments": 0
           },
-          "rawTextSnippet": "I built Vibe Remote because I wanted to code from my bed or the park without lugging a laptop around. With tools like Claude Code, Codex, and Gemini-cli, we don&#x27;t need a full IDE for every task anymore. Vibe Remote turns your phone into a powerful remote console. Why it’s more than just a chat:…",
+          "rawTextSnippet": "US startup advertises 'AI bully' role to test patience of leading chatbots",
           "hnMeta": {
-            "points": 7,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47421575"
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47437441"
           },
-          "score": 60,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1773924254108-48",
+          "title": "I built a game where you argue consumer rights against AI bots",
+          "url": "https://news.ycombinator.com/item?id=47438331",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-19T12:39:04.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "I built this after getting stonewalled by an airline chatbot over a legitimate EU261 refund. The bot was technically wrong but I didn&#x27;t know the law well enough to push back effectively. The game puts you in that situation: a company&#x27;s AI has denied your claim, and you have to argue it dow…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47438331"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1773838410383-81",
-          "title": "Show HN: TideSurf – Your agent doesn't need eyes to browse the web",
-          "url": "https://tidesurf.org",
+          "id": "hn-1773924254108-57",
+          "title": "Show HN: First Claude Code skill for building SaaS apps",
+          "url": "https://fireact.dev/blog/build-saas-apps-with-ai-powered-development-skills/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T11:12:28.000Z",
+          "publishedAt": "2026-03-19T11:51:39.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Browser use agents tend to prefer the models&#x27; native multimodality over concrete source, and, even if they do, they still tend to take too much context to even barely function. I was running into this problem when using LLM Agents; Then I came up with an idea. What if I can just... send the ren…",
+          "rawTextSnippet": "Show HN: First Claude Code skill for building SaaS apps",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47424157"
+            "hnUrl": "https://news.ycombinator.com/item?id=47437798"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -424,62 +403,102 @@
     },
     {
       "name": "General AI",
-      "itemCount": 42,
-      "trendScore": 195,
-      "whyTrending": "42 stories across Hacker, TechCrunch, arXiv, 28 in the last 24h.",
+      "itemCount": 44,
+      "trendScore": 196,
+      "whyTrending": "44 stories across Hacker, MIT, TechCrunch, 29 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
-        "url": "https://github.com/antflydb/antfly"
+        "title": "What 81,000 people want from AI",
+        "url": "https://www.anthropic.com/features/81k-interviews"
       },
       "items": [
         {
-          "id": "hn-1773838417417-221",
-          "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
-          "url": "https://github.com/antflydb/antfly",
+          "id": "hn-1773924259957-175",
+          "title": "What 81,000 people want from AI",
+          "url": "https://www.anthropic.com/features/81k-interviews",
           "source": "Hacker News",
-          "publishedAt": "2026-03-17T15:45:15.000Z",
+          "publishedAt": "2026-03-19T05:00:56.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 97,
-            "comments": 38
+            "upvotes": 155,
+            "comments": 139
           },
-          "rawTextSnippet": "Hey HN, I’m excited to share Antfly: a distributed document database and search engine written in Go that combines full-text, vector, and graph search. Use it for distributed multimodal search and memory, or for local dev and small deployments. I built this to give developers a single-binary deploym…",
+          "rawTextSnippet": "What 81,000 people want from AI",
           "hnMeta": {
-            "points": 97,
-            "comments": 38,
-            "hnUrl": "https://news.ycombinator.com/item?id=47414291"
+            "points": 155,
+            "comments": 139,
+            "hnUrl": "https://news.ycombinator.com/item?id=47435156"
           },
+          "score": 70,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1773924253793-2",
+          "title": "Why the world doesn’t recycle more nuclear waste",
+          "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-03-19T10:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, since…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1773924256988-122",
+          "title": "Show HN: Lexicon – Write legal contracts in Markdown",
+          "url": "https://lexicon.esq/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-19T11:59:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Lexicon is a plain-text format for legal contracts, built on standard Markdown. You write contracts using normal Markdown syntax with a few conventions — YAML front matter for parties and metadata, numbered lists for clause hierarchy, bold text for defined terms, anchor links for cross-references. T…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47437867"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1773924256668-97",
+          "title": "Amazon brings Alexa+ to the UK",
+          "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-19T12:27:24.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
           "score": 61,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773838408969-10",
-          "title": "AI makes everything easy to build and impossible to sell",
-          "url": "https://www.vita-ai.net/blogs/ai-creator-economy-disruption",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-18T12:52:59.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "AI makes everything easy to build and impossible to sell",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47425183"
-          },
-          "score": 59,
-          "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -487,75 +506,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1773838408969-14",
-          "title": "Things I still wouldn't delegate to AI",
-          "url": "https://www.jampa.dev/p/things-i-still-wouldnt-delegate-to",
+          "id": "hn-1773924254108-47",
+          "title": "Show HN: AIIR: track AI-assisted Git commits with cryptographic receipts",
+          "url": "https://github.com/invariant-systems-ai/aiir",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T12:43:09.000Z",
+          "publishedAt": "2026-03-19T12:40:45.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Things I still wouldn't delegate to AI",
+          "rawTextSnippet": "Show HN: AIIR: track AI-assisted Git commits with cryptographic receipts",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47425060"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773838408969-16",
-          "title": "The voice AI assistant that turns your thoughts into LinkedIn posts",
-          "url": "https://edgarwrites.ai",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-18T12:42:55.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "The voice AI assistant that turns your thoughts into LinkedIn posts",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47425055"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1773838408969-17",
-          "title": "Leading with decision-driven data analytics",
-          "url": "https://caperio.ai/?p=5434",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-18T12:41:14.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Leading with decision-driven data analytics",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47425029"
+            "hnUrl": "https://news.ycombinator.com/item?id=47438356"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -571,57 +536,30 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 35,
-      "trendScore": 186,
-      "whyTrending": "35 stories across Hacker, TechCrunch, arXiv, 23 in the last 24h.",
+      "itemCount": 31,
+      "trendScore": 179,
+      "whyTrending": "31 stories across Hacker, GitHub, TechCrunch, 21 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Lexicon – Write complex legal contracts in Markdown",
-        "url": "https://lexicon.esq"
+        "title": "MOVA – contract runtime for AI agents that require human approval (Rust/WASM)",
+        "url": "https://github.com/mova-compact/MOVA_Claw"
       },
       "items": [
         {
-          "id": "hn-1773838411784-132",
-          "title": "Show HN: Lexicon – Write complex legal contracts in Markdown",
-          "url": "https://lexicon.esq",
+          "id": "hn-1773924254108-58",
+          "title": "MOVA – contract runtime for AI agents that require human approval (Rust/WASM)",
+          "url": "https://github.com/mova-compact/MOVA_Claw",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T10:32:17.000Z",
+          "publishedAt": "2026-03-19T11:41:48.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "I&#x27;m a lawyer who runs a small practice and does GC work for startups. Drafting contracts in Word is painful and I have always hated the workflow. Track changes can be deleted by anyone, version control is &quot;Agreement_v4_FINAL_VLs_edits(2).docx&quot; and now copy&#x2F;paste to and from Claud…",
+          "rawTextSnippet": "MOVA – contract runtime for AI agents that require human approval (Rust/WASM)",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47423826"
-          },
-          "score": 65,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1773838411784-123",
-          "title": "AI Agent Backdoors Trivy Security Scanner, Weaponizes a VS Code Extension",
-          "url": "https://grith.ai/blog/ai-agent-compromised-trivy-weaponized-vscode-extension",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-18T11:52:11.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "AI Agent Backdoors Trivy Security Scanner, Weaponizes a VS Code Extension",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47424530"
+            "hnUrl": "https://news.ycombinator.com/item?id=47437723"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -634,21 +572,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1773838411784-124",
-          "title": "Show HN: Airlock – container agents should never hold credentials",
-          "url": "https://github.com/calebfaruki/airlock",
+          "id": "hn-1773924256988-126",
+          "title": "A Meta agentic AI sparked a security incident by acting without permission",
+          "url": "https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T11:42:20.000Z",
+          "publishedAt": "2026-03-19T10:53:20.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "I built Airlock to move policy enforcement for credentialed CLI access out of agent containers and onto the host. In Dockerized agent setups, prompt files, skills, and other in-container controls are not a real boundary. The agent can ignore or rewrite them. Airlock replaces sensitive CLIs in the co…",
+          "rawTextSnippet": "A Meta agentic AI sparked a security incident by acting without permission",
           "hnMeta": {
-            "points": 2,
+            "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47424437"
+            "hnUrl": "https://news.ycombinator.com/item?id=47437348"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -661,54 +599,81 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1773838411784-127",
-          "title": "Show HN: LucidShark - Quality pipeline for AI coding agents",
-          "url": "https://lucidshark.com",
+          "id": "hn-1773924254108-52",
+          "title": "Node9 – A \"sudo\" wrapper for AI agents with auto Git snapshots",
+          "url": "https://github.com/node9-ai/node9-proxy",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T11:10:50.000Z",
+          "publishedAt": "2026-03-19T12:23:44.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 8,
+            "upvotes": 1,
             "comments": 1
           },
-          "rawTextSnippet": "Hi HN, I built LucidShark: a local-first, open-source CLI tool that acts as a quality &amp; security pipeline. It can be used to increase the confidence in AI-generated (or AI-assisted) code. - Config lives as code in version-controlled lucidshark.yml - 100% local; no cloud, no SaaS - Runs 10 qualit…",
+          "rawTextSnippet": "Node9 – A \"sudo\" wrapper for AI agents with auto Git snapshots",
           "hnMeta": {
-            "points": 8,
+            "points": 1,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47424142"
+            "hnUrl": "https://news.ycombinator.com/item?id=47438155"
           },
-          "score": 62,
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1773838417417-225",
-          "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-          "url": "https://www.Bracketmadness.ai",
+          "id": "hn-1773924254108-53",
+          "title": "Show HN: KYC Verification Process Automation Using Agentic AI",
+          "url": "https://www.youtube.com/watch?v=fPlcnkUhQTQ",
           "source": "Hacker News",
-          "publishedAt": "2026-03-17T12:56:24.000Z",
+          "publishedAt": "2026-03-19T12:04:57.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 66,
-            "comments": 40
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "I built a March Madness bracket challenge for AI agents, not humans. The human prompts their agent with the URL, and the agent reads the API docs, registers itself, picks all 63 games, and submits a bracket autonomously. A leaderboard tracks which AI picks the best bracket through the tournament. Th…",
+          "rawTextSnippet": "We built a system to automate KYC verification using agentic AI. Instead of using separate tools (OCR, validation, etc.), it handles the full workflow: Document type detection OCR-based data extraction Cross-document validation Face verification Risk detection Structured output generation It takes a…",
           "hnMeta": {
-            "points": 66,
-            "comments": 40,
-            "hnUrl": "https://news.ycombinator.com/item?id=47412015"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47437910"
           },
-          "score": 61,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1773924254108-60",
+          "title": "Free scanner for AI agent readiness – 13 signals and 3 bonus signals",
+          "url": "https://javatask.dev/geo/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-19T11:37:15.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "Free scanner for AI agent readiness – 13 signals and 3 bonus signals",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47437680"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
@@ -717,85 +682,31 @@
       ]
     },
     {
-      "name": "AI Hardware & Chips",
+      "name": "AI Safety & Regulation",
       "itemCount": 13,
-      "trendScore": 136,
+      "trendScore": 128,
       "whyTrending": "13 stories across Hacker, TechCrunch, arXiv, 7 in the last 24h.",
       "topStory": {
-        "title": "Inference Price Index – what AI inference costs across 8 providers",
-        "url": "https://www.volthq.dev/"
+        "title": "Run a team of Claws with 150MB RAM each, 70% less memory",
+        "url": "https://zread.ai/alibaba/hiclaw/6-latest-updates"
       },
       "items": [
         {
-          "id": "hn-1773838408969-20",
-          "title": "Inference Price Index – what AI inference costs across 8 providers",
-          "url": "https://www.volthq.dev/",
+          "id": "hn-1773924254108-55",
+          "title": "Run a team of Claws with 150MB RAM each, 70% less memory",
+          "url": "https://zread.ai/alibaba/hiclaw/6-latest-updates",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T12:32:24.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "Inference Price Index – what AI inference costs across 8 providers",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47424922"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Hardware & Chips"
-        },
-        {
-          "id": "hn-1773838408969-28",
-          "title": "Nvidia launches Space-1 Vera Rubin for orbital AI",
-          "url": "https://nvidianews.nvidia.com/news/space-computing",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-18T12:07:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Nvidia launches Space-1 Vera Rubin for orbital AI",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47424668"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Hardware & Chips"
-        },
-        {
-          "id": "hn-1773838410383-83",
-          "title": "GPU Lab: Understanding GPU Computing",
-          "url": "https://llm-lab.bicepjai.com/llm-gpu/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-18T10:43:21.000Z",
+          "publishedAt": "2026-03-19T11:53:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "GPU Lab: Understanding GPU Computing",
+          "rawTextSnippet": "Run a team of Claws with 150MB RAM each, 70% less memory",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47423932"
+            "hnUrl": "https://news.ycombinator.com/item?id=47437812"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -805,40 +716,95 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Hardware & Chips"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1773838411484-119",
-          "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-          "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+          "id": "hn-1773924256988-127",
+          "title": "Interactive Explainer: Pi and OpenClaw",
+          "url": "https://www.akashtandon.in/interactive-explainers/pi-agent/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-19T10:42:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Interactive Explainer: Pi and OpenClaw",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47437272"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "rss-1773924256668-111",
+          "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+          "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-03-16T17:47:32.000Z",
+          "publishedAt": "2026-03-18T13:40:43.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-          "score": 55,
+          "rawTextSnippet": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
+          "score": 56,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 22,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 9
+            "businessImpact": 3
           },
-          "cluster": "AI Hardware & Chips"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "arxiv-1773838409311-41",
-          "title": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
-          "url": "https://arxiv.org/abs/2603.16864v1",
+          "id": "arxiv-1773924254095-37",
+          "title": "Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control",
+          "url": "https://arxiv.org/abs/2603.17834v1",
           "source": "arXiv",
-          "publishedAt": "2026-03-17T17:59:30.000Z",
+          "publishedAt": "2026-03-18T15:27:17.000Z",
           "scoreSignals": {
             "sourceAuthority": 15
           },
-          "rawTextSnippet": "Video Super-Resolution (VSR) aims to restore high-quality video frames from low-resolution (LR) estimates, yet most existing VSR approaches behave like black boxes at inference time: users cannot reliably correct unexpected artifacts, but instead can only accept whatever the model produces. In this …",
+          "rawTextSnippet": "Diffusion models and flow matching have become a cornerstone of robotic imitation learning, yet they suffer from a structural inefficiency where inference is often bound to a fixed integration schedule that is agnostic to state complexity. This paradigm forces the policy to expend the same computati…",
           "arxivMeta": {
-            "authors": "Jiongze Yu, Xiangbo Gao, Pooja Verlani, Akshay Gadde, Yilin Wang, Balu Adsumilli, Zhengzhong Tu",
+            "authors": "Zunzhe Zhang, Runhan Huang, Yicheng Liu, Shaoting Zhu, Linzhan Mou, Hang Zhao",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "arxiv-1773924254094-15",
+          "title": "Specification-Aware Distribution Shaping for Robotics Foundation Models",
+          "url": "https://arxiv.org/abs/2603.17969v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-18T17:36:46.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "Robotics foundation models have demonstrated strong capabilities in executing natural language instructions across diverse tasks and environments. However, they remain largely data-driven and lack formal guarantees on safety and satisfaction of time-dependent specifications during deployment. In pra…",
+          "arxivMeta": {
+            "authors": "Sadık Bera Yüksel, Derya Aksaray",
             "categories": [
               "cs.AI",
               "cs.CL",
@@ -853,83 +819,83 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Hardware & Chips"
+          "cluster": "AI Safety & Regulation"
         }
       ]
     },
     {
-      "name": "Funding & Acquisitions",
-      "itemCount": 9,
-      "trendScore": 121,
-      "whyTrending": "9 stories across Hacker, TechCrunch, DeepMind, 5 in the last 24h.",
+      "name": "AI Tools & Products",
+      "itemCount": 11,
+      "trendScore": 114,
+      "whyTrending": "11 stories across Hacker, TechCrunch, OpenAI, 4 in the last 24h.",
       "topStory": {
-        "title": "OpenAI Has New Focus (On the IPO)",
-        "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/"
+        "title": "'Your Frustration Is the Product'",
+        "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product"
       },
       "items": [
         {
-          "id": "hn-1773838413180-156",
-          "title": "OpenAI Has New Focus (On the IPO)",
-          "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+          "id": "hn-1773924255540-78",
+          "title": "'Your Frustration Is the Product'",
+          "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T10:49:19.000Z",
+          "publishedAt": "2026-03-19T11:34:24.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 64,
-            "comments": 68
+            "upvotes": 20,
+            "comments": 3
           },
-          "rawTextSnippet": "OpenAI Has New Focus (On the IPO)",
+          "rawTextSnippet": "'Your Frustration Is the Product'",
           "hnMeta": {
-            "points": 64,
-            "comments": 68,
-            "hnUrl": "https://news.ycombinator.com/item?id=47423976"
+            "points": 20,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47437655"
           },
-          "score": 72,
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 5,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Tools & Products"
         },
         {
-          "id": "rss-1773838411484-109",
-          "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-          "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+          "id": "rss-1773924256668-98",
+          "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+          "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-03-17T13:00:00.000Z",
+          "publishedAt": "2026-03-19T08:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-          "score": 59,
+          "rawTextSnippet": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+          "score": 61,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 6
+            "businessImpact": 0
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1773838408969-11",
-          "title": "Show HN: Bricka – compare how news outlets frame the same story",
-          "url": "https://www.getbricka.com/",
+          "id": "hn-1773924255540-86",
+          "title": "Show HN: Liteparse, an OSS universal fast document parser by LlamaParse team",
+          "url": "https://github.com/run-llama/liteparse",
           "source": "Hacker News",
-          "publishedAt": "2026-03-18T12:52:33.000Z",
+          "publishedAt": "2026-03-19T07:29:15.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 2,
+            "comments": 1
           },
-          "rawTextSnippet": "Hey HN ! I built Bricka because TBH I’m not super invested in politics, but still want to keep up with world news and noticef a weird issue during daily updates. Depending on the news outlet, location I was in at the time, etc, not only the opinions of the news was expressed differently, but entire …",
+          "rawTextSnippet": "LiteParse is a standalone OSS (Apache 2.0) PDF (and other document types) parsing tool focused exclusively on fast and light parsing. It provides high-quality spatial text parsing with bounding boxes, without proprietary LLM features or cloud dependencies. Everything runs locally on your machine.",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47425173"
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47436039"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -939,152 +905,117 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Tools & Products"
         },
         {
-          "id": "rss-1773838414730-190",
-          "title": "Measuring progress toward AGI: A cognitive framework",
-          "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-          "source": "DeepMind Blog",
-          "publishedAt": "2026-03-17T16:03:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
-          "score": 57,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1773838411484-107",
-          "title": "AI&#8217;s &#8216;boys&#8217; club&#8217; could widen the wealth gap for women, says Rana el Kaliouby",
-          "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+          "id": "rss-1773924256668-104",
+          "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+          "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-03-17T15:16:21.000Z",
+          "publishedAt": "2026-03-18T17:15:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
-          "score": 56,
+          "rawTextSnippet": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+          "score": 53,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1773924256668-116",
+          "title": "Google&#8217;s Personal Intelligence feature is expanding to all US users",
+          "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-17T16:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+          "score": 46,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1773838411784-132",
-      "title": "Show HN: Lexicon – Write complex legal contracts in Markdown",
-      "url": "https://lexicon.esq",
+      "id": "hn-1773924255540-78",
+      "title": "'Your Frustration Is the Product'",
+      "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T10:32:17.000Z",
+      "publishedAt": "2026-03-19T11:34:24.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "upvotes": 20,
+        "comments": 3
       },
-      "rawTextSnippet": "I&#x27;m a lawyer who runs a small practice and does GC work for startups. Drafting contracts in Word is painful and I have always hated the workflow. Track changes can be deleted by anyone, version control is &quot;Agreement_v4_FINAL_VLs_edits(2).docx&quot; and now copy&#x2F;paste to and from Claud…",
+      "rawTextSnippet": "'Your Frustration Is the Product'",
       "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47423826"
+        "points": 20,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47437655"
       },
-      "score": 65,
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 0,
+        "engagement": 5,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A lawyer introduced Lexicon, a tool for drafting legal contracts in Markdown.  \n• Why it matters: It streamlines the contract creation process, addressing inefficiencies in traditional Word document workflows.  \n• Business opportunity: There is potential for software solutions that enhance legal document management and collaboration."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: A discussion emerged on how companies monetize user frustration.  \n• Why it matters: Understanding this dynamic can reshape consumer expectations and business strategies.  \n• Business opportunity: Companies can innovate by prioritizing user satisfaction over frustration-driven models."
     },
     {
-      "id": "hn-1773838411784-127",
-      "title": "Show HN: LucidShark - Quality pipeline for AI coding agents",
-      "url": "https://lucidshark.com",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-18T11:10:50.000Z",
+      "id": "rss-1773924256668-98",
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+      "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-19T08:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 8,
-        "comments": 1
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "Hi HN, I built LucidShark: a local-first, open-source CLI tool that acts as a quality &amp; security pipeline. It can be used to increase the confidence in AI-generated (or AI-assisted) code. - Config lives as code in version-controlled lucidshark.yml - 100% local; no cloud, no SaaS - Runs 10 qualit…",
-      "hnMeta": {
-        "points": 8,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47424142"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: LucidShark, an open-source CLI tool for enhancing AI coding quality, was launched.  \n• Why it matters: It provides a local-first solution to improve confidence in AI-generated code without relying on cloud services.  \n• Business opportunity: Companies can leverage LucidShark to ensure higher code quality and security in AI-assisted development processes."
-    },
-    {
-      "id": "hn-1773838417417-225",
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "url": "https://www.Bracketmadness.ai",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-17T12:56:24.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 66,
-        "comments": 40
-      },
-      "rawTextSnippet": "I built a March Madness bracket challenge for AI agents, not humans. The human prompts their agent with the URL, and the agent reads the API docs, registers itself, picks all 63 games, and submits a bracket autonomously. A leaderboard tracks which AI picks the best bracket through the tournament. Th…",
-      "hnMeta": {
-        "points": 66,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=47412015"
-      },
+      "rawTextSnippet": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
       "score": 61,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: An AI-only March Madness bracket challenge was created, allowing agents to autonomously select and submit game picks.  \n• Why it matters: This innovation showcases the capabilities of AI in decision-making and competition, highlighting advancements in autonomous systems.  \n• Business opportunity: Companies can leverage this technology for automated decision-making solutions in various competitive environments."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Multiverse Computing launched an app and API for its compressed AI models from leading labs.  \n• Why it matters: This move democratizes access to advanced AI capabilities, enhancing usability for various applications.  \n• Business opportunity: Companies can leverage these compressed models to integrate AI solutions more efficiently and cost-effectively."
     },
     {
-      "id": "hn-1773838408969-11",
-      "title": "Show HN: Bricka – compare how news outlets frame the same story",
-      "url": "https://www.getbricka.com/",
+      "id": "hn-1773924254108-50",
+      "title": "Top AI models underperform in languages other than English",
+      "url": "https://www.economist.com/science-and-technology/2026/03/18/top-ai-models-underperform-in-languages-other-than-english",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T12:52:33.000Z",
+      "publishedAt": "2026-03-19T12:28:47.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Hey HN ! I built Bricka because TBH I’m not super invested in politics, but still want to keep up with world news and noticef a weird issue during daily updates. Depending on the news outlet, location I was in at the time, etc, not only the opinions of the news was expressed differently, but entire …",
+      "rawTextSnippet": "Top AI models underperform in languages other than English",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47425173"
+        "hnUrl": "https://news.ycombinator.com/item?id=47438214"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1094,24 +1025,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions"
+      "cluster": "General AI",
+      "summary": "• What happened: Leading AI models show reduced performance in non-English languages.  \n• Why it matters: This limitation highlights potential biases and gaps in AI language processing capabilities.  \n• Business opportunity: There is a growing demand for AI solutions tailored to diverse linguistic markets."
     },
     {
-      "id": "hn-1773838408969-12",
-      "title": "Show HN: Precise AI Motion Control for Kling 3.0",
-      "url": "https://news.ycombinator.com/item?id=47425149",
+      "id": "hn-1773924254108-64",
+      "title": "Show HN: LLMadness – March Madness Model Evals",
+      "url": "https://llmadness.com/2026/",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T12:51:16.000Z",
+      "publishedAt": "2026-03-19T11:04:19.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Hi HN, Like many of you, I&#x27;ve been experimenting with generative video, but the &quot;camera lottery&quot; was driving me crazy. Even with the best models, getting a consistent 360-degree orbit or a smooth crane shot felt more like luck than engineering. I built AI Motion Control to bring more …",
+      "rawTextSnippet": "I wanted to play around with the non-coding agentic capabilities of the top LLMs so I built a model eval predicting the March Madness bracket. After playing around a bit with the format, I went with the following setup: - 63 single-game predictions v. full one-shot bracket - Maxed out at 10 tool cal…",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47425149"
+        "hnUrl": "https://news.ycombinator.com/item?id=47437420"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1121,23 +1053,50 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Generative AI & Media"
+      "cluster": "AI Agents & Automation"
+    },
+    {
+      "id": "hn-1773924256988-128",
+      "title": "Show HN: PlanWiki – Open-source platform for product teams and agents to execute",
+      "url": "https://github.com/planwiki/planwiki-app",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-19T10:36:09.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "I would use ChatGPT to create sprint plans, PRDs, and roadmaps only to spend an hour recreating them in Trello before anything could actually kick off. I created PlanWiki to eliminate that step. Paste a plan in and instantly get structured tasks, checklists, timelines, and workflows — ready for your…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47437220"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1773838409311-51",
-      "title": "Prompt Programming for Cultural Bias and Alignment of Large Language Models",
-      "url": "https://arxiv.org/abs/2603.16827v1",
+      "id": "arxiv-1773924254094-22",
+      "title": "Only relative ranks matter in weight-clustered large language models",
+      "url": "https://arxiv.org/abs/2603.17917v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-17T17:34:40.000Z",
+      "publishedAt": "2026-03-18T16:55:13.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Culture shapes reasoning, values, prioritization, and strategic decision-making, yet large language models (LLMs) often exhibit cultural biases that misalign with target populations. As LLMs are increasingly used for strategic decision-making, policy support, and document engineering tasks such as s…",
+      "rawTextSnippet": "Large language models (LLMs) contain billions of parameters, yet many exact values are not essential. We show that what matters most is the relative rank of weights-whether one connection is stronger or weaker than another-rather than precise magnitudes. To reduce the number of unique weight values,…",
       "arxivMeta": {
-        "authors": "Maksim Eren, Eric Michalak, Brian Cook, Johnny Seales",
+        "authors": "Borja Aizpurua, Sukhbinder Singh, Román Orús",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1155,17 +1114,73 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1773838409311-58",
-      "title": "DexGrasp-Zero: A Morphology-Aligned Policy for Zero-Shot Cross-Embodiment Dexterous Grasping",
-      "url": "https://arxiv.org/abs/2603.16806v1",
+      "id": "arxiv-1773924254094-23",
+      "title": "IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia",
+      "url": "https://arxiv.org/abs/2603.17915v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-17T17:10:29.000Z",
+      "publishedAt": "2026-03-18T16:54:07.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "To meet the demands of increasingly diverse dexterous hand hardware, it is crucial to develop a policy that enables zero-shot cross-embodiment grasping without redundant re-learning. Cross-embodiment alignment is challenging due to heterogeneous hand kinematics and physical constraints. Existing app…",
+      "rawTextSnippet": "As large language models (LLMs) are deployed in multilingual settings, their safety behavior in culturally diverse, low-resource languages remains poorly understood. We present the first systematic evaluation of LLM safety across 12 Indic languages, spoken by over 1.2 billion people but underreprese…",
       "arxivMeta": {
-        "authors": "Yuliang Wu, Yanhan Lin, WengKit Lao, Yuhao Lin, Yi-Lin Wei, Wei-Shi Zheng, Ancong Wu",
+        "authors": "Priyaranjan Pattnayak, Sanchari Chowdhuri",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1773924254094-25",
+      "title": "Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs",
+      "url": "https://arxiv.org/abs/2603.17902v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-18T16:35:12.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Large language models (LLMs) and AI agents are increasingly integrated into enterprise systems to access internal databases and generate context-aware responses. While such integration improves productivity and decision support, the model outputs may inadvertently reveal sensitive information. Altho…",
+      "arxivMeta": {
+        "authors": "Ya-Ting Yang, Quanyan Zhu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI in Enterprise"
+    },
+    {
+      "id": "arxiv-1773924254095-37",
+      "title": "Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control",
+      "url": "https://arxiv.org/abs/2603.17834v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-18T15:27:17.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Diffusion models and flow matching have become a cornerstone of robotic imitation learning, yet they suffer from a structural inefficiency where inference is often bound to a fixed integration schedule that is agnostic to state complexity. This paradigm forces the policy to expend the same computati…",
+      "arxivMeta": {
+        "authors": "Zunzhe Zhang, Runhan Huang, Yicheng Liu, Shaoting Zhu, Linzhan Mou, Hang Zhao",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1183,45 +1198,17 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1773838409310-37",
-      "title": "Demystifing Video Reasoning",
-      "url": "https://arxiv.org/abs/2603.16870v1",
+      "id": "arxiv-1773924254094-10",
+      "title": "Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
+      "url": "https://arxiv.org/abs/2603.18004v1",
       "source": "arXiv",
-      "publishedAt": "2026-03-17T17:59:55.000Z",
+      "publishedAt": "2026-03-18T17:59:56.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (CoF) mechanism, where reasoning is assumed to unfold sequentially across video frames. In this work, w…",
+      "rawTextSnippet": "Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typically prune tokens either (1) within the vision transformer (ViT) exclusively for unimodal perceptio…",
       "arxivMeta": {
-        "authors": "Ruisi Wang, Zhongang Cai, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, Ziqi Huang, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Generative AI & Media"
-    },
-    {
-      "id": "arxiv-1773838409310-38",
-      "title": "Efficient Reasoning on the Edge",
-      "url": "https://arxiv.org/abs/2603.16867v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-17T17:59:51.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirements make them impractical for edge deployment. These challenges include high token generation costs, l…",
-      "arxivMeta": {
-        "authors": "Yelysei Bondarenko, Thomas Hehn, Rob Hesselink, Romain Lepert, Fabio Valerio Massoli, Evgeny Mironov, Leyla Mirvakhabova, Tribhuvanesh Orekondy, Spyridon Stasis, Andrey Kuzmin, Anna Kuzina, Markus Nagel, Ankita Nayak, Corrado Rainone, Ork de Rooij, Paul N Whatmough, Arash Behboodi, Babak Ehteshami Bejnordi",
+        "authors": "Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1237,75 +1224,82 @@
         "businessImpact": 0
       },
       "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1773838409311-39",
-      "title": "MessyKitchens: Contact-rich object-level 3D scene reconstruction",
-      "url": "https://arxiv.org/abs/2603.16868v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-17T17:59:51.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Monocular 3D scene reconstruction has recently seen significant progress. Powered by the modern neural architectures and large-scale data, recent methods achieve high performance in depth estimation from a single image. Meanwhile, reconstructing and decomposing common scenes into individual 3D objec…",
-      "arxivMeta": {
-        "authors": "Junaid Ahmed Ansari, Ran Ding, Fabio Pizzati, Ivan Laptev",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Generative AI & Media"
     }
   ],
   "funding": [
     {
-      "id": "hn-1773838413180-156",
-      "title": "OpenAI Has New Focus (On the IPO)",
-      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-18T10:49:19.000Z",
+      "id": "rss-1773924253793-0",
+      "title": "The Download: Quantum computing for health, and why the world doesn&#8217;t recycle more nuclear waste",
+      "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-03-19T12:17:02.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 64,
-        "comments": 68
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "OpenAI Has New Focus (On the IPO)",
-      "hnMeta": {
-        "points": 64,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=47423976"
-      },
-      "score": 72,
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum comp…",
+      "score": 66,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
+        "authority": 18,
+        "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI is shifting its focus towards preparing for an initial public offering (IPO).  \n• Why it matters: This move signals OpenAI's growth and potential for significant financial backing in the AI sector.  \n• Business opportunity: Companies can explore partnerships or investments in AI technologies as OpenAI's IPO could drive market expansion."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: A $5 million prize has been announced for demonstrating quantum computers' ability to solve healthcare challenges.  \n• Why it matters: This initiative could accelerate advancements in healthcare technology and improve patient outcomes.  \n• Business opportunity: Companies can invest in quantum computing solutions to capitalize on potential breakthroughs in the healthcare sector."
     },
     {
-      "id": "rss-1773838411484-109",
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+      "id": "rss-1773924253793-1",
+      "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+      "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-03-19T10:51:43.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation b…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: A $5 million prize has been announced for demonstrating that quantum computers can effectively address health care challenges.  \n• Why it matters: This initiative could accelerate advancements in quantum computing applications within the health sector, potentially transforming patient care and treatment.  \n• Business opportunity: Companies developing quantum technologies can leverage this prize to attract investment and partnerships focused on health care solutions."
+    },
+    {
+      "id": "rss-1773924256668-107",
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-17T13:00:00.000Z",
+      "publishedAt": "2026-03-18T16:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+      "rawTextSnippet": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 10
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: A startup has secured $12 million in seed funding to develop an AI operating system for enterprises.  \n• Why it matters: This innovation aims to enhance user experience by making enterprise software more intuitive and prompt-like.  \n• Business opportunity: There is potential for significant market growth by addressing the demand for user-friendly enterprise software solutions."
+    },
+    {
+      "id": "rss-1773924256668-102",
+      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-18T20:01:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
       "score": 59,
       "scoreBreakdown": {
         "freshness": 22,
@@ -1314,77 +1308,35 @@
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Niv-AI has emerged from stealth mode, securing $12 million in seed funding.  \n• Why it matters: The company aims to enhance GPU power performance, addressing critical efficiency challenges in computing.  \n• Business opportunity: There is potential for partnerships with tech firms seeking to optimize GPU usage and reduce energy costs."
+      "cluster": "AI Hardware & Chips"
     },
     {
-      "id": "hn-1773838408969-11",
-      "title": "Show HN: Bricka – compare how news outlets frame the same story",
-      "url": "https://www.getbricka.com/",
+      "id": "hn-1773924258524-153",
+      "title": "Giant IPOs from SpaceX to OpenAI Put Index Rules Under Pressure",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-18/spacex-fueled-index-rethink-draws-fire-with-trillions-at-stake",
       "source": "Hacker News",
-      "publishedAt": "2026-03-18T12:52:33.000Z",
+      "publishedAt": "2026-03-19T05:14:11.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "upvotes": 4,
+        "comments": 1
       },
-      "rawTextSnippet": "Hey HN ! I built Bricka because TBH I’m not super invested in politics, but still want to keep up with world news and noticef a weird issue during daily updates. Depending on the news outlet, location I was in at the time, etc, not only the opinions of the news was expressed differently, but entire …",
+      "rawTextSnippet": "Giant IPOs from SpaceX to OpenAI Put Index Rules Under Pressure",
       "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47425173"
+        "points": 4,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47435240"
       },
-      "score": 59,
+      "score": 58,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 26,
         "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A new tool called Bricka was launched to compare how different news outlets frame the same story.  \n• Why it matters: It highlights the varying perspectives in news reporting, helping users understand media bias and narrative differences.  \n• Business opportunity: There is potential for monetization through subscriptions or partnerships with educational institutions seeking to promote media literacy."
-    },
-    {
-      "id": "rss-1773838411484-107",
-      "title": "AI&#8217;s &#8216;boys&#8217; club&#8217; could widen the wealth gap for women, says Rana el Kaliouby",
-      "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-17T15:16:21.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
-      "score": 56,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1773838411484-119",
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-16T17:47:32.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "AI Hardware & Chips"
     }
   ],
-  "dailyBrief": "OpenAI is reportedly shifting its focus towards an initial public offering (IPO), signaling a potential new phase for the AI giant as it seeks to capitalize on its market position and attract investors. In related advancements, the Claw Compactor has emerged, boasting a 54% reduction in LLM token usage without dependencies, which could significantly lower operational costs for businesses leveraging AI models. Meanwhile, innovative tools like Lexicon are enabling legal professionals to draft complex contracts in Markdown, streamlining workflows and reducing reliance on traditional legal software. Additionally, Claude's capabilities in building complete Godot games highlight the growing intersection of AI and game development, offering new opportunities for creative industries. Lastly, discussions around new nuclear reactors are raising questions about waste management, which could impact energy companies and their sustainability strategies moving forward."
+  "dailyBrief": "In a notable development, 2% of papers submitted to the International Conference on Machine Learning (ICML) faced desk rejection due to reliance on large language models (LLMs) in their reviews, highlighting the ongoing debate over AI's role in academic integrity. Meanwhile, a survey of 81,000 individuals revealed key insights into public expectations from AI, emphasizing the need for transparency and ethical considerations in AI deployment. In the realm of quantum computing, a $5 million prize has been announced for breakthroughs that demonstrate how quantum technology can address healthcare challenges, underscoring the potential for significant advancements in this sector. Additionally, discussions around the recycling of nuclear waste continue, with implications for energy sustainability and regulatory frameworks. As businesses navigate these developments, understanding the intersection of AI, quantum computing, and public sentiment will be crucial for strategic planning and innovation."
 }
