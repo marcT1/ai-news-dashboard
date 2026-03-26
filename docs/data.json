@@ -1,43 +1,169 @@
 {
   "topNews": [
     {
-      "id": "hn-1774443099340-213",
+      "id": "rss-1774529820561-20",
+      "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+      "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-03-26T10:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and s…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: An independent startup created a highly effective snow-forecasting app for skiers and snowboarders.  \n• Why it matters: The app outperforms traditional weather services and big brands by utilizing government data and AI.  \n• Business opportunity: There is potential for growth in niche weather applications targeting outdoor enthusiasts."
+    },
+    {
+      "id": "hn-1774529824821-163",
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "url": "https://github.com/lightfeed/extractor",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-26T03:55:52.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 53,
+        "comments": 34
+      },
+      "rawTextSnippet": "We&#x27;ve been building data pipelines that scrape websites and extract structured data for a while now. If you&#x27;ve done this, you know the drill: you write CSS selectors, the site changes its layout, everything breaks at 2am, and you spend your morning rewriting parsers. LLMs seemed like the o…",
+      "hnMeta": {
+        "points": 53,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=47526486"
+      },
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A new TypeScript tool for extracting structured data from websites using LLMs has been developed.  \n• Why it matters: This innovation addresses the common challenges of maintaining web scrapers amid frequent site layout changes.  \n• Business opportunity: Companies can leverage this tool to streamline data extraction processes, reducing downtime and maintenance costs."
+    },
+    {
+      "id": "hn-1774529826243-176",
+      "title": "Government agencies buy commercial data about Americans in bulk",
+      "url": "https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-26T06:11:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 104,
+        "comments": 41
+      },
+      "rawTextSnippet": "Government agencies buy commercial data about Americans in bulk",
+      "hnMeta": {
+        "points": 104,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=47527130"
+      },
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Government agencies are purchasing large amounts of commercial data on American citizens.  \n• Why it matters: This raises concerns about privacy and the ethical implications of data usage by the government.  \n• Business opportunity: Companies can explore ethical data solutions and privacy-focused services to meet regulatory demands."
+    },
+    {
+      "id": "rss-1774529823352-101",
+      "title": "A ‘pound of flesh’ from data centers: one senator&#8217;s answer to AI job losses",
+      "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-26T12:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Senator Mark Warner proposed taxing data centers to address AI-related job losses.  \n• Why it matters: This initiative reflects rising concerns about the impact of AI on employment and economic stability.  \n• Business opportunity: Companies can explore solutions to support workforce transitions and mitigate job displacement effects."
+    },
+    {
+      "id": "hn-1774529821987-65",
+      "title": "European Parliament decided that Chat Control 1.0 must stop",
+      "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-26T12:30:59.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 35,
+        "comments": 2
+      },
+      "rawTextSnippet": "European Parliament decided that Chat Control 1.0 must stop",
+      "hnMeta": {
+        "points": 35,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47529646"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: The European Parliament voted to halt the implementation of Chat Control 1.0.  \n• Why it matters: This decision impacts regulations on online privacy and surveillance across the EU.  \n• Business opportunity: Companies can explore alternative privacy-compliant communication solutions in response to changing regulations."
+    },
+    {
+      "id": "hn-1774529829046-224",
       "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
       "url": "https://github.com/ssrajadh/sentrysearch",
       "source": "Hacker News",
       "publishedAt": "2026-03-24T14:58:27.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 354,
-        "comments": 92
+        "upvotes": 425,
+        "comments": 103
       },
       "rawTextSnippet": "Gemini Embedding 2 can project raw video directly into a 768-dimensional vector space alongside text. No transcription, no frame captioning, no intermediate text. A query like &quot;green car cutting me off&quot; is directly comparable to a 30-second video clip at the vector level. I used this to bu…",
       "hnMeta": {
-        "points": 354,
-        "comments": 92,
+        "points": 425,
+        "comments": 103,
         "hnUrl": "https://news.ycombinator.com/item?id=47503617"
       },
-      "score": 71,
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 14,
         "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Gemini Embedding 2 now allows native video embedding into a vector space for efficient search.  \n• Why it matters: This innovation eliminates the need for transcription and enhances video search capabilities significantly.  \n• Business opportunity: Companies can leverage this technology for advanced video analytics and improved user experience in content discovery."
+      "summary": "• What happened: Gemini Embedding 2 now allows direct embedding of video into a vector space for efficient search.  \n• Why it matters: This innovation eliminates the need for transcription and enhances video search accuracy and speed.  \n• Business opportunity: Companies can leverage this technology for advanced video analytics and improved user experiences in content discovery."
     },
     {
-      "id": "rss-1774443090565-0",
-      "title": "Agentic commerce runs on truth and context",
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "id": "rss-1774529820561-21",
+      "title": "Are high gas prices good news for EVs? It’s complicated.",
+      "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-03-25T11:48:13.000Z",
+      "publishedAt": "2026-03-26T10:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,…",
+      "rawTextSnippet": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Iran has escalated, fossil-fuel prices have been on a roller-coaster, and I’ve started paying attentio…",
       "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
@@ -46,40 +172,40 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Digital agents are evolving from providing assistance to executing complex tasks like booking travel itineraries.  \n• Why it matters: This shift enhances user experience by streamlining decision-making and automating purchases.  \n• Business opportunity: Companies can develop advanced digital agents to capture market share in travel and personalized services."
+      "cluster": "General AI",
+      "summary": "• What happened: Rising fossil fuel prices due to geopolitical tensions are impacting consumer behavior towards electric vehicles (EVs).  \n• Why it matters: Increased gas prices may accelerate the shift to EVs, influencing market dynamics and consumer choices.  \n• Business opportunity: Companies can capitalize on this trend by enhancing EV infrastructure and promoting sustainable transportation solutions."
     },
     {
-      "id": "rss-1774443090565-1",
-      "title": "The AI Hype Index: AI goes to war",
-      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-03-25T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Anthropic and the Pentagon clashed over AI weaponization, while OpenAI secured a controversial deal.  \n• Why it matters: The backlash against AI is growing, highlighted by significant user attrition and public protests.  \n• Business opportunity: Companies can explore ethical AI solutions and transparency to address public concerns and regain trust."
-    },
-    {
-      "id": "rss-1774443093421-102",
-      "title": "Databricks bought two startups to underpin its new AI security product",
-      "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "id": "rss-1774529823352-108",
+      "title": "Bernie Sanders and AOC propose a ban on data center construction",
+      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-24T20:40:56.000Z",
+      "publishedAt": "2026-03-25T17:15:50.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "rawTextSnippet": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Bernie Sanders and AOC proposed a ban on new data center construction.  \n• Why it matters: The legislation aims to pause development until comprehensive AI regulations are established.  \n• Business opportunity: Companies could invest in regulatory compliance solutions to prepare for upcoming AI legislation."
+    },
+    {
+      "id": "rss-1774529823352-112",
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-25T14:48:40.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
       "score": 62,
       "scoreBreakdown": {
         "freshness": 22,
@@ -89,24 +215,24 @@
         "businessImpact": 9
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Databricks acquired two startups, Antimatter and SiftD.ai, to enhance its AI security product.  \n• Why it matters: This move strengthens Databricks' position in the competitive AI security market amid significant funding.  \n• Business opportunity: Companies can explore partnerships or integrations with Databricks' new AI security offerings to enhance their own solutions."
+      "summary": "• What happened: Granola raised $125 million, increasing its valuation from $250 million to $1.5 billion.  \n• Why it matters: The company is transitioning from a meeting notetaker to a comprehensive enterprise AI application, addressing user feedback.  \n• Business opportunity: There is potential for growth in the enterprise AI sector as companies seek advanced tools for productivity and collaboration."
     },
     {
-      "id": "hn-1774443090776-18",
-      "title": "AI Has Changed Software Contracts: They're Shorter",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-03-25/ai-tools-are-upending-typical-software-contracts",
+      "id": "hn-1774529820551-19",
+      "title": "Meta's $27B AI data center is causing chaos in small town Louisiana",
+      "url": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/",
       "source": "Hacker News",
-      "publishedAt": "2026-03-25T12:26:11.000Z",
+      "publishedAt": "2026-03-26T10:42:50.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "AI Has Changed Software Contracts: They're Shorter",
+      "rawTextSnippet": "Meta's $27B AI data center is causing chaos in small town Louisiana",
       "hnMeta": {
         "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47516418"
+        "hnUrl": "https://news.ycombinator.com/item?id=47528816"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -117,155 +243,103 @@
         "businessImpact": 3
       },
       "cluster": "General AI",
-      "summary": "• What happened: AI has led to the creation of shorter software contracts.  \n• Why it matters: This trend can streamline negotiations and reduce legal complexities.  \n• Business opportunity: Companies can leverage AI to enhance contract efficiency and improve client relationships."
-    },
-    {
-      "id": "hn-1774443095058-133",
-      "title": "OpenAI ends Disney partnership as it closes Sora video-making app",
-      "url": "https://www.bbc.co.uk/news/articles/c3w3e467ewqo",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-25T08:18:19.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 0
-      },
-      "rawTextSnippet": "OpenAI ends Disney partnership as it closes Sora video-making app",
-      "hnMeta": {
-        "points": 3,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47514662"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Generative AI & Media",
-      "summary": "• What happened: OpenAI has terminated its partnership with Disney and shut down the Sora video-making app.  \n• Why it matters: This move signals a shift in OpenAI's strategic focus and potential challenges in collaboration with major media companies.  \n• Business opportunity: Companies in the video production space may capitalize on the gap left by Sora's closure to innovate and attract new users."
-    },
-    {
-      "id": "rss-1774443093421-96",
-      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
-      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T11:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Lucid Bots secured $20M in funding to expand production of its window-washing drones.  \n• Why it matters: The investment responds to a significant increase in demand for automated cleaning solutions.  \n• Business opportunity: There is potential for growth in the robotics market, particularly in automated maintenance services."
-    },
-    {
-      "id": "hn-1774443092225-85",
-      "title": "From Zip to Nought: The Rise and Fall of Iomega",
-      "url": "https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-25T02:57:09.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 10,
-        "comments": 2
-      },
-      "rawTextSnippet": "From Zip to Nought: The Rise and Fall of Iomega",
-      "hnMeta": {
-        "points": 10,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47512673"
-      },
-      "score": 60,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Iomega, once a leader in data storage with its Zip drives, has seen a significant decline in relevance.  \n• Why it matters: The company's fall highlights the rapid changes in technology and consumer preferences in the data storage industry.  \n• Business opportunity: There is potential for new startups to innovate in data storage solutions that adapt to current market demands."
-    },
-    {
-      "id": "rss-1774443093421-97",
-      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T00:47:20.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Kleiner Perkins raised $3.5 billion, allocating $1 billion for early-stage AI startups and $2.5 billion for late-stage growth.  \n• Why it matters: This significant investment underscores the increasing confidence in AI's potential to drive innovation and economic growth.  \n• Business opportunity: Startups in the AI sector can leverage this funding to scale operations and enhance product development."
-    },
-    {
-      "id": "rss-1774443093421-99",
-      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-      "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-24T22:22:57.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A Kentucky woman declined a $26 million offer from a major AI company to convert her farm into a data center.  \n• Why it matters: This decision highlights the tension between agricultural land use and the growing demand for data infrastructure.  \n• Business opportunity: There may be potential for other companies to explore alternative sites for data centers that align with community values."
+      "summary": "• What happened: Meta is constructing a $27 billion AI data center in a small town in Louisiana.  \n• Why it matters: The project is creating significant disruption and controversy within the local community.  \n• Business opportunity: Local businesses could capitalize on increased demand for services and infrastructure related to the data center."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 47,
-      "trendScore": 203,
-      "whyTrending": "47 stories across Hacker, TechCrunch, MIT, 33 in the last 24h.",
+      "itemCount": 58,
+      "trendScore": 220,
+      "whyTrending": "58 stories across Hacker, TechCrunch, MIT, 46 in the last 24h.",
       "topStory": {
-        "title": "AI Has Changed Software Contracts: They're Shorter",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-03-25/ai-tools-are-upending-typical-software-contracts"
+        "title": "Government agencies buy commercial data about Americans in bulk",
+        "url": "https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic"
       },
       "items": [
         {
-          "id": "hn-1774443090776-18",
-          "title": "AI Has Changed Software Contracts: They're Shorter",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-03-25/ai-tools-are-upending-typical-software-contracts",
+          "id": "hn-1774529826243-176",
+          "title": "Government agencies buy commercial data about Americans in bulk",
+          "url": "https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic",
           "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:26:11.000Z",
+          "publishedAt": "2026-03-26T06:11:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 104,
+            "comments": 41
+          },
+          "rawTextSnippet": "Government agencies buy commercial data about Americans in bulk",
+          "hnMeta": {
+            "points": 104,
+            "comments": 41,
+            "hnUrl": "https://news.ycombinator.com/item?id=47527130"
+          },
+          "score": 65,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1774529823352-101",
+          "title": "A ‘pound of flesh’ from data centers: one senator&#8217;s answer to AI job losses",
+          "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-26T12:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1774529820561-21",
+          "title": "Are high gas prices good news for EVs? It’s complicated.",
+          "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-03-26T10:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Iran has escalated, fossil-fuel prices have been on a roller-coaster, and I’ve started paying attentio…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1774529820551-19",
+          "title": "Meta's $27B AI data center is causing chaos in small town Louisiana",
+          "url": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-26T10:42:50.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "AI Has Changed Software Contracts: They're Shorter",
+          "rawTextSnippet": "Meta's $27B AI data center is causing chaos in small town Louisiana",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516418"
+            "hnUrl": "https://news.ycombinator.com/item?id=47528816"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -278,95 +352,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1774443093421-96",
-          "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
-          "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-03-25T11:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1774443092225-85",
-          "title": "From Zip to Nought: The Rise and Fall of Iomega",
-          "url": "https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/",
+          "id": "hn-1774529820551-0",
+          "title": "The Marginal Revolution: Rise and Decline, and the Pending AI Revolution",
+          "url": "https://tylercowen.com/marginal-revolution-generative-book/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-25T02:57:09.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 10,
-            "comments": 2
-          },
-          "rawTextSnippet": "From Zip to Nought: The Rise and Fall of Iomega",
-          "hnMeta": {
-            "points": 10,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47512673"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1774443090776-10",
-          "title": "MarineTraffic: Global Ship Tracking Intelligence",
-          "url": "https://www.marinetraffic.com/en/ais/home/centerx:55.9/centery:26.4/zoom:7",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:50:52.000Z",
+          "publishedAt": "2026-03-26T12:53:10.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "MarineTraffic: Global Ship Tracking Intelligence",
+          "rawTextSnippet": "The Marginal Revolution: Rise and Decline, and the Pending AI Revolution",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516670"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1774443090776-11",
-          "title": "I Built My AI Chief of Staff – Groupon's CEO",
-          "url": "https://www.grouponcareers.com/culture/leadership-insights/how-we-work/how-i-built-my-ai-chief-of-staff",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:45:20.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "I Built My AI Chief of Staff – Groupon's CEO",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516603"
+            "hnUrl": "https://news.ycombinator.com/item?id=47529828"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -382,34 +382,88 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 51,
-      "trendScore": 196,
-      "whyTrending": "51 stories across Hacker, MIT, arXiv, 30 in the last 24h.",
+      "itemCount": 58,
+      "trendScore": 204,
+      "whyTrending": "58 stories across Hacker, arXiv, GitHub, 33 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-        "url": "https://github.com/ssrajadh/sentrysearch"
+        "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+        "url": "https://github.com/lightfeed/extractor"
       },
       "items": [
         {
-          "id": "hn-1774443099340-213",
+          "id": "hn-1774529824821-163",
+          "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+          "url": "https://github.com/lightfeed/extractor",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-26T03:55:52.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 53,
+            "comments": 34
+          },
+          "rawTextSnippet": "We&#x27;ve been building data pipelines that scrape websites and extract structured data for a while now. If you&#x27;ve done this, you know the drill: you write CSS selectors, the site changes its layout, everything breaks at 2am, and you spend your morning rewriting parsers. LLMs seemed like the o…",
+          "hnMeta": {
+            "points": 53,
+            "comments": 34,
+            "hnUrl": "https://news.ycombinator.com/item?id=47526486"
+          },
+          "score": 65,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1774529821987-65",
+          "title": "European Parliament decided that Chat Control 1.0 must stop",
+          "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-26T12:30:59.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 35,
+            "comments": 2
+          },
+          "rawTextSnippet": "European Parliament decided that Chat Control 1.0 must stop",
+          "hnMeta": {
+            "points": 35,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47529646"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1774529829046-224",
           "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
           "url": "https://github.com/ssrajadh/sentrysearch",
           "source": "Hacker News",
           "publishedAt": "2026-03-24T14:58:27.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 354,
-            "comments": 92
+            "upvotes": 425,
+            "comments": 103
           },
           "rawTextSnippet": "Gemini Embedding 2 can project raw video directly into a 768-dimensional vector space alongside text. No transcription, no frame captioning, no intermediate text. A query like &quot;green car cutting me off&quot; is directly comparable to a 30-second video clip at the vector level. I used this to bu…",
           "hnMeta": {
-            "points": 354,
-            "comments": 92,
+            "points": 425,
+            "comments": 103,
             "hnUrl": "https://news.ycombinator.com/item?id=47503617"
           },
-          "score": 71,
+          "score": 64,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 14,
             "engagement": 20,
             "novelty": 15,
@@ -418,95 +472,48 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1774443090565-1",
-          "title": "The AI Hype Index: AI goes to war",
-          "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-03-25T09:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1774443090776-17",
-          "title": "Show HN: Genosis – LLM cost optimization that learns from your traffic",
-          "url": "https://usegenosis.ai/",
+          "id": "hn-1774529824821-171",
+          "title": "OpenAI's latest repo has Claude as the third top contributor",
+          "url": "https://twitter.com/CodeByNZ/status/2036723050197012771",
           "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:28:18.000Z",
+          "publishedAt": "2026-03-25T14:44:10.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
+            "upvotes": 59,
+            "comments": 25
           },
-          "rawTextSnippet": "I built Genosis because my AI trading assistant&#x27;s Anthropic bill was eating the project alive — 12% cache hit rate when it should have been 80%, and I was spending more time optimizing costs than building the actual product. Every major LLM provider offers 50-90% discounts on cached tokens, but…",
+          "rawTextSnippet": "OpenAI's latest repo has Claude as the third top contributor",
           "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516438"
+            "points": 59,
+            "comments": 25,
+            "hnUrl": "https://news.ycombinator.com/item?id=47518001"
           },
-          "score": 59,
+          "score": 61,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 10,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1774443090776-28",
-          "title": "Show HN: Anneal – model-agnostic; makes LLMs remember, obey, and stay private",
-          "url": "https://annealit.ai/",
+          "id": "hn-1774529821987-67",
+          "title": "How the hell do you test LLMs?",
+          "url": "https://grafosai.substack.com/p/how-the-hell-do-you-test-llms",
           "source": "Hacker News",
-          "publishedAt": "2026-03-25T11:53:58.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: Anneal – model-agnostic; makes LLMs remember, obey, and stay private",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516130"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1774443092225-72",
-          "title": "Local LLM by Ente",
-          "url": "https://ente.com/blog/ensu/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:49:14.000Z",
+          "publishedAt": "2026-03-26T11:38:03.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Local LLM by Ente",
+          "rawTextSnippet": "How the hell do you test LLMs?",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516650"
+            "hnUrl": "https://news.ycombinator.com/item?id=47529234"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -522,170 +529,30 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 29,
-      "trendScore": 174,
-      "whyTrending": "29 stories across MIT, Hacker, arXiv, 20 in the last 24h.",
+      "itemCount": 27,
+      "trendScore": 169,
+      "whyTrending": "27 stories across Hacker, arXiv, OpenAI, 17 in the last 24h.",
       "topStory": {
-        "title": "Agentic commerce runs on truth and context",
-        "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
+        "title": "RuntimeGuard v2 – enforcement and easy security posture config for AI agents",
+        "url": "https://runtime-guard.ai/"
       },
       "items": [
         {
-          "id": "rss-1774443090565-0",
-          "title": "Agentic commerce runs on truth and context",
-          "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-03-25T11:48:13.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1774443090776-13",
-          "title": "Show HN: Clinic – Connect your agent to Gmail, GitHub, Notion and 39 more (OSS)",
-          "url": "https://github.com/jwvictor/clinic",
+          "id": "hn-1774529823395-128",
+          "title": "RuntimeGuard v2 – enforcement and easy security posture config for AI agents",
+          "url": "https://runtime-guard.ai/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:42:39.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Your AI agent can&#x27;t access your Gmail, your GitHub, or your Notion. Most of these services already have CLIs built for programmatic access, but nobody&#x27;s set them up, authenticated them, and told the agent they&#x27;re there. Clinic does it in one command: clinic init --stack founder That i…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516573"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1774443090776-14",
-          "title": "Show HN: Transloadit MCP Server and Agent Skills – Media Pipelines for AI",
-          "url": "https://transloadit.com/blog/2026/02/transloadit-mcp-server/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:42:04.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: Transloadit MCP Server and Agent Skills – Media Pipelines for AI",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516565"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1774443090776-24",
-          "title": "Show HN: Refrain – Generate browser automations with AI, replay them without AI",
-          "url": "https://therefrain.ai/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:03:11.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Hey HN, I&#x27;m timakin. Refrain is a CLI that uses an AI agent to generate browser automation runbooks, then replays them deterministically with no LLM calls. You give it a URL and a goal (&quot;log in and export the sales dashboard&quot;). An AI agent explores the site in a headless browser, reco…",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516216"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1774443090776-25",
-          "title": "Show HN: AgentPass – The credit check for AI agents",
-          "url": "https://agentpass.co.uk",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-25T11:57:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: AgentPass – The credit check for AI agents",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516158"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Generative AI & Media",
-      "itemCount": 17,
-      "trendScore": 151,
-      "whyTrending": "17 stories across Hacker, TechCrunch, arXiv, 14 in the last 24h.",
-      "topStory": {
-        "title": "OpenAI ends Disney partnership as it closes Sora video-making app",
-        "url": "https://www.bbc.co.uk/news/articles/c3w3e467ewqo"
-      },
-      "items": [
-        {
-          "id": "hn-1774443095058-133",
-          "title": "OpenAI ends Disney partnership as it closes Sora video-making app",
-          "url": "https://www.bbc.co.uk/news/articles/c3w3e467ewqo",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-25T08:18:19.000Z",
+          "publishedAt": "2026-03-26T09:02:23.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 3,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "OpenAI ends Disney partnership as it closes Sora video-making app",
+          "rawTextSnippet": "RuntimeGuard v2 – enforcement and easy security posture config for AI agents",
           "hnMeta": {
             "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47514662"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47528131"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -695,24 +562,24 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Generative AI & Media"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1774443090776-21",
-          "title": "OpenAI shutters AI video generator Sora in abrupt announcement",
-          "url": "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
+          "id": "hn-1774529820551-9",
+          "title": "AgentMesh – Docker Compose for AI Agents (TypeScript, Open Source)",
+          "url": "https://github.com/arczibdg/agentmesh",
           "source": "Hacker News",
-          "publishedAt": "2026-03-25T12:07:57.000Z",
+          "publishedAt": "2026-03-26T11:57:16.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "OpenAI shutters AI video generator Sora in abrupt announcement",
+          "rawTextSnippet": "AgentMesh – Docker Compose for AI Agents (TypeScript, Open Source)",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47516262"
+            "hnUrl": "https://news.ycombinator.com/item?id=47529381"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -722,24 +589,24 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Generative AI & Media"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1774443092225-75",
-          "title": "Show HN: I built a free CharacterAI that runs locally",
-          "url": "https://github.com/akdeb/open-toys/tree/main/resources",
+          "id": "hn-1774529823395-121",
+          "title": "I use CLI agents daily. They are capable – but they don't understand my product",
+          "url": "https://www.indiehackers.com/post/i-use-claude-code-and-codex-cli-daily-they-are-incredible-but-they-still-dont-understand-my-product-so-i-m-building-the-missing-layer-efa8e6da5c",
           "source": "Hacker News",
-          "publishedAt": "2026-03-25T10:07:23.000Z",
+          "publishedAt": "2026-03-26T12:54:47.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 4,
+            "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "CharacterAI has over 20M active users and lets people talk to AI voice clones. I built a local alternative that clones any voice with &lt;10s of audio and can talk fluently in over 10 languages, and runs locally on your Macbook or Mac mini. The voice pipeline currently supports MLX on any M1 through…",
+          "rawTextSnippet": "I use CLI agents daily. They are capable – but they don't understand my product",
           "hnMeta": {
-            "points": 4,
+            "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47515381"
+            "hnUrl": "https://news.ycombinator.com/item?id=47529840"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -749,24 +616,51 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Generative AI & Media"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1774443093631-126",
-          "title": "The Long Tail Comes for the Creative Industry",
-          "url": "https://studios.greenhousepartners.com/insights/long-tail-creative-agencies-ai",
+          "id": "hn-1774529823395-126",
+          "title": "Show HN: Imrobot – Reverse CAPTCHA that verifies AI agents, not humans",
+          "url": "https://github.com/leopechnicki/im_robot",
           "source": "Hacker News",
-          "publishedAt": "2026-03-25T09:27:18.000Z",
+          "publishedAt": "2026-03-26T09:38:16.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Imrobot – Reverse CAPTCHA that verifies AI agents, not humans",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47528383"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1774529823395-127",
+          "title": "SidClaw – The approval layer for AI agents (open-source)",
+          "url": "https://github.com/sidclawhq/platform",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-26T09:26:35.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "The Long Tail Comes for the Creative Industry",
+          "rawTextSnippet": "SidClaw – The approval layer for AI agents (open-source)",
           "hnMeta": {
             "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47515115"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47528290"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -776,34 +670,140 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Generative AI & Media"
-        },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Products",
+      "itemCount": 19,
+      "trendScore": 147,
+      "whyTrending": "19 stories across Hacker, MIT, DeepMind, 13 in the last 24h.",
+      "topStory": {
+        "title": "Holo AI Review: The 75% Faster Marketing Tool? My Honest Take",
+        "url": "https://websites2know.com/holo-ai-review/"
+      },
+      "items": [
         {
-          "id": "hn-1774443095058-145",
-          "title": "OpenAI announces plans to shut down its Sora video generator",
-          "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+          "id": "hn-1774529820551-10",
+          "title": "Holo AI Review: The 75% Faster Marketing Tool? My Honest Take",
+          "url": "https://websites2know.com/holo-ai-review/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-24T21:30:12.000Z",
+          "publishedAt": "2026-03-26T11:53:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 11,
-            "comments": 1
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "OpenAI announces plans to shut down its Sora video generator",
+          "rawTextSnippet": "Holo AI Review: The 75% Faster Marketing Tool? My Honest Take",
           "hnMeta": {
-            "points": 11,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47509658"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47529352"
           },
-          "score": 56,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Generative AI & Media"
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1774529820551-12",
+          "title": "FreeLipSync: AI Video Translator and Automatic Lip-Sync Dubbing Tool",
+          "url": "https://freelipsync.com/zh-CN",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-26T11:32:09.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "FreeLipSync: AI Video Translator and Automatic Lip-Sync Dubbing Tool",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47529194"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1774529821987-71",
+          "title": "Show HN: //Beforeyouship is a pre-build tool to estimate the LLM cost",
+          "url": "https://llm-architecture-cost-modeler.vercel.app/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-26T10:10:59.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 2
+          },
+          "rawTextSnippet": "For one of my projects, I needed to choose an LLM but got lost in numbers and tokenization. So I searched for a solution which could help me do the math, but only found tools that helped with cost management and optimization at the production stage. I did some research and found that this is an exis…",
+          "hnMeta": {
+            "points": 3,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47528581"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1774529820561-24",
+          "title": "This startup wants to change how mathematicians do math",
+          "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-03-25T13:59:17.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Ch…",
+          "score": 58,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1774529826437-191",
+          "title": "Lyria 3 Pro: Create longer tracks in more",
+          "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+          "source": "DeepMind Blog",
+          "publishedAt": "2026-03-25T16:01:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 20
+          },
+          "rawTextSnippet": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+          "score": 57,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 20,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
         }
       ]
     },
@@ -811,22 +811,42 @@
       "name": "Funding & Acquisitions",
       "itemCount": 13,
       "trendScore": 133,
-      "whyTrending": "13 stories across TechCrunch, Hacker, OpenAI, 7 in the last 24h.",
+      "whyTrending": "13 stories across MIT, TechCrunch, Hacker, 6 in the last 24h.",
       "topStory": {
-        "title": "Databricks bought two startups to underpin its new AI security product",
-        "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/"
+        "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+        "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/"
       },
       "items": [
         {
-          "id": "rss-1774443093421-102",
-          "title": "Databricks bought two startups to underpin its new AI security product",
-          "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+          "id": "rss-1774529820561-20",
+          "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+          "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-03-26T10:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and s…",
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1774529823352-112",
+          "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+          "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-03-24T20:40:56.000Z",
+          "publishedAt": "2026-03-25T14:48:40.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+          "rawTextSnippet": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
           "score": 62,
           "scoreBreakdown": {
             "freshness": 22,
@@ -838,55 +858,42 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1774443093421-97",
-          "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-          "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-03-25T00:47:20.000Z",
+          "id": "hn-1774529824821-160",
+          "title": "OpenAI backs AI \"bot army\" startup Isara ($94M, $650M valuation)",
+          "url": "https://www.wsj.com/tech/ai/openai-backs-new-ai-startup-seeking-bot-army-breakthroughs-a0b1fedc",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-26T04:23:42.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 2
           },
-          "rawTextSnippet": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
-          "score": 59,
+          "rawTextSnippet": "OpenAI backs AI \"bot army\" startup Isara ($94M, $650M valuation)",
+          "hnMeta": {
+            "points": 3,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47526621"
+          },
+          "score": 58,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
+            "freshness": 26,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 6
+            "businessImpact": 3
           },
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1774443093421-99",
-          "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-          "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+          "id": "rss-1774529823352-111",
+          "title": "Harvey confirms $11B valuation: Sequoia triples down",
+          "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-03-24T22:22:57.000Z",
+          "publishedAt": "2026-03-25T15:27:15.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1774443093421-110",
-          "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
-          "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-03-24T13:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+          "rawTextSnippet": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
           "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
@@ -898,26 +905,27 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "hn-1774443095058-139",
-          "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-24T23:33:11.000Z",
+          "id": "arxiv-1774529820719-58",
+          "title": "Counting Without Numbers \\& Finding Without Words",
+          "url": "https://arxiv.org/abs/2603.24470v1",
+          "source": "arXiv",
+          "publishedAt": "2026-03-25T16:13:36.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
+            "sourceAuthority": 15
           },
-          "rawTextSnippet": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47511098"
+          "rawTextSnippet": "Every year, 10 million pets enter shelters, separated from their families. Despite desperate searches by both guardians and lost animals, 70% never reunite, not because matches do not exist, but because current systems look only at appearance, while animals recognize each other through sound. We ask…",
+          "arxivMeta": {
+            "authors": "Badri Narayana Patro",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
           },
-          "score": 54,
+          "score": 55,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 14,
+            "authority": 15,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
@@ -929,36 +937,36 @@
   ],
   "toolLaunches": [
     {
-      "id": "rss-1774443090565-1",
-      "title": "The AI Hype Index: AI goes to war",
-      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "id": "rss-1774529820561-20",
+      "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+      "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-03-25T09:00:00.000Z",
+      "publishedAt": "2026-03-26T10:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee…",
-      "score": 63,
+      "rawTextSnippet": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (and s…",
+      "score": 66,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 18,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Anthropic and the Pentagon clashed over AI weaponization, while OpenAI secured a controversial deal.  \n• Why it matters: This conflict highlights the ethical and operational challenges of integrating AI in military applications.  \n• Business opportunity: Companies can explore ethical AI solutions and transparent partnerships to address public concerns and regulatory scrutiny."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: An independent startup created a leading snow-forecasting app for skiers and snowboarders.  \n• Why it matters: It outperforms traditional weather services and big brands by utilizing government data and AI.  \n• Business opportunity: There is potential for growth in niche weather apps that cater to specific outdoor activities."
     },
     {
-      "id": "rss-1774443093421-102",
-      "title": "Databricks bought two startups to underpin its new AI security product",
-      "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "id": "rss-1774529823352-108",
+      "title": "Bernie Sanders and AOC propose a ban on data center construction",
+      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-24T20:40:56.000Z",
+      "publishedAt": "2026-03-25T17:15:50.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "rawTextSnippet": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
       "score": 62,
       "scoreBreakdown": {
         "freshness": 22,
@@ -967,260 +975,59 @@
         "novelty": 15,
         "businessImpact": 9
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Databricks acquired two startups, Antimatter and SiftD.ai, to enhance its AI security product.  \n• Why it matters: This move strengthens Databricks' position in the competitive AI security market following a significant funding boost.  \n• Business opportunity: Companies can explore partnerships or integrations with Databricks to leverage its advanced AI security capabilities."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Bernie Sanders and AOC proposed a ban on new data center construction.  \n• Why it matters: This legislation aims to pause development until comprehensive AI regulations are established.  \n• Business opportunity: Companies can engage in advocacy or develop solutions that align with future AI regulatory frameworks."
     },
     {
-      "id": "rss-1774443093421-97",
-      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T00:47:20.000Z",
+      "id": "github-1774529820763-61",
+      "title": "[alvinunreal/awesome-opensource-ai] Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-03-24T15:58:22.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 12,
+        "upvotes": 546
       },
-      "rawTextSnippet": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Kleiner Perkins raised $3.5 billion, allocating $1 billion for early-stage startups and $2.5 billion for late-stage growth companies.  \n• Why it matters: This significant capital infusion signals strong confidence in the AI sector's potential for innovation and growth.  \n• Business opportunity: Startups and established companies in AI can attract investment to scale their operations and enhance product offerings."
-    },
-    {
-      "id": "hn-1774443090776-17",
-      "title": "Show HN: Genosis – LLM cost optimization that learns from your traffic",
-      "url": "https://usegenosis.ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-25T12:28:18.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "I built Genosis because my AI trading assistant&#x27;s Anthropic bill was eating the project alive — 12% cache hit rate when it should have been 80%, and I was spending more time optimizing costs than building the actual product. Every major LLM provider offers 50-90% discounts on cached tokens, but…",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47516438"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "hn-1774443090776-21",
-      "title": "OpenAI shutters AI video generator Sora in abrupt announcement",
-      "url": "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-25T12:07:57.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "OpenAI shutters AI video generator Sora in abrupt announcement",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47516262"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Generative AI & Media"
-    }
-  ],
-  "redditSignals": [],
-  "research": [
-    {
-      "id": "arxiv-1774443091854-58",
-      "title": "Off-Policy Value-Based Reinforcement Learning for Large Language Models",
-      "url": "https://arxiv.org/abs/2603.23355v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-24T15:55:02.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Improving data utilization efficiency is critical for scaling reinforcement learning (RL) for long-horizon tasks where generating trajectories is expensive. However, the dominant RL methods for LLMs are largely on-policy: they update each batch of data only once, discard it, and then collect fresh s…",
-      "arxivMeta": {
-        "authors": "Peng-Yuan Wang, Ziniu Li, Tian Xu, Bohan Yang, Tian-Shuo Liu, ChenYang Wang, Xiong-Hui Chen, Yi-Chen Li, Tianyun Yang, Congliang Chen, Yang Yu",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
+      "rawTextSnippet": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "githubMeta": {
+        "stars": 546,
+        "language": null,
+        "topics": [
+          "agents",
+          "ai",
+          "artificial-intelligence",
+          "awesome",
+          "awesome-list",
+          "generative-ai",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "open-source",
+          "open-source-ai",
+          "rag"
         ]
       },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1774443091855-61",
-      "title": "Leveraging LLMs and Social Media to Understand User Perception of Smartphone-Based Earthquake Early Warnings",
-      "url": "https://arxiv.org/abs/2603.23322v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-24T15:24:33.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Android's Earthquake Alert (AEA) system provided timely early warnings to millions during the Mw 6.2 Marmara Ereglisi, Türkiye earthquake on April 23, 2025. This event, the largest in the region in 25 years, served as a critical real-world test for smartphone-based Earthquake Early Warning (EEW) sys…",
-      "arxivMeta": {
-        "authors": "Hanjing Wang, S. Mostafa Mousavi, Patrick Robertson, Richard M. Allen, Alexie Barski, Robert Bosch, Nivetha Thiruverahan, Youngmin Cho, Tajinder Gadh, Steve Malkos, Boone Spooner, Greg Wimpey, Marc Stogaitis",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1774443091853-35",
-      "title": "MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage",
-      "url": "https://arxiv.org/abs/2603.23501v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-24T17:59:54.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding. In clinical practice, interpretation begins with pre-diagnostic sanity checks: verifying that the …",
-      "arxivMeta": {
-        "authors": "Ufaq Khan, Umair Nawaz, L D M S S Teja, Numaan Saeed, Muhammad Bilal, Yutong Xie, Mohammad Yaqub, Muhammad Haris Khan",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1774443091853-36",
-      "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
-      "url": "https://arxiv.org/abs/2603.23495v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-24T17:58:17.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bottleneck that impairs performance, especially on challenging tasks that require fine-grained understan…",
-      "arxivMeta": {
-        "authors": "Adrian Bulat, Alberto Baldrati, Ioannis Maniadis Metaxas, Yassine Ouali, Georgios Tzimiropoulos",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1774443091853-37",
-      "title": "Failure of contextual invariance in gender inference with large language models",
-      "url": "https://arxiv.org/abs/2603.23485v1",
-      "source": "arXiv",
-      "publishedAt": "2026-03-24T17:52:22.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Standard evaluation practices assume that large language model (LLM) outputs are stable under contextually equivalent formulations of a task. Here, we test this assumption in the setting of gender inference. Using a controlled pronoun selection task, we introduce minimal, theoretically uninformative…",
-      "arxivMeta": {
-        "authors": "Sagar Kumar, Ariel Flint, Luca Maria Aiello, Andrea Baronchelli",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    }
-  ],
-  "funding": [
-    {
-      "id": "rss-1774443093421-102",
-      "title": "Databricks bought two startups to underpin its new AI security product",
-      "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-24T20:40:56.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
       "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
+        "freshness": 15,
+        "authority": 12,
+        "engagement": 20,
         "novelty": 15,
-        "businessImpact": 9
+        "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Databricks acquired two startups, Antimatter and SiftD.ai, to enhance its new AI security product.  \n• Why it matters: This move strengthens Databricks' position in the competitive AI security market following a significant funding round.  \n• Business opportunity: Companies can explore partnerships or integrations with Databricks to leverage its advanced AI security capabilities."
+      "cluster": "Open Source AI",
+      "summary": "• What happened: A curated list of top open-source AI projects has been released on GitHub.  \n• Why it matters: This resource enhances accessibility to AI technologies, fostering innovation and collaboration.  \n• Business opportunity: Companies can leverage these open-source tools to reduce costs and accelerate AI development."
     },
     {
-      "id": "rss-1774443093421-96",
-      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
-      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "id": "rss-1774529823352-102",
+      "title": "Mistral releases a new open-source model for speech generation",
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T11:00:00.000Z",
+      "publishedAt": "2026-03-26T11:30:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+      "rawTextSnippet": "Mistral's new speech model can run on a smartwatch or a smartphone.",
       "score": 61,
       "scoreBreakdown": {
         "freshness": 30,
@@ -1229,60 +1036,211 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Lucid Bots secured $20M in funding to expand its window-washing drone operations.  \n• Why it matters: The investment reflects a growing demand for automated cleaning solutions in various industries.  \n• Business opportunity: Companies can explore partnerships or innovations in the automated cleaning technology market."
+      "cluster": "Open Source AI"
     },
     {
-      "id": "rss-1774443093421-97",
-      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-25T00:47:20.000Z",
+      "id": "hn-1774529820551-2",
+      "title": "The AI Productivity Paradox: More Done and (Still) Zero Free Time",
+      "url": "https://thoughts.jock.pl/p/ai-productivity-paradox-wellbeing-agent-age-2026",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-26T12:46:36.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "rawTextSnippet": "The AI Productivity Paradox: More Done and (Still) Zero Free Time",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47529763"
+      },
       "score": 59,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Kleiner Perkins raised $3.5 billion to invest in AI, allocating $1 billion for early-stage startups and $2.5 billion for late-stage growth.  \n• Why it matters: This significant capital injection signals strong confidence in the AI sector's potential for innovation and growth.  \n• Business opportunity: Startups and established companies in AI can attract funding and strategic partnerships to accelerate development and market entry."
+      "cluster": "AI in Enterprise"
+    }
+  ],
+  "redditSignals": [],
+  "research": [
+    {
+      "id": "arxiv-1774529820718-33",
+      "title": "Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
+      "url": "https://arxiv.org/abs/2603.24580v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-25T17:54:39.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characterized by dense legal language and evolving, overlapping regulatory frameworks. We study the application…",
+      "arxivMeta": {
+        "authors": "Saahil Mathur, Ryan David Rittner, Vedant Ajit Thakur, Daniel Stuart Schiff, Tunazzina Islam",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "rss-1774443093421-99",
-      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-      "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-24T22:22:57.000Z",
+      "id": "arxiv-1774529820718-43",
+      "title": "Evaluating Chunking Strategies For Retrieval-Augmented Generation in Oil and Gas Enterprise Documents",
+      "url": "https://arxiv.org/abs/2603.24556v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-25T17:35:24.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 15
       },
-      "rawTextSnippet": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
-      "score": 59,
+      "rawTextSnippet": "Retrieval-Augmented Generation (RAG) has emerged as a framework to address the constraints of Large Language Models (LLMs). Yet, its effectiveness fundamentally hinges on document chunking - an often-overlooked determinant of its quality. This paper presents an empirical study quantifying performanc…",
+      "arxivMeta": {
+        "authors": "Samuel Taiwo, Mohd Amaluddin Yusoff",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
       "scoreBreakdown": {
         "freshness": 22,
-        "authority": 16,
+        "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1774529820718-44",
+      "title": "A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English",
+      "url": "https://arxiv.org/abs/2603.24549v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-25T17:24:47.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investi…",
+      "arxivMeta": {
+        "authors": "Dana Serditova, Kevin Tang",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks"
+    },
+    {
+      "id": "arxiv-1774529820719-58",
+      "title": "Counting Without Numbers \\& Finding Without Words",
+      "url": "https://arxiv.org/abs/2603.24470v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-25T16:13:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Every year, 10 million pets enter shelters, separated from their families. Despite desperate searches by both guardians and lost animals, 70% never reunite, not because matches do not exist, but because current systems look only at appearance, while animals recognize each other through sound. We ask…",
+      "arxivMeta": {
+        "authors": "Badri Narayana Patro",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1774443093421-110",
-      "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
-      "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+      "id": "arxiv-1774529820717-30",
+      "title": "Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
+      "url": "https://arxiv.org/abs/2603.24594v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-25T17:59:45.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "We introduce the Multilevel Euler-Maruyama (ML-EM) method compute solutions of SDEs and ODEs using a range of approximators $f^1,\\dots,f^k$ to the drift $f$ with increasing accuracy and computational cost, only requiring a few evaluations of the most accurate $f^k$ and many evaluations of the less c…",
+      "arxivMeta": {
+        "authors": "Arthur Jacot",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Hardware & Chips"
+    }
+  ],
+  "funding": [
+    {
+      "id": "rss-1774529823352-112",
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "publishedAt": "2026-03-25T14:48:40.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+      "rawTextSnippet": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Granola raised $125 million, increasing its valuation from $250 million to $1.5 billion.  \n• Why it matters: The funding will support Granola's transition from a meeting notetaker to a comprehensive enterprise AI application.  \n• Business opportunity: Companies can leverage Granola's enhanced AI capabilities to improve productivity and streamline workflows in enterprise settings."
+    },
+    {
+      "id": "rss-1774529823352-111",
+      "title": "Harvey confirms $11B valuation: Sequoia triples down",
+      "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-25T15:27:15.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
       "score": 56,
       "scoreBreakdown": {
         "freshness": 22,
@@ -1291,8 +1249,86 @@
         "novelty": 15,
         "businessImpact": 3
       },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: AI legal tech startup Harvey has confirmed an $11 billion valuation with significant investment from Sequoia.  \n• Why it matters: The backing from top investors highlights the growing confidence in AI-driven solutions within the legal sector.  \n• Business opportunity: There is potential for new startups to innovate in AI legal tech, leveraging increased interest and funding."
+    },
+    {
+      "id": "rss-1774529823352-113",
+      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-25T14:45:20.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: Meta launched a new initiative aimed at supporting entrepreneurship and promoting AI adoption.  \n• Why it matters: This move underscores Meta's commitment to small businesses, which are integral to its business model.  \n• Business opportunity: There is potential for new tools and resources that can enhance small business growth and AI integration on Meta's platforms."
+    },
+    {
+      "id": "arxiv-1774529820718-44",
+      "title": "A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English",
+      "url": "https://arxiv.org/abs/2603.24549v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-25T17:24:47.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Automatic Speech Recognition (ASR) systems are widely used in everyday communication, education, healthcare, and industry, yet their performance remains uneven across speakers, particularly when dialectal variation diverges from the mainstream accents represented in training data. This study investi…",
+      "arxivMeta": {
+        "authors": "Dana Serditova, Kevin Tang",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks"
+    },
+    {
+      "id": "arxiv-1774529820719-58",
+      "title": "Counting Without Numbers \\& Finding Without Words",
+      "url": "https://arxiv.org/abs/2603.24470v1",
+      "source": "arXiv",
+      "publishedAt": "2026-03-25T16:13:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Every year, 10 million pets enter shelters, separated from their families. Despite desperate searches by both guardians and lost animals, 70% never reunite, not because matches do not exist, but because current systems look only at appearance, while animals recognize each other through sound. We ask…",
+      "arxivMeta": {
+        "authors": "Badri Narayana Patro",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
       "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In a significant advancement, Gemini now allows for native video embedding, enabling sub-second video search capabilities that could revolutionize content discovery and advertising strategies. Meanwhile, the concept of agentic commerce, which emphasizes truth and context, is gaining traction, suggesting that businesses must adapt to more transparent and context-driven consumer interactions. The AI Hype Index indicates a shift as AI technologies are increasingly viewed through a lens of competition and urgency, prompting companies to innovate rapidly. In a strategic move, Databricks has acquired two startups to bolster its new AI security product, highlighting the growing importance of security in AI applications. Additionally, the landscape of software contracts is evolving, with AI-driven tools resulting in shorter, more efficient agreements, reflecting a broader trend towards streamlined business processes."
+  "dailyBrief": "In today's AI landscape, a notable feature is the rise of innovative applications, exemplified by a couple of ski enthusiasts who developed a highly regarded weather app, showcasing the potential for niche markets in tech. Meanwhile, a new TypeScript tool for robust LLM extraction from websites highlights the growing demand for efficient data handling in AI applications. On the regulatory front, government agencies are increasingly purchasing bulk commercial data about Americans, raising concerns about privacy and data ethics. Additionally, a U.S. senator has proposed a controversial measure to address AI-related job losses by taxing data centers, which could reshape the industry’s economic landscape. Finally, the European Parliament's decision to halt the controversial Chat Control 1.0 initiative underscores the ongoing tension between AI innovation and regulatory oversight, signaling potential shifts in compliance requirements for tech companies."
 }
