@@ -1,49 +1,70 @@
 {
   "topNews": [
     {
-      "id": "hn-1774787857746-24",
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "url": "https://github.com/austin-weeks/miasma",
+      "id": "hn-1774875657512-146",
+      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
       "source": "Hacker News",
-      "publishedAt": "2026-03-29T10:10:12.000Z",
+      "publishedAt": "2026-03-29T22:15:06.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 35,
-        "comments": 11
+        "upvotes": 250,
+        "comments": 184
       },
-      "rawTextSnippet": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "rawTextSnippet": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
       "hnMeta": {
-        "points": 35,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561819"
+        "points": 250,
+        "comments": 184,
+        "hnUrl": "https://news.ycombinator.com/item?id=47567969"
       },
-      "score": 69,
+      "score": 71,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Miasma is a new tool designed to ensnare AI web scrapers in a deceptive loop.  \n• Why it matters: This innovation addresses the growing concern of unauthorized data scraping, protecting online content.  \n• Business opportunity: Companies can leverage Miasma to enhance their digital security and safeguard proprietary information."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Code executes a Git reset –hard command on the project repository every 10 minutes.  \n• Why it matters: This practice ensures the repository remains in sync with the main branch, preventing local changes from diverging.  \n• Business opportunity: Companies could develop tools to automate and manage version control processes more efficiently, reducing errors in collaborative projects."
     },
     {
-      "id": "hn-1774787857746-31",
-      "title": "What if AI doesn't need more RAM but better math?",
-      "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+      "id": "rss-1774875654210-68",
+      "title": "Starcloud raises $170 million Series Ato build data centers in space",
+      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T11:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "score": 70,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Starcloud raised $170 million in Series A funding to develop space-based data centers.  \n• Why it matters: The company achieved unicorn status in just 17 months, highlighting rapid growth in the space tech sector.  \n• Business opportunity: Investing in space infrastructure could yield significant returns as demand for data storage and processing increases."
+    },
+    {
+      "id": "hn-1774875651648-16",
+      "title": "How the AI Bubble Bursts",
+      "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
       "source": "Hacker News",
-      "publishedAt": "2026-03-29T08:18:55.000Z",
+      "publishedAt": "2026-03-30T12:28:36.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 60,
-        "comments": 28
+        "upvotes": 54,
+        "comments": 11
       },
-      "rawTextSnippet": "What if AI doesn't need more RAM but better math?",
+      "rawTextSnippet": "How the AI Bubble Bursts",
       "hnMeta": {
-        "points": 60,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561297"
+        "points": 54,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=47573420"
       },
       "score": 69,
       "scoreBreakdown": {
@@ -54,260 +75,226 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A discussion emerged on the potential for AI performance improvements through enhanced mathematical algorithms instead of increased RAM.  \n• Why it matters: This shift could lead to more efficient AI models, reducing costs and resource consumption.  \n• Business opportunity: Companies can invest in developing advanced algorithms to optimize AI systems, creating competitive advantages in the tech industry."
+      "summary": "• What happened: The AI industry is experiencing a downturn as hype subsides and investments decline.  \n• Why it matters: This shift may lead to a reevaluation of AI's true potential and sustainable business models.  \n• Business opportunity: Companies can focus on developing practical AI applications that deliver real value and address market needs."
     },
     {
-      "id": "hn-1774787862246-128",
-      "title": "OpenCiv1 – open-source rewrite of Civ1",
-      "url": "https://github.com/rajko-horvat/OpenCiv1",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-28T18:22:45.000Z",
+      "id": "rss-1774875651496-0",
+      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+      "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-03-30T12:10:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 160,
-        "comments": 46
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "OpenCiv1 – open-source rewrite of Civ1",
-      "hnMeta": {
-        "points": 160,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=47557064"
-      },
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones&#160; After&#160;operating&#160;in secrecy for years, R3 Bio, a California-based start…",
       "score": 66,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: OpenCiv1 is an open-source remake of the classic game Civilization I.  \n• Why it matters: This project revitalizes interest in retro gaming and promotes community-driven development.  \n• Business opportunity: There is potential for monetization through merchandise, expansions, or crowdfunding for further game development."
-    },
-    {
-      "id": "hn-1774787859143-51",
-      "title": "Are LLMs a Dead End? [video]",
-      "url": "https://www.youtube.com/watch?v=9IMV80GvBpU",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-29T09:31:26.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 9,
-        "comments": 1
-      },
-      "rawTextSnippet": "Are LLMs a Dead End? [video]",
-      "hnMeta": {
-        "points": 9,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561639"
-      },
-      "score": 64,
-      "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A video discusses the potential limitations of large language models (LLMs).  \n• Why it matters: Understanding the constraints of LLMs can guide future AI development and investment.  \n• Business opportunity: Companies can explore alternative AI technologies or improve LLMs to address identified shortcomings."
-    },
-    {
-      "id": "hn-1774787859143-55",
-      "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-      "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-29T06:47:25.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 3
-      },
-      "rawTextSnippet": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-      "hnMeta": {
-        "points": 7,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=47560909"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Google introduced the TurboQuant AI-compression algorithm, achieving a 6x reduction in LLM memory usage.  \n• Why it matters: This innovation significantly enhances the efficiency of large language models, making them more accessible and cost-effective.  \n• Business opportunity: Companies can leverage this technology to optimize AI applications, reducing infrastructure costs and improving performance."
-    },
-    {
-      "id": "hn-1774787860810-93",
-      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-      "url": "https://github.com/1st1/lat.md",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-29T08:59:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 30,
-        "comments": 7
-      },
-      "rawTextSnippet": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-      "hnMeta": {
-        "points": 30,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561496"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Agent Lattice introduced a knowledge graph for codebases using Markdown.  \n• Why it matters: This tool enhances code understanding and documentation efficiency for developers.  \n• Business opportunity: Companies can leverage this solution to improve collaboration and reduce onboarding time for new team members."
-    },
-    {
-      "id": "hn-1774787857746-23",
-      "title": "Millions Are Hooked on This Show Where Sexy Fruits Cheat",
-      "url": "https://www.wsj.com/arts-culture/television/fruit-love-island-tiktok-ai-dating-show-45219f6a",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-29T10:23:18.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 1
-      },
-      "rawTextSnippet": "Millions Are Hooked on This Show Where Sexy Fruits Cheat",
-      "hnMeta": {
-        "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561883"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
+        "authority": 18,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A new show featuring anthropomorphized fruits engaging in playful deception has gained millions of viewers.  \n• Why it matters: The show's unique concept taps into the growing trend of quirky, animated content appealing to diverse audiences.  \n• Business opportunity: Brands can explore partnerships or merchandise related to the show to capitalize on its popularity and engage with fans."
+      "summary": "• What happened: R3 Bio, a California startup, has revealed its work on brainless human clones and successfully maintained a uterus outside a body.  \n• Why it matters: This breakthrough raises ethical questions and potential advancements in reproductive technology and cloning.  \n• Business opportunity: Companies could explore innovations in biotechnology, reproductive health, and ethical frameworks for cloning practices."
     },
     {
-      "id": "hn-1774787857746-26",
-      "title": "Hledger AI Policy",
-      "url": "https://hledger.org/AI.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-29T09:58:24.000Z",
+      "id": "rss-1774875651496-1",
+      "title": "Inside the stealthy startup that pitched brainless human clones",
+      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-03-30T09:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "Hledger AI Policy",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561771"
-      },
-      "score": 62,
+      "rawTextSnippet": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey “organ sacks” as an alternative to animal testing. In an interview with Wired, R3 listed three inve…",
+      "score": 66,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
+        "authority": 18,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: Hledger introduced a new AI policy to guide its integration of artificial intelligence.  \n• Why it matters: This policy aims to ensure ethical and responsible use of AI within the organization.  \n• Business opportunity: Companies can leverage Hledger's framework to develop their own AI policies and enhance compliance."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: R3 Bio revealed its plans to develop nonsentient monkey \"organ sacks\" for alternative testing.  \n• Why it matters: This innovation could reduce reliance on animal testing, addressing ethical concerns in research.  \n• Business opportunity: Companies in biotech and pharmaceuticals may seek partnerships to utilize these organ sacks for more humane testing methods."
     },
     {
-      "id": "hn-1774787857746-30",
-      "title": "Tried a New AI Image Tool for Real-World Design Work (Nano Banana Pro)",
-      "url": "https://www.nanobananapro.org",
+      "id": "hn-1774875656039-126",
+      "title": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+      "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
       "source": "Hacker News",
-      "publishedAt": "2026-03-29T08:59:05.000Z",
+      "publishedAt": "2026-03-30T02:43:17.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "upvotes": 44,
+        "comments": 39
       },
-      "rawTextSnippet": "Tried a New AI Image Tool for Real-World Design Work (Nano Banana Pro)",
+      "rawTextSnippet": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
       "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561491"
+        "points": 44,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=47569837"
       },
-      "score": 62,
+      "score": 65,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: A new AI image tool, Nano Banana Pro, was tested for real-world design applications.  \n• Why it matters: This tool could enhance efficiency and creativity in design processes across various industries.  \n• Business opportunity: Companies can leverage Nano Banana Pro to streamline design workflows and reduce costs."
-    },
-    {
-      "id": "hn-1774787862246-130",
-      "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
-      "url": "https://enlidea.com",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-28T14:49:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 27,
-        "comments": 16
-      },
-      "rawTextSnippet": "Hey HN, Automated research is the next big step in AI, with companies like OpenAI aiming to debut a fully automated researcher by 2028 ( https:&#x2F;&#x2F;www.technologyreview.com&#x2F;2026&#x2F;03&#x2F;20&#x2F;1134438&#x2F;openai-i... ). However, there is a very real possibility that much of this c…",
-      "hnMeta": {
-        "points": 27,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=47555093"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 14,
         "engagement": 10,
         "novelty": 15,
         "businessImpact": 0
       },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: OpenAI's latest product, highly anticipated since ChatGPT, has faced a significant decline in interest.  \n• Why it matters: This decline raises questions about the sustainability of AI product hype and market expectations.  \n• Business opportunity: Companies can explore developing more reliable AI solutions that meet user needs and expectations."
+    },
+    {
+      "id": "hn-1774875651648-21",
+      "title": "Spain closes airspace to aircraft involved in Iran war",
+      "url": "https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-30T12:06:57.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 30,
+        "comments": 0
+      },
+      "rawTextSnippet": "Spain closes airspace to aircraft involved in Iran war",
+      "hnMeta": {
+        "points": 30,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47573205"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Spain has closed its airspace to aircraft associated with the Iran war.  \n• Why it matters: This decision impacts international flight routes and geopolitical relations in the region.  \n• Business opportunity: Airlines may seek alternative routes or partnerships to mitigate disruptions and maintain operations."
+    },
+    {
+      "id": "github-1774875654545-87",
+      "title": "[dreddnafious/thereisnospoon] A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
+      "url": "https://github.com/dreddnafious/thereisnospoon",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-03-29T19:59:07.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 12,
+        "upvotes": 335
+      },
+      "rawTextSnippet": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
+      "githubMeta": {
+        "stars": 335,
+        "language": "Python",
+        "topics": [
+          "deep-learning",
+          "engineering",
+          "fundamentals",
+          "machine-learning",
+          "neural-networks",
+          "primer",
+          "transformers",
+          "tutorial"
+        ]
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 12,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A new machine learning primer has been released for engineers.  \n• Why it matters: It helps engineers understand ML systems using familiar software reasoning.  \n• Business opportunity: Companies can leverage this resource to enhance their ML training programs and improve system design."
+    },
+    {
+      "id": "hn-1774875651648-10",
+      "title": "Generative AI – Intellectual Property Cases and Policy Tracker",
+      "url": "https://www.mishcon.com/generative-ai-intellectual-property-cases-and-policy-tracker",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-30T12:56:20.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Generative AI – Intellectual Property Cases and Policy Tracker",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47573688"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A new tracker has been launched to monitor intellectual property cases related to generative AI.  \n• Why it matters: This initiative highlights the growing legal complexities surrounding AI technologies and their outputs.  \n• Business opportunity: Companies can leverage this tracker to navigate IP challenges and develop compliant AI solutions."
+    },
+    {
+      "id": "hn-1774875651648-24",
+      "title": "AI Agents Still Need Passwords: Three Approaches to Credential Security",
+      "url": "https://techstackups.com/guides/unsolved-problem-ai-agent-security-passwords/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-30T11:57:55.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "AI Agents Still Need Passwords: Three Approaches to Credential Security",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47573123"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new multi-agent research hub has been created, featuring a unique reverse-CAPTCHA waitlist.  \n• Why it matters: This innovation signals a significant advancement towards fully automated research in AI, with potential implications for various industries.  \n• Business opportunity: Companies can leverage this technology to enhance research efficiency and reduce costs in their operations."
+      "summary": "• What happened: AI agents require passwords for secure access, highlighting ongoing credential security challenges.  \n• Why it matters: Ensuring robust credential security is crucial as AI adoption increases across industries.  \n• Business opportunity: Companies can innovate by developing advanced credential management solutions tailored for AI applications."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 48,
-      "trendScore": 189,
-      "whyTrending": "48 stories across Hacker, TechCrunch, MIT, 24 in the last 24h.",
+      "itemCount": 51,
+      "trendScore": 194,
+      "whyTrending": "51 stories across Hacker, GitHub, TechCrunch, 26 in the last 24h.",
       "topStory": {
-        "title": "What if AI doesn't need more RAM but better math?",
-        "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more"
+        "title": "How the AI Bubble Bursts",
+        "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/"
       },
       "items": [
         {
-          "id": "hn-1774787857746-31",
-          "title": "What if AI doesn't need more RAM but better math?",
-          "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+          "id": "hn-1774875651648-16",
+          "title": "How the AI Bubble Bursts",
+          "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T08:18:55.000Z",
+          "publishedAt": "2026-03-30T12:28:36.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 60,
-            "comments": 28
+            "upvotes": 54,
+            "comments": 11
           },
-          "rawTextSnippet": "What if AI doesn't need more RAM but better math?",
+          "rawTextSnippet": "How the AI Bubble Bursts",
           "hnMeta": {
-            "points": 60,
-            "comments": 28,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561297"
+            "points": 54,
+            "comments": 11,
+            "hnUrl": "https://news.ycombinator.com/item?id=47573420"
           },
           "score": 69,
           "scoreBreakdown": {
@@ -320,53 +307,81 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1774787857745-15",
-          "title": "Show HN: I built a Git extension to capture AI-code context and tied to commits",
-          "url": "https://gitwhy.dev/",
+          "id": "hn-1774875651648-21",
+          "title": "Spain closes airspace to aircraft involved in Iran war",
+          "url": "https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T12:15:25.000Z",
+          "publishedAt": "2026-03-30T12:06:57.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 1
-          },
-          "rawTextSnippet": "Show HN: I built a Git extension to capture AI-code context and tied to commits",
-          "hnMeta": {
-            "points": 3,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47562509"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1774787857746-17",
-          "title": "Show HN: Ticking Away, a Dark Side of the Moon Watchface Written in Zig",
-          "url": "https://clebert.github.io/ticking-away/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T11:52:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 30,
             "comments": 0
           },
-          "rawTextSnippet": "I built a watchface inspired by Pink Floyd&#x27;s &quot;Dark Side of the Moon&quot;. A prism that refracts light into a rainbow to show the time. The minute hand is a light ray, the rainbow points at the hour. It&#x27;s written in Zig, which lets me target the browser (WASM), a Raspberry Pi Zero 2 W…",
+          "rawTextSnippet": "Spain closes airspace to aircraft involved in Iran war",
           "hnMeta": {
-            "points": 2,
+            "points": 30,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47562349"
+            "hnUrl": "https://news.ycombinator.com/item?id=47573205"
           },
-          "score": 59,
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "github-1774875654545-87",
+          "title": "[dreddnafious/thereisnospoon] A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
+          "url": "https://github.com/dreddnafious/thereisnospoon",
+          "source": "GitHub Trending",
+          "publishedAt": "2026-03-29T19:59:07.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 12,
+            "upvotes": 335
+          },
+          "rawTextSnippet": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
+          "githubMeta": {
+            "stars": 335,
+            "language": "Python",
+            "topics": [
+              "deep-learning",
+              "engineering",
+              "fundamentals",
+              "machine-learning",
+              "neural-networks",
+              "primer",
+              "transformers",
+              "tutorial"
+            ]
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 12,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1774875654210-67",
+          "title": "Qodo raises $70M for code verification as AI coding scales",
+          "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-30T12:30:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -374,54 +389,27 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1774787857746-18",
-          "title": "Will we have AGI by 2030? Are the new Formula 1 rules good? – Analyze both sides",
-          "url": "https://99helpers.com/tools/both-sides-ai",
+          "id": "hn-1774875653211-63",
+          "title": "Pretext",
+          "url": "https://simonwillison.net/2026/Mar/29/pretext/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T11:15:52.000Z",
+          "publishedAt": "2026-03-30T02:42:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 15,
             "comments": 1
           },
-          "rawTextSnippet": "Will we have AGI by 2030? Are the new Formula 1 rules good? – Analyze both sides",
+          "rawTextSnippet": "Pretext",
           "hnMeta": {
-            "points": 2,
+            "points": 15,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47562171"
+            "hnUrl": "https://news.ycombinator.com/item?id=47569835"
           },
-          "score": 59,
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 26,
             "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1774787857746-19",
-          "title": "Tracking (Expert/Influential) Predictions about AI",
-          "url": "https://www.lesswrong.com/posts/oHSGHxhsbxN72BZ4C/tracking-expert-influential-predictions-about-ai",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T11:01:49.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Tracking (Expert/Influential) Predictions about AI",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47562096"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
@@ -432,83 +420,110 @@
     {
       "name": "Large Language Models",
       "itemCount": 40,
-      "trendScore": 173,
-      "whyTrending": "40 stories across Hacker, TechCrunch, GitHub, 14 in the last 24h.",
+      "trendScore": 176,
+      "whyTrending": "40 stories across Hacker, TechCrunch, GitHub, 18 in the last 24h.",
       "topStory": {
-        "title": "Are LLMs a Dead End? [video]",
-        "url": "https://www.youtube.com/watch?v=9IMV80GvBpU"
+        "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+        "url": "https://github.com/anthropics/claude-code/issues/40710"
       },
       "items": [
         {
-          "id": "hn-1774787859143-51",
-          "title": "Are LLMs a Dead End? [video]",
-          "url": "https://www.youtube.com/watch?v=9IMV80GvBpU",
+          "id": "hn-1774875657512-146",
+          "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+          "url": "https://github.com/anthropics/claude-code/issues/40710",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T09:31:26.000Z",
+          "publishedAt": "2026-03-29T22:15:06.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 1
+            "upvotes": 250,
+            "comments": 184
           },
-          "rawTextSnippet": "Are LLMs a Dead End? [video]",
+          "rawTextSnippet": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
           "hnMeta": {
-            "points": 9,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561639"
+            "points": 250,
+            "comments": 184,
+            "hnUrl": "https://news.ycombinator.com/item?id=47567969"
           },
-          "score": 64,
+          "score": 71,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 20,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1774787859143-55",
-          "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-          "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+          "id": "hn-1774875656039-126",
+          "title": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+          "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T06:47:25.000Z",
+          "publishedAt": "2026-03-30T02:43:17.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 3
+            "upvotes": 44,
+            "comments": 39
           },
-          "rawTextSnippet": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
+          "rawTextSnippet": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
           "hnMeta": {
-            "points": 7,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47560909"
+            "points": 44,
+            "comments": 39,
+            "hnUrl": "https://news.ycombinator.com/item?id=47569837"
           },
-          "score": 64,
+          "score": 65,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 26,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 10,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1774787859143-47",
-          "title": "Show HN: Think Fu – Metacognition as a service",
-          "url": "https://thinkfu.org",
+          "id": "hn-1774875653210-51",
+          "title": "Show HN: Designing an API for LLMs, Not Humans",
+          "url": "https://labs.tryopendata.ai/designing-an-api-for-llms",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T11:14:22.000Z",
+          "publishedAt": "2026-03-30T11:03:39.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Hi HN! I&#x27;ve been very unimpressed with how LLMs think when it comes to anything creative. It&#x27;s no surprise - they&#x27;ve been lobotomized by RLHF to be helpful, predictable and consistent - all of these things are counterproductive in a more creative setting. So I&#x27;ve built a little s…",
+          "rawTextSnippet": "We asked Claude to research US healthcare costs. It made 72 API calls. Three rounds of agent-driven feedback later, it takes 8. Here&#x27;s what we changed and what we learned about API design when your primary consumer is an LLM.",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47562162"
+            "hnUrl": "https://news.ycombinator.com/item?id=47572760"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1774875651648-19",
+          "title": "Show HN: AgentLair – Give your AI agent an email identity and credential vault",
+          "url": "https://agentlair.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-30T12:11:03.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Supply chain attacks like the LiteLLM compromise exfiltrate every env var, SSH key, and API key from compromised machines. AgentLair Vault prevents this architecturally — credentials are never in the environment. I built AgentLair to give AI agents a real identity — not just an email address. AgentM…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47573245"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -521,48 +536,21 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1774787859143-50",
-          "title": "Scion: Running Concurrent LLM Agents with Isolated Identities and Workspaces",
-          "url": "https://googlecloudplatform.github.io/scion/overview/",
+          "id": "hn-1774875651648-22",
+          "title": "China's DeepSeek AI chatbot suffers longest outage",
+          "url": "https://www.reuters.com/technology/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-early-2025-2026-03-30/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T09:40:05.000Z",
+          "publishedAt": "2026-03-30T12:05:36.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
-            "comments": 0
+            "comments": 2
           },
-          "rawTextSnippet": "Scion: Running Concurrent LLM Agents with Isolated Identities and Workspaces",
+          "rawTextSnippet": "China's DeepSeek AI chatbot suffers longest outage",
           "hnMeta": {
             "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561681"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1774787859143-52",
-          "title": "LLMs Can Write Production Quality Code",
-          "url": "https://escobyte.substack.com/p/writing-high-quality-production-code",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T08:26:42.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "LLMs Can Write Production Quality Code",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561345"
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47573193"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -578,84 +566,84 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 20,
-      "trendScore": 162,
-      "whyTrending": "20 stories across Hacker, OpenAI, VentureBeat, 15 in the last 24h.",
+      "itemCount": 25,
+      "trendScore": 173,
+      "whyTrending": "25 stories across Hacker, GitHub, OpenAI, 17 in the last 24h.",
       "topStory": {
-        "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-        "url": "https://github.com/1st1/lat.md"
+        "title": "AI Agents Still Need Passwords: Three Approaches to Credential Security",
+        "url": "https://techstackups.com/guides/unsolved-problem-ai-agent-security-passwords/"
       },
       "items": [
         {
-          "id": "hn-1774787860810-93",
-          "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-          "url": "https://github.com/1st1/lat.md",
+          "id": "hn-1774875651648-24",
+          "title": "AI Agents Still Need Passwords: Three Approaches to Credential Security",
+          "url": "https://techstackups.com/guides/unsolved-problem-ai-agent-security-passwords/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T08:59:52.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 30,
-            "comments": 7
-          },
-          "rawTextSnippet": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-          "hnMeta": {
-            "points": 30,
-            "comments": 7,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561496"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1774787862246-130",
-          "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
-          "url": "https://enlidea.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-28T14:49:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 27,
-            "comments": 16
-          },
-          "rawTextSnippet": "Hey HN, Automated research is the next big step in AI, with companies like OpenAI aiming to debut a fully automated researcher by 2028 ( https:&#x2F;&#x2F;www.technologyreview.com&#x2F;2026&#x2F;03&#x2F;20&#x2F;1134438&#x2F;openai-i... ). However, there is a very real possibility that much of this c…",
-          "hnMeta": {
-            "points": 27,
-            "comments": 16,
-            "hnUrl": "https://news.ycombinator.com/item?id=47555093"
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1774787857745-14",
-          "title": "AltClaw – A secure scripting layer for AI agents with a module marketplace",
-          "url": "https://github.com/altlimit/altclaw",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T12:34:54.000Z",
+          "publishedAt": "2026-03-30T11:57:55.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "AltClaw – A secure scripting layer for AI agents with a module marketplace",
+          "rawTextSnippet": "AI Agents Still Need Passwords: Three Approaches to Credential Security",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47562660"
+            "hnUrl": "https://news.ycombinator.com/item?id=47573123"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1774875653211-56",
+          "title": "Show HN: We Built 450 Modular Agent Skills for Medical Research",
+          "url": "https://github.com/aipoch/medical-research-skills",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-30T09:11:28.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Hi folks, I’m part of the team building AIPOCH. We just built an open-source library of 450+ executable Agent Skills designed specifically for medical research workflows. These skills built to work with OpenClaw and other AI agent platforms, including OpenCode and Claude. We have encoded specialized…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47572117"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1774875653210-48",
+          "title": "Ask HN: Is it actually possible to run multiple coding sessions in parallel?",
+          "url": "https://news.ycombinator.com/item?id=47573483",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-30T12:35:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 1
+          },
+          "rawTextSnippet": "I’ve been trying to make sense of how people really use tools like Claude Code, especially after seeing some of the workflows shared on Twitter. I started using terminal coding agents around June last year. I used Claude Code for a few months, then switched to Opencode because the experience was rou…",
+          "hnMeta": {
+            "points": 3,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47573483"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -668,48 +656,48 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1774787857745-16",
-          "title": "Show HN: Agent Orchestrator, a local-first Harness Engineering control plane",
-          "url": "https://news.ycombinator.com/item?id=47562440",
+          "id": "hn-1774875654623-88",
+          "title": "Show HN: Skillwave – agent orchestrator with async comms and goal-alignment loop",
+          "url": "https://github.com/loudinthecloud/skillwave",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T12:05:13.000Z",
+          "publishedAt": "2026-03-30T12:22:27.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Skillwave is a seed repository for scaffolding end-to-end projects with an autonomous agent workflow. You give it a GOAL.md file with roughly 50–100 user stories, and it decomposes the work into tasks, dynamically creates distinct roles, assigns tasks and executes via subagents, and keeps going unti…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47573358"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1774875654623-89",
+          "title": "Show HN: I built a tool that audits docs for agent readability",
+          "url": "https://doc-audit.clouddani.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-30T12:20:48.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "I have spent a long time working in an XP&#x2F;TDD style, so when AI coding tools became useful enough for real work, I adopted them quickly. The first bottleneck I hit was not code generation, it was verification: AI could write code and tests quickly, but I was still the person reviewing implement…",
+          "rawTextSnippet": "Show HN: I built a tool that audits docs for agent readability",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47562440"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1774787860810-88",
-          "title": "A data platform for a new user: agents",
-          "url": "https://clickhouse.com/blog/building-a-data-platform-for-agents",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T12:21:06.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "A data platform for a new user: agents",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47562560"
+            "hnUrl": "https://news.ycombinator.com/item?id=47573343"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -725,57 +713,30 @@
     },
     {
       "name": "AI Safety & Regulation",
-      "itemCount": 15,
-      "trendScore": 134,
-      "whyTrending": "15 stories across Hacker, TechCrunch, DeepMind, 7 in the last 24h.",
+      "itemCount": 16,
+      "trendScore": 131,
+      "whyTrending": "16 stories across Hacker, TechCrunch, DeepMind, 4 in the last 24h.",
       "topStory": {
-        "title": "Hledger AI Policy",
-        "url": "https://hledger.org/AI.html"
+        "title": "Generative AI – Intellectual Property Cases and Policy Tracker",
+        "url": "https://www.mishcon.com/generative-ai-intellectual-property-cases-and-policy-tracker"
       },
       "items": [
         {
-          "id": "hn-1774787857746-26",
-          "title": "Hledger AI Policy",
-          "url": "https://hledger.org/AI.html",
+          "id": "hn-1774875651648-10",
+          "title": "Generative AI – Intellectual Property Cases and Policy Tracker",
+          "url": "https://www.mishcon.com/generative-ai-intellectual-property-cases-and-policy-tracker",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T09:58:24.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Hledger AI Policy",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561771"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1774787857746-30",
-          "title": "Tried a New AI Image Tool for Real-World Design Work (Nano Banana Pro)",
-          "url": "https://www.nanobananapro.org",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T08:59:05.000Z",
+          "publishedAt": "2026-03-30T12:56:20.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Tried a New AI Image Tool for Real-World Design Work (Nano Banana Pro)",
+          "rawTextSnippet": "Generative AI – Intellectual Property Cases and Policy Tracker",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561491"
+            "hnUrl": "https://news.ycombinator.com/item?id=47573688"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -788,7 +749,61 @@
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1774787863630-165",
+          "id": "hn-1774875651648-15",
+          "title": "Show HN: SycoFact 4B: Open model detecting sycophancy and delusion confirmation",
+          "url": "https://huggingface.co/iwalton3/sycofact",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-30T12:36:34.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "I published a model you can use now to help detect sycophantic AI responses before they harm users. It rejects 100% of the sycophantic delusion affirming responses from psychosis-bench. It also does well on the AISI Harmful Advice, PKU-SafeRLHF, and safety subsets of RewardBench. It&#x27;s small eno…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47573491"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1774875657512-145",
+          "title": "Anthropic still in trouble despite court win, lawyers and lobbyists say",
+          "url": "https://www.politico.com/news/2026/03/27/premature-anthropic-still-in-trouble-despite-court-win-lawyers-and-lobbyists-say-00849173",
+          "source": "Hacker News",
+          "publishedAt": "2026-03-30T09:58:53.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 7,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic still in trouble despite court win, lawyers and lobbyists say",
+          "hnMeta": {
+            "points": 7,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47572396"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1774875657512-158",
           "title": "Leaked Anthropic Model Presents 'Unprecedented Cybersecurity Risks'",
           "url": "https://gizmodo.com/leaked-anthropic-model-presents-unprecedented-cybersecurity-risks-much-to-pentagons-pleasure-2000739088",
           "source": "Hacker News",
@@ -804,9 +819,9 @@
             "comments": 6,
             "hnUrl": "https://news.ycombinator.com/item?id=47555671"
           },
-          "score": 59,
+          "score": 52,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 14,
             "engagement": 5,
             "novelty": 15,
@@ -815,195 +830,21 @@
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1774787860810-98",
-          "title": "Show HN: Shoofly – pre-execution security for Claude Code Cowork and OpenClaw",
-          "url": "https://shoofly.dev/",
+          "id": "hn-1774875657512-150",
+          "title": "Anthropic struggling with Chinese competition, its own safety obsession",
+          "url": "https://www.theregister.com/2026/03/28/miss_anthropic_not_those_who/",
           "source": "Hacker News",
-          "publishedAt": "2026-03-29T06:20:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Anthropic says on their safety page: &quot;these filters are not a security boundary.&quot; Snyk found 36% of ClawHub skills contain security flaws. Trend Micro documented malware being distributed through ClawHub. These agents have shell access, file access, and connected accounts. We built Shoofly…",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47560819"
-          },
-          "score": 58,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1774787862245-125",
-          "title": "Former NJ AG's Firm Challenges Big Tech's 'Profit Ahead of Public Safety' Ethos",
-          "url": "https://www.law.com/therecorder/2026/03/20/openai-targeted-as-former-new-jersey-ags-new-firm-challenges-big-techs-profit-ahead-of-public-safety-ethos-/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T05:09:29.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Former NJ AG's Firm Challenges Big Tech's 'Profit Ahead of Public Safety' Ethos",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47560541"
-          },
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 16,
-      "trendScore": 127,
-      "whyTrending": "16 stories across Hacker, GitHub, MIT, 5 in the last 24h.",
-      "topStory": {
-        "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-        "url": "https://github.com/austin-weeks/miasma"
-      },
-      "items": [
-        {
-          "id": "hn-1774787857746-24",
-          "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-          "url": "https://github.com/austin-weeks/miasma",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T10:10:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 35,
-            "comments": 11
-          },
-          "rawTextSnippet": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-          "hnMeta": {
-            "points": 35,
-            "comments": 11,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561819"
-          },
-          "score": 69,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1774787857746-21",
-          "title": "Local-first AI knowledge layer. Extract architecture, query from any AI tools",
-          "url": "https://github.com/josephgoksu/taskwing",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T10:44:48.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Local-first AI knowledge layer. Extract architecture, query from any AI tools",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47561996"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1774787859143-57",
-          "title": "Krispy Kreme to launch limited-edition doughnut for Artemis II moon mission",
-          "url": "https://www.collectspace.com/news/news-032726a-krispy-kreme-artemis-ii-doughnut.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T06:19:44.000Z",
+          "publishedAt": "2026-03-29T15:51:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 4,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "Krispy Kreme to launch limited-edition doughnut for Artemis II moon mission",
+          "rawTextSnippet": "Anthropic struggling with Chinese competition, its own safety obsession",
           "hnMeta": {
             "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47560815"
-          },
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1774787862245-124",
-          "title": "Show HN: CMPSBL Software Factory — Free Daily Drop $2.9M",
-          "url": "https://pastebin.com/54QhPiwZ",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-29T05:42:39.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 2
-          },
-          "rawTextSnippet": "I’m a solo founder. I built a Cognitive Infrastructure Substrate — pure algorithmic code, zero AI API calls inside, no OpenAI dependency, fully patentable. A discovery engine collides software primitives against each other and crystallizes viable configurations into production-ready code. It has aut…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47560674"
-          },
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1774787859143-66",
-          "title": "Show HN: I built a log management system which helps me take action",
-          "url": "https://logu.ro/",
-          "source": "Hacker News",
-          "publishedAt": "2026-03-28T21:14:16.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "I personally had a pain point with... logs, i never understood the complicated UIs, all the charts, all the metrics, everything the premium tools throw at me and you. I still had to install an SDK mostly. I still needed to learn some arcane query syntax just to filter logs. Debugging should be easy,…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47558160"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47564215"
           },
           "score": 51,
           "scoreBreakdown": {
@@ -1013,170 +854,168 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
+    },
+    {
+      "name": "Funding & Acquisitions",
+      "itemCount": 13,
+      "trendScore": 125,
+      "whyTrending": "13 stories across TechCrunch, MIT, Hacker, 3 in the last 24h.",
+      "topStory": {
+        "title": "Starcloud raises $170 million Series Ato build data centers in space",
+        "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/"
+      },
+      "items": [
+        {
+          "id": "rss-1774875654210-68",
+          "title": "Starcloud raises $170 million Series Ato build data centers in space",
+          "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-30T11:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+          "score": 70,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1774875651496-0",
+          "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+          "url": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-03-30T12:10:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones&#160; After&#160;operating&#160;in secrecy for years, R3 Bio, a California-based start…",
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1774875651496-1",
+          "title": "Inside the stealthy startup that pitched brainless human clones",
+          "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-03-30T09:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "After operating in secrecy for years, a startup company called R3 Bio, in Richmond, California, suddenly shared details about its work last week—saying it had raised money to create nonsentient monkey “organ sacks” as an alternative to animal testing. In an interview with Wired, R3 listed three inve…",
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1774875654210-77",
+          "title": "VCs are betting billions on AI&#8217;s next wave, so why is OpenAI killing Sora?",
+          "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-27T15:40:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the…",
+          "score": 48,
+          "scoreBreakdown": {
+            "freshness": 8,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1774875654210-76",
+          "title": "Memory chip giant SK hynix could help end &#8216;RAMmageddon&#8217; with blockbuster US IPO",
+          "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-03-27T19:11:28.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+          "score": 45,
+          "scoreBreakdown": {
+            "freshness": 8,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "Funding & Acquisitions"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1774787862246-130",
-      "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
-      "url": "https://enlidea.com",
+      "id": "hn-1774875656039-126",
+      "title": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+      "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
       "source": "Hacker News",
-      "publishedAt": "2026-03-28T14:49:30.000Z",
+      "publishedAt": "2026-03-30T02:43:17.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 27,
-        "comments": 16
+        "upvotes": 44,
+        "comments": 39
       },
-      "rawTextSnippet": "Hey HN, Automated research is the next big step in AI, with companies like OpenAI aiming to debut a fully automated researcher by 2028 ( https:&#x2F;&#x2F;www.technologyreview.com&#x2F;2026&#x2F;03&#x2F;20&#x2F;1134438&#x2F;openai-i... ). However, there is a very real possibility that much of this c…",
+      "rawTextSnippet": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
       "hnMeta": {
-        "points": 27,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=47555093"
+        "points": 44,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=47569837"
       },
-      "score": 61,
+      "score": 65,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 14,
         "engagement": 10,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new multi-agent research hub has been developed with a unique reverse-CAPTCHA waitlist.  \n• Why it matters: This innovation signals significant advancements in automated research, a key focus for AI companies like OpenAI.  \n• Business opportunity: There is potential for investment in automated research tools and services as demand for efficiency in research grows."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: OpenAI's latest product, highly anticipated since ChatGPT, has unexpectedly underperformed.  \n• Why it matters: This decline raises questions about the sustainability of AI innovations and market expectations.  \n• Business opportunity: Companies can explore alternative AI solutions or enhancements to meet evolving consumer demands."
     },
     {
-      "id": "hn-1774787859143-47",
-      "title": "Show HN: Think Fu – Metacognition as a service",
-      "url": "https://thinkfu.org",
+      "id": "hn-1774875653210-51",
+      "title": "Show HN: Designing an API for LLMs, Not Humans",
+      "url": "https://labs.tryopendata.ai/designing-an-api-for-llms",
       "source": "Hacker News",
-      "publishedAt": "2026-03-29T11:14:22.000Z",
+      "publishedAt": "2026-03-30T11:03:39.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Hi HN! I&#x27;ve been very unimpressed with how LLMs think when it comes to anything creative. It&#x27;s no surprise - they&#x27;ve been lobotomized by RLHF to be helpful, predictable and consistent - all of these things are counterproductive in a more creative setting. So I&#x27;ve built a little s…",
+      "rawTextSnippet": "We asked Claude to research US healthcare costs. It made 72 API calls. Three rounds of agent-driven feedback later, it takes 8. Here&#x27;s what we changed and what we learned about API design when your primary consumer is an LLM.",
       "hnMeta": {
         "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47562162"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A new service called Think Fu offers metacognition tools to enhance creative thinking in LLMs.  \n• Why it matters: It addresses limitations in current LLMs, which struggle with creativity due to their training methods.  \n• Business opportunity: There is potential for innovative applications in creative industries by improving LLMs' creative capabilities."
-    },
-    {
-      "id": "hn-1774787859143-52",
-      "title": "LLMs Can Write Production Quality Code",
-      "url": "https://escobyte.substack.com/p/writing-high-quality-production-code",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-29T08:26:42.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 1
-      },
-      "rawTextSnippet": "LLMs Can Write Production Quality Code",
-      "hnMeta": {
-        "points": 2,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561345"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Large language models (LLMs) have demonstrated the ability to write production-quality code.  \n• Why it matters: This advancement could significantly reduce development time and costs for software projects.  \n• Business opportunity: Companies can leverage LLMs to enhance coding efficiency and streamline their software development processes."
-    },
-    {
-      "id": "hn-1774787863630-165",
-      "title": "Leaked Anthropic Model Presents 'Unprecedented Cybersecurity Risks'",
-      "url": "https://gizmodo.com/leaked-anthropic-model-presents-unprecedented-cybersecurity-risks-much-to-pentagons-pleasure-2000739088",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-28T15:48:34.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 9,
-        "comments": 6
-      },
-      "rawTextSnippet": "Leaked Anthropic Model Presents 'Unprecedented Cybersecurity Risks'",
-      "hnMeta": {
-        "points": 9,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=47555671"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "hn-1774787859143-57",
-      "title": "Krispy Kreme to launch limited-edition doughnut for Artemis II moon mission",
-      "url": "https://www.collectspace.com/news/news-032726a-krispy-kreme-artemis-ii-doughnut.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-29T06:19:44.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 0
-      },
-      "rawTextSnippet": "Krispy Kreme to launch limited-edition doughnut for Artemis II moon mission",
-      "hnMeta": {
-        "points": 4,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47560815"
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products"
-    }
-  ],
-  "redditSignals": [],
-  "research": [],
-  "funding": [
-    {
-      "id": "hn-1774787857746-23",
-      "title": "Millions Are Hooked on This Show Where Sexy Fruits Cheat",
-      "url": "https://www.wsj.com/arts-culture/television/fruit-love-island-tiktok-ai-dating-show-45219f6a",
-      "source": "Hacker News",
-      "publishedAt": "2026-03-29T10:23:18.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 1
-      },
-      "rawTextSnippet": "Millions Are Hooked on This Show Where Sexy Fruits Cheat",
-      "hnMeta": {
-        "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561883"
+        "hnUrl": "https://news.ycombinator.com/item?id=47572760"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -1186,25 +1025,25 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A popular show features anthropomorphized fruits engaging in humorous cheating scenarios.  \n• Why it matters: The show's unique concept has captivated millions, driving significant viewer engagement.  \n• Business opportunity: Brands can leverage the show's popularity for innovative marketing campaigns targeting its audience."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Researchers optimized an API for large language models (LLMs) to reduce calls from 72 to 8.  \n• Why it matters: This improvement enhances efficiency in data retrieval for LLMs, potentially lowering operational costs.  \n• Business opportunity: Companies can develop streamlined APIs tailored for LLMs, improving performance in various applications."
     },
     {
-      "id": "hn-1774787857746-22",
-      "title": "OpenAI investor says AI requires an income tax overhaul",
-      "url": "https://www.ft.com/content/7de1d3c5-0d0c-46b1-b2b7-dbf6f5226069",
+      "id": "hn-1774875651648-15",
+      "title": "Show HN: SycoFact 4B: Open model detecting sycophancy and delusion confirmation",
+      "url": "https://huggingface.co/iwalton3/sycofact",
       "source": "Hacker News",
-      "publishedAt": "2026-03-29T10:31:04.000Z",
+      "publishedAt": "2026-03-30T12:36:34.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 1
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "OpenAI investor says AI requires an income tax overhaul",
+      "rawTextSnippet": "I published a model you can use now to help detect sycophantic AI responses before they harm users. It rejects 100% of the sycophantic delusion affirming responses from psychosis-bench. It also does well on the AISI Harmful Advice, PKU-SafeRLHF, and safety subsets of RewardBench. It&#x27;s small eno…",
       "hnMeta": {
-        "points": 4,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47561933"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47573491"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1214,11 +1053,159 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: An OpenAI investor advocates for an overhaul of income tax policies to accommodate AI advancements.  \n• Why it matters: This suggests that current tax structures may hinder AI development and economic growth.  \n• Business opportunity: Companies can explore tax advisory services to navigate potential changes in AI-related taxation."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A new model, SycoFact 4B, was released to detect sycophantic AI responses.  \n• Why it matters: This model aims to prevent harmful user interactions by rejecting delusional affirmations from AI.  \n• Business opportunity: Companies can integrate this model to enhance AI safety and improve user trust in AI interactions."
     },
     {
-      "id": "rss-1774787860261-70",
+      "id": "hn-1774875651648-19",
+      "title": "Show HN: AgentLair – Give your AI agent an email identity and credential vault",
+      "url": "https://agentlair.dev/",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-30T12:11:03.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Supply chain attacks like the LiteLLM compromise exfiltrate every env var, SSH key, and API key from compromised machines. AgentLair Vault prevents this architecturally — credentials are never in the environment. I built AgentLair to give AI agents a real identity — not just an email address. AgentM…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47573245"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "hn-1774875653210-50",
+      "title": "Zinc – LLM inference engine written in Zig, running 35B models on $550 AMD GPUs",
+      "url": "https://github.com/zolotukhin/zinc",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-30T11:14:16.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
+      },
+      "rawTextSnippet": "Zinc – LLM inference engine written in Zig, running 35B models on $550 AMD GPUs",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47572836"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Hardware & Chips"
+    }
+  ],
+  "redditSignals": [],
+  "research": [],
+  "funding": [
+    {
+      "id": "rss-1774875654210-68",
+      "title": "Starcloud raises $170 million Series Ato build data centers in space",
+      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T11:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+      "score": 70,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Starcloud secured $170 million in Series A funding to develop space-based data centers.  \n• Why it matters: The company achieved unicorn status in just 17 months, highlighting rapid growth and investor confidence.  \n• Business opportunity: This innovation opens avenues for advanced data storage solutions and satellite technology partnerships."
+    },
+    {
+      "id": "hn-1774875653211-56",
+      "title": "Show HN: We Built 450 Modular Agent Skills for Medical Research",
+      "url": "https://github.com/aipoch/medical-research-skills",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-30T09:11:28.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Hi folks, I’m part of the team building AIPOCH. We just built an open-source library of 450+ executable Agent Skills designed specifically for medical research workflows. These skills built to work with OpenClaw and other AI agent platforms, including OpenCode and Claude. We have encoded specialized…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47572117"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: AIPOCH launched an open-source library of over 450 modular agent skills for medical research.  \n• Why it matters: This resource enhances efficiency and collaboration in medical research workflows using AI.  \n• Business opportunity: Companies can leverage these skills to develop tailored solutions in healthcare and research automation."
+    },
+    {
+      "id": "rss-1774875654210-67",
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T12:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Qodo secured $70 million in funding to enhance code verification amid the rise of AI in software development.  \n• Why it matters: Ensuring code functionality is critical as AI-generated code becomes more prevalent, addressing potential reliability issues.  \n• Business opportunity: There is a growing demand for robust code verification solutions, presenting a lucrative market for Qodo and similar companies."
+    },
+    {
+      "id": "rss-1774875654210-66",
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-03-30T12:49:51.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Mistral aims to start operating the data center by the second quarter of 2026.",
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 10,
+        "businessImpact": 3
+      },
+      "cluster": "Open Source AI"
+    },
+    {
+      "id": "rss-1774875654210-74",
       "title": "Anthropic&#8217;s Claude popularity with paying consumers is skyrocketing",
       "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
       "source": "TechCrunch AI",
@@ -1227,57 +1214,16 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-      "score": 56,
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Anthropic's Claude has seen a significant increase in paid subscriptions, reportedly doubling this year.  \n• Why it matters: The surge in popularity indicates growing consumer demand for AI tools, potentially reshaping the market landscape.  \n• Business opportunity: Companies can explore partnerships or develop complementary products to leverage the rising interest in AI subscriptions."
-    },
-    {
-      "id": "rss-1774787860261-73",
-      "title": "VCs are betting billions on AI&#8217;s next wave, so why is OpenAI killing Sora?",
-      "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-27T15:40:19.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the…",
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1774787860261-71",
-      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-03-27T21:44:45.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Safety & Regulation"
+      "cluster": "Large Language Models"
     }
   ],
-  "dailyBrief": "Today's AI landscape highlights significant developments with potential business implications. Miasma, a new tool designed to trap AI web scrapers, could reshape data protection strategies for companies, emphasizing the need for robust cybersecurity measures. Meanwhile, a provocative discussion suggests that enhancing mathematical approaches, rather than merely increasing RAM, could unlock greater AI efficiency, prompting businesses to rethink their tech investments. In a nod to nostalgia, the open-source release of OpenCiv1 may inspire innovative applications in gaming and education sectors. Lastly, Google's TurboQuant algorithm, which can reduce large language model memory usage by six times, presents a cost-effective solution for enterprises looking to optimize AI deployment while managing infrastructure expenses."
+  "dailyBrief": "In today's AI landscape, Claude Code is automating project management by running Git reset commands every 10 minutes, a move that could streamline development processes significantly. Meanwhile, Starcloud has secured $170 million in Series A funding to establish data centers in space, highlighting a burgeoning market for off-world infrastructure that could revolutionize data storage and processing. However, concerns about the sustainability of the AI sector are growing, as discussions around the potential bursting of the AI bubble gain traction. Additionally, ethical debates are intensifying with reports on startups exploring brainless human clones and advancements in reproductive technology, such as the first uterus maintained outside a body, raising questions about the implications for both science and business. These developments underscore the need for professionals to navigate the rapidly evolving AI landscape with caution and foresight."
 }
