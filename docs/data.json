@@ -1,21 +1,21 @@
 {
   "topNews": [
     {
-      "id": "hn-1775392791763-59",
-      "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-      "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+      "id": "hn-1775480007198-138",
+      "title": "Codex pricing to align with API token usage, instead of per-message",
+      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T00:13:55.000Z",
+      "publishedAt": "2026-04-05T15:58:08.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 331,
-        "comments": 96
+        "upvotes": 200,
+        "comments": 184
       },
-      "rawTextSnippet": "https:&#x2F;&#x2F;lore.kernel.org&#x2F;lkml&#x2F;yr3inlzesdb45n6i6lpbimwr7b25kqk...",
+      "rawTextSnippet": "Codex pricing to align with API token usage, instead of per-message",
       "hnMeta": {
-        "points": 331,
-        "comments": 96,
-        "hnUrl": "https://news.ycombinator.com/item?id=47644864"
+        "points": 200,
+        "comments": 184,
+        "hnUrl": "https://news.ycombinator.com/item?id=47650726"
       },
       "score": 71,
       "scoreBreakdown": {
@@ -25,81 +25,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: An AWS engineer reported that PostgreSQL performance has been significantly reduced by Linux 7.0.  \n• Why it matters: This performance drop could impact cloud services relying on PostgreSQL, affecting user experience and operational efficiency.  \n• Business opportunity: Companies may seek alternative solutions or optimizations to maintain performance, creating demand for specialized consulting and support services."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Codex has shifted its pricing model to align with API token usage rather than charging per message.  \n• Why it matters: This change simplifies cost management for developers and may encourage broader adoption of the API.  \n• Business opportunity: Companies can leverage the new pricing structure to optimize their usage and reduce costs in application development."
     },
     {
-      "id": "hn-1775392790374-29",
-      "title": "I used AI. It worked. I hated it",
-      "url": "https://taggart-tech.com/reckoning/",
+      "id": "hn-1775480007198-132",
+      "title": "OpenAI's fall from grace as investors race to Anthropic",
+      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T05:08:39.000Z",
+      "publishedAt": "2026-04-05T23:33:01.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 42,
-        "comments": 99
+        "upvotes": 175,
+        "comments": 111
       },
-      "rawTextSnippet": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260403164006&#x2F;https:&#x2F;&#x2F;taggart-t...",
+      "rawTextSnippet": "OpenAI's fall from grace as investors race to Anthropic",
       "hnMeta": {
-        "points": 42,
-        "comments": 99,
-        "hnUrl": "https://news.ycombinator.com/item?id=47646277"
-      },
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A user shared their experience of successfully using AI but expressed dissatisfaction with the process.  \n• Why it matters: This highlights the potential disconnect between AI effectiveness and user satisfaction.  \n• Business opportunity: Companies can focus on improving user experience and satisfaction in AI applications."
-    },
-    {
-      "id": "hn-1775392794611-113",
-      "title": "SpaceX and OpenAI: The Mega IPO Grift [video]",
-      "url": "https://www.youtube.com/watch?v=iOyFja87uyw",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-05T11:14:09.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 4
-      },
-      "rawTextSnippet": "SpaceX and OpenAI: The Mega IPO Grift [video]",
-      "hnMeta": {
-        "points": 3,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47648226"
-      },
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: SpaceX and OpenAI are discussed in the context of potential mega IPOs.  \n• Why it matters: The implications of these IPOs could reshape the tech investment landscape.  \n• Business opportunity: Investors may find lucrative opportunities in emerging tech firms linked to these IPOs."
-    },
-    {
-      "id": "hn-1775392794611-115",
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "url": "https://sllm.cloud",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-04T15:18:58.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 165,
-        "comments": 81
-      },
-      "rawTextSnippet": "Running DeepSeek V3 (685B) requires 8×H100 GPUs which is about $14k&#x2F;month. Most developers only need 15-25 tok&#x2F;s. sllm lets you join a cohort of developers sharing a dedicated node. You reserve a spot with your card, and nobody is charged until the cohort fills. Prices start at $5&#x2F;mo …",
-      "hnMeta": {
-        "points": 165,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=47639779"
+        "points": 175,
+        "comments": 111,
+        "hnUrl": "https://news.ycombinator.com/item?id=47655058"
       },
       "score": 66,
       "scoreBreakdown": {
@@ -109,137 +53,123 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: sllm allows developers to share a GPU node, reducing costs for accessing high-demand resources.  \n• Why it matters: This model democratizes access to expensive GPU resources, making it more affordable for smaller developers.  \n• Business opportunity: There is potential for growth in collaborative tech solutions that lower costs for niche markets in AI development."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Investors are shifting their focus from OpenAI to Anthropic.  \n• Why it matters: This shift indicates growing confidence in Anthropic's potential over OpenAI.  \n• Business opportunity: Companies can explore partnerships or investments in emerging AI firms like Anthropic."
     },
     {
-      "id": "hn-1775392794611-114",
-      "title": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
-      "url": "https://www.independent.co.uk/news/world/americas/sam-altman-sexual-assault-sister-annie-abuse-lawsuit-b2950916.html",
+      "id": "hn-1775480004388-61",
+      "title": "Show HN: Lilith-zero: Ultra-fast, Rust-based security middleware for MCP",
+      "url": "https://github.com/BadC-mpany/lilith-zero",
       "source": "Hacker News",
-      "publishedAt": "2026-04-04T15:45:42.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 27,
-        "comments": 23
-      },
-      "rawTextSnippet": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
-      "hnMeta": {
-        "points": 27,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=47640048"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: Sam Altman's sister has amended her lawsuit alleging sexual abuse against him.  \n• Why it matters: The case could impact OpenAI's reputation and leadership stability.  \n• Business opportunity: Companies may seek to enhance their governance and ethics policies in response to such controversies."
-    },
-    {
-      "id": "hn-1775392796129-157",
-      "title": "Emotion concepts and their function in a large language model",
-      "url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-04T06:30:25.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 177,
-        "comments": 172
-      },
-      "rawTextSnippet": "Emotion concepts and their function in a large language model",
-      "hnMeta": {
-        "points": 177,
-        "comments": 172,
-        "hnUrl": "https://news.ycombinator.com/item?id=47636435"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A study explored how emotion concepts are integrated into a large language model.  \n• Why it matters: Understanding emotional context can enhance AI's ability to generate human-like responses.  \n• Business opportunity: Companies can leverage improved emotional AI for customer service, marketing, and content creation."
-    },
-    {
-      "id": "hn-1775392797505-188",
-      "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-      "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-03T23:56:32.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 535,
-        "comments": 181
-      },
-      "rawTextSnippet": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-      "hnMeta": {
-        "points": 535,
-        "comments": 181,
-        "hnUrl": "https://news.ycombinator.com/item?id=47633947"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: The FAA imposed flight restrictions on drones targeting filming activities related to ICE.  \n• Why it matters: This move raises concerns about freedom of the press and transparency in government actions.  \n• Business opportunity: Companies specializing in drone technology and legal advocacy may find growth potential in navigating these regulations."
-    },
-    {
-      "id": "hn-1775392791763-62",
-      "title": "Show HN: Ray – an open-source AI financial advisor that runs in your terminal",
-      "url": "https://rayfinance.app",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-04T22:22:04.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 2
-      },
-      "rawTextSnippet": "I&#x27;ve been using this daily for 4 months and figured others might find it useful. This is my first open source project so would love any feedback. Ray connects to your bank via Plaid, stores everything in an encrypted local SQLite database, and lets you ask questions about your finances in natur…",
-      "hnMeta": {
-        "points": 7,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47644133"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: An open-source AI financial advisor named Ray has been launched, allowing users to manage finances via terminal.  \n• Why it matters: Ray enhances personal finance management by providing secure, real-time insights directly from users' bank data.  \n• Business opportunity: There is potential for monetization through premium features or integrations with financial institutions and services."
-    },
-    {
-      "id": "hn-1775392793165-97",
-      "title": "Show HN: Sshifu – Give SSH access in 1 command. Teleport/Smallstep alternative",
-      "url": "https://github.com/azophy/sshifu",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-05T11:32:38.000Z",
+      "publishedAt": "2026-04-06T11:15:43.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
         "comments": 1
       },
-      "rawTextSnippet": "Hey HN! Over the past few years, I’ve spent way too much time copy-pasting SSH public keys just to give people access to servers. It always felt like a chore, and the security risks (offboarding, revocation, etc.) aren’t great either. I looked into solutions like Teleport and Smallstep, but they fel…",
+      "rawTextSnippet": "Lilith Zero is a high-performance security runtime designed to mitigate data exfiltration and unauthorized tool invocation in LLM-based agent systems. By interposing at the transport layer, Lilith Zero enforces security invariants through deterministic policy evaluation and strictly framed execution…",
       "hnMeta": {
         "points": 2,
         "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47648329"
+        "hnUrl": "https://news.ycombinator.com/item?id=47659402"
+      },
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Lilith Zero, a Rust-based security middleware, was introduced to enhance security in LLM-based agent systems.  \n• Why it matters: It addresses critical vulnerabilities related to data exfiltration and unauthorized tool usage in these systems.  \n• Business opportunity: Companies can leverage Lilith Zero to strengthen their security frameworks and protect sensitive data in AI applications."
+    },
+    {
+      "id": "rss-1775480006714-107",
+      "title": "Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-04-06T02:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenAI proposed a people-first industrial policy for the AI era.  \n• Why it matters: The policy aims to expand opportunities and promote shared prosperity amid evolving advanced intelligence.  \n• Business opportunity: Companies can leverage these ideas to innovate and align with emerging AI-driven economic frameworks."
+    },
+    {
+      "id": "hn-1775480004388-66",
+      "title": "I stopped hitting Claude's usage limits – things I changed",
+      "url": "https://twitter.com/0x_kaize/status/2038286026284667239",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-06T08:06:17.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 10,
+        "comments": 3
+      },
+      "rawTextSnippet": "I stopped hitting Claude's usage limits – things I changed",
+      "hnMeta": {
+        "points": 10,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47658164"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A user shared strategies to avoid hitting usage limits with the Claude AI.  \n• Why it matters: This insight can help users optimize their interaction with AI tools, enhancing productivity.  \n• Business opportunity: Companies can develop guides or tools to help users maximize AI efficiency and minimize usage constraints."
+    },
+    {
+      "id": "rss-1775480002525-0",
+      "title": "AI is changing how small online sellers decide what to make",
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-06T11:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails …",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: AI is influencing small online sellers' product decisions, as exemplified by Mike McClary's experience with a previously discontinued flashlight.  \n• Why it matters: This shift allows sellers to better understand customer demand and optimize inventory based on data-driven insights.  \n• Business opportunity: Small businesses can leverage AI tools to identify trending products and enhance customer engagement, driving sales growth."
+    },
+    {
+      "id": "hn-1775480002738-18",
+      "title": "Upwork Inc. violates its own DMARC and SPF policy",
+      "url": "https://news.ycombinator.com/item?id=47659603",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-06T11:37:57.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 4
+      },
+      "rawTextSnippet": "I am not sure whether it happens on all outgoing emails or only on some of them. The SPF policy for upwork.com specifies that mail.clinchtalent.com and all IP addresses that are listed by spf.mandrillapp.com are allowed to send email on behalf of upwork.com However, at least some (if not all) of the…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47659603"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -250,172 +180,238 @@
         "businessImpact": 3
       },
       "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: A new tool called Sshifu simplifies granting SSH access with a single command.  \n• Why it matters: It addresses security risks and inefficiencies associated with managing SSH keys.  \n• Business opportunity: There is potential for Sshifu to capture market share among companies seeking streamlined and secure access management solutions."
+      "summary": "• What happened: Upwork Inc. is reportedly violating its own DMARC and SPF email authentication policies.  \n• Why it matters: This breach could lead to increased phishing risks and damage to Upwork's reputation.  \n• Business opportunity: Companies can offer cybersecurity solutions to help Upwork and similar businesses strengthen their email security protocols."
     },
     {
-      "id": "hn-1775392793165-104",
-      "title": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
-      "url": "https://idp-software.com/news/idp-accuracy-reckoning-2026/",
+      "id": "hn-1775480004388-60",
+      "title": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
+      "url": "https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T06:12:30.000Z",
+      "publishedAt": "2026-04-06T11:27:56.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 13,
-        "comments": 2
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
+      "rawTextSnippet": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
       "hnMeta": {
-        "points": 13,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47646566"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47659511"
       },
-      "score": 60,
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Obsidian introduced a Kanban planning tool for managing Markdown files in Git.  \n• Why it matters: This innovation streamlines project management for developers using LLMs, enhancing productivity.  \n• Business opportunity: Companies can leverage this tool to improve collaboration and efficiency in software development projects."
+    },
+    {
+      "id": "hn-1775480007197-130",
+      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-06T04:34:20.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 6,
+        "comments": 1
+      },
+      "rawTextSnippet": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+      "hnMeta": {
+        "points": 6,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47657041"
+      },
+      "score": 61,
       "scoreBreakdown": {
         "freshness": 26,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI and Anthropic are preparing for their initial public offerings (IPOs).  \n• Why it matters: Their financial performance could set benchmarks for the AI industry and attract investor interest.  \n• Business opportunity: Companies can explore partnerships or investments in AI technologies to capitalize on the growing market."
+    },
+    {
+      "id": "hn-1775480007198-133",
+      "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
+      "url": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-05T22:54:29.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 55,
+        "comments": 38
+      },
+      "rawTextSnippet": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
+      "hnMeta": {
+        "points": 55,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=47654757"
+      },
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 10,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Practitioners shared unverified insights on OCR, agents, and tables.  \n• Why it matters: The accuracy of these insights could impact the development and implementation of related technologies.  \n• Business opportunity: Companies can leverage verified information to enhance their OCR and AI solutions, ensuring reliability and trust."
+      "cluster": "General AI",
+      "summary": "• What happened: Iran issued a threat of total destruction against OpenAI's Stargate project.  \n• Why it matters: This escalates geopolitical tensions surrounding AI technologies and their implications.  \n• Business opportunity: Companies can explore security solutions and risk management strategies in AI development."
     }
   ],
   "trendingTopics": [
     {
-      "name": "General AI",
-      "itemCount": 44,
+      "name": "Large Language Models",
+      "itemCount": 59,
       "trendScore": 187,
-      "whyTrending": "44 stories across Hacker, TechCrunch, GitHub, 18 in the last 24h.",
+      "whyTrending": "59 stories across Hacker, GitHub, TechCrunch, 14 in the last 24h.",
       "topStory": {
-        "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-        "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop"
+        "title": "Show HN: Lilith-zero: Ultra-fast, Rust-based security middleware for MCP",
+        "url": "https://github.com/BadC-mpany/lilith-zero"
       },
       "items": [
         {
-          "id": "hn-1775392791763-59",
-          "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-          "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+          "id": "hn-1775480004388-61",
+          "title": "Show HN: Lilith-zero: Ultra-fast, Rust-based security middleware for MCP",
+          "url": "https://github.com/BadC-mpany/lilith-zero",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T00:13:55.000Z",
+          "publishedAt": "2026-04-06T11:15:43.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 331,
-            "comments": 96
+            "upvotes": 2,
+            "comments": 1
           },
-          "rawTextSnippet": "https:&#x2F;&#x2F;lore.kernel.org&#x2F;lkml&#x2F;yr3inlzesdb45n6i6lpbimwr7b25kqk...",
+          "rawTextSnippet": "Lilith Zero is a high-performance security runtime designed to mitigate data exfiltration and unauthorized tool invocation in LLM-based agent systems. By interposing at the transport layer, Lilith Zero enforces security invariants through deterministic policy evaluation and strictly framed execution…",
           "hnMeta": {
-            "points": 331,
-            "comments": 96,
-            "hnUrl": "https://news.ycombinator.com/item?id=47644864"
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47659402"
           },
-          "score": 71,
+          "score": 65,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 20,
+            "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 6
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1775392790374-29",
-          "title": "I used AI. It worked. I hated it",
-          "url": "https://taggart-tech.com/reckoning/",
+          "id": "hn-1775480004388-66",
+          "title": "I stopped hitting Claude's usage limits – things I changed",
+          "url": "https://twitter.com/0x_kaize/status/2038286026284667239",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T05:08:39.000Z",
+          "publishedAt": "2026-04-06T08:06:17.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 42,
-            "comments": 99
+            "upvotes": 10,
+            "comments": 3
           },
-          "rawTextSnippet": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260403164006&#x2F;https:&#x2F;&#x2F;taggart-t...",
+          "rawTextSnippet": "I stopped hitting Claude's usage limits – things I changed",
           "hnMeta": {
-            "points": 42,
-            "comments": 99,
-            "hnUrl": "https://news.ycombinator.com/item?id=47646277"
-          },
-          "score": 70,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1775392797505-188",
-          "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-          "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-03T23:56:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 535,
-            "comments": 181
-          },
-          "rawTextSnippet": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-          "hnMeta": {
-            "points": 535,
-            "comments": 181,
-            "hnUrl": "https://news.ycombinator.com/item?id=47633947"
+            "points": 10,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47658164"
           },
           "score": 64,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 20,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1775392790373-10",
-          "title": "Job title of the moment: \"AI relationship engineer\"",
-          "url": "https://x.com/Anina_CE",
+          "id": "hn-1775480004388-60",
+          "title": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
+          "url": "https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T12:30:06.000Z",
+          "publishedAt": "2026-04-06T11:27:56.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Job title of the moment: \"AI relationship engineer\"",
+          "rawTextSnippet": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47648692"
+            "hnUrl": "https://news.ycombinator.com/item?id=47659511"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1775392790374-12",
-          "title": "US commandos rescue downed F-15 airman in daring raid deep inside Iran",
-          "url": "https://www.timesofisrael.com/we-got-him-us-commandos-rescue-downed-f-15-airman-in-daring-raid-deep-inside-iran/",
+          "id": "github-1775480002824-30",
+          "title": "[JuliusBrussee/caveman] 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "source": "GitHub Trending",
+          "publishedAt": "2026-04-04T10:03:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 12,
+            "upvotes": 2663
+          },
+          "rawTextSnippet": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+          "githubMeta": {
+            "stars": 2663,
+            "language": "Python",
+            "topics": [
+              "ai",
+              "anthropic",
+              "caveman",
+              "claude",
+              "claude-code",
+              "llm",
+              "meme",
+              "prompt-engineering",
+              "skill",
+              "tokens"
+            ]
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 8,
+            "authority": 12,
+            "engagement": 25,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1775480004388-57",
+          "title": "New Chrome Extension lets you see what LLMs you can run on your hardware",
+          "url": "https://chromewebstore.google.com/detail/run-this-llm/dginneocahmfpflnpcigakjggipmfhhg",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T12:10:56.000Z",
+          "publishedAt": "2026-04-06T12:38:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 1
+            "upvotes": 2,
+            "comments": 0
           },
-          "rawTextSnippet": "US commandos rescue downed F-15 airman in daring raid deep inside Iran",
+          "rawTextSnippet": "New Chrome Extension lets you see what LLMs you can run on your hardware",
           "hnMeta": {
-            "points": 3,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47648550"
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47660122"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -425,90 +421,117 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         }
       ]
     },
     {
-      "name": "Large Language Models",
-      "itemCount": 65,
-      "trendScore": 185,
-      "whyTrending": "65 stories across Hacker, GitHub, TechCrunch, 13 in the last 24h.",
+      "name": "General AI",
+      "itemCount": 42,
+      "trendScore": 183,
+      "whyTrending": "42 stories across Hacker, TechCrunch, OpenAI, 21 in the last 24h.",
       "topStory": {
-        "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-        "url": "https://sllm.cloud"
+        "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
+        "url": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center"
       },
       "items": [
         {
-          "id": "hn-1775392794611-115",
-          "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-          "url": "https://sllm.cloud",
+          "id": "hn-1775480007198-133",
+          "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
+          "url": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center",
           "source": "Hacker News",
-          "publishedAt": "2026-04-04T15:18:58.000Z",
+          "publishedAt": "2026-04-05T22:54:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 165,
-            "comments": 81
+            "upvotes": 55,
+            "comments": 38
           },
-          "rawTextSnippet": "Running DeepSeek V3 (685B) requires 8×H100 GPUs which is about $14k&#x2F;month. Most developers only need 15-25 tok&#x2F;s. sllm lets you join a cohort of developers sharing a dedicated node. You reserve a spot with your card, and nobody is charged until the cohort fills. Prices start at $5&#x2F;mo …",
+          "rawTextSnippet": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
           "hnMeta": {
-            "points": 165,
-            "comments": 81,
-            "hnUrl": "https://news.ycombinator.com/item?id=47639779"
+            "points": 55,
+            "comments": 38,
+            "hnUrl": "https://news.ycombinator.com/item?id=47654757"
           },
-          "score": 66,
+          "score": 61,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 14,
-            "engagement": 15,
+            "engagement": 10,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1775392796129-157",
-          "title": "Emotion concepts and their function in a large language model",
-          "url": "https://www.anthropic.com/research/emotion-concepts-function",
+          "id": "hn-1775480004388-76",
+          "title": "More Americans Are Breaking into the Upper Middle Class",
+          "url": "https://www.wsj.com/economy/more-americans-are-breaking-into-the-upper-middle-class-bf8b7cb2",
           "source": "Hacker News",
-          "publishedAt": "2026-04-04T06:30:25.000Z",
+          "publishedAt": "2026-04-06T02:55:16.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 177,
-            "comments": 172
+            "upvotes": 11,
+            "comments": 4
           },
-          "rawTextSnippet": "Emotion concepts and their function in a large language model",
+          "rawTextSnippet": "More Americans Are Breaking into the Upper Middle Class",
           "hnMeta": {
-            "points": 177,
-            "comments": 172,
-            "hnUrl": "https://news.ycombinator.com/item?id=47636435"
+            "points": 11,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47656461"
           },
-          "score": 64,
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 26,
             "authority": 14,
-            "engagement": 20,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1775392790374-15",
-          "title": "Verbosity decreases accuracy in large language models",
-          "url": "https://www.unite.ai/verbosity-decreases-accuracy-in-large-language-models/",
+          "id": "hn-1775480002738-10",
+          "title": "Real-time poker engine with emotion-driven AI bots",
+          "url": "https://oxyklon.net/portal",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T10:25:03.000Z",
+          "publishedAt": "2026-04-06T12:40:34.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "Real-time poker engine with emotion-driven AI bots",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47660160"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1775480002738-11",
+          "title": "Software Engineering Is Becoming Civil Engineering",
+          "url": "https://christophermeiklejohn.com/ai/engineering/2026/04/01/software-engineering-is-becoming-civil-engineering.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-06T12:36:44.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 3,
-            "comments": 2
+            "comments": 0
           },
-          "rawTextSnippet": "Verbosity decreases accuracy in large language models",
+          "rawTextSnippet": "Software Engineering Is Becoming Civil Engineering",
           "hnMeta": {
             "points": 3,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47647962"
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47660113"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -518,51 +541,24 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1775392790374-26",
-          "title": "What Teens Are Doing with Role-Playing Chatbots",
-          "url": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
+          "id": "hn-1775480002738-12",
+          "title": "The Job Search Guide- AI Edition with Eliza Cabrera",
+          "url": "https://technicalintegrity.com/technical-integrity-blog/revisiting-the-ultimate-job-search-guide-the-ai-edition",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T07:05:36.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 1
-          },
-          "rawTextSnippet": "What Teens Are Doing with Role-Playing Chatbots",
-          "hnMeta": {
-            "points": 5,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47646897"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1775392791763-47",
-          "title": "Andrej Karpathy on X: LLM Knowledge Bases",
-          "url": "https://twitter.com/karpathy/status/2039805659525644595",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-05T12:37:26.000Z",
+          "publishedAt": "2026-04-06T12:28:04.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Andrej Karpathy on X: LLM Knowledge Bases",
+          "rawTextSnippet": "The Job Search Guide- AI Edition with Eliza Cabrera",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47648764"
+            "hnUrl": "https://news.ycombinator.com/item?id=47660042"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -572,36 +568,36 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         }
       ]
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 30,
-      "trendScore": 164,
-      "whyTrending": "30 stories across Hacker, GitHub, arXiv, 14 in the last 24h.",
+      "itemCount": 34,
+      "trendScore": 174,
+      "whyTrending": "34 stories across Hacker, GitHub, OpenAI, 17 in the last 24h.",
       "topStory": {
-        "title": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
-        "url": "https://idp-software.com/news/idp-accuracy-reckoning-2026/"
+        "title": "Show HN: Multi-agent coding assistant with a sandboxed Rust execution engine",
+        "url": "https://github.com/christianmeurer/Lula"
       },
       "items": [
         {
-          "id": "hn-1775392793165-104",
-          "title": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
-          "url": "https://idp-software.com/news/idp-accuracy-reckoning-2026/",
+          "id": "hn-1775480005779-105",
+          "title": "Show HN: Multi-agent coding assistant with a sandboxed Rust execution engine",
+          "url": "https://github.com/christianmeurer/Lula",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T06:12:30.000Z",
+          "publishedAt": "2026-04-06T03:19:10.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 13,
+            "upvotes": 7,
             "comments": 2
           },
-          "rawTextSnippet": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
+          "rawTextSnippet": "Show HN: Multi-agent coding assistant with a sandboxed Rust execution engine",
           "hnMeta": {
-            "points": 13,
+            "points": 7,
             "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47646566"
+            "hnUrl": "https://news.ycombinator.com/item?id=47656608"
           },
           "score": 60,
           "scoreBreakdown": {
@@ -614,21 +610,48 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1775392790374-13",
-          "title": "Ask HN: I built WhyOps: A decision-aware observability for AI agents. Thoughts?",
-          "url": "https://news.ycombinator.com/item?id=47648098",
+          "id": "hn-1775480002738-14",
+          "title": "I built as elf healing semantic layer for any AI agent tool",
+          "url": "https://github.com/kwstx/engram_translator",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T10:48:42.000Z",
+          "publishedAt": "2026-04-06T12:18:16.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 2
+          },
+          "rawTextSnippet": "I built as elf healing semantic layer for any AI agent tool",
+          "hnMeta": {
+            "points": 2,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47659947"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1775480002738-17",
+          "title": "Why RAG doesn't work for WhatsApp AI agents and what's the alternative",
+          "url": "https://wpp.opero.so/blog/why-rag-fails-for-whatsapp-and-what-we-built-instead",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-06T11:41:41.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 1
           },
-          "rawTextSnippet": "Ask HN: I built WhyOps: A decision-aware observability for AI agents. Thoughts?",
+          "rawTextSnippet": "Why RAG doesn't work for WhatsApp AI agents and what's the alternative",
           "hnMeta": {
             "points": 2,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47648098"
+            "hnUrl": "https://news.ycombinator.com/item?id=47659635"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -641,21 +664,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1775392790374-18",
-          "title": "Web3 project technical analysis Skill for AI agents",
-          "url": "https://clawhub.ai/one0000u/web3tech",
+          "id": "hn-1775480002738-21",
+          "title": "Show HN: I built a self-writing book on agentic coding",
+          "url": "https://aipatternbook.com/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T09:00:31.000Z",
+          "publishedAt": "2026-04-06T10:52:09.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
+            "upvotes": 2,
+            "comments": 1
           },
-          "rawTextSnippet": "Web3 project technical analysis Skill for AI agents",
+          "rawTextSnippet": "I’ve created a self-writing book: The Encyclopedia of Agentic Coding Patterns It continuously researches, writes, and publishes. It reflects on and improves its own process. It’s both an exposition of agentic coding and a product of it. It’s the book I wanted but nobody had written. And it’s what I …",
           "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47647483"
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47659242"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -668,48 +691,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1775392790374-20",
-          "title": "Satsgate: Monetize AI Agents and APIs with Lightning L402",
-          "url": "https://github.com/Mike-io-hash/satsgate",
+          "id": "hn-1775480002738-24",
+          "title": "Nexus – Stress-test any business decision with 1k AI agents",
+          "url": "https://nexus-sim.ink/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T08:12:33.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Satsgate: Monetize AI Agents and APIs with Lightning L402",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47647255"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1775392793165-98",
-          "title": "Agency Agents Review",
-          "url": "https://jonno.nz/reviews/agency-agents/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-05T11:23:25.000Z",
+          "publishedAt": "2026-04-06T10:46:34.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Agency Agents Review",
+          "rawTextSnippet": "Nexus – Stress-test any business decision with 1k AI agents",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47648282"
+            "hnUrl": "https://news.ycombinator.com/item?id=47659203"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -726,56 +722,49 @@
     {
       "name": "AI Safety & Regulation",
       "itemCount": 16,
-      "trendScore": 128,
-      "whyTrending": "16 stories across Hacker, TechCrunch, GitHub, 3 in the last 24h.",
+      "trendScore": 133,
+      "whyTrending": "16 stories across OpenAI, Hacker, TechCrunch, 5 in the last 24h.",
       "topStory": {
-        "title": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
-        "url": "https://www.independent.co.uk/news/world/americas/sam-altman-sexual-assault-sister-annie-abuse-lawsuit-b2950916.html"
+        "title": "Industrial policy for the Intelligence Age",
+        "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
       },
       "items": [
         {
-          "id": "hn-1775392794611-114",
-          "title": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
-          "url": "https://www.independent.co.uk/news/world/americas/sam-altman-sexual-assault-sister-annie-abuse-lawsuit-b2950916.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-04T15:45:42.000Z",
+          "id": "rss-1775480006714-107",
+          "title": "Industrial policy for the Intelligence Age",
+          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-04-06T02:30:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 27,
-            "comments": 23
+            "sourceAuthority": 20
           },
-          "rawTextSnippet": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
-          "hnMeta": {
-            "points": 27,
-            "comments": 23,
-            "hnUrl": "https://news.ycombinator.com/item?id=47640048"
-          },
+          "rawTextSnippet": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
           "score": 64,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
+            "freshness": 26,
+            "authority": 20,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1775392793165-97",
-          "title": "Show HN: Sshifu – Give SSH access in 1 command. Teleport/Smallstep alternative",
-          "url": "https://github.com/azophy/sshifu",
+          "id": "hn-1775480002738-18",
+          "title": "Upwork Inc. violates its own DMARC and SPF policy",
+          "url": "https://news.ycombinator.com/item?id=47659603",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T11:32:38.000Z",
+          "publishedAt": "2026-04-06T11:37:57.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
-            "comments": 1
+            "comments": 4
           },
-          "rawTextSnippet": "Hey HN! Over the past few years, I’ve spent way too much time copy-pasting SSH public keys just to give people access to servers. It always felt like a chore, and the security risks (offboarding, revocation, etc.) aren’t great either. I looked into solutions like Teleport and Smallstep, but they fel…",
+          "rawTextSnippet": "I am not sure whether it happens on all outgoing emails or only on some of them. The SPF policy for upwork.com specifies that mail.clinchtalent.com and all IP addresses that are listed by spf.mandrillapp.com are allowed to send email on behalf of upwork.com However, at least some (if not all) of the…",
           "hnMeta": {
             "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47648329"
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47659603"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -788,134 +777,75 @@
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1775392796129-151",
-          "title": "Banning All Anthropic Employees",
-          "url": "https://joeyh.name/blog/entry/banning_all_Anthropic_employees/",
+          "id": "hn-1775480008614-169",
+          "title": "Anthropic has a blacklist on the word \"OpenClaw\"",
+          "url": "https://iili.io/BuL3tKN.png",
           "source": "Hacker News",
-          "publishedAt": "2026-04-04T22:58:15.000Z",
+          "publishedAt": "2026-04-06T03:34:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 18,
-            "comments": 3
+            "upvotes": 17,
+            "comments": 4
           },
-          "rawTextSnippet": "Banning All Anthropic Employees",
+          "rawTextSnippet": "Anthropic has a blacklist on the word \"OpenClaw\"",
           "hnMeta": {
-            "points": 18,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47644410"
+            "points": 17,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47656695"
           },
-          "score": 59,
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 26,
             "authority": 14,
             "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1775392794611-120",
-          "title": "Kids groups say they didn't know OpenAI was behind their child safety coalition",
-          "url": "https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-03T23:32:39.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 35,
-            "comments": 8
-          },
-          "rawTextSnippet": "Kids groups say they didn't know OpenAI was behind their child safety coalition",
-          "hnMeta": {
-            "points": 35,
-            "comments": 8,
-            "hnUrl": "https://news.ycombinator.com/item?id=47633715"
-          },
-          "score": 54,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 14,
-            "engagement": 10,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1775392792916-81",
-          "title": "Anthropic ramps up its political activities with a new PAC",
-          "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-03T20:22:18.000Z",
+          "id": "hn-1775480007198-144",
+          "title": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
+          "url": "https://www.independent.co.uk/news/world/americas/sam-altman-sexual-assault-sister-annie-abuse-lawsuit-b2950916.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-04T15:45:42.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 14,
+            "upvotes": 27,
+            "comments": 26
           },
-          "rawTextSnippet": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-          "score": 49,
+          "rawTextSnippet": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
+          "hnMeta": {
+            "points": 27,
+            "comments": 26,
+            "hnUrl": "https://news.ycombinator.com/item?id=47640048"
+          },
+          "score": 57,
           "scoreBreakdown": {
             "freshness": 15,
-            "authority": 16,
-            "engagement": 0,
+            "authority": 14,
+            "engagement": 10,
             "novelty": 15,
             "businessImpact": 3
           },
           "cluster": "AI Safety & Regulation"
-        }
-      ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 13,
-      "trendScore": 121,
-      "whyTrending": "13 stories across Hacker, TechCrunch, OpenAI, 2 in the last 24h.",
-      "topStory": {
-        "title": "SpaceX and OpenAI: The Mega IPO Grift [video]",
-        "url": "https://www.youtube.com/watch?v=iOyFja87uyw"
-      },
-      "items": [
-        {
-          "id": "hn-1775392794611-113",
-          "title": "SpaceX and OpenAI: The Mega IPO Grift [video]",
-          "url": "https://www.youtube.com/watch?v=iOyFja87uyw",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-05T11:14:09.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 4
-          },
-          "rawTextSnippet": "SpaceX and OpenAI: The Mega IPO Grift [video]",
-          "hnMeta": {
-            "points": 3,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=47648226"
-          },
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "hn-1775392791763-56",
-          "title": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
-          "url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
+          "id": "hn-1775480008615-170",
+          "title": "Anthropic blocks cli calls mentioning OpenClaw",
+          "url": "https://twitter.com/steipete/status/2040811558427648357",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T02:50:55.000Z",
+          "publishedAt": "2026-04-06T01:16:05.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
+            "upvotes": 5,
+            "comments": 2
           },
-          "rawTextSnippet": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+          "rawTextSnippet": "Anthropic blocks cli calls mentioning OpenClaw",
           "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47645708"
+            "points": 5,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47655787"
           },
           "score": 55,
           "scoreBreakdown": {
@@ -925,10 +855,116 @@
             "novelty": 15,
             "businessImpact": 0
           },
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
+    },
+    {
+      "name": "Funding & Acquisitions",
+      "itemCount": 13,
+      "trendScore": 120,
+      "whyTrending": "13 stories across Hacker, TechCrunch, OpenAI, 3 in the last 24h.",
+      "topStory": {
+        "title": "OpenAI's fall from grace as investors race to Anthropic",
+        "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic"
+      },
+      "items": [
+        {
+          "id": "hn-1775480007198-132",
+          "title": "OpenAI's fall from grace as investors race to Anthropic",
+          "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-05T23:33:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 175,
+            "comments": 111
+          },
+          "rawTextSnippet": "OpenAI's fall from grace as investors race to Anthropic",
+          "hnMeta": {
+            "points": 175,
+            "comments": 111,
+            "hnUrl": "https://news.ycombinator.com/item?id=47655058"
+          },
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1775392792916-80",
+          "id": "hn-1775480007197-130",
+          "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+          "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-06T04:34:20.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 6,
+            "comments": 1
+          },
+          "rawTextSnippet": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+          "hnMeta": {
+            "points": 6,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47657041"
+          },
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1775480005076-78",
+          "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+          "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-05T15:40:58.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+          "score": 56,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1775480006714-111",
+          "title": "Accelerating the next phase of AI",
+          "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-03-31T13:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 20
+          },
+          "rawTextSnippet": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+          "score": 46,
+          "scoreBreakdown": {
+            "freshness": 2,
+            "authority": 20,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1775480005076-83",
           "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
           "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
           "source": "TechCrunch AI",
@@ -937,53 +973,13 @@
             "sourceAuthority": 16
           },
           "rawTextSnippet": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-          "score": 52,
+          "score": 45,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 8,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1775392792916-78",
-          "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-          "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-04T01:31:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
-          "score": 49,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1775392792916-84",
-          "title": "The Facebook insider building content moderation for the AI era",
-          "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-03T14:00:15.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-          "score": 49,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
           },
           "cluster": "Funding & Acquisitions"
         }
@@ -992,77 +988,70 @@
   ],
   "toolLaunches": [
     {
-      "id": "hn-1775392796129-157",
-      "title": "Emotion concepts and their function in a large language model",
-      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "id": "hn-1775480007198-138",
+      "title": "Codex pricing to align with API token usage, instead of per-message",
+      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
       "source": "Hacker News",
-      "publishedAt": "2026-04-04T06:30:25.000Z",
+      "publishedAt": "2026-04-05T15:58:08.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 177,
-        "comments": 172
+        "upvotes": 200,
+        "comments": 184
       },
-      "rawTextSnippet": "Emotion concepts and their function in a large language model",
+      "rawTextSnippet": "Codex pricing to align with API token usage, instead of per-message",
       "hnMeta": {
-        "points": 177,
-        "comments": 172,
-        "hnUrl": "https://news.ycombinator.com/item?id=47636435"
+        "points": 200,
+        "comments": 184,
+        "hnUrl": "https://news.ycombinator.com/item?id=47650726"
       },
-      "score": 64,
+      "score": 71,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 22,
         "authority": 14,
         "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A study explored how emotion concepts are integrated into a large language model.  \n• Why it matters: Understanding emotion in AI can enhance human-computer interaction and improve user experience.  \n• Business opportunity: Companies can leverage emotion-aware AI to create more engaging and responsive applications."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Codex has changed its pricing model to be based on API token usage rather than per-message.  \n• Why it matters: This shift could lead to more predictable costs for developers and businesses using the service.  \n• Business opportunity: Companies can optimize their usage and potentially reduce expenses by adapting to the new pricing structure."
     },
     {
-      "id": "hn-1775392791763-62",
-      "title": "Show HN: Ray – an open-source AI financial advisor that runs in your terminal",
-      "url": "https://rayfinance.app",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-04T22:22:04.000Z",
+      "id": "rss-1775480002525-0",
+      "title": "AI is changing how small online sellers decide what to make",
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-06T11:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 2
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "I&#x27;ve been using this daily for 4 months and figured others might find it useful. This is my first open source project so would love any feedback. Ray connects to your bank via Plaid, stores everything in an encrypted local SQLite database, and lets you ask questions about your finances in natur…",
-      "hnMeta": {
-        "points": 7,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47644133"
-      },
-      "score": 62,
+      "rawTextSnippet": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails …",
+      "score": 63,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 5,
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 0
       },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: An open-source AI financial advisor named Ray has been launched, allowing users to manage finances via terminal.  \n• Why it matters: It provides a secure and user-friendly way to interact with personal finance data, enhancing financial literacy.  \n• Business opportunity: There is potential for monetization through premium features or integrations with financial institutions."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: AI is influencing small online sellers' product decisions, as seen with Mike McClary's flashlight brand.  \n• Why it matters: This shift allows sellers to better understand customer preferences and market demands.  \n• Business opportunity: Small businesses can leverage AI insights to optimize product offerings and enhance sales strategies."
     },
     {
-      "id": "hn-1775392790374-15",
-      "title": "Verbosity decreases accuracy in large language models",
-      "url": "https://www.unite.ai/verbosity-decreases-accuracy-in-large-language-models/",
+      "id": "hn-1775480002738-21",
+      "title": "Show HN: I built a self-writing book on agentic coding",
+      "url": "https://aipatternbook.com/",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T10:25:03.000Z",
+      "publishedAt": "2026-04-06T10:52:09.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 2
+        "upvotes": 2,
+        "comments": 1
       },
-      "rawTextSnippet": "Verbosity decreases accuracy in large language models",
+      "rawTextSnippet": "I’ve created a self-writing book: The Encyclopedia of Agentic Coding Patterns It continuously researches, writes, and publishes. It reflects on and improves its own process. It’s both an exposition of agentic coding and a product of it. It’s the book I wanted but nobody had written. And it’s what I …",
       "hnMeta": {
-        "points": 3,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47647962"
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47659242"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1072,25 +1061,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Research shows that excessive verbosity reduces the accuracy of large language models.  \n• Why it matters: This finding highlights the need for more concise communication in AI applications to improve performance.  \n• Business opportunity: Companies can develop tools or methodologies to optimize language model outputs for clarity and precision."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A developer created a self-writing book titled \"The Encyclopedia of Agentic Coding Patterns.\"  \n• Why it matters: This innovative project showcases the potential of agentic coding to automate content creation and self-improvement.  \n• Business opportunity: There is potential for developing similar self-writing tools in various fields, enhancing productivity and knowledge sharing."
     },
     {
-      "id": "hn-1775392790374-16",
-      "title": "Show HN: Vektor – local-first associative memory for AI agents",
-      "url": "https://vektormemory.com/docs/",
+      "id": "hn-1775480002738-27",
+      "title": "Show HN: Turn photos into Wordle puzzles with AI that runs 100% in your browser",
+      "url": "https://momentsgame.com/",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T09:59:23.000Z",
+      "publishedAt": "2026-04-06T10:09:36.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
-        "comments": 0
+        "comments": 2
       },
-      "rawTextSnippet": "4-layer memory via MAGMA graph in SQLite. AUDN curation loop (add&#x2F;update&#x2F;delete&#x2F;no-op). REM background compression. Claude tools. No cloud. npm i vektor-slipstream If anyone has deep experience in DB product testing and wants to test out the final release 1.3.6, reach out via the emai…",
+      "rawTextSnippet": "I built Moments to get this game idea out of my head, finally. My original goal was to run on-device models specifically in mobile browsers, but running local vision models directly in phone browsers is still very much too early, so I focused on desktop. How it works: - You upload a photo. - A local…",
       "hnMeta": {
         "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47647798"
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47658954"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1100,238 +1089,286 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products"
+      "cluster": "General AI"
     },
     {
-      "id": "hn-1775392790374-20",
-      "title": "Satsgate: Monetize AI Agents and APIs with Lightning L402",
-      "url": "https://github.com/Mike-io-hash/satsgate",
+      "id": "hn-1775480004388-58",
+      "title": "Show HN: Yapit – PDF and webpage reader with TTS that doesn't suck",
+      "url": "https://github.com/yapit-tts/yapit",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T08:12:33.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Satsgate: Monetize AI Agents and APIs with Lightning L402",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47647255"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation"
-    }
-  ],
-  "redditSignals": [],
-  "research": [
-    {
-      "id": "arxiv-1775392822642-218",
-      "title": "Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing",
-      "url": "https://arxiv.org/abs/2604.02288v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-02T17:29:18.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models. While Group Relative Policy Optimization (GRPO) is widely adopted, its coarse credit assignment uniformly penalizes failed rollouts, lacking the token-level focus needed to e…",
-      "arxivMeta": {
-        "authors": "Gengsheng Li, Tianyu Yang, Junfeng Fang, Mingyang Song, Mao Zheng, Haiyun Guo, Dan Zhang, Jinqiao Wang, Tat-Seng Chua",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1775392822642-233",
-      "title": "Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges",
-      "url": "https://arxiv.org/abs/2604.02211v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-02T16:04:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Video recommender systems are among the most popular and impactful applications of AI, shaping content consumption and influencing culture for billions of users. Traditional single-model recommenders, which optimize static engagement metrics, are increasingly limited in addressing the dynamic requir…",
-      "arxivMeta": {
-        "authors": "Srivaths Ranganathan, Abhishek Dharmaratnakar, Anushree Sinha, Debanshu Das",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1775392822641-209",
-      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
-      "url": "https://arxiv.org/abs/2604.02330v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-02T17:59:58.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings, failing to control multiple agents simultaneously in a scene. In this work, we tackle a fundamental…",
-      "arxivMeta": {
-        "authors": "Alexander Pondaven, Ziyi Wu, Igor Gilitschenski, Philip Torr, Sergey Tulyakov, Fabio Pizzati, Aliaksandr Siarohin",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 38,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Generative AI & Media"
-    },
-    {
-      "id": "arxiv-1775392822642-210",
-      "title": "Steerable Visual Representations",
-      "url": "https://arxiv.org/abs/2604.02327v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-02T17:59:49.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. However, such representations tend to focus on the most salient visual cues in the image, with no way …",
-      "arxivMeta": {
-        "authors": "Jona Ruthardt, Manu Gaur, Deva Ramanan, Makarand Tapaswi, Yuki M. Asano",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 38,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1775392822642-211",
-      "title": "Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
-      "url": "https://arxiv.org/abs/2604.02324v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-02T17:59:19.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializes these new tokens as the mean of existing vocabulary embeddings, then relies on supervised fine-tu…",
-      "arxivMeta": {
-        "authors": "Daiwei Chen, Zhoutong Fu, Chengming Jiang, Haichao Zhang, Ran Zhou, Tan Wang, Chunnan Yao, Guoyao Li, Rui Cai, Yihan Cao, Ruijie Jiang, Fedor Borisyuk, Jianqiang Shen, Jingwei Wu, Ramya Korlakai Vinayak",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 38,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    }
-  ],
-  "funding": [
-    {
-      "id": "hn-1775392794611-113",
-      "title": "SpaceX and OpenAI: The Mega IPO Grift [video]",
-      "url": "https://www.youtube.com/watch?v=iOyFja87uyw",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-05T11:14:09.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 4
-      },
-      "rawTextSnippet": "SpaceX and OpenAI: The Mega IPO Grift [video]",
-      "hnMeta": {
-        "points": 3,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47648226"
-      },
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: SpaceX and OpenAI are discussed in a video regarding potential IPO strategies.  \n• Why it matters: The analysis raises concerns about the sustainability and ethics of their financial practices.  \n• Business opportunity: Investors may find opportunities in understanding and navigating the evolving landscape of tech IPOs."
-    },
-    {
-      "id": "hn-1775392791763-56",
-      "title": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
-      "url": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-05T02:50:55.000Z",
+      "publishedAt": "2026-04-06T12:28:04.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+      "rawTextSnippet": "Yapit converts PDFs and web pages to audio, with a vision-LLM pipeline that handles math and complex layout instead of garbling them. I built it because I read a lot of papers and content online, but drift off after two paragraphs. Listening while following along keeps me focused and lowers the bar …",
       "hnMeta": {
         "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47645708"
+        "hnUrl": "https://news.ycombinator.com/item?id=47660043"
       },
-      "score": 55,
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A group of talented young individuals left college to pursue AI ventures, securing funding from investors.  \n• Why it matters: This trend highlights a shift in education and entrepreneurship, emphasizing practical skills over traditional degrees.  \n• Business opportunity: Investors can capitalize on emerging talent by supporting innovative AI startups led by unconventional founders."
+      "cluster": "Large Language Models"
+    }
+  ],
+  "redditSignals": [],
+  "research": [
+    {
+      "id": "arxiv-1775480111032-211",
+      "title": "Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models",
+      "url": "https://arxiv.org/abs/2604.03157v1",
+      "source": "arXiv",
+      "publishedAt": "2026-04-03T16:28:03.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "The recent advancements in Vision Language Models (VLMs) have demonstrated progress toward true intelligence requiring robust reasoning capabilities. Beyond pattern recognition, linguistic reasoning must integrate with visual comprehension, particularly for Chart Question Answering (CQA) tasks invol…",
+      "arxivMeta": {
+        "authors": "Yunfei Bai, Amit Dhanda, Shekhar Jain",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 41,
+      "scoreBreakdown": {
+        "freshness": 8,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
     },
     {
-      "id": "rss-1775392792916-80",
+      "id": "arxiv-1775480111032-218",
+      "title": "A Systematic Security Evaluation of OpenClaw and Its Variants",
+      "url": "https://arxiv.org/abs/2604.03131v1",
+      "source": "arXiv",
+      "publishedAt": "2026-04-03T15:52:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Tool-augmented AI agents substantially extend the practical capabilities of large language models, but they also introduce security risks that cannot be identified through model-only evaluation. In this paper, we present a systematic security assessment of six representative OpenClaw-series agent fr…",
+      "arxivMeta": {
+        "authors": "Yuhang Wang, Haichang Gao, Zhenxing Niu, Zhaoxiang Liu, Wenjing Zhang, Xiang Wang, Shiguo Lian",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 41,
+      "scoreBreakdown": {
+        "freshness": 8,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1775480111032-219",
+      "title": "Self-Distilled RLVR",
+      "url": "https://arxiv.org/abs/2604.03128v1",
+      "source": "arXiv",
+      "publishedAt": "2026-04-03T15:50:07.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled trajectory, in contrast to reinforcement learning with verifiable rewards (RLVR), which only obtains s…",
+      "arxivMeta": {
+        "authors": "Chenxu Yang, Chuanyu Qin, Qingyi Si, Minghui Chen, Naibin Gu, Dingyu Yao, Zheng Lin, Weiping Wang, Jiaqi Wang, Nan Duan",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 41,
+      "scoreBreakdown": {
+        "freshness": 8,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1775480111033-225",
+      "title": "Co-Evolution of Policy and Internal Reward for Language Agents",
+      "url": "https://arxiv.org/abs/2604.03098v1",
+      "source": "arXiv",
+      "publishedAt": "2026-04-03T15:21:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Large language model (LLM) agents learn by interacting with environments, but long-horizon training remains fundamentally bottlenecked by sparse and delayed rewards. Existing methods typically address this challenge through post-hoc credit assignment or external reward models, which provide limited …",
+      "arxivMeta": {
+        "authors": "Xinyu Wang, Hanwei Wu, Jingwei Song, Shuyuan Zhang, Jiayi Zhang, Fanqi Kong, Tung Sum Thomas Kwok, Xiao-Wen Chang, Yuyu Luo, Chenglin Wu, Bang Liu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 41,
+      "scoreBreakdown": {
+        "freshness": 8,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1775480111031-197",
+      "title": "Enhancing Robustness of Federated Learning via Server Learning",
+      "url": "https://arxiv.org/abs/2604.03226v1",
+      "source": "arXiv",
+      "publishedAt": "2026-04-03T17:51:29.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distributed. We propose a heuristic algorithm that uses server learning and client update filtering in comb…",
+      "arxivMeta": {
+        "authors": "Van Sy Mai, Kushal Chakrabarti, Richard J. La, Dipankar Maity",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 38,
+      "scoreBreakdown": {
+        "freshness": 8,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Research & Benchmarks"
+    }
+  ],
+  "funding": [
+    {
+      "id": "hn-1775480007198-132",
+      "title": "OpenAI's fall from grace as investors race to Anthropic",
+      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-05T23:33:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 175,
+        "comments": 111
+      },
+      "rawTextSnippet": "OpenAI's fall from grace as investors race to Anthropic",
+      "hnMeta": {
+        "points": 175,
+        "comments": 111,
+        "hnUrl": "https://news.ycombinator.com/item?id=47655058"
+      },
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Investors are shifting their focus from OpenAI to Anthropic amid concerns about OpenAI's performance.  \n• Why it matters: This trend signals a potential decline in OpenAI's market position and investor confidence.  \n• Business opportunity: Companies can explore partnerships or investments in emerging AI firms like Anthropic to capitalize on shifting investor interests."
+    },
+    {
+      "id": "hn-1775480007197-130",
+      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-06T04:34:20.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 6,
+        "comments": 1
+      },
+      "rawTextSnippet": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+      "hnMeta": {
+        "points": 6,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47657041"
+      },
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI and Anthropic are preparing for their initial public offerings (IPOs).  \n• Why it matters: Their financial performance could influence investor confidence in AI technology.  \n• Business opportunity: Companies can explore partnerships or investments in AI to capitalize on the growing market."
+    },
+    {
+      "id": "hn-1775480011377-185",
+      "title": "Show HN: ACE – A dynamic benchmark measuring the cost to break AI agents",
+      "url": "https://fabraix.com/blog/adversarial-cost-to-exploit",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-05T21:37:54.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 8,
+        "comments": 4
+      },
+      "rawTextSnippet": "We built Adversarial Cost to Exploit (ACE), a benchmark that measures the token expenditure an autonomous adversary must invest to breach an LLM agent. Instead of binary pass&#x2F;fail, ACE quantifies adversarial effort in dollars, enabling game-theoretic analysis of when an attack is economically r…",
+      "hnMeta": {
+        "points": 8,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47654123"
+      },
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A new benchmark called ACE measures the cost for adversaries to breach AI agents.  \n• Why it matters: ACE provides a quantifiable method for evaluating the economic feasibility of attacks on AI systems.  \n• Business opportunity: Companies can leverage ACE to enhance AI security measures and optimize resource allocation against potential threats."
+    },
+    {
+      "id": "rss-1775480006714-111",
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-03-31T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "score": 46,
+      "scoreBreakdown": {
+        "freshness": 2,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions"
+    },
+    {
+      "id": "rss-1775480005076-83",
       "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
       "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
       "source": "TechCrunch AI",
@@ -1340,57 +1377,16 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic acquired biotech startup Coefficient Bio for $400 million.  \n• Why it matters: This acquisition enhances Anthropic's capabilities in AI-driven biotech solutions.  \n• Business opportunity: Companies in AI and biotech can explore partnerships to innovate in health and technology."
-    },
-    {
-      "id": "rss-1775392792916-78",
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-04T01:31:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
-      "score": 49,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1775392792916-84",
-      "title": "The Facebook insider building content moderation for the AI era",
-      "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-03T14:00:15.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-      "score": 49,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
       "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In today's AI landscape, a report from an AWS engineer reveals that PostgreSQL performance has been halved following the transition to Linux 7.0, raising concerns for businesses reliant on database efficiency, with potential fixes expected to be complex and time-consuming. Meanwhile, a personal account highlights the mixed feelings surrounding AI adoption, emphasizing that while AI can deliver results, user experience remains a critical factor for acceptance. In the venture capital arena, discussions around a potential mega IPO involving SpaceX and OpenAI have sparked skepticism, with some labeling it a \"grift,\" which could impact investor confidence in AI startups. Additionally, the launch of sllm, a tool allowing developers to share GPU resources, could democratize access to AI development, while legal troubles continue for OpenAI's CEO, Sam Altman, as a lawsuit from his sister alleging sexual abuse has been amended, potentially affecting the company's public image and leadership stability."
+  "dailyBrief": "In a significant shift, OpenAI announced that Codex pricing will now be based on API token usage rather than a per-message model, potentially streamlining costs for developers and businesses reliant on AI integration. Meanwhile, investor sentiment appears to be shifting as Anthropic gains traction, reflecting concerns over OpenAI's recent challenges and raising questions about its competitive edge in the AI landscape. Additionally, the introduction of Lilith-zero, a Rust-based security middleware, promises to enhance performance in multi-cloud environments, highlighting the growing importance of robust security solutions in AI applications. As discussions around industrial policy for the Intelligence Age continue, businesses must adapt to the evolving regulatory landscape that could shape AI deployment strategies. Lastly, users are sharing insights on optimizing Claude's performance, emphasizing the need for efficiency in leveraging AI tools for maximum productivity."
 }
