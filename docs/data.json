@@ -1,77 +1,105 @@
 {
   "topNews": [
     {
-      "id": "hn-1775480007198-138",
-      "title": "Codex pricing to align with API token usage, instead of per-message",
-      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "id": "hn-1775567010792-131",
+      "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T15:58:08.000Z",
+      "publishedAt": "2026-04-07T09:29:11.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 200,
-        "comments": 184
+        "upvotes": 49,
+        "comments": 77
       },
-      "rawTextSnippet": "Codex pricing to align with API token usage, instead of per-message",
+      "rawTextSnippet": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
       "hnMeta": {
-        "points": 200,
-        "comments": 184,
-        "hnUrl": "https://news.ycombinator.com/item?id=47650726"
+        "points": 49,
+        "comments": 77,
+        "hnUrl": "https://news.ycombinator.com/item?id=47672642"
       },
-      "score": 71,
+      "score": 77,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Iran issued threats against OpenAI's Stargate data center located in Abu Dhabi.  \n• Why it matters: This escalation raises concerns about cybersecurity and geopolitical tensions affecting tech operations in the region.  \n• Business opportunity: Companies can invest in enhanced security solutions and geopolitical risk assessment services for tech infrastructure."
+    },
+    {
+      "id": "hn-1775567012190-156",
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-06T13:50:35.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1186,
+        "comments": 640
+      },
+      "rawTextSnippet": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "hnMeta": {
+        "points": 1186,
+        "comments": 640,
+        "hnUrl": "https://news.ycombinator.com/item?id=47660925"
+      },
+      "score": 76,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 14,
-        "engagement": 20,
+        "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Codex has shifted its pricing model to align with API token usage rather than charging per message.  \n• Why it matters: This change simplifies cost management for developers and may encourage broader adoption of the API.  \n• Business opportunity: Companies can leverage the new pricing structure to optimize their usage and reduce costs in application development."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Code's February updates rendered it ineffective for complex engineering tasks.  \n• Why it matters: This limitation affects users relying on the tool for advanced engineering solutions.  \n• Business opportunity: There is potential for competitors to develop or enhance tools that better support complex engineering tasks."
     },
     {
-      "id": "hn-1775480007198-132",
-      "title": "OpenAI's fall from grace as investors race to Anthropic",
-      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+      "id": "hn-1775567012190-151",
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T23:33:01.000Z",
+      "publishedAt": "2026-04-06T21:52:08.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 175,
-        "comments": 111
+        "upvotes": 259,
+        "comments": 118
       },
-      "rawTextSnippet": "OpenAI's fall from grace as investors race to Anthropic",
+      "rawTextSnippet": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
       "hnMeta": {
-        "points": 175,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=47655058"
+        "points": 259,
+        "comments": 118,
+        "hnUrl": "https://news.ycombinator.com/item?id=47667717"
       },
-      "score": 66,
+      "score": 69,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 14,
         "engagement": 15,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Investors are shifting their focus from OpenAI to Anthropic.  \n• Why it matters: This shift indicates growing confidence in Anthropic's potential over OpenAI.  \n• Business opportunity: Companies can explore partnerships or investments in emerging AI firms like Anthropic."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Anthropic has expanded its partnership with Google and Broadcom to develop next-generation computing solutions.  \n• Why it matters: This collaboration aims to enhance AI capabilities, potentially leading to more advanced and efficient technologies.  \n• Business opportunity: Companies can explore innovative AI applications and infrastructure improvements through this partnership's advancements."
     },
     {
-      "id": "hn-1775480004388-61",
-      "title": "Show HN: Lilith-zero: Ultra-fast, Rust-based security middleware for MCP",
-      "url": "https://github.com/BadC-mpany/lilith-zero",
+      "id": "hn-1775567010792-133",
+      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
       "source": "Hacker News",
-      "publishedAt": "2026-04-06T11:15:43.000Z",
+      "publishedAt": "2026-04-07T08:08:42.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
-        "comments": 1
+        "comments": 0
       },
-      "rawTextSnippet": "Lilith Zero is a high-performance security runtime designed to mitigate data exfiltration and unauthorized tool invocation in LLM-based agent systems. By interposing at the transport layer, Lilith Zero enforces security invariants through deterministic policy evaluation and strictly framed execution…",
+      "rawTextSnippet": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
       "hnMeta": {
         "points": 2,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47659402"
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47672093"
       },
       "score": 65,
       "scoreBreakdown": {
@@ -81,68 +109,40 @@
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Lilith Zero, a Rust-based security middleware, was introduced to enhance security in LLM-based agent systems.  \n• Why it matters: It addresses critical vulnerabilities related to data exfiltration and unauthorized tool usage in these systems.  \n• Business opportunity: Companies can leverage Lilith Zero to strengthen their security frameworks and protect sensitive data in AI applications."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI and Anthropic are preparing for their upcoming IPOs.  \n• Why it matters: Their financial performance could set benchmarks for the AI industry.  \n• Business opportunity: Investors may find lucrative opportunities in AI sector stocks post-IPO."
     },
     {
-      "id": "rss-1775480006714-107",
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-04-06T02:30:00.000Z",
+      "id": "rss-1775567008956-76",
+      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+      "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-07T13:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 20
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "rawTextSnippet": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
       "score": 64,
       "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 20,
+        "freshness": 30,
+        "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: OpenAI proposed a people-first industrial policy for the AI era.  \n• Why it matters: The policy aims to expand opportunities and promote shared prosperity amid evolving advanced intelligence.  \n• Business opportunity: Companies can leverage these ideas to innovate and align with emerging AI-driven economic frameworks."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Family offices are increasingly investing directly in AI startups, bypassing traditional venture capital.  \n• Why it matters: This trend signifies a shift in investment strategies, highlighting the growing confidence in AI's potential.  \n• Business opportunity: There is potential for startups to attract funding from family offices seeking direct involvement in innovative technologies."
     },
     {
-      "id": "hn-1775480004388-66",
-      "title": "I stopped hitting Claude's usage limits – things I changed",
-      "url": "https://twitter.com/0x_kaize/status/2038286026284667239",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-06T08:06:17.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 10,
-        "comments": 3
-      },
-      "rawTextSnippet": "I stopped hitting Claude's usage limits – things I changed",
-      "hnMeta": {
-        "points": 10,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=47658164"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A user shared strategies to avoid hitting usage limits with the Claude AI.  \n• Why it matters: This insight can help users optimize their interaction with AI tools, enhancing productivity.  \n• Business opportunity: Companies can develop guides or tools to help users maximize AI efficiency and minimize usage constraints."
-    },
-    {
-      "id": "rss-1775480002525-0",
-      "title": "AI is changing how small online sellers decide what to make",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "id": "rss-1775567006359-0",
+      "title": "The Download: AI&#8217;s impact on jobs, and data centres in space",
+      "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-04-06T11:00:00.000Z",
+      "publishedAt": "2026-04-07T12:10:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails …",
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually shed&#160;light on your job and AI&#160; Within Silicon Valley’s orbit, an AI-fueled&#160;jobs apocalyp…",
       "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
@@ -151,53 +151,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: AI is influencing small online sellers' product decisions, as exemplified by Mike McClary's experience with a previously discontinued flashlight.  \n• Why it matters: This shift allows sellers to better understand customer demand and optimize inventory based on data-driven insights.  \n• Business opportunity: Small businesses can leverage AI tools to identify trending products and enhance customer engagement, driving sales growth."
+      "cluster": "General AI",
+      "summary": "• What happened: A report discusses AI's potential impact on jobs and the emergence of data centers in space.  \n• Why it matters: Understanding AI's influence on employment is crucial for workforce adaptation and economic stability.  \n• Business opportunity: Companies can explore innovative solutions in AI workforce training and space-based data infrastructure."
     },
     {
-      "id": "hn-1775480002738-18",
-      "title": "Upwork Inc. violates its own DMARC and SPF policy",
-      "url": "https://news.ycombinator.com/item?id=47659603",
+      "id": "hn-1775567006514-14",
+      "title": "Show HN: The AI Software Factory",
+      "url": "https://gethuman.sh/",
       "source": "Hacker News",
-      "publishedAt": "2026-04-06T11:37:57.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 4
-      },
-      "rawTextSnippet": "I am not sure whether it happens on all outgoing emails or only on some of them. The SPF policy for upwork.com specifies that mail.clinchtalent.com and all IP addresses that are listed by spf.mandrillapp.com are allowed to send email on behalf of upwork.com However, at least some (if not all) of the…",
-      "hnMeta": {
-        "points": 2,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47659603"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: Upwork Inc. is reportedly violating its own DMARC and SPF email authentication policies.  \n• Why it matters: This breach could lead to increased phishing risks and damage to Upwork's reputation.  \n• Business opportunity: Companies can offer cybersecurity solutions to help Upwork and similar businesses strengthen their email security protocols."
-    },
-    {
-      "id": "hn-1775480004388-60",
-      "title": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
-      "url": "https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-06T11:27:56.000Z",
+      "publishedAt": "2026-04-07T12:56:30.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
+      "rawTextSnippet": "Working in several companies, there is a security gap with Claude. Developers are not using devcontainers because they break many things e.g. MCP, OAuth and --chrome. So they hand over everything to the AI. And the AI removes files, reads emails and does whatever it thinks is accomplishing the task …",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47659511"
+        "hnUrl": "https://news.ycombinator.com/item?id=47674598"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -208,146 +180,147 @@
         "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Obsidian introduced a Kanban planning tool for managing Markdown files in Git.  \n• Why it matters: This innovation streamlines project management for developers using LLMs, enhancing productivity.  \n• Business opportunity: Companies can leverage this tool to improve collaboration and efficiency in software development projects."
+      "summary": "• What happened: Developers are relying on AI tools like Claude, leading to security gaps due to improper use of devcontainers.  \n• Why it matters: This reliance on AI can result in unintended data loss and security vulnerabilities in software development.  \n• Business opportunity: There is a need for secure AI integration solutions that enhance developer workflows without compromising security."
     },
     {
-      "id": "hn-1775480007197-130",
-      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
-      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
+      "id": "hn-1775567006514-24",
+      "title": "Show HN: AvatarBook – Verifiable AI agent workflows",
+      "url": "https://github.com/noritaka88ta/avatarbook",
       "source": "Hacker News",
-      "publishedAt": "2026-04-06T04:34:20.000Z",
+      "publishedAt": "2026-04-07T12:25:38.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 1
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+      "rawTextSnippet": "AI agents can do work — but we can&#x27;t reliably verify it. You don&#x27;t know who actually did what, what it cost, or whether the result is trustworthy. AvatarBook is a proof and settlement layer for autonomous AI work. You assign a task to one agent. It delegates to others (security, marketing,…",
       "hnMeta": {
-        "points": 6,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47657041"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47674195"
       },
-      "score": 61,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI and Anthropic are preparing for their initial public offerings (IPOs).  \n• Why it matters: Their financial performance could set benchmarks for the AI industry and attract investor interest.  \n• Business opportunity: Companies can explore partnerships or investments in AI technologies to capitalize on the growing market."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: AvatarBook launched as a proof and settlement layer for verifying AI agent workflows.  \n• Why it matters: It addresses the challenge of trust and accountability in autonomous AI tasks.  \n• Business opportunity: Companies can leverage AvatarBook to enhance transparency and reliability in AI-driven processes."
     },
     {
-      "id": "hn-1775480007198-133",
-      "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
-      "url": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center",
+      "id": "hn-1775567006514-25",
+      "title": "Startup Bets AI Can Replace Wall Street Analysts, Too",
+      "url": "https://www.wsj.com/finance/investing/startup-bets-ai-can-replace-wall-street-analysts-too-6a562686",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T22:54:29.000Z",
+      "publishedAt": "2026-04-07T12:14:56.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 55,
-        "comments": 38
+        "upvotes": 3,
+        "comments": 0
       },
-      "rawTextSnippet": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
+      "rawTextSnippet": "Startup Bets AI Can Replace Wall Street Analysts, Too",
       "hnMeta": {
-        "points": 55,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=47654757"
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47674060"
       },
-      "score": 61,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Iran issued a threat of total destruction against OpenAI's Stargate project.  \n• Why it matters: This escalates geopolitical tensions surrounding AI technologies and their implications.  \n• Business opportunity: Companies can explore security solutions and risk management strategies in AI development."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: A startup is developing AI technology aimed at replacing Wall Street analysts.  \n• Why it matters: This innovation could disrupt traditional financial analysis and reduce costs for investment firms.  \n• Business opportunity: Companies can leverage AI-driven insights to enhance decision-making and gain a competitive edge in finance."
+    },
+    {
+      "id": "hn-1775567007927-56",
+      "title": "Show HN: Secure SDLC Agents for Claude and Cursor (MCP)",
+      "url": "https://github.com/Kaademos/secure-sdlc-agents",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-07T09:00:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Hey HN, I have been using Claude Code and Cursor lately and as we all know, they write code incredibly fast but a few times i have noticed they can introduce the same security flaws. For example, you ask the LLM to build a file upload feature, you will get working code in minutes, but it would almos…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47672458"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A user highlighted security flaws in code generated by Claude Code and Cursor.  \n• Why it matters: Rapid code generation can inadvertently introduce vulnerabilities, posing risks to software security.  \n• Business opportunity: Developing secure software development lifecycle (SDLC) tools to mitigate these risks could enhance code safety."
     }
   ],
   "trendingTopics": [
     {
       "name": "Large Language Models",
-      "itemCount": 59,
-      "trendScore": 187,
-      "whyTrending": "59 stories across Hacker, GitHub, TechCrunch, 14 in the last 24h.",
+      "itemCount": 46,
+      "trendScore": 192,
+      "whyTrending": "46 stories across Hacker, GitHub, TechCrunch, 20 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Lilith-zero: Ultra-fast, Rust-based security middleware for MCP",
-        "url": "https://github.com/BadC-mpany/lilith-zero"
+        "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+        "url": "https://github.com/anthropics/claude-code/issues/42796"
       },
       "items": [
         {
-          "id": "hn-1775480004388-61",
-          "title": "Show HN: Lilith-zero: Ultra-fast, Rust-based security middleware for MCP",
-          "url": "https://github.com/BadC-mpany/lilith-zero",
+          "id": "hn-1775567012190-156",
+          "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+          "url": "https://github.com/anthropics/claude-code/issues/42796",
           "source": "Hacker News",
-          "publishedAt": "2026-04-06T11:15:43.000Z",
+          "publishedAt": "2026-04-06T13:50:35.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
+            "upvotes": 1186,
+            "comments": 640
           },
-          "rawTextSnippet": "Lilith Zero is a high-performance security runtime designed to mitigate data exfiltration and unauthorized tool invocation in LLM-based agent systems. By interposing at the transport layer, Lilith Zero enforces security invariants through deterministic policy evaluation and strictly framed execution…",
+          "rawTextSnippet": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
           "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47659402"
+            "points": 1186,
+            "comments": 640,
+            "hnUrl": "https://news.ycombinator.com/item?id=47660925"
           },
-          "score": 65,
+          "score": 76,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1775480004388-66",
-          "title": "I stopped hitting Claude's usage limits – things I changed",
-          "url": "https://twitter.com/0x_kaize/status/2038286026284667239",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T08:06:17.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 10,
-            "comments": 3
-          },
-          "rawTextSnippet": "I stopped hitting Claude's usage limits – things I changed",
-          "hnMeta": {
-            "points": 10,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47658164"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
+            "engagement": 25,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1775480004388-60",
-          "title": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
-          "url": "https://savolai.net/notes/edu-tech-blog/llm-text-files-obsidian-kanban-practical-project-management-for-developers/",
+          "id": "hn-1775567006514-14",
+          "title": "Show HN: The AI Software Factory",
+          "url": "https://gethuman.sh/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-06T11:27:56.000Z",
+          "publishedAt": "2026-04-07T12:56:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Practical LLM developer project management: Obsidian Kanban plan MD files in Git",
+          "rawTextSnippet": "Working in several companies, there is a security gap with Claude. Developers are not using devcontainers because they break many things e.g. MCP, OAuth and --chrome. So they hand over everything to the AI. And the AI removes files, reads emails and does whatever it thinks is accomplishing the task …",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47659511"
+            "hnUrl": "https://news.ycombinator.com/item?id=47674598"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -360,58 +333,75 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "github-1775480002824-30",
-          "title": "[JuliusBrussee/caveman] 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
-          "url": "https://github.com/JuliusBrussee/caveman",
-          "source": "GitHub Trending",
-          "publishedAt": "2026-04-04T10:03:00.000Z",
+          "id": "hn-1775567007927-56",
+          "title": "Show HN: Secure SDLC Agents for Claude and Cursor (MCP)",
+          "url": "https://github.com/Kaademos/secure-sdlc-agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T09:00:01.000Z",
           "scoreSignals": {
-            "sourceAuthority": 12,
-            "upvotes": 2663
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
-          "githubMeta": {
-            "stars": 2663,
-            "language": "Python",
-            "topics": [
-              "ai",
-              "anthropic",
-              "caveman",
-              "claude",
-              "claude-code",
-              "llm",
-              "meme",
-              "prompt-engineering",
-              "skill",
-              "tokens"
-            ]
+          "rawTextSnippet": "Hey HN, I have been using Claude Code and Cursor lately and as we all know, they write code incredibly fast but a few times i have noticed they can introduce the same security flaws. For example, you ask the LLM to build a file upload feature, you will get working code in minutes, but it would almos…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47672458"
           },
-          "score": 60,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 8,
-            "authority": 12,
-            "engagement": 25,
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1775480004388-57",
-          "title": "New Chrome Extension lets you see what LLMs you can run on your hardware",
-          "url": "https://chromewebstore.google.com/detail/run-this-llm/dginneocahmfpflnpcigakjggipmfhhg",
+          "id": "hn-1775567009351-104",
+          "title": "Show HN: Hive – A full dev workspace (kanban/session modes+multi-repo+agent sdk)",
+          "url": "https://hive-ai.dev",
           "source": "Hacker News",
-          "publishedAt": "2026-04-06T12:38:00.000Z",
+          "publishedAt": "2026-04-07T09:23:14.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 2
+          },
+          "rawTextSnippet": "I kept hitting the same problem with Claude: The native Claude app is great but it can be much better when you unlock capabilities of desktop rather than the terminal. Such as: - no task management - no structure - hard to work across multiple repos - everything becomes messy fast So I built a deskt…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47672605"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1775567007926-47",
+          "title": "Show HN: Letting an LLM write robot programs",
+          "url": "https://boesch.dev/posts/llm-trajectory/",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:48:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "New Chrome Extension lets you see what LLMs you can run on your hardware",
+          "rawTextSnippet": "Try the demo here: https:&#x2F;&#x2F;llm-trajectory.boesch.dev&#x2F; This is a write-up of a system I designed at a previous job. It&#x27;s a natural language interface for industrial robots. The demo runs MuJoCo in the browser via WASM. The demo uses a free-tier LLM API with rate limiting, so it mi…",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47660122"
+            "hnUrl": "https://news.ycombinator.com/item?id=47674502"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -427,30 +417,77 @@
     },
     {
       "name": "General AI",
-      "itemCount": 42,
-      "trendScore": 183,
-      "whyTrending": "42 stories across Hacker, TechCrunch, OpenAI, 21 in the last 24h.",
+      "itemCount": 34,
+      "trendScore": 181,
+      "whyTrending": "34 stories across Hacker, MIT, TechCrunch, 22 in the last 24h.",
       "topStory": {
-        "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
-        "url": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center"
+        "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat"
       },
       "items": [
         {
-          "id": "hn-1775480007198-133",
-          "title": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
-          "url": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center",
+          "id": "hn-1775567010792-131",
+          "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
           "source": "Hacker News",
-          "publishedAt": "2026-04-05T22:54:29.000Z",
+          "publishedAt": "2026-04-07T09:29:11.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 55,
-            "comments": 38
+            "upvotes": 49,
+            "comments": 77
           },
-          "rawTextSnippet": "Iran threatens 'complete and utter annihilation' of OpenAI's $30B Stargate",
+          "rawTextSnippet": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
           "hnMeta": {
-            "points": 55,
-            "comments": 38,
-            "hnUrl": "https://news.ycombinator.com/item?id=47654757"
+            "points": 49,
+            "comments": 77,
+            "hnUrl": "https://news.ycombinator.com/item?id=47672642"
+          },
+          "score": 77,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1775567006359-0",
+          "title": "The Download: AI&#8217;s impact on jobs, and data centres in space",
+          "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-04-07T12:10:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The one piece of data that could&#160;actually shed&#160;light on your job and AI&#160; Within Silicon Valley’s orbit, an AI-fueled&#160;jobs apocalyp…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1775567012190-154",
+          "title": "Anthropic is burning more and more dev goodwill",
+          "url": "https://twitter.com/GergelyOrosz/status/2041133254586122605",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-06T15:40:49.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 65,
+            "comments": 30
+          },
+          "rawTextSnippet": "https:&#x2F;&#x2F;xcancel.com&#x2F;GergelyOrosz&#x2F;status&#x2F;2041133254586122605",
+          "hnMeta": {
+            "points": 65,
+            "comments": 30,
+            "hnUrl": "https://news.ycombinator.com/item?id=47662350"
           },
           "score": 61,
           "scoreBreakdown": {
@@ -463,102 +500,48 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1775480004388-76",
-          "title": "More Americans Are Breaking into the Upper Middle Class",
-          "url": "https://www.wsj.com/economy/more-americans-are-breaking-into-the-upper-middle-class-bf8b7cb2",
+          "id": "hn-1775567006514-15",
+          "title": "Facebook account hijacked, attackers use AI photos of victims to promote crypto",
+          "url": "https://twitter.com/i/status/2041271005285601621",
           "source": "Hacker News",
-          "publishedAt": "2026-04-06T02:55:16.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 11,
-            "comments": 4
-          },
-          "rawTextSnippet": "More Americans Are Breaking into the Upper Middle Class",
-          "hnMeta": {
-            "points": 11,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=47656461"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1775480002738-10",
-          "title": "Real-time poker engine with emotion-driven AI bots",
-          "url": "https://oxyklon.net/portal",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T12:40:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
-          },
-          "rawTextSnippet": "Real-time poker engine with emotion-driven AI bots",
-          "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47660160"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1775480002738-11",
-          "title": "Software Engineering Is Becoming Civil Engineering",
-          "url": "https://christophermeiklejohn.com/ai/engineering/2026/04/01/software-engineering-is-becoming-civil-engineering.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T12:36:44.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Software Engineering Is Becoming Civil Engineering",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47660113"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1775480002738-12",
-          "title": "The Job Search Guide- AI Edition with Eliza Cabrera",
-          "url": "https://technicalintegrity.com/technical-integrity-blog/revisiting-the-ultimate-job-search-guide-the-ai-edition",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T12:28:04.000Z",
+          "publishedAt": "2026-04-07T12:54:11.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "The Job Search Guide- AI Edition with Eliza Cabrera",
+          "rawTextSnippet": "Facebook account hijacked, attackers use AI photos of victims to promote crypto",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47660042"
+            "hnUrl": "https://news.ycombinator.com/item?id=47674567"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1775567006514-16",
+          "title": "Show HN: Cova – Finds and fixes monitoring blind spots across your stack",
+          "url": "https://getcova.ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:53:37.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Cova – Finds and fixes monitoring blind spots across your stack",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674559"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -574,197 +557,30 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 34,
-      "trendScore": 174,
-      "whyTrending": "34 stories across Hacker, GitHub, OpenAI, 17 in the last 24h.",
+      "itemCount": 24,
+      "trendScore": 168,
+      "whyTrending": "24 stories across Hacker, GitHub, OpenAI, 15 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Multi-agent coding assistant with a sandboxed Rust execution engine",
-        "url": "https://github.com/christianmeurer/Lula"
+        "title": "Show HN: AvatarBook – Verifiable AI agent workflows",
+        "url": "https://github.com/noritaka88ta/avatarbook"
       },
       "items": [
         {
-          "id": "hn-1775480005779-105",
-          "title": "Show HN: Multi-agent coding assistant with a sandboxed Rust execution engine",
-          "url": "https://github.com/christianmeurer/Lula",
+          "id": "hn-1775567006514-24",
+          "title": "Show HN: AvatarBook – Verifiable AI agent workflows",
+          "url": "https://github.com/noritaka88ta/avatarbook",
           "source": "Hacker News",
-          "publishedAt": "2026-04-06T03:19:10.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 2
-          },
-          "rawTextSnippet": "Show HN: Multi-agent coding assistant with a sandboxed Rust execution engine",
-          "hnMeta": {
-            "points": 7,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47656608"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1775480002738-14",
-          "title": "I built as elf healing semantic layer for any AI agent tool",
-          "url": "https://github.com/kwstx/engram_translator",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T12:18:16.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 2
-          },
-          "rawTextSnippet": "I built as elf healing semantic layer for any AI agent tool",
-          "hnMeta": {
-            "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47659947"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1775480002738-17",
-          "title": "Why RAG doesn't work for WhatsApp AI agents and what's the alternative",
-          "url": "https://wpp.opero.so/blog/why-rag-fails-for-whatsapp-and-what-we-built-instead",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T11:41:41.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "Why RAG doesn't work for WhatsApp AI agents and what's the alternative",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47659635"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1775480002738-21",
-          "title": "Show HN: I built a self-writing book on agentic coding",
-          "url": "https://aipatternbook.com/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T10:52:09.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "I’ve created a self-writing book: The Encyclopedia of Agentic Coding Patterns It continuously researches, writes, and publishes. It reflects on and improves its own process. It’s both an exposition of agentic coding and a product of it. It’s the book I wanted but nobody had written. And it’s what I …",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47659242"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1775480002738-24",
-          "title": "Nexus – Stress-test any business decision with 1k AI agents",
-          "url": "https://nexus-sim.ink/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T10:46:34.000Z",
+          "publishedAt": "2026-04-07T12:25:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Nexus – Stress-test any business decision with 1k AI agents",
+          "rawTextSnippet": "AI agents can do work — but we can&#x27;t reliably verify it. You don&#x27;t know who actually did what, what it cost, or whether the result is trustworthy. AvatarBook is a proof and settlement layer for autonomous AI work. You assign a task to one agent. It delegates to others (security, marketing,…",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47659203"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "AI Safety & Regulation",
-      "itemCount": 16,
-      "trendScore": 133,
-      "whyTrending": "16 stories across OpenAI, Hacker, TechCrunch, 5 in the last 24h.",
-      "topStory": {
-        "title": "Industrial policy for the Intelligence Age",
-        "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
-      },
-      "items": [
-        {
-          "id": "rss-1775480006714-107",
-          "title": "Industrial policy for the Intelligence Age",
-          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-04-06T02:30:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1775480002738-18",
-          "title": "Upwork Inc. violates its own DMARC and SPF policy",
-          "url": "https://news.ycombinator.com/item?id=47659603",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T11:37:57.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 4
-          },
-          "rawTextSnippet": "I am not sure whether it happens on all outgoing emails or only on some of them. The SPF policy for upwork.com specifies that mail.clinchtalent.com and all IP addresses that are listed by spf.mandrillapp.com are allowed to send email on behalf of upwork.com However, at least some (if not all) of the…",
-          "hnMeta": {
-            "points": 2,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=47659603"
+            "hnUrl": "https://news.ycombinator.com/item?id=47674195"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -774,148 +590,148 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1775480008614-169",
-          "title": "Anthropic has a blacklist on the word \"OpenClaw\"",
-          "url": "https://iili.io/BuL3tKN.png",
+          "id": "hn-1775567006514-10",
+          "title": "CLI that gives AI agents structured SEO data for any URL – SGNL",
+          "url": "https://github.com/stoyan-koychev/sgnl-cli",
           "source": "Hacker News",
-          "publishedAt": "2026-04-06T03:34:38.000Z",
+          "publishedAt": "2026-04-07T13:02:11.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 17,
-            "comments": 4
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Anthropic has a blacklist on the word \"OpenClaw\"",
+          "rawTextSnippet": "CLI that gives AI agents structured SEO data for any URL – SGNL",
           "hnMeta": {
-            "points": 17,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=47656695"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674664"
           },
-          "score": 60,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1775480007198-144",
-          "title": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
-          "url": "https://www.independent.co.uk/news/world/americas/sam-altman-sexual-assault-sister-annie-abuse-lawsuit-b2950916.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-04T15:45:42.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 27,
-            "comments": 26
-          },
-          "rawTextSnippet": "Sam Altman's sister amends lawsuit accusing OpenAI CEO of sexual abuse",
-          "hnMeta": {
-            "points": 27,
-            "comments": 26,
-            "hnUrl": "https://news.ycombinator.com/item?id=47640048"
-          },
-          "score": 57,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1775480008615-170",
-          "title": "Anthropic blocks cli calls mentioning OpenClaw",
-          "url": "https://twitter.com/steipete/status/2040811558427648357",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-06T01:16:05.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 2
-          },
-          "rawTextSnippet": "Anthropic blocks cli calls mentioning OpenClaw",
-          "hnMeta": {
-            "points": 5,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47655787"
-          },
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1775567006514-13",
+          "title": "AI agents that teach, debate and quiz you in real time",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:59:28.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "AI agents that teach, debate and quiz you in real time",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674627"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1775567006514-21",
+          "title": "Greyline: We Built a Counter-Agent to Stop AI Agents from Looting Your API",
+          "url": "https://themeridianlab.com/signals/your-api-has-no-idea",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:38:09.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Greyline: We Built a Counter-Agent to Stop AI Agents from Looting Your API",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674360"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1775567006514-22",
+          "title": "Show HN: ZeroID – Open-source identity and delegation for autonomous agents",
+          "url": "https://github.com/highflame-ai/zeroid",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:36:47.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: ZeroID – Open-source identity and delegation for autonomous agents",
+          "hnMeta": {
+            "points": 5,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674346"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
         }
       ]
     },
     {
       "name": "Funding & Acquisitions",
-      "itemCount": 13,
-      "trendScore": 120,
-      "whyTrending": "13 stories across Hacker, TechCrunch, OpenAI, 3 in the last 24h.",
+      "itemCount": 18,
+      "trendScore": 146,
+      "whyTrending": "18 stories across Hacker, TechCrunch, OpenAI, 8 in the last 24h.",
       "topStory": {
-        "title": "OpenAI's fall from grace as investors race to Anthropic",
-        "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic"
+        "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+        "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9"
       },
       "items": [
         {
-          "id": "hn-1775480007198-132",
-          "title": "OpenAI's fall from grace as investors race to Anthropic",
-          "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-05T23:33:01.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 175,
-            "comments": 111
-          },
-          "rawTextSnippet": "OpenAI's fall from grace as investors race to Anthropic",
-          "hnMeta": {
-            "points": 175,
-            "comments": 111,
-            "hnUrl": "https://news.ycombinator.com/item?id=47655058"
-          },
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1775480007197-130",
+          "id": "hn-1775567010792-133",
           "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
           "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
           "source": "Hacker News",
-          "publishedAt": "2026-04-06T04:34:20.000Z",
+          "publishedAt": "2026-04-07T08:08:42.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 6,
-            "comments": 1
+            "upvotes": 2,
+            "comments": 0
           },
           "rawTextSnippet": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
           "hnMeta": {
-            "points": 6,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47657041"
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47672093"
           },
-          "score": 61,
+          "score": 65,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
@@ -924,18 +740,18 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1775480005076-78",
-          "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-          "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+          "id": "rss-1775567008956-76",
+          "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+          "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-04-05T15:40:58.000Z",
+          "publishedAt": "2026-04-07T13:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
-          "score": 56,
+          "rawTextSnippet": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
+          "score": 64,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
@@ -944,142 +760,343 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1775480006714-111",
-          "title": "Accelerating the next phase of AI",
-          "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-03-31T13:00:00.000Z",
+          "id": "hn-1775567006514-25",
+          "title": "Startup Bets AI Can Replace Wall Street Analysts, Too",
+          "url": "https://www.wsj.com/finance/investing/startup-bets-ai-can-replace-wall-street-analysts-too-6a562686",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:14:56.000Z",
           "scoreSignals": {
-            "sourceAuthority": 20
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
           },
-          "rawTextSnippet": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-          "score": 46,
+          "rawTextSnippet": "Startup Bets AI Can Replace Wall Street Analysts, Too",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674060"
+          },
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 2,
-            "authority": 20,
+            "freshness": 30,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 9
+            "businessImpact": 3
           },
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1775480005076-83",
-          "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-          "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+          "id": "hn-1775567010792-130",
+          "title": "Sam Altman Is Ignoring a Secret Weapon for His IPO",
+          "url": "https://www.bloomberg.com/opinion/articles/2026-04-07/microsoft-could-be-openai-s-ipo-secret-weapon",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T10:02:52.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "Sam Altman Is Ignoring a Secret Weapon for His IPO",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47672851"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1775567008956-77",
+          "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+          "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-04-03T20:28:40.000Z",
+          "publishedAt": "2026-04-07T05:30:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-          "score": 45,
+          "rawTextSnippet": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 8,
+            "freshness": 26,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 6
+            "businessImpact": 3
           },
           "cluster": "Funding & Acquisitions"
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Products",
+      "itemCount": 14,
+      "trendScore": 120,
+      "whyTrending": "14 stories across Hacker, TechCrunch, MIT, 5 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Factagora API – Before your AI hallucinates, Factagora verifies",
+        "url": "https://enterprise.factagora.com/en/api"
+      },
+      "items": [
+        {
+          "id": "hn-1775567006514-19",
+          "title": "Show HN: Factagora API – Before your AI hallucinates, Factagora verifies",
+          "url": "https://enterprise.factagora.com/en/api",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:44:52.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "AI is advancing fast, but the hallucination problem persists. Most products have no verification layer. They just hope the model gets it right. Factagora API gives you programmatic access to a knowledge graph of fact-checked claims, evidence, and causal relationships extracted from global news and r…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674442"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1775567006514-26",
+          "title": "Show HN: Bx – macOS native sandbox for AI and coding tools",
+          "url": "https://github.com/holtwick/bx-mac",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:14:30.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "Wrapper around Apple&#x27;s macOS sandbox-exec tool, which usually sandboxes native apps. It is &quot;allow-first&quot; i.e. it will not overprotect everything, just crucial information and therefore allows most tools to run without issues. Limiting is done using a .gitignore like file schema. Furth…",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674056"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1775567007926-49",
+          "title": "Is It Possible That the Oldest Stone Tools on Earth Were Not Made by Humans?",
+          "url": "https://www.thecollector.com/lomekwian-oldest-stone-tools/",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T12:43:15.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Is It Possible That the Oldest Stone Tools on Earth Were Not Made by Humans?",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47674421"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1775567007927-64",
+          "title": "Show HN: Semantik, a vector broker that routes by semantic meaning",
+          "url": "https://www.noetive.io/semantik",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-07T07:47:58.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "Hello HN, Today we are launching Semantik, a message broker that routes by meaning instead of topics. Messages carry embeddings and metadata, and subscribers define what they care about using SemQL, a query language for high-dimensional space. SemQL has three predicates: distance (how similar), dire…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47671967"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1775567008956-79",
+          "title": "Google quietly launched an AI dictation app that works offline",
+          "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-06T18:54:33.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1775480007198-138",
-      "title": "Codex pricing to align with API token usage, instead of per-message",
-      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "id": "hn-1775567012190-156",
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
       "source": "Hacker News",
-      "publishedAt": "2026-04-05T15:58:08.000Z",
+      "publishedAt": "2026-04-06T13:50:35.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 200,
-        "comments": 184
+        "upvotes": 1186,
+        "comments": 640
       },
-      "rawTextSnippet": "Codex pricing to align with API token usage, instead of per-message",
+      "rawTextSnippet": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
       "hnMeta": {
-        "points": 200,
-        "comments": 184,
-        "hnUrl": "https://news.ycombinator.com/item?id=47650726"
+        "points": 1186,
+        "comments": 640,
+        "hnUrl": "https://news.ycombinator.com/item?id=47660925"
       },
-      "score": 71,
+      "score": 76,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 14,
-        "engagement": 20,
+        "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Codex has changed its pricing model to be based on API token usage rather than per-message.  \n• Why it matters: This shift could lead to more predictable costs for developers and businesses using the service.  \n• Business opportunity: Companies can optimize their usage and potentially reduce expenses by adapting to the new pricing structure."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Code has become ineffective for complex engineering tasks following February updates.  \n• Why it matters: This limitation could hinder productivity for users relying on the tool for advanced projects.  \n• Business opportunity: There is potential for developing alternative solutions or enhancements to address these engineering challenges."
     },
     {
-      "id": "rss-1775480002525-0",
-      "title": "AI is changing how small online sellers decide what to make",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-06T11:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails …",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: AI is influencing small online sellers' product decisions, as seen with Mike McClary's flashlight brand.  \n• Why it matters: This shift allows sellers to better understand customer preferences and market demands.  \n• Business opportunity: Small businesses can leverage AI insights to optimize product offerings and enhance sales strategies."
-    },
-    {
-      "id": "hn-1775480002738-21",
-      "title": "Show HN: I built a self-writing book on agentic coding",
-      "url": "https://aipatternbook.com/",
+      "id": "hn-1775567007927-56",
+      "title": "Show HN: Secure SDLC Agents for Claude and Cursor (MCP)",
+      "url": "https://github.com/Kaademos/secure-sdlc-agents",
       "source": "Hacker News",
-      "publishedAt": "2026-04-06T10:52:09.000Z",
+      "publishedAt": "2026-04-07T09:00:01.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 1
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "I’ve created a self-writing book: The Encyclopedia of Agentic Coding Patterns It continuously researches, writes, and publishes. It reflects on and improves its own process. It’s both an exposition of agentic coding and a product of it. It’s the book I wanted but nobody had written. And it’s what I …",
+      "rawTextSnippet": "Hey HN, I have been using Claude Code and Cursor lately and as we all know, they write code incredibly fast but a few times i have noticed they can introduce the same security flaws. For example, you ask the LLM to build a file upload feature, you will get working code in minutes, but it would almos…",
       "hnMeta": {
-        "points": 2,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47659242"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47672458"
       },
-      "score": 59,
+      "score": 62,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A developer created a self-writing book titled \"The Encyclopedia of Agentic Coding Patterns.\"  \n• Why it matters: This innovative project showcases the potential of agentic coding to automate content creation and self-improvement.  \n• Business opportunity: There is potential for developing similar self-writing tools in various fields, enhancing productivity and knowledge sharing."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A user highlighted security flaws in code generated by AI tools Claude Code and Cursor.  \n• Why it matters: These vulnerabilities can compromise software integrity, posing risks to businesses relying on AI for development.  \n• Business opportunity: There is a demand for secure software development lifecycle (SDLC) solutions to enhance AI-generated code security."
     },
     {
-      "id": "hn-1775480002738-27",
-      "title": "Show HN: Turn photos into Wordle puzzles with AI that runs 100% in your browser",
-      "url": "https://momentsgame.com/",
+      "id": "hn-1775567009351-104",
+      "title": "Show HN: Hive – A full dev workspace (kanban/session modes+multi-repo+agent sdk)",
+      "url": "https://hive-ai.dev",
       "source": "Hacker News",
-      "publishedAt": "2026-04-06T10:09:36.000Z",
+      "publishedAt": "2026-04-07T09:23:14.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 2
       },
-      "rawTextSnippet": "I built Moments to get this game idea out of my head, finally. My original goal was to run on-device models specifically in mobile browsers, but running local vision models directly in phone browsers is still very much too early, so I focused on desktop. How it works: - You upload a photo. - A local…",
+      "rawTextSnippet": "I kept hitting the same problem with Claude: The native Claude app is great but it can be much better when you unlock capabilities of desktop rather than the terminal. Such as: - no task management - no structure - hard to work across multiple repos - everything becomes messy fast So I built a deskt…",
       "hnMeta": {
         "points": 1,
         "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47658954"
+        "hnUrl": "https://news.ycombinator.com/item?id=47672605"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A developer created Hive, a comprehensive desktop workspace for managing tasks and multi-repo projects.  \n• Why it matters: Hive addresses limitations of existing tools by providing structured task management and improved organization for developers.  \n• Business opportunity: There is potential for growth in the productivity software market by offering enhanced solutions for developers' workspace challenges."
+    },
+    {
+      "id": "rss-1775567008956-77",
+      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-07T05:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions"
+    },
+    {
+      "id": "hn-1775567006514-11",
+      "title": "Show HN: An open source CI/CD action to audit and fix AI generated UI code",
+      "url": "https://news.ycombinator.com/item?id=47674652",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-07T13:00:57.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Hi everyone. AI can generate code in seconds now but verifying and auditing it inside our CI&#x2F;CD pipelines does not happen at the same speed. It has become a massive bottleneck. To clear this up we just released a GitHub action that we completely open sourced. It basically boots your app in CI o…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47674652"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1089,304 +1106,136 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI"
-    },
+      "cluster": "Open Source AI"
+    }
+  ],
+  "redditSignals": [],
+  "research": [],
+  "funding": [
     {
-      "id": "hn-1775480004388-58",
-      "title": "Show HN: Yapit – PDF and webpage reader with TTS that doesn't suck",
-      "url": "https://github.com/yapit-tts/yapit",
+      "id": "hn-1775567010792-133",
+      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
       "source": "Hacker News",
-      "publishedAt": "2026-04-06T12:28:04.000Z",
+      "publishedAt": "2026-04-07T08:08:42.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Yapit converts PDFs and web pages to audio, with a vision-LLM pipeline that handles math and complex layout instead of garbling them. I built it because I read a lot of papers and content online, but drift off after two paragraphs. Listening while following along keeps me focused and lowers the bar …",
+      "rawTextSnippet": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
       "hnMeta": {
         "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47660043"
+        "hnUrl": "https://news.ycombinator.com/item?id=47672093"
       },
-      "score": 59,
+      "score": 65,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    }
-  ],
-  "redditSignals": [],
-  "research": [
-    {
-      "id": "arxiv-1775480111032-211",
-      "title": "Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models",
-      "url": "https://arxiv.org/abs/2604.03157v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-03T16:28:03.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "The recent advancements in Vision Language Models (VLMs) have demonstrated progress toward true intelligence requiring robust reasoning capabilities. Beyond pattern recognition, linguistic reasoning must integrate with visual comprehension, particularly for Chart Question Answering (CQA) tasks invol…",
-      "arxivMeta": {
-        "authors": "Yunfei Bai, Amit Dhanda, Shekhar Jain",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1775480111032-218",
-      "title": "A Systematic Security Evaluation of OpenClaw and Its Variants",
-      "url": "https://arxiv.org/abs/2604.03131v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-03T15:52:36.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Tool-augmented AI agents substantially extend the practical capabilities of large language models, but they also introduce security risks that cannot be identified through model-only evaluation. In this paper, we present a systematic security assessment of six representative OpenClaw-series agent fr…",
-      "arxivMeta": {
-        "authors": "Yuhang Wang, Haichang Gao, Zhenxing Niu, Zhaoxiang Liu, Wenjing Zhang, Xiang Wang, Shiguo Lian",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "arxiv-1775480111032-219",
-      "title": "Self-Distilled RLVR",
-      "url": "https://arxiv.org/abs/2604.03128v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-03T15:50:07.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled trajectory, in contrast to reinforcement learning with verifiable rewards (RLVR), which only obtains s…",
-      "arxivMeta": {
-        "authors": "Chenxu Yang, Chuanyu Qin, Qingyi Si, Minghui Chen, Naibin Gu, Dingyu Yao, Zheng Lin, Weiping Wang, Jiaqi Wang, Nan Duan",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1775480111033-225",
-      "title": "Co-Evolution of Policy and Internal Reward for Language Agents",
-      "url": "https://arxiv.org/abs/2604.03098v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-03T15:21:11.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Large language model (LLM) agents learn by interacting with environments, but long-horizon training remains fundamentally bottlenecked by sparse and delayed rewards. Existing methods typically address this challenge through post-hoc credit assignment or external reward models, which provide limited …",
-      "arxivMeta": {
-        "authors": "Xinyu Wang, Hanwei Wu, Jingwei Song, Shuyuan Zhang, Jiayi Zhang, Fanqi Kong, Tung Sum Thomas Kwok, Xiao-Wen Chang, Yuyu Luo, Chenglin Wu, Bang Liu",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1775480111031-197",
-      "title": "Enhancing Robustness of Federated Learning via Server Learning",
-      "url": "https://arxiv.org/abs/2604.03226v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-03T17:51:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distributed. We propose a heuristic algorithm that uses server learning and client update filtering in comb…",
-      "arxivMeta": {
-        "authors": "Van Sy Mai, Kushal Chakrabarti, Richard J. La, Dipankar Maity",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 38,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Research & Benchmarks"
-    }
-  ],
-  "funding": [
-    {
-      "id": "hn-1775480007198-132",
-      "title": "OpenAI's fall from grace as investors race to Anthropic",
-      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-05T23:33:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 175,
-        "comments": 111
-      },
-      "rawTextSnippet": "OpenAI's fall from grace as investors race to Anthropic",
-      "hnMeta": {
-        "points": 175,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=47655058"
-      },
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Investors are shifting their focus from OpenAI to Anthropic amid concerns about OpenAI's performance.  \n• Why it matters: This trend signals a potential decline in OpenAI's market position and investor confidence.  \n• Business opportunity: Companies can explore partnerships or investments in emerging AI firms like Anthropic to capitalize on shifting investor interests."
-    },
-    {
-      "id": "hn-1775480007197-130",
-      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
-      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-06T04:34:20.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 1
-      },
-      "rawTextSnippet": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
-      "hnMeta": {
-        "points": 6,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47657041"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
         "businessImpact": 6
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI and Anthropic are preparing for their initial public offerings (IPOs).  \n• Why it matters: Their financial performance could influence investor confidence in AI technology.  \n• Business opportunity: Companies can explore partnerships or investments in AI to capitalize on the growing market."
+      "summary": "• What happened: OpenAI and Anthropic are preparing for their initial public offerings (IPOs).  \n• Why it matters: Their financial health and market positioning could influence investor confidence in AI companies.  \n• Business opportunity: Investors may find lucrative opportunities in the burgeoning AI sector as these companies go public."
     },
     {
-      "id": "hn-1775480011377-185",
-      "title": "Show HN: ACE – A dynamic benchmark measuring the cost to break AI agents",
-      "url": "https://fabraix.com/blog/adversarial-cost-to-exploit",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-05T21:37:54.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 8,
-        "comments": 4
-      },
-      "rawTextSnippet": "We built Adversarial Cost to Exploit (ACE), a benchmark that measures the token expenditure an autonomous adversary must invest to breach an LLM agent. Instead of binary pass&#x2F;fail, ACE quantifies adversarial effort in dollars, enabling game-theoretic analysis of when an attack is economically r…",
-      "hnMeta": {
-        "points": 8,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47654123"
-      },
-      "score": 56,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new benchmark called ACE measures the cost for adversaries to breach AI agents.  \n• Why it matters: ACE provides a quantifiable method for evaluating the economic feasibility of attacks on AI systems.  \n• Business opportunity: Companies can leverage ACE to enhance AI security measures and optimize resource allocation against potential threats."
-    },
-    {
-      "id": "rss-1775480006714-111",
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-03-31T13:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-      "score": 46,
-      "scoreBreakdown": {
-        "freshness": 2,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1775480005076-83",
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "id": "rss-1775567008956-76",
+      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+      "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-03T20:28:40.000Z",
+      "publishedAt": "2026-04-07T13:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-      "score": 45,
+      "rawTextSnippet": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 8,
+        "freshness": 30,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Family offices are increasingly investing directly in AI startups, bypassing traditional venture capital.  \n• Why it matters: This shift indicates a growing confidence in AI's potential and a desire for greater control over investments.  \n• Business opportunity: There is potential for startups to attract funding from wealthier, more engaged investors seeking early-stage opportunities."
+    },
+    {
+      "id": "hn-1775567010792-130",
+      "title": "Sam Altman Is Ignoring a Secret Weapon for His IPO",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-04-07/microsoft-could-be-openai-s-ipo-secret-weapon",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-07T10:02:52.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 1
+      },
+      "rawTextSnippet": "Sam Altman Is Ignoring a Secret Weapon for His IPO",
+      "hnMeta": {
+        "points": 1,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47672851"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Sam Altman is reportedly overlooking a strategic advantage for his upcoming IPO.  \n• Why it matters: This oversight could impact the IPO's success and investor confidence.  \n• Business opportunity: Companies could capitalize on this gap by offering advisory services to optimize IPO strategies."
+    },
+    {
+      "id": "rss-1775567008956-78",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-06T21:54:26.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions"
+    },
+    {
+      "id": "hn-1775567010792-137",
+      "title": "Neither OpenAI or Anthropic are profitable ahead of IPO",
+      "url": "https://www.perplexity.ai/page/openai-anthropic-financial-doc-v_BdVVhVRLapfCfd9SNLVw",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-06T23:03:41.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "Neither OpenAI or Anthropic are profitable ahead of IPO",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47668529"
+      },
+      "score": 54,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In a significant shift, OpenAI announced that Codex pricing will now be based on API token usage rather than a per-message model, potentially streamlining costs for developers and businesses reliant on AI integration. Meanwhile, investor sentiment appears to be shifting as Anthropic gains traction, reflecting concerns over OpenAI's recent challenges and raising questions about its competitive edge in the AI landscape. Additionally, the introduction of Lilith-zero, a Rust-based security middleware, promises to enhance performance in multi-cloud environments, highlighting the growing importance of robust security solutions in AI applications. As discussions around industrial policy for the Intelligence Age continue, businesses must adapt to the evolving regulatory landscape that could shape AI deployment strategies. Lastly, users are sharing insights on optimizing Claude's performance, emphasizing the need for efficiency in leveraging AI tools for maximum productivity."
+  "dailyBrief": "Tensions are rising as Iran threatens OpenAI's Stargate data center in Abu Dhabi, potentially impacting regional AI operations and investments. Meanwhile, Anthropic is expanding its partnership with Google and Broadcom to enhance next-gen computing capabilities, a move that could strengthen its competitive edge as it prepares for an IPO alongside OpenAI. However, recent updates to Claude Code have rendered it ineffective for complex engineering tasks, raising concerns about its viability in high-stakes applications. As the AI gold rush continues, private investors are increasingly drawn to riskier, earlier-stage ventures, indicating a shift in capital allocation that could reshape the landscape of AI innovation. These developments underscore the volatile intersection of geopolitical risks, technological advancement, and investment strategies in the rapidly evolving AI sector."
 }
