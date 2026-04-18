@@ -1,436 +1,344 @@
 {
   "topNews": [
     {
-      "id": "hn-1776430890724-203",
+      "id": "hn-1776516176169-176",
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-17T15:04:09.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1082,
+        "comments": 713
+      },
+      "rawTextSnippet": "Related: https:&#x2F;&#x2F;x.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458 ( https:&#x2F;&#x2F;xcancel.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458 )",
+      "hnMeta": {
+        "points": 1082,
+        "comments": 713,
+        "hnUrl": "https://news.ycombinator.com/item?id=47806725"
+      },
+      "score": 76,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 25,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Design was featured in a Hacker News discussion.  \n• Why it matters: The platform is gaining attention for its innovative design solutions.  \n• Business opportunity: Companies can leverage Claude Design's expertise to enhance their branding and user experience."
+    },
+    {
+      "id": "hn-1776516170483-22",
+      "title": "Claude Code Opus 4.7 keeps checking on malware",
+      "url": "https://news.ycombinator.com/item?id=47814832",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-18T10:46:17.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 34,
+        "comments": 33
+      },
+      "rawTextSnippet": "So during development, at every task I start, I see a line like this: `Own bug file — not malware.` It seems that it&#x27;s obsessively checking if it&#x27;s working on malware production. In another situation where I was working on a parser of a HTML document with JS, it refused because it believed…",
+      "hnMeta": {
+        "points": 34,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=47814832"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Code Opus 4.7 is consistently verifying its tasks to ensure they are not related to malware.  \n• Why it matters: This vigilance enhances security and trust in the software's development process.  \n• Business opportunity: Companies can leverage this feature to promote safer coding practices and attract security-conscious clients."
+    },
+    {
+      "id": "hn-1776516176169-177",
+      "title": "We reproduced Anthropic's Mythos findings with public models",
+      "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-17T14:09:32.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 103,
+        "comments": 56
+      },
+      "rawTextSnippet": "We reproduced Anthropic's Mythos findings with public models",
+      "hnMeta": {
+        "points": 103,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=47806116"
+      },
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Researchers successfully replicated Anthropic's Mythos findings using publicly available models.  \n• Why it matters: This demonstrates the potential of open-source models to achieve significant research outcomes.  \n• Business opportunity: Companies can leverage public models for cost-effective AI development and innovation."
+    },
+    {
+      "id": "hn-1776516170483-26",
+      "title": "Claude Opus 4.7 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/claude-opus-4-7",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-18T10:19:30.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 30,
+        "comments": 1
+      },
+      "rawTextSnippet": "Claude Opus 4.7 Intelligence, Performance and Price Analysis",
+      "hnMeta": {
+        "points": 30,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47814695"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Opus 4.7 has been analyzed for its intelligence, performance, and pricing.  \n• Why it matters: Understanding these factors can inform businesses about competitive positioning and potential improvements.  \n• Business opportunity: Companies can leverage insights from the analysis to enhance their own products and pricing strategies."
+    },
+    {
+      "id": "hn-1776516170483-17",
+      "title": "Atlassian's new data collection policy protects rich customers, AI eats the rest",
+      "url": "https://www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-18T11:26:16.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 0
+      },
+      "rawTextSnippet": "Atlassian's new data collection policy protects rich customers, AI eats the rest",
+      "hnMeta": {
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47815015"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Atlassian implemented a new data collection policy favoring affluent customers.  \n• Why it matters: This shift raises concerns about equity and access for smaller users in the tech ecosystem.  \n• Business opportunity: Companies can develop alternative data solutions to support underserved customers in the market."
+    },
+    {
+      "id": "hn-1776516174754-150",
+      "title": "OpenAI Loses Three Executives in One Day as It Refocuses Ahead of IPO",
+      "url": "https://www.wsj.com/tech/ai/chatgpt-openai-ipo-altman-029ae6d5",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-18T07:48:18.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "OpenAI Loses Three Executives in One Day as It Refocuses Ahead of IPO",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47814025"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI experienced the departure of three executives in a single day.  \n• Why it matters: This leadership change signals a strategic refocus as the company prepares for its IPO.  \n• Business opportunity: Investors may find potential in OpenAI's evolving leadership and future growth prospects post-IPO."
+    },
+    {
+      "id": "hn-1776516177545-207",
       "title": "Google broke its promise to me – now ICE has my data",
       "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
       "source": "Hacker News",
       "publishedAt": "2026-04-15T17:44:26.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1681,
-        "comments": 746
+        "upvotes": 1689,
+        "comments": 759
       },
       "rawTextSnippet": "Google broke its promise to me – now ICE has my data",
       "hnMeta": {
-        "points": 1681,
-        "comments": 746,
+        "points": 1689,
+        "comments": 759,
         "hnUrl": "https://news.ycombinator.com/item?id=47782570"
       },
-      "score": 69,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 14,
         "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A user claims Google shared their data with ICE despite assurances of privacy.  \n• Why it matters: This breach of trust raises concerns about data privacy and corporate accountability.  \n• Business opportunity: Companies can develop privacy-focused solutions to help users protect their data from unauthorized access."
+      "summary": "• What happened: A user claims Google failed to protect their data, which was subsequently accessed by ICE.  \n• Why it matters: This breach raises concerns about data privacy and trust in tech companies.  \n• Business opportunity: Companies can develop enhanced data protection solutions to address privacy concerns and build consumer trust."
     },
     {
-      "id": "hn-1776430887933-159",
-      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-      "url": "https://github.com/SeanFDZ/macmind",
+      "id": "hn-1776516173346-117",
+      "title": "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
+      "url": "https://github.com/yapstudios/sfsym",
       "source": "Hacker News",
-      "publishedAt": "2026-04-16T13:16:29.000Z",
+      "publishedAt": "2026-04-18T03:44:54.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 140,
-        "comments": 40
+        "upvotes": 15,
+        "comments": 3
       },
-      "rawTextSnippet": "I trained a transformer in HyperCard. 1,216 parameters. 1989 Macintosh. And yes, it took a while. MacMind is a complete transformer neural network, embeddings, positional encoding, self-attention, backpropagation, and gradient descent, implemented entirely in HyperTalk, the scripting language Apple …",
+      "rawTextSnippet": "I found myself reaching for SF Symbols&#x27; &#x27;Copy Image As…&#x27; quite often during agentic design sessions, so I made a command-line tool that the agent can use by itself. It exports Apple SF Symbols as SVG, PDF, or PNG. The vector paths come directly from macOS&#x27;s symbol renderer. Inter…",
       "hnMeta": {
-        "points": 140,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=47792525"
+        "points": 15,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47812964"
       },
-      "score": 66,
+      "score": 60,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 14,
-        "engagement": 15,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A transformer neural network called MacMind was developed using HyperCard on a 1989 Macintosh.  \n• Why it matters: This project showcases the potential of retro computing for modern AI applications, highlighting creativity and resourcefulness.  \n• Business opportunity: There is potential for niche markets in retro computing tools and educational resources that blend old technology with contemporary AI concepts."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A developer created a command-line tool, Sfsym, to export Apple SF Symbols as SVG, PDF, or PNG.  \n• Why it matters: This tool streamlines the design process by allowing easier access to vector graphics from macOS's symbol renderer.  \n• Business opportunity: There is potential for further development of design tools that enhance productivity for designers using Apple’s ecosystem."
     },
     {
-      "id": "hn-1776430889346-180",
-      "title": "Claude Opus 4.7 Model Card",
-      "url": "https://anthropic.com/claude-opus-4-7-system-card",
+      "id": "hn-1776516174754-151",
+      "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
+      "url": "https://mas.to/@carnage4life/116422881496195720",
       "source": "Hacker News",
-      "publishedAt": "2026-04-16T14:32:24.000Z",
+      "publishedAt": "2026-04-18T05:41:15.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 172,
-        "comments": 80
+        "upvotes": 39,
+        "comments": 4
       },
-      "rawTextSnippet": "Claude Opus 4.7 Model Card",
+      "rawTextSnippet": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
       "hnMeta": {
-        "points": 172,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=47793546"
+        "points": 39,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47813428"
       },
-      "score": 66,
+      "score": 60,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: The Claude Opus 4.7 Model Card was released.  \n• Why it matters: This update enhances AI capabilities and transparency in model performance.  \n• Business opportunity: Companies can leverage the improved model for advanced applications in AI-driven solutions."
-    },
-    {
-      "id": "hn-1776430889346-181",
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/claude/opus",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-16T14:29:09.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 186,
-        "comments": 12
-      },
-      "rawTextSnippet": "Claude Opus 4.7",
-      "hnMeta": {
-        "points": 186,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=47793493"
-      },
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Claude Opus 4.7 was released, introducing new features and improvements.  \n• Why it matters: This update enhances user experience and expands capabilities in AI applications.  \n• Business opportunity: Companies can leverage these advancements to improve their AI-driven solutions and services."
-    },
-    {
-      "id": "hn-1776430889346-165",
-      "title": "Finance leaders warn over Mythos as UK banks prepare to use powerful ... AI tool",
-      "url": "https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-17T09:17:02.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 2
-      },
-      "rawTextSnippet": "Finance leaders warn over Mythos as UK banks prepare to use powerful ... AI tool",
-      "hnMeta": {
-        "points": 3,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47803986"
-      },
-      "score": 65,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: UK banks are set to implement the AI tool Mythos, raising concerns among finance leaders.  \n• Why it matters: The adoption of Mythos could significantly impact financial decision-making and risk management.  \n• Business opportunity: Companies can develop solutions to address the challenges and ethical considerations of AI in finance."
-    },
-    {
-      "id": "hn-1776430892147-215",
-      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-16T12:13:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 390,
-        "comments": 282
-      },
-      "rawTextSnippet": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "hnMeta": {
-        "points": 390,
-        "comments": 282,
-        "hnUrl": "https://news.ycombinator.com/item?id=47791871"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A €54k spike occurred in 13 hours due to an unrestricted Firebase browser key accessing Gemini APIs.  \n• Why it matters: This incident highlights vulnerabilities in API security that can lead to significant financial losses.  \n• Business opportunity: Companies can invest in stronger API security measures and monitoring solutions to prevent similar breaches."
-    },
-    {
-      "id": "rss-1776430883294-0",
-      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-17T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a co…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: A theory suggests that many people may have Neanderthal ancestry, impacting perceptions of human evolution.  \n• Why it matters: Understanding our genetic links to Neanderthals can reshape views on human identity and evolution.  \n• Business opportunity: Companies in genetics and ancestry testing can leverage this interest to develop new products and services."
-    },
-    {
-      "id": "rss-1776430883294-1",
-      "title": "The case for fixing everything",
-      "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-17T10:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both coun…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: Stewart Brand's new book emphasizes the critical role of maintenance in civilization.  \n• Why it matters: It highlights the often-overlooked importance of maintaining infrastructure and technology for long-term sustainability.  \n• Business opportunity: Companies can innovate in maintenance solutions and services to enhance efficiency and longevity of assets."
+      "summary": "• What happened: Multiple senior executives at OpenAI have announced their departure.  \n• Why it matters: This leadership change could impact OpenAI's strategic direction and innovation.  \n• Business opportunity: Companies may capitalize on potential disruptions by attracting talent or forming partnerships with OpenAI."
     },
     {
-      "id": "rss-1776430883294-2",
-      "title": "How robots learn: A brief, contemporary history",
-      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-17T10:00:00.000Z",
+      "id": "hn-1776516176169-168",
+      "title": "Anthropic Nerfed Opus 4.6 Before the 4.7 Launch",
+      "url": "https://fagnerbrack.com/how-anthropic-nerfed-opus-4-6-before-the-4-7-launch-c932e383f4f6",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-18T04:01:44.000Z",
       "scoreSignals": {
-        "sourceAuthority": 18
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 3
       },
-      "rawTextSnippet": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the…",
-      "score": 63,
+      "rawTextSnippet": "Anthropic Nerfed Opus 4.6 Before the 4.7 Launch",
+      "hnMeta": {
+        "points": 5,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47813033"
+      },
+      "score": 60,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: Roboticists have shifted focus from ambitious human-like robots to refining simpler, practical applications.  \n• Why it matters: This change highlights the gap between aspirations and achievable technology in robotics.  \n• Business opportunity: There is potential for innovation in developing advanced yet practical robotic solutions for various industries."
-    },
-    {
-      "id": "rss-1776430886027-66",
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-16T22:55:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A startup focused on AI coding for enterprises achieved a $1.5 billion valuation after raising $150 million.  \n• Why it matters: This significant funding highlights the growing demand for AI solutions in enterprise software development.  \n• Business opportunity: Companies can leverage this trend by investing in or partnering with AI coding startups to enhance their software capabilities."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Anthropic reduced the capabilities of Opus 4.6 prior to launching version 4.7.  \n• Why it matters: This move may impact user trust and expectations surrounding the new release.  \n• Business opportunity: Companies can capitalize on potential dissatisfaction by offering alternative AI solutions or enhancements."
     }
   ],
   "trendingTopics": [
     {
-      "name": "Large Language Models",
-      "itemCount": 70,
-      "trendScore": 202,
-      "whyTrending": "70 stories across Hacker, OpenAI, GitHub, 31 in the last 24h.",
-      "topStory": {
-        "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-        "url": "https://github.com/SeanFDZ/macmind"
-      },
-      "items": [
-        {
-          "id": "hn-1776430887933-159",
-          "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-          "url": "https://github.com/SeanFDZ/macmind",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-16T13:16:29.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 140,
-            "comments": 40
-          },
-          "rawTextSnippet": "I trained a transformer in HyperCard. 1,216 parameters. 1989 Macintosh. And yes, it took a while. MacMind is a complete transformer neural network, embeddings, positional encoding, self-attention, backpropagation, and gradient descent, implemented entirely in HyperTalk, the scripting language Apple …",
-          "hnMeta": {
-            "points": 140,
-            "comments": 40,
-            "hnUrl": "https://news.ycombinator.com/item?id=47792525"
-          },
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1776430889346-180",
-          "title": "Claude Opus 4.7 Model Card",
-          "url": "https://anthropic.com/claude-opus-4-7-system-card",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-16T14:32:24.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 172,
-            "comments": 80
-          },
-          "rawTextSnippet": "Claude Opus 4.7 Model Card",
-          "hnMeta": {
-            "points": 172,
-            "comments": 80,
-            "hnUrl": "https://news.ycombinator.com/item?id=47793546"
-          },
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1776430889346-181",
-          "title": "Claude Opus 4.7",
-          "url": "https://www.anthropic.com/claude/opus",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-16T14:29:09.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 186,
-            "comments": 12
-          },
-          "rawTextSnippet": "Claude Opus 4.7",
-          "hnMeta": {
-            "points": 186,
-            "comments": 12,
-            "hnUrl": "https://news.ycombinator.com/item?id=47793493"
-          },
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1776430892147-215",
-          "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-          "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-16T12:13:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 390,
-            "comments": 282
-          },
-          "rawTextSnippet": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-          "hnMeta": {
-            "points": 390,
-            "comments": 282,
-            "hnUrl": "https://news.ycombinator.com/item?id=47791871"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1776430883571-26",
-          "title": "GenAI Fails – A list of epic LLM fails",
-          "url": "https://github.com/hb20007/awesome-gen-ai-fails",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-17T12:02:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 2
-          },
-          "rawTextSnippet": "GenAI Fails – A list of epic LLM fails",
-          "hnMeta": {
-            "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47804969"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        }
-      ]
-    },
-    {
       "name": "General AI",
-      "itemCount": 43,
-      "trendScore": 201,
-      "whyTrending": "43 stories across Hacker, MIT, TechCrunch, 29 in the last 24h.",
+      "itemCount": 49,
+      "trendScore": 207,
+      "whyTrending": "49 stories across Hacker, TechCrunch, MIT, 33 in the last 24h.",
       "topStory": {
-        "title": "Google broke its promise to me – now ICE has my data",
-        "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data"
+        "title": "We reproduced Anthropic's Mythos findings with public models",
+        "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models"
       },
       "items": [
         {
-          "id": "hn-1776430890724-203",
+          "id": "hn-1776516176169-177",
+          "title": "We reproduced Anthropic's Mythos findings with public models",
+          "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-17T14:09:32.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 103,
+            "comments": 56
+          },
+          "rawTextSnippet": "We reproduced Anthropic's Mythos findings with public models",
+          "hnMeta": {
+            "points": 103,
+            "comments": 56,
+            "hnUrl": "https://news.ycombinator.com/item?id=47806116"
+          },
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1776516177545-207",
           "title": "Google broke its promise to me – now ICE has my data",
           "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
           "source": "Hacker News",
           "publishedAt": "2026-04-15T17:44:26.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1681,
-            "comments": 746
+            "upvotes": 1689,
+            "comments": 759
           },
           "rawTextSnippet": "Google broke its promise to me – now ICE has my data",
           "hnMeta": {
-            "points": 1681,
-            "comments": 746,
+            "points": 1689,
+            "comments": 759,
             "hnUrl": "https://news.ycombinator.com/item?id=47782570"
           },
-          "score": 69,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 8,
             "authority": 14,
             "engagement": 25,
             "novelty": 15,
@@ -439,68 +347,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1776430883294-1",
-          "title": "The case for fixing everything",
-          "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-04-17T10:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both coun…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1776430889346-172",
-          "title": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports",
-          "url": "https://www.reuters.com/technology/white-house-give-us-agencies-anthropic-mythos-access-bloomberg-news-reports-2026-04-16/",
+          "id": "hn-1776516174754-151",
+          "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
+          "url": "https://mas.to/@carnage4life/116422881496195720",
           "source": "Hacker News",
-          "publishedAt": "2026-04-16T19:06:45.000Z",
+          "publishedAt": "2026-04-18T05:41:15.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 29,
-            "comments": 17
+            "upvotes": 39,
+            "comments": 4
           },
-          "rawTextSnippet": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports",
+          "rawTextSnippet": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
           "hnMeta": {
-            "points": 29,
-            "comments": 17,
-            "hnUrl": "https://news.ycombinator.com/item?id=47798006"
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1776430889346-167",
-          "title": "Anthropic in talks to give US Government access to its Mythos model",
-          "url": "https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-17T03:24:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 11,
-            "comments": 2
-          },
-          "rawTextSnippet": "Anthropic in talks to give US Government access to its Mythos model",
-          "hnMeta": {
-            "points": 11,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47802163"
+            "points": 39,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47813428"
           },
           "score": 60,
           "scoreBreakdown": {
@@ -513,21 +374,48 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1776430883571-10",
-          "title": "Arrow 1.1, a step forward in SVG generation",
-          "url": "https://quiver.ai/blog/introducing-arrow-1-1/",
+          "id": "hn-1776516170483-10",
+          "title": "Managing Complexity with Mycelium",
+          "url": "https://yogthos.net/posts/2026-02-25-ai-at-scale.html",
           "source": "Hacker News",
-          "publishedAt": "2026-04-17T12:56:54.000Z",
+          "publishedAt": "2026-04-18T12:38:37.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Arrow 1.1, a step forward in SVG generation",
+          "rawTextSnippet": "Managing Complexity with Mycelium",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47805426"
+            "hnUrl": "https://news.ycombinator.com/item?id=47815449"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1776516170483-11",
+          "title": "SemanticForge: Making AI Values Verifiable Across Cultures",
+          "url": "https://github.com/xiaojialove-DRP/SemanticForge",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-18T12:27:17.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "SemanticForge: Making AI Values Verifiable Across Cultures",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47815385"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -542,58 +430,205 @@
       ]
     },
     {
-      "name": "AI Agents & Automation",
-      "itemCount": 34,
-      "trendScore": 186,
-      "whyTrending": "34 stories across Hacker, TechCrunch, arXiv, 24 in the last 24h.",
+      "name": "Large Language Models",
+      "itemCount": 68,
+      "trendScore": 189,
+      "whyTrending": "68 stories across Hacker, MIT, OpenAI, 15 in the last 24h.",
       "topStory": {
-        "title": "Coding Agents Degrade Sandboxes to Security Theater",
-        "url": "https://guardbase.io/blog/coding-agents-degrade-sandboxes-to-security-theater/"
+        "title": "Claude Design",
+        "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
       },
       "items": [
         {
-          "id": "hn-1776430886463-94",
-          "title": "Coding Agents Degrade Sandboxes to Security Theater",
-          "url": "https://guardbase.io/blog/coding-agents-degrade-sandboxes-to-security-theater/",
+          "id": "hn-1776516176169-176",
+          "title": "Claude Design",
+          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
           "source": "Hacker News",
-          "publishedAt": "2026-04-17T08:54:34.000Z",
+          "publishedAt": "2026-04-17T15:04:09.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1082,
+            "comments": 713
+          },
+          "rawTextSnippet": "Related: https:&#x2F;&#x2F;x.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458 ( https:&#x2F;&#x2F;xcancel.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458 )",
+          "hnMeta": {
+            "points": 1082,
+            "comments": 713,
+            "hnUrl": "https://news.ycombinator.com/item?id=47806725"
+          },
+          "score": 76,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 25,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1776516170483-22",
+          "title": "Claude Code Opus 4.7 keeps checking on malware",
+          "url": "https://news.ycombinator.com/item?id=47814832",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-18T10:46:17.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 34,
+            "comments": 33
+          },
+          "rawTextSnippet": "So during development, at every task I start, I see a line like this: `Own bug file — not malware.` It seems that it&#x27;s obsessively checking if it&#x27;s working on malware production. In another situation where I was working on a parser of a HTML document with JS, it refused because it believed…",
+          "hnMeta": {
+            "points": 34,
+            "comments": 33,
+            "hnUrl": "https://news.ycombinator.com/item?id=47814832"
+          },
+          "score": 69,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1776516170483-26",
+          "title": "Claude Opus 4.7 Intelligence, Performance and Price Analysis",
+          "url": "https://artificialanalysis.ai/models/claude-opus-4-7",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-18T10:19:30.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 30,
+            "comments": 1
+          },
+          "rawTextSnippet": "Claude Opus 4.7 Intelligence, Performance and Price Analysis",
+          "hnMeta": {
+            "points": 30,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47814695"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1776516171927-74",
+          "title": "Laimark – 8B LLM that self-improves. Consumer GPU",
+          "url": "https://github.com/seetrex-ai/laimark",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-18T08:18:07.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Laimark – 8B LLM that self-improves. Consumer GPU",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47814175"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1776516171927-75",
+          "title": "BibCrit – LLM grounded in ETCBC corpus data for Biblical textual criticism",
+          "url": "https://github.com/Jossifresben/BibCrit",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-18T08:05:23.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
-            "comments": 2
+            "comments": 0
           },
-          "rawTextSnippet": "Coding Agents Degrade Sandboxes to Security Theater",
+          "rawTextSnippet": "BibCrit – LLM grounded in ETCBC corpus data for Biblical textual criticism",
           "hnMeta": {
             "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47803860"
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47814116"
           },
-          "score": 62,
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        }
+      ]
+    },
+    {
+      "name": "AI Agents & Automation",
+      "itemCount": 28,
+      "trendScore": 163,
+      "whyTrending": "28 stories across Hacker, GitHub, TechCrunch, 13 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
+        "url": "https://github.com/yapstudios/sfsym"
+      },
+      "items": [
+        {
+          "id": "hn-1776516173346-117",
+          "title": "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
+          "url": "https://github.com/yapstudios/sfsym",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-18T03:44:54.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 15,
+            "comments": 3
+          },
+          "rawTextSnippet": "I found myself reaching for SF Symbols&#x27; &#x27;Copy Image As…&#x27; quite often during agentic design sessions, so I made a command-line tool that the agent can use by itself. It exports Apple SF Symbols as SVG, PDF, or PNG. The vector paths come directly from macOS&#x27;s symbol renderer. Inter…",
+          "hnMeta": {
+            "points": 15,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47812964"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1776430883571-11",
-          "title": "Open source protocol for tracking AI agent commitments with proof of delivery",
-          "url": "https://github.com/Redas-Protocol/redas-protocol",
+          "id": "hn-1776516170483-12",
+          "title": "Show HN: ApplyPilot – Self-Hosted AI-Powered Job Search Companion. Open Source",
+          "url": "https://github.com/eliornl/applypilot",
           "source": "Hacker News",
-          "publishedAt": "2026-04-17T12:54:35.000Z",
+          "publishedAt": "2026-04-18T12:17:13.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Open source protocol for tracking AI agent commitments with proof of delivery",
+          "rawTextSnippet": "150 applications. One offer. Each application took 5+ manual steps. Separate tools, separate tabs, separate sites — none of them talking to each other. Generic output. Over an hour per application. Paste a job description — or pull it from any job site with the Chrome extension — and five AI agents …",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47805411"
+            "hnUrl": "https://news.ycombinator.com/item?id=47815326"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -606,21 +641,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1776430883571-12",
-          "title": "Java 26 and the Rise of Agentic AI: The State of the Ecosystem (April 2026)",
-          "url": "https://techlife.blog/posts/java-ecosystem-april-2026/",
+          "id": "hn-1776516170483-16",
+          "title": "Who Uses AI Agents (and Who Just Runs the Demo)",
+          "url": "https://www.bhusalmanish.com.np/blog/posts/who-actually-uses-ai-agents.html",
           "source": "Hacker News",
-          "publishedAt": "2026-04-17T12:49:01.000Z",
+          "publishedAt": "2026-04-18T11:34:46.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Java 26 and the Rise of Agentic AI: The State of the Ecosystem (April 2026)",
+          "rawTextSnippet": "Who Uses AI Agents (and Who Just Runs the Demo)",
           "hnMeta": {
-            "points": 1,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47805372"
+            "hnUrl": "https://news.ycombinator.com/item?id=47815069"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -633,21 +668,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1776430883571-17",
-          "title": "Show HN: Mabon – AI agent that finds jobs continuously and shows strong matches",
-          "url": "https://mabon.ai/",
+          "id": "hn-1776516173346-115",
+          "title": "Soul.md – open file format for AI agent identity",
+          "url": "https://github.com/AntonioTF5/soul-spec",
           "source": "Hacker News",
-          "publishedAt": "2026-04-17T12:32:46.000Z",
+          "publishedAt": "2026-04-18T07:34:51.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "Hey HN I&#x27;d love to get your feedback on Mabon.ai. I think job search is quite tedious for most people. They scan or subscribe to multiple job boards that often send jobs based on just a few keywords, without actually understanding the user&#x27;s intent or what kind of job they &#x27;really&#x2…",
+          "rawTextSnippet": "Soul.md – open file format for AI agent identity",
           "hnMeta": {
             "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47805227"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47813946"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -660,21 +695,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1776430883571-18",
-          "title": "Designing code review for human-agent collaboration",
-          "url": "https://tidewave.ai/blog/code-review",
+          "id": "hn-1776516173346-116",
+          "title": "The agent that grows with you",
+          "url": "https://hermes-agent.nousresearch.com/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-17T12:31:08.000Z",
+          "publishedAt": "2026-04-18T07:27:54.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Designing code review for human-agent collaboration",
+          "rawTextSnippet": "The agent that grows with you",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47805215"
+            "hnUrl": "https://news.ycombinator.com/item?id=47813903"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -690,50 +725,57 @@
     },
     {
       "name": "AI Tools & Products",
-      "itemCount": 14,
-      "trendScore": 131,
-      "whyTrending": "14 stories across MIT, Hacker, TechCrunch, 7 in the last 24h.",
+      "itemCount": 15,
+      "trendScore": 130,
+      "whyTrending": "15 stories across Hacker, TechCrunch, MIT, 7 in the last 24h.",
       "topStory": {
-        "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-        "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/"
+        "title": "Anthropic Nerfed Opus 4.6 Before the 4.7 Launch",
+        "url": "https://fagnerbrack.com/how-anthropic-nerfed-opus-4-6-before-the-4-7-launch-c932e383f4f6"
       },
       "items": [
         {
-          "id": "rss-1776430883294-0",
-          "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-          "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-04-17T12:10:00.000Z",
+          "id": "hn-1776516176169-168",
+          "title": "Anthropic Nerfed Opus 4.6 Before the 4.7 Launch",
+          "url": "https://fagnerbrack.com/how-anthropic-nerfed-opus-4-6-before-the-4-7-launch-c932e383f4f6",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-18T04:01:44.000Z",
           "scoreSignals": {
-            "sourceAuthority": 18
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 3
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a co…",
-          "score": 63,
+          "rawTextSnippet": "Anthropic Nerfed Opus 4.6 Before the 4.7 Launch",
+          "hnMeta": {
+            "points": 5,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47813033"
+          },
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1776430883571-28",
-          "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-          "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+          "id": "hn-1776516170483-15",
+          "title": "Show HN: Ricci Flow – AI Web Scraper",
+          "url": "https://chromewebstore.google.com/detail/ricci-flow-â-ai-web-scrap/ngeodkdeahmlnceiomeeidoidhniopam",
           "source": "Hacker News",
-          "publishedAt": "2026-04-17T11:51:59.000Z",
+          "publishedAt": "2026-04-18T11:34:51.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 2,
+            "comments": 1
           },
-          "rawTextSnippet": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+          "rawTextSnippet": "Ricci Flow – AI Web Scraper for Chrome: AI Data Extraction Tool for Web Scraping to CSV, Excel, JSON",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47804908"
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47815071"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -746,21 +788,21 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1776430885032-48",
-          "title": "Monitoring tool with otel, nagios and Kafka",
-          "url": "https://www.almondmonitor.com",
+          "id": "hn-1776516171927-72",
+          "title": "Show HN: Chlibc – A ptrace-based tool to hot-swap glibc and interp in user-space",
+          "url": "https://github.com/gzm55/chlibc",
           "source": "Hacker News",
-          "publishedAt": "2026-04-17T12:32:43.000Z",
+          "publishedAt": "2026-04-18T08:53:41.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Monitoring tool with otel, nagios and Kafka",
+          "rawTextSnippet": "Hello, I built chlibc, a linux tool to change the system interp and glibc to your custom one. Normally, running an ELF against a different glibc, you&#x27;d use LD_LIBRARY_PATH and patchelf, or use chroot&#x2F;docker. chlibc allows you to change the dynamic linker of a process on the fly without pat…",
           "hnMeta": {
-            "points": 1,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47805226"
+            "hnUrl": "https://news.ycombinator.com/item?id=47814330"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -773,15 +815,15 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "rss-1776430886027-67",
-          "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-          "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+          "id": "rss-1776516172972-95",
+          "title": "&#8216;Tokenmaxxing&#8217; is making developers less productive than they think",
+          "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-04-16T21:58:08.000Z",
+          "publishedAt": "2026-04-17T18:42:45.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+          "rawTextSnippet": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
           "score": 53,
           "scoreBreakdown": {
             "freshness": 22,
@@ -793,26 +835,19 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1776430887933-148",
-          "title": "Show HN: AI compatibility without compromises",
-          "url": "https://supercompat.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-16T20:08:33.000Z",
+          "id": "rss-1776516172972-97",
+          "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+          "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-17T15:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "Built a library to translate between OpenAI Responses&#x2F;Assistants APIs and other provider APIs. Provides full compatibility so it’s a total drop-in regardless of which provider you use or which features (computer use, web search). End goal will be translating between any SDK and any other SDK wi…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47798806"
-          },
-          "score": 51,
+          "rawTextSnippet": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+          "score": 53,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 14,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -823,16 +858,43 @@
     },
     {
       "name": "Funding & Acquisitions",
-      "itemCount": 12,
-      "trendScore": 131,
-      "whyTrending": "12 stories across TechCrunch, Hacker, arXiv, 7 in the last 24h.",
+      "itemCount": 10,
+      "trendScore": 112,
+      "whyTrending": "10 stories across Hacker, TechCrunch, arXiv, 1 in the last 24h.",
       "topStory": {
-        "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-        "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/"
+        "title": "OpenAI Loses Three Executives in One Day as It Refocuses Ahead of IPO",
+        "url": "https://www.wsj.com/tech/ai/chatgpt-openai-ipo-altman-029ae6d5"
       },
       "items": [
         {
-          "id": "rss-1776430886027-66",
+          "id": "hn-1776516174754-150",
+          "title": "OpenAI Loses Three Executives in One Day as It Refocuses Ahead of IPO",
+          "url": "https://www.wsj.com/tech/ai/chatgpt-openai-ipo-altman-029ae6d5",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-18T07:48:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "OpenAI Loses Three Executives in One Day as It Refocuses Ahead of IPO",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47814025"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1776516172972-99",
           "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
           "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
           "source": "TechCrunch AI",
@@ -841,9 +903,9 @@
             "sourceAuthority": 16
           },
           "rawTextSnippet": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-          "score": 62,
+          "score": 55,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
@@ -852,34 +914,7 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "hn-1776430887933-160",
-          "title": "The public sours on AI, data centers as firms look to IPO, tech keeps spending",
-          "url": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-16T13:14:51.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 14,
-            "comments": 0
-          },
-          "rawTextSnippet": "The public sours on AI, data centers as firms look to IPO, tech keeps spending",
-          "hnMeta": {
-            "points": 14,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47792514"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1776430886027-68",
+          "id": "rss-1776516172972-101",
           "title": "Upscale AI in talks to raise at $2B valuation, says report",
           "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
           "source": "TechCrunch AI",
@@ -888,9 +923,9 @@
             "sourceAuthority": 16
           },
           "rawTextSnippet": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-          "score": 56,
+          "score": 49,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
@@ -899,7 +934,7 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1776430886027-69",
+          "id": "rss-1776516172972-102",
           "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
           "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
           "source": "TechCrunch AI",
@@ -908,9 +943,9 @@
             "sourceAuthority": 16
           },
           "rawTextSnippet": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-          "score": 56,
+          "score": 49,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
@@ -919,7 +954,7 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1776430886027-76",
+          "id": "rss-1776516172972-109",
           "title": "Google is now targeting bad ads over bad actors",
           "url": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
           "source": "TechCrunch AI",
@@ -928,9 +963,9 @@
             "sourceAuthority": 16
           },
           "rawTextSnippet": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
-          "score": 56,
+          "score": 49,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
@@ -943,21 +978,49 @@
   ],
   "toolLaunches": [
     {
-      "id": "hn-1776430889346-180",
-      "title": "Claude Opus 4.7 Model Card",
-      "url": "https://anthropic.com/claude-opus-4-7-system-card",
+      "id": "hn-1776516170483-22",
+      "title": "Claude Code Opus 4.7 keeps checking on malware",
+      "url": "https://news.ycombinator.com/item?id=47814832",
       "source": "Hacker News",
-      "publishedAt": "2026-04-16T14:32:24.000Z",
+      "publishedAt": "2026-04-18T10:46:17.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 172,
-        "comments": 80
+        "upvotes": 34,
+        "comments": 33
       },
-      "rawTextSnippet": "Claude Opus 4.7 Model Card",
+      "rawTextSnippet": "So during development, at every task I start, I see a line like this: `Own bug file — not malware.` It seems that it&#x27;s obsessively checking if it&#x27;s working on malware production. In another situation where I was working on a parser of a HTML document with JS, it refused because it believed…",
       "hnMeta": {
-        "points": 172,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=47793546"
+        "points": 34,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=47814832"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Code Opus 4.7 continuously verifies that it is not involved in malware production during development tasks.  \n• Why it matters: This persistent checking enhances security and trust in software development processes.  \n• Business opportunity: Companies can leverage this feature to promote safer coding practices and attract clients focused on cybersecurity."
+    },
+    {
+      "id": "hn-1776516176169-177",
+      "title": "We reproduced Anthropic's Mythos findings with public models",
+      "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-17T14:09:32.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 103,
+        "comments": 56
+      },
+      "rawTextSnippet": "We reproduced Anthropic's Mythos findings with public models",
+      "hnMeta": {
+        "points": 103,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=47806116"
       },
       "score": 66,
       "scoreBreakdown": {
@@ -967,74 +1030,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: The Claude Opus 4.7 Model Card was released.  \n• Why it matters: This update enhances AI capabilities and transparency in model performance.  \n• Business opportunity: Companies can leverage improved AI models for better decision-making and innovation."
+      "cluster": "General AI",
+      "summary": "• What happened: Researchers successfully replicated Anthropic's Mythos findings using publicly available models.  \n• Why it matters: This demonstrates the effectiveness of open-source models in achieving advanced AI results.  \n• Business opportunity: Companies can leverage public models for cost-effective AI development and innovation."
     },
     {
-      "id": "hn-1776430892147-215",
-      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+      "id": "hn-1776516174754-151",
+      "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
+      "url": "https://mas.to/@carnage4life/116422881496195720",
       "source": "Hacker News",
-      "publishedAt": "2026-04-16T12:13:30.000Z",
+      "publishedAt": "2026-04-18T05:41:15.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 390,
-        "comments": 282
+        "upvotes": 39,
+        "comments": 4
       },
-      "rawTextSnippet": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "rawTextSnippet": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
       "hnMeta": {
-        "points": 390,
-        "comments": 282,
-        "hnUrl": "https://news.ycombinator.com/item?id=47791871"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A €54k spike occurred in 13 hours due to an unrestricted Firebase browser key accessing Gemini APIs.  \n• Why it matters: This incident highlights vulnerabilities in API security that can lead to significant financial losses.  \n• Business opportunity: Companies can invest in robust API security solutions to prevent unauthorized access and protect their assets."
-    },
-    {
-      "id": "rss-1776430883294-0",
-      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-17T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a co…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: New research challenges the idea that modern humans have significant Neanderthal ancestry.  \n• Why it matters: This impacts our understanding of human evolution and identity.  \n• Business opportunity: Companies in genetics and ancestry testing could innovate services based on evolving scientific insights."
-    },
-    {
-      "id": "hn-1776430889346-167",
-      "title": "Anthropic in talks to give US Government access to its Mythos model",
-      "url": "https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-17T03:24:38.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 11,
-        "comments": 2
-      },
-      "rawTextSnippet": "Anthropic in talks to give US Government access to its Mythos model",
-      "hnMeta": {
-        "points": 11,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47802163"
+        "points": 39,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47813428"
       },
       "score": 60,
       "scoreBreakdown": {
@@ -1044,24 +1058,52 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI"
+      "cluster": "General AI",
+      "summary": "• What happened: Multiple senior executives at OpenAI have announced their departure.  \n• Why it matters: This leadership change could impact OpenAI's strategic direction and innovation.  \n• Business opportunity: Companies may seek to attract talent from OpenAI's departing executives to enhance their own AI initiatives."
     },
     {
-      "id": "hn-1776430883571-11",
-      "title": "Open source protocol for tracking AI agent commitments with proof of delivery",
-      "url": "https://github.com/Redas-Protocol/redas-protocol",
+      "id": "hn-1776516176169-168",
+      "title": "Anthropic Nerfed Opus 4.6 Before the 4.7 Launch",
+      "url": "https://fagnerbrack.com/how-anthropic-nerfed-opus-4-6-before-the-4-7-launch-c932e383f4f6",
       "source": "Hacker News",
-      "publishedAt": "2026-04-17T12:54:35.000Z",
+      "publishedAt": "2026-04-18T04:01:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 3
+      },
+      "rawTextSnippet": "Anthropic Nerfed Opus 4.6 Before the 4.7 Launch",
+      "hnMeta": {
+        "points": 5,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47813033"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products"
+    },
+    {
+      "id": "hn-1776516170483-12",
+      "title": "Show HN: ApplyPilot – Self-Hosted AI-Powered Job Search Companion. Open Source",
+      "url": "https://github.com/eliornl/applypilot",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-18T12:17:13.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Open source protocol for tracking AI agent commitments with proof of delivery",
+      "rawTextSnippet": "150 applications. One offer. Each application took 5+ manual steps. Separate tools, separate tabs, separate sites — none of them talking to each other. Generic output. Over an hour per application. Paste a job description — or pull it from any job site with the Chrome extension — and five AI agents …",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47805411"
+        "hnUrl": "https://news.ycombinator.com/item?id=47815326"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1077,7 +1119,7 @@
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1776430887870-134",
+      "id": "arxiv-1776516170747-52",
       "title": "MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events",
       "url": "https://arxiv.org/abs/2604.15203v1",
       "source": "arXiv",
@@ -1094,9 +1136,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1105,7 +1147,7 @@
       "cluster": "Research & Benchmarks"
     },
     {
-      "id": "arxiv-1776430887870-136",
+      "id": "arxiv-1776516170747-54",
       "title": "Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation",
       "url": "https://arxiv.org/abs/2604.15190v1",
       "source": "arXiv",
@@ -1122,9 +1164,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1133,7 +1175,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1776430887870-116",
+      "id": "arxiv-1776516170746-34",
       "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
       "url": "https://arxiv.org/abs/2604.15309v1",
       "source": "arXiv",
@@ -1150,9 +1192,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1161,7 +1203,7 @@
       "cluster": "Generative AI & Media"
     },
     {
-      "id": "arxiv-1776430887870-117",
+      "id": "arxiv-1776516170746-35",
       "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
       "url": "https://arxiv.org/abs/2604.15306v1",
       "source": "arXiv",
@@ -1178,9 +1220,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1189,7 +1231,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1776430887870-118",
+      "id": "arxiv-1776516170746-36",
       "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
       "url": "https://arxiv.org/abs/2604.15302v1",
       "source": "arXiv",
@@ -1206,9 +1248,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1219,7 +1261,35 @@
   ],
   "funding": [
     {
-      "id": "rss-1776430886027-66",
+      "id": "hn-1776516174754-150",
+      "title": "OpenAI Loses Three Executives in One Day as It Refocuses Ahead of IPO",
+      "url": "https://www.wsj.com/tech/ai/chatgpt-openai-ipo-altman-029ae6d5",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-18T07:48:18.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "OpenAI Loses Three Executives in One Day as It Refocuses Ahead of IPO",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47814025"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI experienced the departure of three executives in a single day.  \n• Why it matters: This leadership shift signals a strategic refocus as the company prepares for its upcoming IPO.  \n• Business opportunity: Investors may find potential in OpenAI's restructuring efforts and future growth prospects post-IPO."
+    },
+    {
+      "id": "rss-1776516172972-99",
       "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
       "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
       "source": "TechCrunch AI",
@@ -1228,47 +1298,19 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-      "score": 62,
+      "score": 55,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 9
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A startup focused on AI coding for enterprises achieved a $1.5 billion valuation after raising $150 million.  \n• Why it matters: This significant funding highlights the growing demand for AI solutions in enterprise software development.  \n• Business opportunity: Companies can leverage this technology to enhance coding efficiency and reduce development costs."
+      "summary": "• What happened: A startup focused on AI coding for enterprises reached a $1.5 billion valuation after raising $150 million.  \n• Why it matters: This significant funding highlights the growing demand for AI solutions in enterprise software development.  \n• Business opportunity: Companies can leverage this technology to enhance coding efficiency and reduce development costs."
     },
     {
-      "id": "hn-1776430887933-160",
-      "title": "The public sours on AI, data centers as firms look to IPO, tech keeps spending",
-      "url": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-16T13:14:51.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 14,
-        "comments": 0
-      },
-      "rawTextSnippet": "The public sours on AI, data centers as firms look to IPO, tech keeps spending",
-      "hnMeta": {
-        "points": 14,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47792514"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Public sentiment towards AI and data centers has declined as companies prepare for IPOs.  \n• Why it matters: This shift in perception could impact investment and regulatory landscapes for tech firms.  \n• Business opportunity: Companies can pivot to address public concerns and innovate in responsible AI and sustainable data center practices."
-    },
-    {
-      "id": "rss-1776430886027-68",
+      "id": "rss-1776516172972-101",
       "title": "Upscale AI in talks to raise at $2B valuation, says report",
       "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
       "source": "TechCrunch AI",
@@ -1277,19 +1319,19 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-      "score": 56,
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Upscale AI is in discussions to raise funds at a $2 billion valuation.  \n• Why it matters: This funding round highlights investor confidence in AI infrastructure amidst rapid industry growth.  \n• Business opportunity: Companies can explore partnerships or investments in AI infrastructure to capitalize on emerging technologies."
+      "summary": "• What happened: Upscale AI is in discussions to raise funds at a $2 billion valuation.  \n• Why it matters: This marks the company's third funding round in just seven months, indicating strong investor interest.  \n• Business opportunity: Investors may capitalize on the growing demand for AI infrastructure solutions."
     },
     {
-      "id": "rss-1776430886027-76",
+      "id": "rss-1776516172972-109",
       "title": "Google is now targeting bad ads over bad actors",
       "url": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
       "source": "TechCrunch AI",
@@ -1298,9 +1340,9 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.",
-      "score": 56,
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
@@ -1309,7 +1351,7 @@
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1776430886027-71",
+      "id": "rss-1776516172972-104",
       "title": "Anthropic CPO leaves Figma&#8217;s board after reports he will offer a competing product",
       "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
       "source": "TechCrunch AI",
@@ -1318,9 +1360,9 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
-      "score": 53,
+      "score": 46,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
@@ -1329,5 +1371,5 @@
       "cluster": "AI in Enterprise"
     }
   ],
-  "dailyBrief": "In a significant breach of trust, Google has reportedly shared user data with ICE, raising concerns over privacy and data management practices that could impact business reputations and regulatory scrutiny. Meanwhile, the introduction of Claude Opus 4.7, a new AI model, promises enhanced capabilities that could reshape operational efficiencies across industries. Additionally, finance leaders in the UK are expressing caution over the deployment of the Mythos AI tool, emphasizing the need for robust governance frameworks as banks prepare to integrate powerful AI technologies into their operations. These developments underscore the critical intersection of AI innovation and ethical considerations, which businesses must navigate to maintain stakeholder trust and compliance."
+  "dailyBrief": "Today, Claude Design's latest updates, including the release of Claude Opus 4.7, emphasize enhanced intelligence and performance metrics, crucial for businesses relying on AI for operational efficiency. Notably, the new version continues to monitor for malware, addressing security concerns that are paramount for organizations integrating AI solutions. In a related development, researchers successfully replicated Anthropic's Mythos findings using public models, highlighting the growing accessibility of advanced AI capabilities. Meanwhile, Atlassian's new data collection policy appears to favor larger clients, raising concerns about equitable access to AI tools for smaller businesses. These developments underscore the need for companies to stay agile and informed as the AI landscape evolves rapidly, impacting competitive dynamics and operational strategies."
 }
