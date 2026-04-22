@@ -1,105 +1,168 @@
 {
   "topNews": [
     {
-      "id": "hn-1776776797488-188",
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "id": "hn-1776863373141-180",
+      "title": "Claude Code to be removed from Anthropic's Pro plan?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
       "source": "Hacker News",
-      "publishedAt": "2026-04-21T03:43:03.000Z",
+      "publishedAt": "2026-04-21T21:03:04.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 286,
-        "comments": 176
+        "upvotes": 599,
+        "comments": 554
       },
-      "rawTextSnippet": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "rawTextSnippet": "https:&#x2F;&#x2F;x.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;2046725498592722972 https:&#x2F;&#x2F;xcancel.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;204672549859272297...",
       "hnMeta": {
-        "points": 286,
-        "comments": 176,
-        "hnUrl": "https://news.ycombinator.com/item?id=47844269"
+        "points": 599,
+        "comments": 554,
+        "hnUrl": "https://news.ycombinator.com/item?id=47854477"
       },
-      "score": 75,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Anthropic has reinstated the use of OpenClaw-style Claude CLI.  \n• Why it matters: This decision enhances user access and flexibility in utilizing Claude's capabilities.  \n• Business opportunity: Companies can leverage this renewed access to integrate advanced AI functionalities into their applications."
-    },
-    {
-      "id": "hn-1776776795930-149",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-20T21:20:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 275,
-        "comments": 139
-      },
-      "rawTextSnippet": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-      "hnMeta": {
-        "points": 275,
-        "comments": 139,
-        "hnUrl": "https://news.ycombinator.com/item?id=47840980"
-      },
-      "score": 71,
+      "score": 76,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 14,
-        "engagement": 20,
+        "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: OpenAI's advertising partner is now offering ad placements within ChatGPT based on the relevance of user prompts.  \n• Why it matters: This innovation allows for more targeted advertising, potentially increasing engagement and effectiveness.  \n• Business opportunity: Companies can leverage prompt-relevant ads to enhance brand visibility and user interaction within AI platforms."
+      "summary": "• What happened: Anthropic may remove Claude Code from its Pro plan.  \n• Why it matters: This change could impact users relying on Claude Code for development tasks.  \n• Business opportunity: Companies could explore alternative coding solutions or enhance their own AI offerings."
     },
     {
-      "id": "hn-1776776793124-84",
-      "title": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
-      "url": "https://arxiv.org/abs/2604.15356",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-21T02:11:14.000Z",
+      "id": "rss-1776863367234-1",
+      "title": "AI needs a strong data fabric to deliver business value",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-22T10:05:06.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 44,
-        "comments": 38
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
-      "hnMeta": {
-        "points": 44,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=47843715"
-      },
-      "score": 65,
+      "rawTextSnippet": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t…",
+      "score": 69,
       "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 10,
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 6
       },
-      "cluster": "General AI",
-      "summary": "• What happened: KV Cache achieved a compression rate 900,000 times greater than TurboQuant.  \n• Why it matters: This breakthrough significantly enhances data storage efficiency and processing speed.  \n• Business opportunity: Companies can leverage this technology to reduce costs and improve performance in data-heavy applications."
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: AI is rapidly transitioning from experimentation to widespread implementation in various business functions.  \n• Why it matters: Effective AI deployment requires a robust data fabric to ensure data accessibility and integration.  \n• Business opportunity: Companies can enhance AI effectiveness by investing in data infrastructure solutions that support seamless data management."
     },
     {
-      "id": "hn-1776776793124-73",
-      "title": "How well do LLMs work outside English? We tested 8 models in 8 languages [pdf]",
-      "url": "https://info.rws.com/hubfs/2026/trainai/llm-data-gen-study-2.0-campaign/trainai-multilingual-llm-synthetic-data-gen-study-2.0.pdf",
+      "id": "rss-1776863370048-96",
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-22T12:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Google Cloud has signed a multi-billion-dollar deal with Mira Murati's Thinking Machines Lab for AI infrastructure.  \n• Why it matters: This partnership enhances Google's AI capabilities and strengthens its position in the competitive cloud market.  \n• Business opportunity: Companies can leverage advanced AI infrastructure for innovative solutions and improved operational efficiency."
+    },
+    {
+      "id": "hn-1776863367484-23",
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
       "source": "Hacker News",
-      "publishedAt": "2026-04-21T11:24:24.000Z",
+      "publishedAt": "2026-04-22T12:15:29.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 5
+        "upvotes": 28,
+        "comments": 9
       },
-      "rawTextSnippet": "How well do LLMs work outside English? We tested 8 models in 8 languages [pdf]",
+      "rawTextSnippet": "Our eighth generation TPUs: two chips for the agentic era",
       "hnMeta": {
-        "points": 2,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=47847282"
+        "points": 28,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=47862497"
+      },
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: The introduction of eighth generation TPUs aims to enhance AI capabilities.  \n• Why it matters: These chips are designed to support advanced AI applications, driving innovation in various sectors.  \n• Business opportunity: Companies can leverage these TPUs to develop more efficient AI solutions, improving competitiveness."
+    },
+    {
+      "id": "hn-1776863368905-71",
+      "title": "Kernel code removals driven by LLM-created security reports",
+      "url": "https://lwn.net/Articles/1068928/",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-22T11:48:07.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 16,
+        "comments": 1
+      },
+      "rawTextSnippet": "Kernel code removals driven by LLM-created security reports",
+      "hnMeta": {
+        "points": 16,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47862230"
+      },
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: LLM-generated security reports have led to the removal of certain kernel code.  \n• Why it matters: This highlights the growing influence of AI in enhancing software security and code management.  \n• Business opportunity: Companies can leverage LLMs to improve security audits and streamline code maintenance processes."
+    },
+    {
+      "id": "rss-1776863370048-93",
+      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-22T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks",
+      "summary": "• What happened: 10x Science secured a $4.8 million seed round to aid pharmaceutical researchers in analyzing complex molecules.  \n• Why it matters: The surge in AI-generated drug candidates necessitates effective evaluation to identify viable options.  \n• Business opportunity: There is potential for growth in tools that streamline drug discovery and assessment processes."
+    },
+    {
+      "id": "hn-1776863373141-166",
+      "title": "Mythos Falls into the Wrong Hands",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-22T11:48:58.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 8,
+        "comments": 4
+      },
+      "rawTextSnippet": "Mythos Falls into the Wrong Hands",
+      "hnMeta": {
+        "points": 8,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47862241"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -109,19 +172,68 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Eight language models were tested for performance in eight non-English languages.  \n• Why it matters: The findings highlight the effectiveness and limitations of LLMs in diverse linguistic contexts.  \n• Business opportunity: Companies can leverage insights to improve multilingual AI applications and expand global reach."
+      "cluster": "General AI",
+      "summary": "• What happened: Mythos, a significant technology or asset, has been compromised and is now in unauthorized possession.  \n• Why it matters: This incident raises concerns about security vulnerabilities and potential misuse of valuable technologies.  \n• Business opportunity: Companies can capitalize on this by offering enhanced security solutions and risk management services."
     },
     {
-      "id": "rss-1776776791534-0",
-      "title": "The Download: turning down human noise, and LA&#8217;s stunning subway upgrade",
-      "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
+      "id": "hn-1776863373141-167",
+      "title": "Anthropic investigating unauthorised access of powerful Mythos AI model",
+      "url": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-22T11:15:57.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 11,
+        "comments": 4
+      },
+      "rawTextSnippet": "Anthropic investigating unauthorised access of powerful Mythos AI model",
+      "hnMeta": {
+        "points": 11,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47861937"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic is investigating unauthorized access to its powerful Mythos AI model.  \n• Why it matters: This breach raises concerns about data security and the integrity of AI systems.  \n• Business opportunity: Companies can capitalize on the demand for enhanced cybersecurity solutions in AI development."
+    },
+    {
+      "id": "rss-1776863367234-0",
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-04-21T12:10:00.000Z",
+      "publishedAt": "2026-04-22T12:10:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For…",
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: MIT Technology Review launched a newsletter highlighting the 10 most significant developments in AI.  \n• Why it matters: This initiative aims to clarify the overwhelming information and hype surrounding AI advancements.  \n• Business opportunity: Companies can leverage this curated insight to inform strategic decisions and identify emerging trends in AI."
+    },
+    {
+      "id": "rss-1776863367234-2",
+      "title": "3 things Michelle Kim is into right now",
+      "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-22T10:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegy…",
       "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
@@ -131,223 +243,36 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: Research highlights the negative impact of human noise on animal communication.  \n• Why it matters: Reducing noise pollution is crucial for wildlife conservation and ecosystem health.  \n• Business opportunity: Companies can develop noise-reduction technologies or services to support environmental sustainability initiatives."
-    },
-    {
-      "id": "rss-1776776791534-1",
-      "title": "Digging for clues about the North Pole&#8217;s past",
-      "url": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-21T10:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "In the past, even with an icebreaker and during peak melt season, getting to the North Pole wasn’t a sure bet. It took favorable winds to crack the frozen ocean surface, and ships had to fight through ice that had grown many meters thick over several winters. In the summer of 2025, though, Jochen Kn…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Researchers are exploring the North Pole's past as ice conditions improve for access.  \n• Why it matters: Understanding historical climate data is crucial for predicting future climate changes.  \n• Business opportunity: Companies can invest in Arctic research and tourism as accessibility increases."
-    },
-    {
-      "id": "hn-1776776791724-19",
-      "title": "Show HN: Flight Risk: Can you break an AI agent?",
-      "url": "https://ctf.demo.lorikeetcx.ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-21T12:28:56.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "I built a security game that lets you try to break an AI support agent. I work on security engineering, and it&#x27;s incredibly hard to try to defend against an attack that you don&#x27;t know how to perform yourself. There&#x27;s also next to nowhere to improve your skills. I&#x27;d heard all abou…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47847848"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A security game called Flight Risk was created to challenge users to break an AI support agent.  \n• Why it matters: It addresses the difficulty of defending against unknown AI attacks and provides a platform for skill improvement.  \n• Business opportunity: There is potential to develop training tools and simulations for security professionals to enhance their AI defense skills."
-    },
-    {
-      "id": "hn-1776776794525-116",
-      "title": "Show HN: Gortex – MCP server for cross-repo code intelligence",
-      "url": "https://github.com/zzet/gortex",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-21T11:53:48.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "The core idea doesn&#x27;t seem new after the hype of a few similar tools. I wanted to have a solution for a smart search between repositories, contract recognition (across repositories&#x2F;business flows), where they&#x27;re broken, and where a bug sits in multi-step user interaction, considering …",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47847513"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: A new tool called Gortex was introduced for cross-repository code intelligence.  \n• Why it matters: It aims to enhance code search and bug identification across multiple repositories.  \n• Business opportunity: Companies can leverage Gortex to improve software development efficiency and reduce debugging time."
-    },
-    {
-      "id": "hn-1776776794526-123",
-      "title": "AI agents are a security nightmare. Moving the dev workflow to QEMU",
-      "url": "https://hozan23.com/posts/ai-security-nightmare/",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-21T07:33:21.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "AI agents are a security nightmare. Moving the dev workflow to QEMU",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47845691"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: AI agents have been identified as significant security risks, prompting a shift in development workflows to QEMU.  \n• Why it matters: This change aims to enhance security measures in software development, addressing vulnerabilities associated with AI.  \n• Business opportunity: Companies can develop and offer secure development environments and tools that leverage QEMU to mitigate AI-related security threats."
-    },
-    {
-      "id": "hn-1776776795930-154",
-      "title": "ChatGPT and Codex Down",
-      "url": "https://status.openai.com/history",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-20T14:37:48.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 32,
-        "comments": 12
-      },
-      "rawTextSnippet": "ChatGPT and Codex Down",
-      "hnMeta": {
-        "points": 32,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=47835039"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: ChatGPT and Codex experienced a service outage.  \n• Why it matters: This disruption affects users relying on AI for various tasks, highlighting system vulnerabilities.  \n• Business opportunity: Companies can explore alternative AI solutions or enhance infrastructure to prevent future outages."
+      "summary": "• What happened: Michelle Kim highlights her interest in virtual idols, specifically the K-pop girl group Isegye Idol.  \n• Why it matters: This trend showcases the growing popularity of digital personas in entertainment, merging technology with traditional music.  \n• Business opportunity: Companies can explore partnerships in virtual idol creation and marketing to tap into the expanding digital entertainment market."
     }
   ],
   "trendingTopics": [
     {
-      "name": "Large Language Models",
-      "itemCount": 65,
-      "trendScore": 204,
-      "whyTrending": "65 stories across Hacker, arXiv, GitHub, 34 in the last 24h.",
+      "name": "General AI",
+      "itemCount": 48,
+      "trendScore": 213,
+      "whyTrending": "48 stories across Hacker, MIT, DeepMind, 42 in the last 24h.",
       "topStory": {
-        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-        "url": "https://docs.openclaw.ai/providers/anthropic"
+        "title": "Mythos Falls into the Wrong Hands",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security"
       },
       "items": [
         {
-          "id": "hn-1776776797488-188",
-          "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-          "url": "https://docs.openclaw.ai/providers/anthropic",
+          "id": "hn-1776863373141-166",
+          "title": "Mythos Falls into the Wrong Hands",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
           "source": "Hacker News",
-          "publishedAt": "2026-04-21T03:43:03.000Z",
+          "publishedAt": "2026-04-22T11:48:58.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 286,
-            "comments": 176
+            "upvotes": 8,
+            "comments": 4
           },
-          "rawTextSnippet": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+          "rawTextSnippet": "Mythos Falls into the Wrong Hands",
           "hnMeta": {
-            "points": 286,
-            "comments": 176,
-            "hnUrl": "https://news.ycombinator.com/item?id=47844269"
-          },
-          "score": 75,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1776776795930-149",
-          "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-          "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-20T21:20:52.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 275,
-            "comments": 139
-          },
-          "rawTextSnippet": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-          "hnMeta": {
-            "points": 275,
-            "comments": 139,
-            "hnUrl": "https://news.ycombinator.com/item?id=47840980"
-          },
-          "score": 71,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1776776793124-73",
-          "title": "How well do LLMs work outside English? We tested 8 models in 8 languages [pdf]",
-          "url": "https://info.rws.com/hubfs/2026/trainai/llm-data-gen-study-2.0-campaign/trainai-multilingual-llm-synthetic-data-gen-study-2.0.pdf",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-21T11:24:24.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 5
-          },
-          "rawTextSnippet": "How well do LLMs work outside English? We tested 8 models in 8 languages [pdf]",
-          "hnMeta": {
-            "points": 2,
-            "comments": 5,
-            "hnUrl": "https://news.ycombinator.com/item?id=47847282"
+            "points": 8,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47862241"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -357,157 +282,170 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1776776795930-154",
-          "title": "ChatGPT and Codex Down",
-          "url": "https://status.openai.com/history",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-20T14:37:48.000Z",
+          "id": "rss-1776863367234-2",
+          "title": "3 things Michelle Kim is into right now",
+          "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-04-22T10:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 32,
-            "comments": 12
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "ChatGPT and Codex Down",
-          "hnMeta": {
-            "points": 32,
-            "comments": 12,
-            "hnUrl": "https://news.ycombinator.com/item?id=47835039"
-          },
-          "score": 61,
+          "rawTextSnippet": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegy…",
+          "score": 63,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1776776800282-213",
-          "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
-          "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-20T15:22:01.000Z",
+          "id": "rss-1776863367234-3",
+          "title": "One town’s scheme to get rid of its geese",
+          "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-04-22T10:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 132,
-            "comments": 22
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
-          "hnMeta": {
-            "points": 132,
-            "comments": 22,
-            "hnUrl": "https://news.ycombinator.com/item?id=47835646"
-          },
-          "score": 61,
+          "rawTextSnippet": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part…",
+          "score": 63,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1776863367234-4",
+          "title": "There is no nature anymore",
+          "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-04-22T10:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scien…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1776863367234-5",
+          "title": "Los Angeles is finally going underground",
+          "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-04-22T10:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolley…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
         }
       ]
     },
     {
-      "name": "General AI",
-      "itemCount": 50,
-      "trendScore": 203,
-      "whyTrending": "50 stories across Hacker, MIT, GitHub, 31 in the last 24h.",
+      "name": "Large Language Models",
+      "itemCount": 66,
+      "trendScore": 205,
+      "whyTrending": "66 stories across Hacker, GitHub, TechCrunch, 36 in the last 24h.",
       "topStory": {
-        "title": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
-        "url": "https://arxiv.org/abs/2604.15356"
+        "title": "Claude Code to be removed from Anthropic's Pro plan?",
+        "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a"
       },
       "items": [
         {
-          "id": "hn-1776776793124-84",
-          "title": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
-          "url": "https://arxiv.org/abs/2604.15356",
+          "id": "hn-1776863373141-180",
+          "title": "Claude Code to be removed from Anthropic's Pro plan?",
+          "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
           "source": "Hacker News",
-          "publishedAt": "2026-04-21T02:11:14.000Z",
+          "publishedAt": "2026-04-21T21:03:04.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 44,
-            "comments": 38
+            "upvotes": 599,
+            "comments": 554
           },
-          "rawTextSnippet": "KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit",
+          "rawTextSnippet": "https:&#x2F;&#x2F;x.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;2046725498592722972 https:&#x2F;&#x2F;xcancel.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;204672549859272297...",
           "hnMeta": {
-            "points": 44,
-            "comments": 38,
-            "hnUrl": "https://news.ycombinator.com/item?id=47843715"
+            "points": 599,
+            "comments": 554,
+            "hnUrl": "https://news.ycombinator.com/item?id=47854477"
           },
-          "score": 65,
+          "score": 76,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 22,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 25,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1776776791534-0",
-          "title": "The Download: turning down human noise, and LA&#8217;s stunning subway upgrade",
-          "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-04-21T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1776776791534-1",
-          "title": "Digging for clues about the North Pole&#8217;s past",
-          "url": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-04-21T10:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "In the past, even with an icebreaker and during peak melt season, getting to the North Pole wasn’t a sure bet. It took favorable winds to crack the frozen ocean surface, and ships had to fight through ice that had grown many meters thick over several winters. In the summer of 2025, though, Jochen Kn…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1776776797488-194",
-          "title": "Rumor: Anthropic is going to buy Atlassian?",
-          "url": "https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/",
+          "id": "hn-1776863368905-71",
+          "title": "Kernel code removals driven by LLM-created security reports",
+          "url": "https://lwn.net/Articles/1068928/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-20T19:24:11.000Z",
+          "publishedAt": "2026-04-22T11:48:07.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 21,
-            "comments": 22
+            "upvotes": 16,
+            "comments": 1
           },
-          "rawTextSnippet": "Rumor: Anthropic is going to buy Atlassian?",
+          "rawTextSnippet": "Kernel code removals driven by LLM-created security reports",
           "hnMeta": {
-            "points": 21,
-            "comments": 22,
-            "hnUrl": "https://news.ycombinator.com/item?id=47839283"
+            "points": 16,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47862230"
+          },
+          "score": 67,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1776863373141-176",
+          "title": "Claude Code Removed from $20-a-Month \"Pro\" Subscription for New Users",
+          "url": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-21T22:56:09.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 74,
+            "comments": 34
+          },
+          "rawTextSnippet": "Claude Code Removed from $20-a-Month \"Pro\" Subscription for New Users",
+          "hnMeta": {
+            "points": 74,
+            "comments": 34,
+            "hnUrl": "https://news.ycombinator.com/item?id=47855832"
           },
           "score": 61,
           "scoreBreakdown": {
@@ -517,144 +455,144 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1776776797488-197",
-          "title": "Yann LeCun says Dario Amodei \"knows nothing about AI effects on jobs\"",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-and-metas-most-popular-ex-employee-yann-lecun-says-anthropic-ceo-dario-amodei-knows-absolutely-nothing-about-ai-effects-on-jobs-dario-is-wrong/articleshow/130377621.cms",
+          "id": "hn-1776863367484-17",
+          "title": "Chat-py: A Python port of Vercel's chat SDK",
+          "url": "https://github.com/desplega-ai/chat-py",
           "source": "Hacker News",
-          "publishedAt": "2026-04-20T14:21:26.000Z",
+          "publishedAt": "2026-04-22T12:33:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 25,
-            "comments": 19
+            "upvotes": 1,
+            "comments": 1
           },
-          "rawTextSnippet": "Yann LeCun says Dario Amodei \"knows nothing about AI effects on jobs\"",
+          "rawTextSnippet": "Chat-py: A Python port of Vercel's chat SDK",
           "hnMeta": {
-            "points": 25,
-            "comments": 19,
-            "hnUrl": "https://news.ycombinator.com/item?id=47834792"
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47862668"
           },
-          "score": 61,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1776863367484-27",
+          "title": "AIGregate: Automated Tech Newsletter with Hugo and Google Gemini API",
+          "url": "https://github.com/filipemd/aigregate",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-22T11:53:49.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "AIGregate: Automated Tech Newsletter with Hugo and Google Gemini API",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47862281"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
         }
       ]
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 24,
-      "trendScore": 170,
-      "whyTrending": "24 stories across Hacker, arXiv, MIT, 17 in the last 24h.",
+      "itemCount": 27,
+      "trendScore": 173,
+      "whyTrending": "27 stories across Hacker, TechCrunch, arXiv, 18 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Flight Risk: Can you break an AI agent?",
-        "url": "https://ctf.demo.lorikeetcx.ai/"
+        "title": "Our eighth generation TPUs: two chips for the agentic era",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/"
       },
       "items": [
         {
-          "id": "hn-1776776791724-19",
-          "title": "Show HN: Flight Risk: Can you break an AI agent?",
-          "url": "https://ctf.demo.lorikeetcx.ai/",
+          "id": "hn-1776863367484-23",
+          "title": "Our eighth generation TPUs: two chips for the agentic era",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-21T12:28:56.000Z",
+          "publishedAt": "2026-04-22T12:15:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 28,
+            "comments": 9
           },
-          "rawTextSnippet": "I built a security game that lets you try to break an AI support agent. I work on security engineering, and it&#x27;s incredibly hard to try to defend against an attack that you don&#x27;t know how to perform yourself. There&#x27;s also next to nowhere to improve your skills. I&#x27;d heard all abou…",
+          "rawTextSnippet": "Our eighth generation TPUs: two chips for the agentic era",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47847848"
+            "points": 28,
+            "comments": 9,
+            "hnUrl": "https://news.ycombinator.com/item?id=47862497"
           },
-          "score": 62,
+          "score": 67,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1776776794526-123",
-          "title": "AI agents are a security nightmare. Moving the dev workflow to QEMU",
-          "url": "https://hozan23.com/posts/ai-security-nightmare/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-21T07:33:21.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "AI agents are a security nightmare. Moving the dev workflow to QEMU",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47845691"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1776776800282-209",
-          "title": "Show HN: Palmier – bridge your AI agents and your phone",
-          "url": "https://github.com/caihongxu/palmier",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-21T02:31:51.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 5
-          },
-          "rawTextSnippet": "Hi HN — I built Palmier. Palmier bridges your AI agents and your phone. It does two things: 1. It lets you use your phone to directly control AI agents running on your computer, from anywhere. 2. It gives your AI agents access to your phone, wherever you are — including things like push notification…",
-          "hnMeta": {
-            "points": 4,
-            "comments": 5,
-            "hnUrl": "https://news.ycombinator.com/item?id=47843841"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
             "authority": 14,
             "engagement": 5,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1776776791724-13",
-          "title": "Show HN: FlirtingBots – My AI agent flirts with yours, we meet if it clicks",
-          "url": "https://flirtingbots.com/",
+          "id": "hn-1776863367484-14",
+          "title": "Google claims to have all the answers for enterprise AI agent sprawl",
+          "url": "https://www.theregister.com/2026/04/22/google_enterprise/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-21T12:53:34.000Z",
+          "publishedAt": "2026-04-22T12:55:39.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "We&#x27;ll all have personal agents soon. They will know our tastes, our humor, our schedule. FlirtingBots puts that to work for dating: your agent talks to other people&#x27;s agents, surfaces shared interests, tests compatibility, and only hands off to you when both sides detect a spark. You open …",
+          "rawTextSnippet": "Google claims to have all the answers for enterprise AI agent sprawl",
           "hnMeta": {
-            "points": 2,
+            "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47848108"
+            "hnUrl": "https://news.ycombinator.com/item?id=47862890"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1776863367484-15",
+          "title": "Show HN: Sift – save AI tokens in Codex/Claude by summarizing command output",
+          "url": "https://github.com/panpeter/sift-skill",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-22T12:34:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "I made a small skill&#x2F;script for agentic coding workflows: https:&#x2F;&#x2F;github.com&#x2F;panpeter&#x2F;sift-skill The idea is simple: when a command like cargo test, pytest, npm test, or .&#x2F;gradlew test prints a lot of output, that raw log often gets pulled into the context even though o…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47862676"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -667,21 +605,48 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1776776791724-18",
-          "title": "Show HN: Graph Compose – Temporal workflows with visual builder, SDK, and AI",
-          "url": "https://www.graphcompose.io/",
+          "id": "hn-1776863367484-20",
+          "title": "Show HN: Rapunzel – a tree-style terminal for AI agents",
+          "url": "https://github.com/salmanjavaid/rapunzel/tree/main",
           "source": "Hacker News",
-          "publishedAt": "2026-04-21T12:35:38.000Z",
+          "publishedAt": "2026-04-22T12:24:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 1
           },
-          "rawTextSnippet": "Hey HN. Graph Compose is a hosted platform for orchestrating API workflows on Temporal. You define workflows as graphs of nodes (HTTP calls, AI agents, iterators, error boundaries) and everything runs as a durable Temporal workflow under the hood. Three ways to build the same graph: a React Flow vis…",
+          "rawTextSnippet": "Show HN: Rapunzel – a tree-style terminal for AI agents",
           "hnMeta": {
             "points": 1,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47847918"
+            "hnUrl": "https://news.ycombinator.com/item?id=47862578"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1776863370321-114",
+          "title": "Symposium: Community-Oriented Agentic Development",
+          "url": "https://smallcultfollowing.com/babysteps/blog/2026/04/21/symposium/",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-22T12:30:34.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Symposium: Community-Oriented Agentic Development",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47862628"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -697,30 +662,77 @@
     },
     {
       "name": "Funding & Acquisitions",
-      "itemCount": 13,
-      "trendScore": 131,
-      "whyTrending": "13 stories across Hacker, TechCrunch, arXiv, 7 in the last 24h.",
+      "itemCount": 14,
+      "trendScore": 140,
+      "whyTrending": "14 stories across Hacker, TechCrunch, arXiv, 9 in the last 24h.",
       "topStory": {
-        "title": "Amazon to invest up to $25B in Anthropic as part of $100B cloud deal",
-        "url": "https://www.channelnewsasia.com/business/amazon-invest-up-25-billion-in-anthropic-part-100-billion-cloud-deal-6069221"
+        "title": "Anthropic investigating unauthorised access of powerful Mythos AI model",
+        "url": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf"
       },
       "items": [
         {
-          "id": "hn-1776776797488-186",
-          "title": "Amazon to invest up to $25B in Anthropic as part of $100B cloud deal",
-          "url": "https://www.channelnewsasia.com/business/amazon-invest-up-25-billion-in-anthropic-part-100-billion-cloud-deal-6069221",
+          "id": "hn-1776863373141-167",
+          "title": "Anthropic investigating unauthorised access of powerful Mythos AI model",
+          "url": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf",
           "source": "Hacker News",
-          "publishedAt": "2026-04-21T10:01:23.000Z",
+          "publishedAt": "2026-04-22T11:15:57.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
+            "upvotes": 11,
+            "comments": 4
           },
-          "rawTextSnippet": "Amazon to invest up to $25B in Anthropic as part of $100B cloud deal",
+          "rawTextSnippet": "Anthropic investigating unauthorised access of powerful Mythos AI model",
           "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47846751"
+            "points": 11,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47861937"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1776863370048-94",
+          "title": "The most interesting startups showcased at Google Cloud Next 2026",
+          "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-22T12:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 10,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "hn-1776863371735-147",
+          "title": "Florida's Attorney General announces criminal investigation into OpenAI",
+          "url": "https://www.nbcnews.com/tech/tech-news/florida-attorney-general-criminal-investigation-openai-fsu-chatgpt-rcna341205",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-22T10:48:07.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 1
+          },
+          "rawTextSnippet": "Florida's Attorney General announces criminal investigation into OpenAI",
+          "hnMeta": {
+            "points": 5,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47861673"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -733,97 +745,56 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "hn-1776776793124-83",
-          "title": "Jersey Mike's confidentially files for IPO",
-          "url": "https://www.cnbc.com/2026/04/20/jersey-mikes-ipo.html",
+          "id": "hn-1776863373141-169",
+          "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+          "url": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
           "source": "Hacker News",
-          "publishedAt": "2026-04-21T03:37:10.000Z",
+          "publishedAt": "2026-04-22T09:06:40.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
+            "upvotes": 4,
+            "comments": 0
           },
-          "rawTextSnippet": "Jersey Mike's confidentially files for IPO",
+          "rawTextSnippet": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
           "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47844219"
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47860988"
           },
-          "score": 58,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1776776794096-92",
-          "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-          "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-20T23:10:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-          "score": 56,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1776776794096-96",
-          "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-          "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-20T15:30:19.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
-          "score": 56,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "arxiv-1776776791832-58",
-          "title": "Faster by Design: Interactive Aerodynamics via Neural Surrogates Trained on Expert-Validated CFD",
-          "url": "https://arxiv.org/abs/2604.18491v1",
-          "source": "arXiv",
-          "publishedAt": "2026-04-20T16:42:35.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Computational Fluid Dynamics (CFD) is central to race-car aerodynamic development, yet its cost -- tens of thousands of core-hours per high-fidelity evaluation -- severely limits the design space exploration feasible within realistic budgets. AI-based surrogate models promise to alleviate this bottl…",
-          "arxivMeta": {
-            "authors": "Nicholas Thumiger, Andrea Bartezzaghi, Mattia Rigotti, Cezary Skura, Thomas Frick, Elisa Serioli, Fabrizio Arbucci, A. Cristiano I. Malossi",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
             "businessImpact": 0
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "hn-1776863367484-26",
+          "title": "SpaceX obtains right to buy AI startup Cursor for $60B",
+          "url": "https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-22T12:00:28.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "SpaceX obtains right to buy AI startup Cursor for $60B",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47862349"
+          },
+          "score": 57,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 10,
+            "businessImpact": 3
           },
           "cluster": "Funding & Acquisitions"
         }
@@ -832,29 +803,49 @@
     {
       "name": "Research & Benchmarks",
       "itemCount": 12,
-      "trendScore": 121,
-      "whyTrending": "12 stories across Hacker, arXiv, DeepMind, 8 in the last 24h.",
+      "trendScore": 130,
+      "whyTrending": "12 stories across TechCrunch, Hacker, MIT, 9 in the last 24h.",
       "topStory": {
-        "title": "Datahugging shields proprietary AI models from research that could disprove them",
-        "url": "https://www.nature.com/articles/s44387-026-00094-2"
+        "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+        "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/"
       },
       "items": [
         {
-          "id": "hn-1776776791724-27",
-          "title": "Datahugging shields proprietary AI models from research that could disprove them",
-          "url": "https://www.nature.com/articles/s44387-026-00094-2",
+          "id": "rss-1776863370048-93",
+          "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+          "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-22T13:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1776863370321-125",
+          "title": "Messy paper streams in. Structured research feeds out",
+          "url": "https://paperzilla.ai/news/from-scholar-alerts-to-agent-briefs",
           "source": "Hacker News",
-          "publishedAt": "2026-04-21T11:20:36.000Z",
+          "publishedAt": "2026-04-22T08:36:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Datahugging shields proprietary AI models from research that could disprove them",
+          "rawTextSnippet": "Messy paper streams in. Structured research feeds out",
           "hnMeta": {
-            "points": 2,
+            "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47847265"
+            "hnUrl": "https://news.ycombinator.com/item?id=47860766"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -867,27 +858,26 @@
           "cluster": "Research & Benchmarks"
         },
         {
-          "id": "arxiv-1776776791830-34",
-          "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
-          "url": "https://arxiv.org/abs/2604.18584v1",
-          "source": "arXiv",
-          "publishedAt": "2026-04-20T17:59:49.000Z",
+          "id": "hn-1776863375948-209",
+          "title": "Deep Research Max",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-22T07:36:19.000Z",
           "scoreSignals": {
-            "sourceAuthority": 15
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
           },
-          "rawTextSnippet": "Mathematical problem solving remains a challenging test of reasoning for large language and multimodal models, yet existing benchmarks are limited in size, language coverage, and task diversity. We introduce MathNet, a high-quality, large-scale, multimodal, and multilingual dataset of Olympiad-level…",
-          "arxivMeta": {
-            "authors": "Shaden Alshammari, Kevin Wen, Abrar Zainal, Mark Hamilton, Navid Safaei, Sultan Albarakati, William T. Freeman, Antonio Torralba",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
+          "rawTextSnippet": "Deep Research Max",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47860307"
           },
-          "score": 52,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
+            "freshness": 30,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -895,27 +885,19 @@
           "cluster": "Research & Benchmarks"
         },
         {
-          "id": "arxiv-1776776791831-47",
-          "title": "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
-          "url": "https://arxiv.org/abs/2604.18543v1",
-          "source": "arXiv",
-          "publishedAt": "2026-04-20T17:36:49.000Z",
+          "id": "rss-1776863367234-9",
+          "title": "This tool could show how consciousness works",
+          "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-04-21T21:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 15
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "Constructing environments for training and evaluating claw-like agents remains a manual, human-intensive process that does not scale. We argue that what is needed is not just a dataset, but an automated pipeline capable of generating diverse, verified environments on demand. To this end, we introduc…",
-          "arxivMeta": {
-            "authors": "Xirui Li, Ming Li, Derry Xu, Wei-Lin Chiang, Ion Stoica, Cho-Jui Hsieh, Tianyi Zhou",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
+          "rawTextSnippet": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an…",
+          "score": 55,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 15,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -923,45 +905,17 @@
           "cluster": "Research & Benchmarks"
         },
         {
-          "id": "arxiv-1776776791831-48",
-          "title": "Transition-Matrix Regularization for Next Dialogue Act Prediction in Counselling Conversations",
-          "url": "https://arxiv.org/abs/2604.18539v1",
+          "id": "arxiv-1776863367551-32",
+          "title": "Generalization at the Edge of Stability",
+          "url": "https://arxiv.org/abs/2604.19740v1",
           "source": "arXiv",
-          "publishedAt": "2026-04-20T17:33:37.000Z",
+          "publishedAt": "2026-04-21T17:59:02.000Z",
           "scoreSignals": {
             "sourceAuthority": 15
           },
-          "rawTextSnippet": "This paper studies how empirical dialogue-flow statistics can be incorporated into Next Dialogue Act Prediction (NDAP). A KL regularization term is proposed that aligns predicted act distributions with corpus-derived transition patterns. Evaluated on a 60-class German counselling taxonomy using 5-fo…",
+          "rawTextSnippet": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this regime often yields improved generalization performance, yet the underlying mechanism remains poorly u…",
           "arxivMeta": {
-            "authors": "Eric Rudolph, Philipp Steigerwald, Jens Albrecht",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "arxiv-1776776791831-51",
-          "title": "IDOBE: Infectious Disease Outbreak forecasting Benchmark Ecosystem",
-          "url": "https://arxiv.org/abs/2604.18521v1",
-          "source": "arXiv",
-          "publishedAt": "2026-04-20T17:18:18.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Epidemic forecasting has become an integral part of real-time infectious disease outbreak response. While collaborative ensembles composed of statistical and machine learning models have become the norm for real-time forecasting, standardized benchmark datasets for evaluating such methods are lackin…",
-          "arxivMeta": {
-            "authors": "Aniruddha Adiga, Jingyuan Chou, Anshul Chiranth, Bryan Lewis, Ana I. Bento, Shaun Truelove, Geoffrey Fox, Madhav Marathe, Harry Hochheiser, Srini Venkatramanan",
+            "authors": "Mario Tuci, Caner Korkmaz, Umut Şimşekli, Tolga Birdal",
             "categories": [
               "cs.AI",
               "cs.CL",
@@ -983,21 +937,21 @@
   ],
   "toolLaunches": [
     {
-      "id": "hn-1776776793124-73",
-      "title": "How well do LLMs work outside English? We tested 8 models in 8 languages [pdf]",
-      "url": "https://info.rws.com/hubfs/2026/trainai/llm-data-gen-study-2.0-campaign/trainai-multilingual-llm-synthetic-data-gen-study-2.0.pdf",
+      "id": "hn-1776863373141-167",
+      "title": "Anthropic investigating unauthorised access of powerful Mythos AI model",
+      "url": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf",
       "source": "Hacker News",
-      "publishedAt": "2026-04-21T11:24:24.000Z",
+      "publishedAt": "2026-04-22T11:15:57.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 5
+        "upvotes": 11,
+        "comments": 4
       },
-      "rawTextSnippet": "How well do LLMs work outside English? We tested 8 models in 8 languages [pdf]",
+      "rawTextSnippet": "Anthropic investigating unauthorised access of powerful Mythos AI model",
       "hnMeta": {
-        "points": 2,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=47847282"
+        "points": 11,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47861937"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -1007,46 +961,74 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Eight language models were tested across eight non-English languages.  \n• Why it matters: The performance of LLMs in diverse languages impacts global accessibility and usability.  \n• Business opportunity: Companies can develop localized AI solutions to cater to non-English speaking markets."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic is investigating unauthorized access to its advanced Mythos AI model.  \n• Why it matters: This breach raises concerns about data security and the integrity of AI systems.  \n• Business opportunity: Companies can offer enhanced cybersecurity solutions to protect AI technologies from unauthorized access."
     },
     {
-      "id": "rss-1776776795889-125",
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-04-21T00:00:00.000Z",
+      "id": "rss-1776863367234-0",
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-04-22T12:10:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 20
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "OpenAI launches Codex Transformation Partners, a program with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle.",
-      "score": 60,
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype…",
+      "score": 63,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 20,
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: MIT Technology Review launched a newsletter highlighting the 10 current key developments in AI.  \n• Why it matters: This initiative aims to clarify significant trends amidst the overwhelming hype and frequent launches in the AI sector.  \n• Business opportunity: Companies can leverage this curated information to identify strategic investments and innovations in the evolving AI landscape."
+    },
+    {
+      "id": "hn-1776863367484-22",
+      "title": "Google unveils chips for AI training and inference in latest shot at Nvidia",
+      "url": "https://www.cnbc.com/2026/04/22/google-launches-training-and-inference-tpus-in-latest-shot-at-nvidia.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-22T12:16:41.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
+      },
+      "rawTextSnippet": "Google unveils chips for AI training and inference in latest shot at Nvidia",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47862510"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: OpenAI launched Codex Transformation Partners to assist enterprises in deploying Codex.  \n• Why it matters: This initiative aims to enhance software development efficiency and innovation across various industries.  \n• Business opportunity: Companies can leverage Codex to streamline development processes and improve productivity."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Google launched new chips designed for AI training and inference.  \n• Why it matters: This move challenges Nvidia's dominance in the AI hardware market.  \n• Business opportunity: Companies can explore partnerships or investments in Google's AI chip technology to enhance their offerings."
     },
     {
-      "id": "hn-1776776791724-18",
-      "title": "Show HN: Graph Compose – Temporal workflows with visual builder, SDK, and AI",
-      "url": "https://www.graphcompose.io/",
+      "id": "hn-1776863367484-10",
+      "title": "Ask HN: Is there any free, rate limited and no key AI API?",
+      "url": "https://news.ycombinator.com/item?id=47862997",
       "source": "Hacker News",
-      "publishedAt": "2026-04-21T12:35:38.000Z",
+      "publishedAt": "2026-04-22T13:05:02.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
-        "comments": 1
+        "comments": 0
       },
-      "rawTextSnippet": "Hey HN. Graph Compose is a hosted platform for orchestrating API workflows on Temporal. You define workflows as graphs of nodes (HTTP calls, AI agents, iterators, error boundaries) and everything runs as a durable Temporal workflow under the hood. Three ways to build the same graph: a React Flow vis…",
+      "rawTextSnippet": "Ask HN: Is there any free, rate limited and no key AI API?",
       "hnMeta": {
         "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47847918"
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47862997"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1056,52 +1038,24 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Graph Compose launched a platform for orchestrating API workflows using a visual builder and SDK.  \n• Why it matters: It simplifies the creation of complex workflows, making it accessible for developers to integrate various services.  \n• Business opportunity: Companies can leverage this tool to enhance automation and efficiency in their API-driven processes."
+      "cluster": "AI Tools & Products"
     },
     {
-      "id": "hn-1776776791724-27",
-      "title": "Datahugging shields proprietary AI models from research that could disprove them",
-      "url": "https://www.nature.com/articles/s44387-026-00094-2",
+      "id": "hn-1776863367484-12",
+      "title": "Ant Group Unveils Ling-2.6-Flash",
+      "url": "https://www.businesswire.com/news/home/20260422256825/en/Ant-Group-Unveils-Ling-2.6-Flash-A-Major-Leap-in-AI-Efficiency",
       "source": "Hacker News",
-      "publishedAt": "2026-04-21T11:20:36.000Z",
+      "publishedAt": "2026-04-22T13:00:23.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "Datahugging shields proprietary AI models from research that could disprove them",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47847265"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Research & Benchmarks"
-    },
-    {
-      "id": "hn-1776776793124-76",
-      "title": "AgentSearch – self-hosted SearXNG API for LLM search, no keys",
-      "url": "https://github.com/brcrusoe72/agent-search",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-21T10:27:26.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
         "comments": 1
       },
-      "rawTextSnippet": "AgentSearch – self-hosted SearXNG API for LLM search, no keys",
+      "rawTextSnippet": "Ant Group Unveils Ling-2.6-Flash",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47846901"
+        "hnUrl": "https://news.ycombinator.com/item?id=47862944"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1111,23 +1065,23 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models"
+      "cluster": "General AI"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1776776791831-36",
-      "title": "Bounded Ratio Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.18578v1",
+      "id": "arxiv-1776863367551-34",
+      "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+      "url": "https://arxiv.org/abs/2604.19734v1",
       "source": "arXiv",
-      "publishedAt": "2026-04-20T17:59:01.000Z",
+      "publishedAt": "2026-04-21T17:57:27.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Proximal Policy Optimization (PPO) has become the predominant algorithm for on-policy reinforcement learning due to its scalability and empirical robustness across domains. However, there is a significant disconnect between the underlying foundations of trust region methods and the heuristic clipped…",
+      "rawTextSnippet": "Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fundamental challenge due to kinematic mismatches. We introduce UniT (Unified Latent Action Tokenizer v…",
       "arxivMeta": {
-        "authors": "Yunke Ao, Le Chen, Bruce D. Lee, Assefa S. Wahd, Aline Czarnobai, Philipp Fürnstahl, Bernhard Schölkopf, Andreas Krause",
+        "authors": "Boyu Chen, Yi Chen, Lu Qiu, Jerry Bai, Yuying Ge, Yixiao Ge",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1145,17 +1099,17 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1776776791831-40",
-      "title": "A multimodal and temporal foundation model for virtual patient representations at healthcare system scale",
-      "url": "https://arxiv.org/abs/2604.18570v1",
+      "id": "arxiv-1776863367552-49",
+      "title": "An AI Agent Execution Environment to Safeguard User Data",
+      "url": "https://arxiv.org/abs/2604.19657v1",
       "source": "arXiv",
-      "publishedAt": "2026-04-20T17:55:47.000Z",
+      "publishedAt": "2026-04-21T16:45:30.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Modern medicine generates vast multimodal data across siloed systems, yet no existing model integrates the full breadth and temporal depth of the clinical record into a unified patient representation. We introduce Apollo, a multimodal temporal foundation model trained and evaluated on over three dec…",
+      "rawTextSnippet": "AI agents promise to serve as general-purpose personal assistants for their users, which requires them to have access to private user data (e.g., personal and financial information). This poses a serious risk to security and privacy. Adversaries may attack the AI model (e.g., via prompt injection) t…",
       "arxivMeta": {
-        "authors": "Andrew Zhang, Tong Ding, Sophia J. Wagner, Caiwei Tian, Ming Y. Lu, Rowland Pettit, Joshua E. Lewis, Alexandre Misrahi, Dandan Mo, Long Phi Le, Faisal Mahmood",
+        "authors": "Robert Stanley, Avi Verma, Lillian Tsai, Konstantinos Kallas, Sam Kumar",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1170,20 +1124,20 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Generative AI & Media"
+      "cluster": "AI Agents & Automation"
     },
     {
-      "id": "arxiv-1776776791831-46",
-      "title": "FUSE: Ensembling Verifiers with Zero Labeled Data",
-      "url": "https://arxiv.org/abs/2604.18547v1",
+      "id": "arxiv-1776863367552-51",
+      "title": "A Dual Perspective on Synthetic Trajectory Generators: Utility Framework and Privacy Vulnerabilities",
+      "url": "https://arxiv.org/abs/2604.19653v1",
       "source": "arXiv",
-      "publishedAt": "2026-04-20T17:40:33.000Z",
+      "publishedAt": "2026-04-21T16:42:33.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Verification of model outputs is rapidly emerging as a key primitive for both training and real-world deployment of large language models (LLMs). In practice, this often involves using imperfect LLM judges and reward models since ground truth acquisition can be time-consuming and expensive. We intro…",
+      "rawTextSnippet": "Human mobility data are used in numerous applications, ranging from public health to urban planning. Human mobility is inherently sensitive, as it can contain information such as religious beliefs and political affiliations. Historically, it has been proposed to modify the information using techniqu…",
       "arxivMeta": {
-        "authors": "Joonhyuk Lee, Virginia Ma, Sarah Zhao, Yash Nair, Asher Spector, Regev Cohen, Emmanuel J. Candès",
+        "authors": "Aya Cherigui, Florent Guépin, Arnaud Legendre, Jean-François Couchot",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1198,48 +1152,20 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Large Language Models"
+      "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1776776791832-53",
-      "title": "Different Paths to Harmful Compliance: Behavioral Side Effects and Mechanistic Divergence Across LLM Jailbreaks",
-      "url": "https://arxiv.org/abs/2604.18510v1",
+      "id": "arxiv-1776863367551-32",
+      "title": "Generalization at the Edge of Stability",
+      "url": "https://arxiv.org/abs/2604.19740v1",
       "source": "arXiv",
-      "publishedAt": "2026-04-20T17:01:27.000Z",
+      "publishedAt": "2026-04-21T17:59:02.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Open-weight language models can be rendered unsafe through several distinct interventions, but the resulting models may differ substantially in capabilities, behavioral profile, and internal failure mode. We study behavioral and mechanistic properties of jailbroken models across three unsafe routes:…",
+      "rawTextSnippet": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this regime often yields improved generalization performance, yet the underlying mechanism remains poorly u…",
       "arxivMeta": {
-        "authors": "Md Rysul Kabir, Zoran Tiganj",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1776776791830-34",
-      "title": "MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval",
-      "url": "https://arxiv.org/abs/2604.18584v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-20T17:59:49.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Mathematical problem solving remains a challenging test of reasoning for large language and multimodal models, yet existing benchmarks are limited in size, language coverage, and task diversity. We introduce MathNet, a high-quality, large-scale, multimodal, and multilingual dataset of Olympiad-level…",
-      "arxivMeta": {
-        "authors": "Shaden Alshammari, Kevin Wen, Abrar Zainal, Mark Hamilton, Navid Safaei, Sultan Albarakati, William T. Freeman, Antonio Torralba",
+        "authors": "Mario Tuci, Caner Korkmaz, Umut Şimşekli, Tolga Birdal",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1255,126 +1181,19 @@
         "businessImpact": 0
       },
       "cluster": "Research & Benchmarks"
-    }
-  ],
-  "funding": [
-    {
-      "id": "hn-1776776797488-186",
-      "title": "Amazon to invest up to $25B in Anthropic as part of $100B cloud deal",
-      "url": "https://www.channelnewsasia.com/business/amazon-invest-up-25-billion-in-anthropic-part-100-billion-cloud-deal-6069221",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-21T10:01:23.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "Amazon to invest up to $25B in Anthropic as part of $100B cloud deal",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47846751"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Amazon plans to invest up to $25 billion in AI startup Anthropic within a $100 billion cloud agreement.  \n• Why it matters: This investment highlights Amazon's commitment to enhancing its cloud services with advanced AI capabilities.  \n• Business opportunity: Companies can explore partnerships or services leveraging Anthropic's AI innovations within Amazon's cloud ecosystem."
     },
     {
-      "id": "hn-1776776793124-83",
-      "title": "Jersey Mike's confidentially files for IPO",
-      "url": "https://www.cnbc.com/2026/04/20/jersey-mikes-ipo.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-21T03:37:10.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 1
-      },
-      "rawTextSnippet": "Jersey Mike's confidentially files for IPO",
-      "hnMeta": {
-        "points": 2,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47844219"
-      },
-      "score": 58,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Jersey Mike's has confidentially filed for an initial public offering (IPO).  \n• Why it matters: This move indicates the company's growth potential and desire to access public capital markets.  \n• Business opportunity: Investors may find a promising opportunity in the fast-casual dining sector as Jersey Mike's expands."
-    },
-    {
-      "id": "rss-1776776794096-92",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-20T23:10:27.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-      "score": 56,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Amazon invested $5 billion in Anthropic, which will spend $100 billion on AWS.  \n• Why it matters: This deal strengthens Amazon's position in the AI cloud market and enhances Anthropic's capabilities.  \n• Business opportunity: Companies can leverage this partnership to access advanced AI solutions and cloud services."
-    },
-    {
-      "id": "arxiv-1776776791831-46",
-      "title": "FUSE: Ensembling Verifiers with Zero Labeled Data",
-      "url": "https://arxiv.org/abs/2604.18547v1",
+      "id": "arxiv-1776863367551-33",
+      "title": "Phase Transitions in the Fluctuations of Functionals of Random Neural Networks",
+      "url": "https://arxiv.org/abs/2604.19738v1",
       "source": "arXiv",
-      "publishedAt": "2026-04-20T17:40:33.000Z",
+      "publishedAt": "2026-04-21T17:58:39.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Verification of model outputs is rapidly emerging as a key primitive for both training and real-world deployment of large language models (LLMs). In practice, this often involves using imperfect LLM judges and reward models since ground truth acquisition can be time-consuming and expensive. We intro…",
+      "rawTextSnippet": "We establish central and non-central limit theorems for sequences of functionals of the Gaussian output of an infinitely-wide random neural network on the d-dimensional sphere . We show that the asymptotic behaviour of these functionals as the depth of the network increases depends crucially on the …",
       "arxivMeta": {
-        "authors": "Joonhyuk Lee, Virginia Ma, Sarah Zhao, Yash Nair, Asher Spector, Regev Cohen, Emmanuel J. Candès",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1776776791831-44",
-      "title": "Dual Alignment Between Language Model Layers and Human Sentence Processing",
-      "url": "https://arxiv.org/abs/2604.18563v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-20T17:51:26.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "A recent study (Kuribayashi et al., 2025) has shown that human sentence processing behavior, typically measured on syntactically unchallenging constructions, can be effectively modeled using surprisal from early layers of large language models (LLMs). This raises the question of whether such advanta…",
-      "arxivMeta": {
-        "authors": "Tatsuki Kuribayashi, Alex Warstadt, Yohei Oseki, Ethan Gotlieb Wilcox",
+        "authors": "Simmaco Di Lillo, Leonardo Maini, Domenico Marinucci",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1389,8 +1208,134 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models"
+      "cluster": "AI Hardware & Chips"
     }
   ],
-  "dailyBrief": "In today's AI landscape, Anthropic has reinstated OpenClaw-style usage for its Claude CLI, signaling a renewed focus on developer flexibility and innovation. Meanwhile, OpenAI's advertising partner has begun selling ChatGPT ad placements based on \"prompt relevance,\" potentially enhancing targeted marketing strategies for businesses. On the technical front, researchers have achieved a remarkable 900,000x KV Cache Compression, pushing the boundaries of efficiency in AI processing. Additionally, a recent study evaluated the performance of eight large language models across eight languages, revealing critical insights into their capabilities beyond English, which could influence global market strategies. Lastly, advancements in AI-driven noise reduction technologies are being integrated into urban infrastructure projects, like LA's subway upgrade, showcasing the intersection of AI and public services."
+  "funding": [
+    {
+      "id": "rss-1776863370048-96",
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-22T12:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Google Cloud has signed a multi-billion-dollar deal with Mira Murati's Thinking Machines Lab for AI infrastructure.  \n• Why it matters: This partnership enhances Google's AI capabilities using advanced Nvidia GB300 chips, positioning it competitively in the AI market.  \n• Business opportunity: Companies can leverage this collaboration to access cutting-edge AI solutions and infrastructure for their own innovations."
+    },
+    {
+      "id": "rss-1776863370048-93",
+      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-22T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks",
+      "summary": "• What happened: 10x Science raised $4.8 million to aid pharmaceutical researchers in evaluating complex molecules.  \n• Why it matters: The rise of AI in drug discovery is generating numerous potential drug candidates, necessitating effective evaluation.  \n• Business opportunity: There is a growing demand for tools that can streamline the identification of viable drug candidates from AI-generated options."
+    },
+    {
+      "id": "hn-1776863373141-167",
+      "title": "Anthropic investigating unauthorised access of powerful Mythos AI model",
+      "url": "https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-22T11:15:57.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 11,
+        "comments": 4
+      },
+      "rawTextSnippet": "Anthropic investigating unauthorised access of powerful Mythos AI model",
+      "hnMeta": {
+        "points": 11,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47861937"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic is investigating unauthorized access to its advanced Mythos AI model.  \n• Why it matters: This breach raises concerns about data security and the integrity of AI systems.  \n• Business opportunity: Companies can develop enhanced security solutions for AI models to prevent similar incidents."
+    },
+    {
+      "id": "hn-1776863371735-147",
+      "title": "Florida's Attorney General announces criminal investigation into OpenAI",
+      "url": "https://www.nbcnews.com/tech/tech-news/florida-attorney-general-criminal-investigation-openai-fsu-chatgpt-rcna341205",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-22T10:48:07.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 1
+      },
+      "rawTextSnippet": "Florida's Attorney General announces criminal investigation into OpenAI",
+      "hnMeta": {
+        "points": 5,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47861673"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions"
+    },
+    {
+      "id": "hn-1776863373141-169",
+      "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+      "url": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-22T09:06:40.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
+      },
+      "rawTextSnippet": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47860988"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions"
+    }
+  ],
+  "dailyBrief": "In a significant shift, Anthropic may remove Claude Code from its Pro plan, raising questions about the future of its offerings and potential impacts on user retention. Meanwhile, experts emphasize that a robust data fabric is essential for AI to unlock substantial business value, highlighting the need for companies to invest in their data infrastructure. On a positive note, Google has announced a multi-billion-dollar deal to deepen its collaboration with the Thinking Machines Lab, signaling a strong commitment to advancing AI research. Additionally, the introduction of eighth-generation TPUs, designed for the agentic era, promises to enhance computational capabilities for AI applications. Lastly, recent kernel code removals, driven by security reports generated by large language models, underscore the growing intersection of AI and cybersecurity, which could reshape industry standards and practices."
 }
