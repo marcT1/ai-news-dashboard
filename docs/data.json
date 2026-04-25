@@ -1,386 +1,367 @@
 {
   "topNews": [
     {
-      "id": "hn-1777035903893-168",
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "id": "hn-1777121056112-81",
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
       "source": "Hacker News",
-      "publishedAt": "2026-04-23T17:48:38.000Z",
+      "publishedAt": "2026-04-25T08:53:53.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 786,
-        "comments": 607
+        "upvotes": 104,
+        "comments": 49
       },
-      "rawTextSnippet": "An update on recent Claude Code quality reports",
+      "rawTextSnippet": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. It runs locally in ~&#x2F;.wuphf&#x2F;wiki&#x2F; and you can git clone it out if you want to take your knowledge with you. The shape is the one …",
       "hnMeta": {
-        "points": 786,
-        "comments": 607,
-        "hnUrl": "https://news.ycombinator.com/item?id=47878905"
+        "points": 104,
+        "comments": 49,
+        "hnUrl": "https://news.ycombinator.com/item?id=47899844"
       },
-      "score": 76,
+      "score": 74,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A new wiki layer for AI agents was launched, utilizing markdown and git for knowledge management.  \n• Why it matters: This tool enhances the organization and accessibility of AI-generated information, promoting better collaboration among agents.  \n• Business opportunity: Companies can leverage this technology to improve their AI systems' knowledge retention and sharing capabilities."
+    },
+    {
+      "id": "hn-1777121058937-158",
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-24T18:23:32.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 243,
+        "comments": 136
+      },
+      "rawTextSnippet": "GPT-5.5 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47879092 - April 2026 (1010 comments)",
+      "hnMeta": {
+        "points": 243,
+        "comments": 136,
+        "hnUrl": "https://news.ycombinator.com/item?id=47894000"
+      },
+      "score": 71,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 14,
-        "engagement": 25,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Recent reports on Claude Code quality have been released.  \n• Why it matters: These reports highlight areas for improvement in code quality and performance.  \n• Business opportunity: Companies can leverage these insights to enhance their software development processes and product offerings."
-    },
-    {
-      "id": "hn-1777035901104-118",
-      "title": "Hear your agent suffer through your code",
-      "url": "https://github.com/AndrewVos/endless-toil",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-24T10:58:45.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 35,
-        "comments": 14
-      },
-      "rawTextSnippet": "Hear your agent suffer through your code",
-      "hnMeta": {
-        "points": 35,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=47888465"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new tool allows developers to listen to their AI agents struggling with code.  \n• Why it matters: This feature highlights the challenges AI faces in coding, emphasizing the need for improvements.  \n• Business opportunity: Companies can develop solutions to enhance AI coding capabilities, addressing identified pain points."
-    },
-    {
-      "id": "rss-1777035900823-95",
-      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-24T12:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Meta has secured a significant deal for millions of Amazon's AI CPUs for its workloads.  \n• Why it matters: This move highlights the emerging competition in the AI chip market, shifting focus from GPUs to CPUs.  \n• Business opportunity: Companies can explore partnerships or innovations in AI chip technology to capitalize on this evolving landscape."
-    },
-    {
-      "id": "rss-1777035898031-0",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-24T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This qu…",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: AI-driven scams have surged since the release of ChatGPT, leveraging generative AI for deception.  \n• Why it matters: This trend poses significant risks to individuals and businesses, highlighting vulnerabilities in digital security.  \n• Business opportunity: There is a growing demand for advanced cybersecurity solutions to combat AI-enhanced fraud."
-    },
-    {
-      "id": "hn-1777035899632-79",
-      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-      "url": "https://ynarwal.github.io/how-llms-work/",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-24T06:48:53.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 112,
-        "comments": 25
-      },
-      "rawTextSnippet": "All content is based on Andrej Karpathy&#x27;s &quot;Intro to Large Language Models&quot; lecture (youtube.com&#x2F;watch?v=7xTGNNLPyMI). I downloaded the transcript and used Claude Code to generate the entire interactive site from it — single HTML file. I find it useful to revisit this content time…",
-      "hnMeta": {
-        "points": 112,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=47886517"
-      },
-      "score": 65,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: An interactive visual guide on large language models was created based on Andrej Karpathy's lecture.  \n• Why it matters: This resource enhances understanding of LLMs, making complex concepts more accessible to a broader audience.  \n• Business opportunity: There is potential to develop similar educational tools that simplify advanced topics in AI and technology."
-    },
-    {
-      "id": "rss-1777035898031-1",
-      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-24T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
+        "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "AI Tools & Products",
-      "summary": "• What happened: AI is increasingly being integrated into healthcare settings, assisting doctors with tasks like notetaking and patient record analysis.  \n• Why it matters: The effectiveness of AI in actually improving patient outcomes remains uncertain, raising questions about its reliability.  \n• Business opportunity: There is potential for developing AI solutions that are rigorously tested and validated to ensure they genuinely enhance patient care."
+      "summary": "• What happened: OpenAI launched GPT-5.5 and GPT-5.5 Pro in its API.  \n• Why it matters: The release enhances AI capabilities, offering improved performance for developers and businesses.  \n• Business opportunity: Companies can leverage the advanced features to innovate products and services, driving competitive advantage."
     },
     {
-      "id": "rss-1777035900823-101",
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-23T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Delve, a compliance company, was linked to a security incident at Context AI.  \n• Why it matters: This incident raises concerns about the reliability of compliance certifications in the tech industry.  \n• Business opportunity: Companies can capitalize on the need for more robust security and compliance solutions in the AI sector."
-    },
-    {
-      "id": "hn-1777035898239-21",
-      "title": "GIMP at LGM2026: committee, grants, no-AI policy, and that GSoC thing",
-      "url": "https://librearts.org/2026/04/gimp-at-lgm2026/",
+      "id": "hn-1777121056112-82",
+      "title": "Show HN: LLMs consume 5.4x less mobile energy than ad-supported web search",
+      "url": "https://dupr.at/thermodynamic-efficiency-inversion",
       "source": "Hacker News",
-      "publishedAt": "2026-04-24T11:49:03.000Z",
+      "publishedAt": "2026-04-25T08:44:36.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "upvotes": 12,
+        "comments": 1
       },
-      "rawTextSnippet": "GIMP at LGM2026: committee, grants, no-AI policy, and that GSoC thing",
+      "rawTextSnippet": "The standard AI energy debate compares server-side LLM inference to a server-side Google query. I think this misses most of what actually happens on a mobile device during a real search session. I built a parametric model of the full end-to-end mobile search session: 4G&#x2F;5G radio energy, SoC ren…",
       "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47888917"
+        "points": 12,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47899803"
       },
-      "score": 62,
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: GIMP announced plans for LGM2026, including a committee, grants, and a no-AI policy.  \n• Why it matters: This decision reflects the community's commitment to preserving traditional software development practices.  \n• Business opportunity: Companies can explore partnerships or funding for projects that align with GIMP's vision and values."
-    },
-    {
-      "id": "hn-1777035905324-198",
-      "title": "Vision Banana | Google DeepMind",
-      "url": "https://vision-banana.github.io",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-24T07:58:13.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Vision Banana | Google DeepMind",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47887099"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: Google DeepMind introduced a new AI model called Vision Banana.  \n• Why it matters: This advancement enhances image recognition capabilities, potentially transforming various industries.  \n• Business opportunity: Companies can leverage Vision Banana for improved visual data analysis and innovative applications in marketing and automation."
-    },
-    {
-      "id": "hn-1777035903893-167",
-      "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
-      "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-23T19:43:08.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 92,
-        "comments": 17
-      },
-      "rawTextSnippet": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
-      "hnMeta": {
-        "points": 92,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=47880697"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Anthropic's Claude Desktop App has introduced an undisclosed native messaging bridge.  \n• Why it matters: This feature may enhance app functionality and user experience, potentially increasing user engagement.  \n• Business opportunity: Companies could explore integrations with the messaging bridge to create innovative applications or services."
+      "summary": "• What happened: LLMs use 5.4 times less mobile energy than ad-supported web searches.  \n• Why it matters: This finding highlights the efficiency of LLMs in mobile environments, potentially reducing energy consumption.  \n• Business opportunity: Companies can leverage LLMs to create more sustainable mobile applications and services, appealing to eco-conscious consumers."
+    },
+    {
+      "id": "hn-1777121057536-116",
+      "title": "The Digesting Duck: a 1739 automaton that appeared to eat, digest, and defecate",
+      "url": "https://en.wikipedia.org/wiki/Digesting_Duck",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-25T12:29:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 33,
+        "comments": 4
+      },
+      "rawTextSnippet": "The Digesting Duck: a 1739 automaton that appeared to eat, digest, and defecate",
+      "hnMeta": {
+        "points": 33,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47900911"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A 1739 automaton known as The Digesting Duck mimicked the processes of eating, digesting, and defecating.  \n• Why it matters: This historical innovation highlights early advancements in robotics and artificial intelligence.  \n• Business opportunity: There is potential for developing modern educational tools and exhibits that explore the history and evolution of automation technology."
+    },
+    {
+      "id": "hn-1777121054710-17",
+      "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
+      "url": "https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-25T11:24:08.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "SAP just made the opposite bet from every other enterprise platform on AI agents",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47900564"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: SAP diverged from industry trends by adopting a unique approach to AI agents in enterprise platforms.  \n• Why it matters: This decision could redefine competitive dynamics in the enterprise software market.  \n• Business opportunity: Companies can explore innovative AI solutions that differentiate them from traditional enterprise offerings."
+    },
+    {
+      "id": "hn-1777121054710-23",
+      "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
+      "url": "https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-25T10:21:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47900251"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Meta has signed an agreement with AWS to utilize Amazon's Graviton chips for agentic AI development.  \n• Why it matters: This partnership enhances Meta's AI capabilities while leveraging AWS's advanced infrastructure.  \n• Business opportunity: Companies can explore collaborations in AI development and cloud computing to innovate and optimize performance."
+    },
+    {
+      "id": "hn-1777121056112-88",
+      "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+      "url": "https://github.com/vinhnx/VTCode",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-25T03:17:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 8,
+        "comments": 2
+      },
+      "rawTextSnippet": "Hi HN, I built VT Code, a semantic coding agent. Supports all SOTA and open sources model. Anthropic, OpenAI, Gemini, Codex. Agent Skills, Model Context Protocol and Agent Client Protocol (ACP) ready. All open source models are support. Local inference via LM Studio and Ollama (experiment). Semantic…",
+      "hnMeta": {
+        "points": 8,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47898308"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Open Source AI",
+      "summary": "• What happened: VT Code, a Rust-based semantic coding agent, was introduced with multi-provider support for various AI models.  \n• Why it matters: It enhances coding efficiency by integrating state-of-the-art AI models, making coding more accessible and streamlined.  \n• Business opportunity: Companies can leverage VT Code to improve software development processes and reduce time-to-market for applications."
+    },
+    {
+      "id": "hn-1777121058937-152",
+      "title": "OpenAI's Sam Altman writes apology to community of Tumbler Ridge",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/sam-altman-tumbler-ridge-apology-9.7176482",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-25T01:52:25.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 6
+      },
+      "rawTextSnippet": "OpenAI's Sam Altman writes apology to community of Tumbler Ridge",
+      "hnMeta": {
+        "points": 5,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=47897914"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Sam Altman issued an apology to the community of Tumbler Ridge.  \n• Why it matters: The apology highlights OpenAI's commitment to community relations and accountability.  \n• Business opportunity: Companies can leverage community engagement strategies to enhance brand reputation and trust."
+    },
+    {
+      "id": "hn-1777121054710-10",
+      "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
+      "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-25T12:42:53.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47901024"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A discussion highlights how AI encourages users to initiate numerous projects but struggle to complete them.  \n• Why it matters: This phenomenon can lead to decreased productivity and increased frustration among users.  \n• Business opportunity: There is potential for tools that help users manage and complete tasks more effectively in an AI-driven environment."
+    },
+    {
+      "id": "hn-1777121054710-11",
+      "title": "Show HN: Memweave CLI – search your AI agent's memory from the shell",
+      "url": "https://github.com/sachinsharma9780/memweave",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-25T12:39:43.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Show HN: Memweave CLI – search your AI agent's memory from the shell",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47900995"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Memweave CLI was introduced, allowing users to search their AI agent's memory directly from the command line.  \n• Why it matters: This tool enhances user interaction with AI by simplifying memory retrieval, improving efficiency.  \n• Business opportunity: There is potential for developing advanced AI tools and integrations that leverage memory search capabilities for various applications."
     }
   ],
   "trendingTopics": [
     {
       "name": "Large Language Models",
-      "itemCount": 58,
-      "trendScore": 204,
-      "whyTrending": "58 stories across Hacker, MIT, GitHub, 34 in the last 24h.",
+      "itemCount": 57,
+      "trendScore": 194,
+      "whyTrending": "57 stories across Hacker, GitHub, MIT, 20 in the last 24h.",
       "topStory": {
-        "title": "An update on recent Claude Code quality reports",
-        "url": "https://www.anthropic.com/engineering/april-23-postmortem"
+        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+        "url": "https://github.com/nex-crm/wuphf"
       },
       "items": [
         {
-          "id": "hn-1777035903893-168",
-          "title": "An update on recent Claude Code quality reports",
-          "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+          "id": "hn-1777121056112-81",
+          "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+          "url": "https://github.com/nex-crm/wuphf",
           "source": "Hacker News",
-          "publishedAt": "2026-04-23T17:48:38.000Z",
+          "publishedAt": "2026-04-25T08:53:53.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 786,
-            "comments": 607
+            "upvotes": 104,
+            "comments": 49
           },
-          "rawTextSnippet": "An update on recent Claude Code quality reports",
+          "rawTextSnippet": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. It runs locally in ~&#x2F;.wuphf&#x2F;wiki&#x2F; and you can git clone it out if you want to take your knowledge with you. The shape is the one …",
           "hnMeta": {
-            "points": 786,
-            "comments": 607,
-            "hnUrl": "https://news.ycombinator.com/item?id=47878905"
+            "points": 104,
+            "comments": 49,
+            "hnUrl": "https://news.ycombinator.com/item?id=47899844"
           },
-          "score": 76,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 25,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "rss-1777035898031-0",
-          "title": "The Download: supercharged scams and studying AI healthcare",
-          "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-04-24T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This qu…",
-          "score": 66,
+          "score": 74,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1777035899632-79",
-          "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-          "url": "https://ynarwal.github.io/how-llms-work/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-24T06:48:53.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 112,
-            "comments": 25
-          },
-          "rawTextSnippet": "All content is based on Andrej Karpathy&#x27;s &quot;Intro to Large Language Models&quot; lecture (youtube.com&#x2F;watch?v=7xTGNNLPyMI). I downloaded the transcript and used Claude Code to generate the entire interactive site from it — single HTML file. I find it useful to revisit this content time…",
-          "hnMeta": {
-            "points": 112,
-            "comments": 25,
-            "hnUrl": "https://news.ycombinator.com/item?id=47886517"
-          },
-          "score": 65,
-          "scoreBreakdown": {
-            "freshness": 26,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 15,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1777035903893-167",
-          "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
-          "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+          "id": "hn-1777121056112-82",
+          "title": "Show HN: LLMs consume 5.4x less mobile energy than ad-supported web search",
+          "url": "https://dupr.at/thermodynamic-efficiency-inversion",
           "source": "Hacker News",
-          "publishedAt": "2026-04-23T19:43:08.000Z",
+          "publishedAt": "2026-04-25T08:44:36.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 92,
-            "comments": 17
+            "upvotes": 12,
+            "comments": 1
           },
-          "rawTextSnippet": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+          "rawTextSnippet": "The standard AI energy debate compares server-side LLM inference to a server-side Google query. I think this misses most of what actually happens on a mobile device during a real search session. I built a parametric model of the full end-to-end mobile search session: 4G&#x2F;5G radio energy, SoC ren…",
           "hnMeta": {
-            "points": 92,
-            "comments": 17,
-            "hnUrl": "https://news.ycombinator.com/item?id=47880697"
+            "points": 12,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47899803"
           },
-          "score": 61,
+          "score": 64,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1777035898239-25",
-          "title": "Show HN: Free MVP cost estimator – see what agencies charge vs. a 72-hour sprint",
-          "url": "https://www.mohamedrashard.dev/cost-to-build",
+          "id": "hn-1777121054710-15",
+          "title": "Brief delays in chatbot responses boost perceived thoughtfulness and usefulness",
+          "url": "https://engineering.nyu.edu/news/why-faster-ai-isnt-always-better",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T10:54:08.000Z",
+          "publishedAt": "2026-04-25T12:01:34.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 3,
+            "comments": 1
           },
-          "rawTextSnippet": "Built this after watching too many founders get quoted $40k for something that takes 72 hours to build. You describe your app idea in plain English. Gemini AI breaks it down into real technical components and generates a realistic agency cost estimate with timeline and team size. Then you can see th…",
+          "rawTextSnippet": "Brief delays in chatbot responses boost perceived thoughtfulness and usefulness",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47888416"
+            "points": 3,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900768"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -391,102 +372,23 @@
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
-        }
-      ]
-    },
-    {
-      "name": "AI Agents & Automation",
-      "itemCount": 33,
-      "trendScore": 192,
-      "whyTrending": "33 stories across Hacker, TechCrunch, arXiv, 24 in the last 24h.",
-      "topStory": {
-        "title": "Hear your agent suffer through your code",
-        "url": "https://github.com/AndrewVos/endless-toil"
-      },
-      "items": [
+        },
         {
-          "id": "hn-1777035901104-118",
-          "title": "Hear your agent suffer through your code",
-          "url": "https://github.com/AndrewVos/endless-toil",
+          "id": "hn-1777121054710-22",
+          "title": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
+          "url": "https://theconversation.com/you-probably-wouldnt-notice-if-an-ai-chatbot-slipped-ads-into-its-responses-276010",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T10:58:45.000Z",
+          "publishedAt": "2026-04-25T10:25:02.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 35,
-            "comments": 14
-          },
-          "rawTextSnippet": "Hear your agent suffer through your code",
-          "hnMeta": {
-            "points": 35,
-            "comments": 14,
-            "hnUrl": "https://news.ycombinator.com/item?id=47888465"
-          },
-          "score": 69,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1777035900823-95",
-          "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-          "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-24T12:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1777035900823-101",
-          "title": "Another customer of troubled startup Delve suffered a big security incident",
-          "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-23T14:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 9
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1777035898239-10",
-          "title": "MiniVecDb – A local vector DB that garbage-collects AI agent memory",
-          "url": "https://github.com/Alekkk777/MiniVecDb",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:57:11.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 9,
             "comments": 0
           },
-          "rawTextSnippet": "MiniVecDb – A local vector DB that garbage-collects AI agent memory",
+          "rawTextSnippet": "You probably wouldn't notice if an AI chatbot slipped ads into its responses",
           "hnMeta": {
-            "points": 1,
+            "points": 9,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889570"
+            "hnUrl": "https://news.ycombinator.com/item?id=47900270"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -496,24 +398,24 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Agents & Automation"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1777035898239-13",
-          "title": "AI enablement requires managed agent runtimes",
-          "url": "https://12gramsofcarbon.com/p/agentics-configuring-agents-is-still",
+          "id": "hn-1777121056112-74",
+          "title": "From $200 to $30: Five Layers of LLM Cost Optimization",
+          "url": "http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:43:29.000Z",
+          "publishedAt": "2026-04-25T11:56:31.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 4,
             "comments": 0
           },
-          "rawTextSnippet": "AI enablement requires managed agent runtimes",
+          "rawTextSnippet": "From $200 to $30: Five Layers of LLM Cost Optimization",
           "hnMeta": {
-            "points": 2,
+            "points": 4,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889423"
+            "hnUrl": "https://news.ycombinator.com/item?id=47900746"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -523,36 +425,63 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Agents & Automation"
+          "cluster": "Large Language Models"
         }
       ]
     },
     {
       "name": "General AI",
-      "itemCount": 47,
+      "itemCount": 45,
       "trendScore": 188,
-      "whyTrending": "47 stories across Hacker, TechCrunch, arXiv, 24 in the last 24h.",
+      "whyTrending": "45 stories across Hacker, TechCrunch, arXiv, 24 in the last 24h.",
       "topStory": {
-        "title": "Oracle's Deluge of AI Debt Pushes Wall Street to the Limit",
-        "url": "https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749"
+        "title": "The Digesting Duck: a 1739 automaton that appeared to eat, digest, and defecate",
+        "url": "https://en.wikipedia.org/wiki/Digesting_Duck"
       },
       "items": [
         {
-          "id": "hn-1777035899632-82",
-          "title": "Oracle's Deluge of AI Debt Pushes Wall Street to the Limit",
-          "url": "https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749",
+          "id": "hn-1777121057536-116",
+          "title": "The Digesting Duck: a 1739 automaton that appeared to eat, digest, and defecate",
+          "url": "https://en.wikipedia.org/wiki/Digesting_Duck",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T04:30:10.000Z",
+          "publishedAt": "2026-04-25T12:29:06.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 11,
-            "comments": 3
+            "upvotes": 33,
+            "comments": 4
           },
-          "rawTextSnippet": "Oracle's Deluge of AI Debt Pushes Wall Street to the Limit",
+          "rawTextSnippet": "The Digesting Duck: a 1739 automaton that appeared to eat, digest, and defecate",
           "hnMeta": {
-            "points": 11,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47885531"
+            "points": 33,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900911"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1777121058937-152",
+          "title": "OpenAI's Sam Altman writes apology to community of Tumbler Ridge",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/sam-altman-tumbler-ridge-apology-9.7176482",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-25T01:52:25.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 6
+          },
+          "rawTextSnippet": "OpenAI's Sam Altman writes apology to community of Tumbler Ridge",
+          "hnMeta": {
+            "points": 5,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=47897914"
           },
           "score": 60,
           "scoreBreakdown": {
@@ -565,21 +494,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1777035898239-11",
-          "title": "Is AI Killing Jobs?",
-          "url": "https://twitter.com/pdmsero/status/2046943519101661561",
+          "id": "hn-1777121054710-10",
+          "title": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
+          "url": "https://blog.danielvaughan.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:45:51.000Z",
+          "publishedAt": "2026-04-25T12:42:53.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Is AI Killing Jobs?",
+          "rawTextSnippet": "The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889458"
+            "hnUrl": "https://news.ycombinator.com/item?id=47901024"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -592,75 +521,48 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1777035898239-17",
-          "title": "Canadian AI Firm Cohere to Merge with Germany's Aleph Alpha",
-          "url": "https://financialpost.com/technology/cohere-to-merge-german-ai-aleph-alpha",
+          "id": "hn-1777121054710-12",
+          "title": "Electric air taxis. Vertical Aerospace's VX4 just cleared a key test",
+          "url": "https://www.scientificamerican.com/article/can-electric-air-taxis-carry-passengers-vertical-aerospaces-vx4-just-cleared-a-key-test/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:18:13.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Canadian AI Firm Cohere to Merge with Germany's Aleph Alpha",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889201"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1777035898239-18",
-          "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
-          "url": "https://atomicapp.ai/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:07:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 1
-          },
-          "rawTextSnippet": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
-          "hnMeta": {
-            "points": 3,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889110"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1777035898239-22",
-          "title": "Show HN: I built an AI alternative to NoBroker/MagicBricks that never calls you",
-          "url": "https://www.abodex.space/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-24T11:33:37.000Z",
+          "publishedAt": "2026-04-25T12:20:17.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: I built an AI alternative to NoBroker/MagicBricks that never calls you",
+          "rawTextSnippet": "Electric air taxis. Vertical Aerospace's VX4 just cleared a key test",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47888759"
+            "hnUrl": "https://news.ycombinator.com/item?id=47900861"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1777121054710-19",
+          "title": "Happy Horse AI",
+          "url": "https://www.happyhorseai.store",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-25T10:42:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "Happy Horse AI",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900383"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -675,105 +577,85 @@
       ]
     },
     {
-      "name": "AI Tools & Products",
-      "itemCount": 16,
-      "trendScore": 137,
-      "whyTrending": "16 stories across MIT, Hacker, OpenAI, 7 in the last 24h.",
+      "name": "AI Agents & Automation",
+      "itemCount": 31,
+      "trendScore": 178,
+      "whyTrending": "31 stories across Hacker, TechCrunch, GitHub, 14 in the last 24h.",
       "topStory": {
-        "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-        "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/"
+        "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
+        "url": "https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html"
       },
       "items": [
         {
-          "id": "rss-1777035898031-1",
-          "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-          "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-04-24T09:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1777035898239-12",
-          "title": "People are paying $200/mo for AI tools but still not getting work done",
-          "url": "https://workfil.com",
+          "id": "hn-1777121054710-17",
+          "title": "SAP just made the opposite bet from every other enterprise platform on AI agents",
+          "url": "https://www.sap.com/documents/2026/04/dce9aee4-497f-0010-bca6-c68f7e60039b.html",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:44:36.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "People are paying $200/mo for AI tools but still not getting work done",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889435"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1777035898239-14",
-          "title": "He Had No Medical Degree. His Mom Had Stage 4 Cancer. He Used Free AI Tools",
-          "url": "https://surajnaik2003.substack.com/p/he-had-no-medical-degree-his-mom",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:37:28.000Z",
+          "publishedAt": "2026-04-25T11:24:08.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "He Had No Medical Degree. His Mom Had Stage 4 Cancer. He Used Free AI Tools",
+          "rawTextSnippet": "SAP just made the opposite bet from every other enterprise platform on AI agents",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889374"
+            "hnUrl": "https://news.ycombinator.com/item?id=47900564"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1777035901104-121",
-          "title": "The 5-Tool Problem: Why Agencies Are Moving to One Unified Growth Stack",
-          "url": "https://ionicdesk.com/blog/the-5-tool-problem-why-agencies-are-moving-to-one-unified-growth-stack-ionicdesk",
+          "id": "hn-1777121054710-23",
+          "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
+          "url": "https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T07:37:43.000Z",
+          "publishedAt": "2026-04-25T10:21:36.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900251"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1777121054710-11",
+          "title": "Show HN: Memweave CLI – search your AI agent's memory from the shell",
+          "url": "https://github.com/sachinsharma9780/memweave",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-25T12:39:43.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "The 5-Tool Problem: Why Agencies Are Moving to One Unified Growth Stack",
+          "rawTextSnippet": "Show HN: Memweave CLI – search your AI agent's memory from the shell",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47886915"
+            "hnUrl": "https://news.ycombinator.com/item?id=47900995"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -783,30 +665,190 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1777035899632-87",
-          "title": "Friendster Relaunch",
-          "url": "https://friendster.com/",
+          "id": "hn-1777121054710-16",
+          "title": "Crafting an AI-Driven Workflow System [video]",
+          "url": "https://www.youtube.com/watch?v=SrRweChigB0",
           "source": "Hacker News",
-          "publishedAt": "2026-04-23T22:55:06.000Z",
+          "publishedAt": "2026-04-25T11:54:40.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 15,
-            "comments": 8
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Friendster Relaunch",
+          "rawTextSnippet": "Crafting an AI-Driven Workflow System [video]",
           "hnMeta": {
-            "points": 15,
-            "comments": 8,
-            "hnUrl": "https://news.ycombinator.com/item?id=47883307"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900731"
           },
-          "score": 56,
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1777121054710-24",
+          "title": "Rust open-source headless browser for AI agents and web scraping",
+          "url": "https://github.com/h4ckf0r0day/obscura",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-25T10:10:25.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Rust open-source headless browser for AI agents and web scraping",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900202"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Products",
+      "itemCount": 14,
+      "trendScore": 127,
+      "whyTrending": "14 stories across Hacker, TechCrunch, MIT, 6 in the last 24h.",
+      "topStory": {
+        "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+        "url": "https://developers.openai.com/api/docs/changelog"
+      },
+      "items": [
+        {
+          "id": "hn-1777121058937-158",
+          "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+          "url": "https://developers.openai.com/api/docs/changelog",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-24T18:23:32.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 243,
+            "comments": 136
+          },
+          "rawTextSnippet": "GPT-5.5 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47879092 - April 2026 (1010 comments)",
+          "hnMeta": {
+            "points": 243,
+            "comments": 136,
+            "hnUrl": "https://news.ycombinator.com/item?id=47894000"
+          },
+          "score": 71,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 20,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1777121054710-13",
+          "title": "The Military Rockets That Launched the Space Age (2023)",
+          "url": "https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-25T12:14:26.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "The Military Rockets That Launched the Space Age (2023)",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900820"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1777121054710-14",
+          "title": "Show HN: Enlist AI: Sub-second interview coaching with persistence",
+          "url": "https://news.ycombinator.com/item?id=47900781",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-25T12:05:02.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Following some initial feedback, we’ve updated Enlist AI to ensure your preparation never resets. Based on user behavior, we noticed plans were being lost on refresh, so we&#x27;ve implemented local persistence to keep your progress synced. What it does: Enlist AI is a full-pipeline preparation tool…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900781"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1777121057180-102",
+          "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+          "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-24T16:42:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1777121057180-105",
+          "title": "Nothing introduces an AI-powered dictation tool",
+          "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-24T13:41:42.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Nothing's new on-device dictation tool supports over 100 languages.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
@@ -816,30 +858,30 @@
     },
     {
       "name": "Research & Benchmarks",
-      "itemCount": 14,
-      "trendScore": 134,
-      "whyTrending": "14 stories across Hacker, arXiv, GitHub, 10 in the last 24h.",
+      "itemCount": 15,
+      "trendScore": 127,
+      "whyTrending": "15 stories across Hacker, TechCrunch, arXiv, 4 in the last 24h.",
       "topStory": {
-        "title": "Accelerating experimentation in brain and behavior research",
-        "url": "https://usefusion.ai/blog/the-great-unlock"
+        "title": "Lambda Calculus Benchmark for AI",
+        "url": "https://victortaelin.github.io/lambench/"
       },
       "items": [
         {
-          "id": "hn-1777035898239-19",
-          "title": "Accelerating experimentation in brain and behavior research",
-          "url": "https://usefusion.ai/blog/the-great-unlock",
+          "id": "hn-1777121054710-18",
+          "title": "Lambda Calculus Benchmark for AI",
+          "url": "https://victortaelin.github.io/lambench/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:06:39.000Z",
+          "publishedAt": "2026-04-25T11:16:23.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 7,
+            "comments": 1
           },
-          "rawTextSnippet": "Accelerating experimentation in brain and behavior research",
+          "rawTextSnippet": "Lambda Calculus Benchmark for AI",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889101"
+            "points": 7,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47900506"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -852,21 +894,21 @@
           "cluster": "Research & Benchmarks"
         },
         {
-          "id": "hn-1777035899632-73",
-          "title": "LightInk Watch Pairs a Solar Panel with EPaper for Almost Infinite Battery Life",
-          "url": "https://www.hackster.io/news/the-lightink-watch-pairs-a-solar-panel-with-epaper-to-deliver-theoretically-infinite-battery-life-ac8c0fdec287",
+          "id": "hn-1777121056111-73",
+          "title": "Civic-SLM is a domain-specialized fine-tune of Qwen2.5-7B for U.S. govt data",
+          "url": "https://itsmeduncan.com/civic-slm/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-24T12:38:07.000Z",
+          "publishedAt": "2026-04-25T12:38:16.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "LightInk Watch Pairs a Solar Panel with EPaper for Almost Infinite Battery Life",
+          "rawTextSnippet": "Civic-SLM is a domain-specialized fine-tune of Qwen2.5-7B for U.S. govt data",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47889382"
+            "hnUrl": "https://news.ycombinator.com/item?id=47900980"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -879,7 +921,54 @@
           "cluster": "Research & Benchmarks"
         },
         {
-          "id": "arxiv-1777035898339-30",
+          "id": "rss-1777121057180-106",
+          "title": "DeepSeek previews new AI model that &#8216;closes the gap&#8217; with frontier models",
+          "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-24T13:30:59.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1777121058937-157",
+          "title": "Benchmarking OpenAI's Privacy Filter",
+          "url": "https://www.tonic.ai/blog/benchmarking-openai-privacy-filter-pii-detection",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-24T18:32:13.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Benchmarking OpenAI's Privacy Filter",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47894104"
+          },
+          "score": 46,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 10,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1777121055160-36",
           "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
           "url": "https://arxiv.org/abs/2604.21931v1",
           "source": "arXiv",
@@ -896,65 +985,9 @@
               "stat.ML"
             ]
           },
-          "score": 52,
+          "score": 45,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "arxiv-1777035898339-37",
-          "title": "GiVA: Gradient-Informed Bases for Vector-Based Adaptation",
-          "url": "https://arxiv.org/abs/2604.21901v1",
-          "source": "arXiv",
-          "publishedAt": "2026-04-23T17:48:18.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "As model sizes continue to grow, parameter-efficient fine-tuning has emerged as a powerful alternative to full fine-tuning. While LoRA is widely adopted among these methods, recent research has explored vector-based adaptation methods due to their extreme parameter efficiency. However, these methods…",
-          "arxivMeta": {
-            "authors": "Neeraj Gangwar, Rishabh Deshmukh, Michael Shavlovsky, Hancao Li, Vivek Mittal, Lexing Ying, Nickvash Kani",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "arxiv-1777035898339-38",
-          "title": "Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach",
-          "url": "https://arxiv.org/abs/2604.21897v1",
-          "source": "arXiv",
-          "publishedAt": "2026-04-23T17:46:33.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Analyses of legislative behavior often rely on voting records, overlooking the rich semantic and rhetorical content of political speech. In this paper, we ask three complementary questions about parliamentary discourse: how things are said, what is being said, and who is speaking in discursively sim…",
-          "arxivMeta": {
-            "authors": "Flávio Soriano, Victoria F. Mello, Pedro B. Rigueira, Gisele L. Pappa, Wagner Meira, Ana Paula Couto da Silva, Jussara M. Almeida",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 15,
             "engagement": 0,
             "novelty": 15,
@@ -967,98 +1000,105 @@
   ],
   "toolLaunches": [
     {
-      "id": "hn-1777035903893-168",
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "id": "hn-1777121058937-158",
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "url": "https://developers.openai.com/api/docs/changelog",
       "source": "Hacker News",
-      "publishedAt": "2026-04-23T17:48:38.000Z",
+      "publishedAt": "2026-04-24T18:23:32.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 786,
-        "comments": 607
+        "upvotes": 243,
+        "comments": 136
       },
-      "rawTextSnippet": "An update on recent Claude Code quality reports",
+      "rawTextSnippet": "GPT-5.5 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47879092 - April 2026 (1010 comments)",
       "hnMeta": {
-        "points": 786,
-        "comments": 607,
-        "hnUrl": "https://news.ycombinator.com/item?id=47878905"
+        "points": 243,
+        "comments": 136,
+        "hnUrl": "https://news.ycombinator.com/item?id=47894000"
       },
-      "score": 76,
+      "score": 71,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 14,
-        "engagement": 25,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: OpenAI launched GPT-5.5 and GPT-5.5 Pro in its API.  \n• Why it matters: The new models promise enhanced capabilities and performance for AI applications.  \n• Business opportunity: Companies can leverage these advancements to improve customer interactions and automate processes."
+    },
+    {
+      "id": "hn-1777121056112-82",
+      "title": "Show HN: LLMs consume 5.4x less mobile energy than ad-supported web search",
+      "url": "https://dupr.at/thermodynamic-efficiency-inversion",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-25T08:44:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 12,
+        "comments": 1
+      },
+      "rawTextSnippet": "The standard AI energy debate compares server-side LLM inference to a server-side Google query. I think this misses most of what actually happens on a mobile device during a real search session. I built a parametric model of the full end-to-end mobile search session: 4G&#x2F;5G radio energy, SoC ren…",
+      "hnMeta": {
+        "points": 12,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47899803"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Recent reports on Claude Code quality have been released.  \n• Why it matters: The findings could impact user trust and adoption of the technology.  \n• Business opportunity: Companies can leverage insights from the reports to improve their own code quality and enhance user experience."
+      "summary": "• What happened: LLMs use 5.4 times less mobile energy compared to ad-supported web search.  \n• Why it matters: This finding highlights the energy efficiency of LLMs, potentially reducing mobile data costs for users.  \n• Business opportunity: Companies can leverage LLMs to create energy-efficient applications, appealing to environmentally conscious consumers."
     },
     {
-      "id": "rss-1777035898031-0",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-04-24T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This qu…",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: AI-driven scams have surged since the release of ChatGPT, leveraging generative AI to produce convincing fraudulent content.  \n• Why it matters: The rise of these scams poses significant risks to individuals and businesses, highlighting vulnerabilities in digital communication.  \n• Business opportunity: There is a growing demand for advanced cybersecurity solutions to combat AI-generated fraud and protect consumers."
-    },
-    {
-      "id": "hn-1777035899632-79",
-      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-      "url": "https://ynarwal.github.io/how-llms-work/",
+      "id": "hn-1777121056112-88",
+      "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+      "url": "https://github.com/vinhnx/VTCode",
       "source": "Hacker News",
-      "publishedAt": "2026-04-24T06:48:53.000Z",
+      "publishedAt": "2026-04-25T03:17:19.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 112,
-        "comments": 25
+        "upvotes": 8,
+        "comments": 2
       },
-      "rawTextSnippet": "All content is based on Andrej Karpathy&#x27;s &quot;Intro to Large Language Models&quot; lecture (youtube.com&#x2F;watch?v=7xTGNNLPyMI). I downloaded the transcript and used Claude Code to generate the entire interactive site from it — single HTML file. I find it useful to revisit this content time…",
+      "rawTextSnippet": "Hi HN, I built VT Code, a semantic coding agent. Supports all SOTA and open sources model. Anthropic, OpenAI, Gemini, Codex. Agent Skills, Model Context Protocol and Agent Client Protocol (ACP) ready. All open source models are support. Local inference via LM Studio and Ollama (experiment). Semantic…",
       "hnMeta": {
-        "points": 112,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=47886517"
+        "points": 8,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47898308"
       },
-      "score": 65,
+      "score": 60,
       "scoreBreakdown": {
         "freshness": 26,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: An interactive visual guide on large language models was created based on Andrej Karpathy's lecture.  \n• Why it matters: This resource enhances understanding of LLMs, making complex concepts more accessible to a wider audience.  \n• Business opportunity: Companies can leverage this tool for training and educational purposes in AI and machine learning."
+      "cluster": "Open Source AI",
+      "summary": "• What happened: VT Code, a Rust-based semantic coding agent, was launched with multi-provider support for various models.  \n• Why it matters: It enhances coding efficiency by integrating state-of-the-art AI models and open-source options.  \n• Business opportunity: Companies can leverage this tool to streamline development processes and reduce coding time."
     },
     {
-      "id": "hn-1777035898239-28",
-      "title": "Show HN: Daily China AI news briefing – engineering, product, and business",
-      "url": "https://overnightai.substack.com/p/china-ai-news-eight-chinese-chip",
+      "id": "hn-1777121054710-13",
+      "title": "The Military Rockets That Launched the Space Age (2023)",
+      "url": "https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age",
       "source": "Hacker News",
-      "publishedAt": "2026-04-24T10:25:44.000Z",
+      "publishedAt": "2026-04-25T12:14:26.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "China’s AI ecosystem moves fast. But news on the latest in China’s AI is slow and fragmented. Overnight AI is a daily 10-minute briefing on China’s AI, curated from 200+ Chinese-language sources. It covers everything from technical breakthroughs like new attention mechanisms to product adoption upda…",
+      "rawTextSnippet": "The Military Rockets That Launched the Space Age (2023)",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47888214"
+        "hnUrl": "https://news.ycombinator.com/item?id=47900820"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1068,24 +1108,24 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI in Enterprise"
+      "cluster": "AI Tools & Products"
     },
     {
-      "id": "hn-1777035899632-72",
-      "title": "Can LLMs recapitulate Americans' responses to public opinion polling questions?",
-      "url": "https://arxiv.org/abs/2603.20229",
+      "id": "hn-1777121054710-14",
+      "title": "Show HN: Enlist AI: Sub-second interview coaching with persistence",
+      "url": "https://news.ycombinator.com/item?id=47900781",
       "source": "Hacker News",
-      "publishedAt": "2026-04-24T12:51:23.000Z",
+      "publishedAt": "2026-04-25T12:05:02.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Can LLMs recapitulate Americans' responses to public opinion polling questions?",
+      "rawTextSnippet": "Following some initial feedback, we’ve updated Enlist AI to ensure your preparation never resets. Based on user behavior, we noticed plans were being lost on refresh, so we&#x27;ve implemented local persistence to keep your progress synced. What it does: Enlist AI is a full-pipeline preparation tool…",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47889512"
+        "hnUrl": "https://news.ycombinator.com/item?id=47900781"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1095,13 +1135,13 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models"
+      "cluster": "AI Tools & Products"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1777035898339-43",
+      "id": "arxiv-1777121055160-49",
       "title": "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale",
       "url": "https://arxiv.org/abs/2604.21889v1",
       "source": "arXiv",
@@ -1118,9 +1158,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1129,7 +1169,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1777035898340-50",
+      "id": "arxiv-1777121055160-56",
       "title": "Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation",
       "url": "https://arxiv.org/abs/2604.21854v1",
       "source": "arXiv",
@@ -1146,9 +1186,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1157,7 +1197,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1777035898340-51",
+      "id": "arxiv-1777121055160-57",
       "title": "Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions",
       "url": "https://arxiv.org/abs/2604.21849v1",
       "source": "arXiv",
@@ -1174,9 +1214,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1185,7 +1225,7 @@
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "arxiv-1777035898339-30",
+      "id": "arxiv-1777121055160-36",
       "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
       "url": "https://arxiv.org/abs/2604.21931v1",
       "source": "arXiv",
@@ -1202,9 +1242,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1213,7 +1253,7 @@
       "cluster": "Research & Benchmarks"
     },
     {
-      "id": "arxiv-1777035898339-31",
+      "id": "arxiv-1777121055160-37",
       "title": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
       "url": "https://arxiv.org/abs/2604.21928v1",
       "source": "arXiv",
@@ -1230,9 +1270,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1243,7 +1283,28 @@
   ],
   "funding": [
     {
-      "id": "rss-1777035900823-95",
+      "id": "rss-1777121057180-99",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-24T19:49:35.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Generative AI & Media",
+      "summary": "• What happened: ComfyUI raised $30 million, achieving a $500 million valuation.  \n• Why it matters: The funding reflects growing demand for tools that empower creators in AI-generated media.  \n• Business opportunity: Companies can explore partnerships or develop solutions that enhance creator control over AI content."
+    },
+    {
+      "id": "rss-1777121057180-107",
       "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
       "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
       "source": "TechCrunch AI",
@@ -1252,40 +1313,67 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-      "score": 67,
+      "score": 52,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Meta has secured a significant deal for millions of Amazon's AI CPUs for its workloads.  \n• Why it matters: This marks a shift in the AI chip landscape, highlighting the increasing demand for specialized processors.  \n• Business opportunity: Companies can explore partnerships or innovations in AI chip development to meet growing industry needs."
+      "summary": "• What happened: Meta has secured a significant deal for millions of Amazon's AI CPUs for its workloads.  \n• Why it matters: This move indicates a shift in the AI chip landscape, emphasizing the importance of CPUs over traditional GPUs.  \n• Business opportunity: Companies can explore partnerships in CPU development and AI infrastructure to capitalize on this emerging trend."
     },
     {
-      "id": "rss-1777035900824-108",
-      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "id": "hn-1777121060349-173",
+      "title": "Google investing up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-24T18:33:55.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 50,
+        "comments": 8
+      },
+      "rawTextSnippet": "Google investing up to $40B in Anthropic",
+      "hnMeta": {
+        "points": 50,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=47894129"
+      },
+      "score": 51,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 5,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Google is investing up to $40 billion in AI startup Anthropic.  \n• Why it matters: This significant investment highlights Google's commitment to advancing AI technologies and competition in the sector.  \n• Business opportunity: Companies can explore partnerships or innovations in AI development, leveraging Google's backing of Anthropic."
+    },
+    {
+      "id": "rss-1777121057180-100",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-22T19:51:51.000Z",
+      "publishedAt": "2026-04-24T18:00:03.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-      "score": 55,
+      "rawTextSnippet": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
+        "novelty": 5,
+        "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: SpaceX halted Cursor's $2 billion funding round with a $60 billion buyout offer.  \n• Why it matters: This move showcases SpaceX's aggressive strategy to expand its portfolio and influence in the tech industry.  \n• Business opportunity: Companies in emerging tech sectors may consider strategic partnerships or acquisitions to enhance their market position."
+      "cluster": "AI Hardware & Chips"
     },
     {
-      "id": "arxiv-1777035898340-50",
+      "id": "arxiv-1777121055160-56",
       "title": "Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation",
       "url": "https://arxiv.org/abs/2604.21854v1",
       "source": "arXiv",
@@ -1302,65 +1390,16 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: A new statistical certification framework for AI risk regulation has been proposed.  \n• Why it matters: This framework aims to enhance accountability and transparency in high-risk AI systems.  \n• Business opportunity: Companies can develop compliance solutions to help businesses meet emerging regulatory standards."
-    },
-    {
-      "id": "arxiv-1777035898340-51",
-      "title": "Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions",
-      "url": "https://arxiv.org/abs/2604.21849v1",
-      "source": "arXiv",
-      "publishedAt": "2026-04-23T16:40:11.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Bayesian Optimal Experimental Design (BOED) provides a rigorous framework for decision-making tasks in which data acquisition is often the critical bottleneck, especially in resource-constrained settings. Traditionally, BOED typically selects designs by maximizing expected information gain (EIG), co…",
-      "arxivMeta": {
-        "authors": "Di Wu, Ling Liang, Haizhao Yang",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1777035900823-99",
-      "title": "Era raises $11M to build a software platform for AI gadgets",
-      "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-23T16:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
-      "score": 53,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Hardware & Chips"
+      "cluster": "AI Safety & Regulation"
     }
   ],
-  "dailyBrief": "Today's AI landscape reveals significant developments impacting the tech industry. Recent reports on Claude Code quality indicate persistent challenges in code generation, which may affect deployment timelines for businesses relying on AI-driven solutions. In a notable hardware shift, Meta has secured a deal for millions of Amazon AI CPUs, signaling a strategic pivot that could enhance their AI capabilities and competitive edge. Meanwhile, the rise of AI-driven scams highlights the urgent need for robust cybersecurity measures, emphasizing the importance of safeguarding business operations. Lastly, an interactive visual guide on how LLMs work, based on Karpathy's lecture, offers valuable insights for professionals looking to deepen their understanding of AI technologies."
+  "dailyBrief": "In today's AI landscape, OpenAI has launched GPT-5.5 and GPT-5.5 Pro, enhancing its API offerings and potentially reshaping enterprise applications with improved capabilities. Meanwhile, a new study highlights that large language models (LLMs) consume 5.4 times less mobile energy than traditional ad-supported web searches, suggesting a more sustainable approach for businesses leveraging AI for customer engagement. In a surprising move, SAP has diverged from the prevailing trend among enterprise platforms by opting against AI agents, raising questions about its long-term strategy in a rapidly evolving market. Additionally, a new project inspired by Karpathy aims to create a wiki for LLMs maintained by agents, showcasing the growing interest in collaborative AI development. These developments underscore the dynamic nature of AI technology and its implications for operational efficiency and strategic decision-making in businesses."
 }
