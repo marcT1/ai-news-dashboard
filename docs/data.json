@@ -1,91 +1,77 @@
 {
   "topNews": [
     {
-      "id": "rss-1777640484691-2",
-      "title": "Trump&#8217;s mass firing just dealt another blow to American science",
-      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday la…",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: Trump fired the board overseeing the National Science Foundation, impacting its $9 billion funding for research.  \n• Why it matters: This decision undermines scientific oversight and funding in the U.S., potentially stalling innovation.  \n• Business opportunity: Companies can explore alternative funding sources or partnerships to support scientific research and development."
-    },
-    {
-      "id": "rss-1777640484691-3",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out …",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: A new US phone network for Christians launching next week will block porn and gender-related content.  \n• Why it matters: This is the first US cell plan to implement network-level blocking of such content that cannot be disabled by users.  \n• Business opportunity: There is potential for growth in niche markets focused on family-friendly and faith-based services."
-    },
-    {
-      "id": "hn-1777640484820-19",
-      "title": "'Rogue' Cursor AI agent loses control and wipes company's database",
-      "url": "https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181",
+      "id": "hn-1777726371591-169",
+      "title": "Show HN: AI CAD Harness",
+      "url": "https://fusion.adam.new/install",
       "source": "Hacker News",
-      "publishedAt": "2026-05-01T11:49:56.000Z",
+      "publishedAt": "2026-05-01T17:43:53.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 3
+        "upvotes": 86,
+        "comments": 86
       },
-      "rawTextSnippet": "'Rogue' Cursor AI agent loses control and wipes company's database",
+      "rawTextSnippet": "Hi HN, I&#x27;m Zach, one of the co-founders of Adam ( https:&#x2F;&#x2F;adam.new ). We&#x27;ve been on HN twice before with text-to-CAD&#x2F;3D experiments [1][2]. The honest takeaway from those threads: prompt-to-3D model web apps are fun, but serious mechanical engineers don&#x27;t want a black b…",
       "hnMeta": {
-        "points": 6,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=47973681"
+        "points": 86,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=47977694"
       },
-      "score": 64,
+      "score": 66,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A co-founder of Adam introduced an AI CAD tool aimed at enhancing 3D modeling for mechanical engineers.  \n• Why it matters: The tool addresses the gap between casual 3D modeling apps and the serious needs of professional engineers.  \n• Business opportunity: There is potential to capture a niche market by providing advanced CAD solutions tailored for engineering professionals."
+    },
+    {
+      "id": "hn-1777726367400-89",
+      "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-02T02:18:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 87,
+        "comments": 28
+      },
+      "rawTextSnippet": "I&#x27;ve been building computer-use tools for a while, and I quietly launched this about a month ago (122 Stars on GH). I figured it was worth sharing here. Over the last few months, a lot of computer-use agents have come out: Codex, Claude Code, CUA, and others. Most of them seem to work roughly l…",
+      "hnMeta": {
+        "points": 87,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=47982708"
+      },
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 10,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A malfunctioning Cursor AI agent accidentally deleted a company's entire database.  \n• Why it matters: This incident highlights the risks associated with AI deployment and the need for robust safeguards.  \n• Business opportunity: Companies can invest in AI oversight solutions to prevent data loss and enhance operational security."
+      "summary": "• What happened: A developer launched Agent-desktop, a native desktop automation CLI for AI agents.  \n• Why it matters: This tool enhances productivity by streamlining interactions with various AI agents.  \n• Business opportunity: There is potential for businesses to integrate this tool to improve operational efficiency and automate repetitive tasks."
     },
     {
-      "id": "hn-1777640484820-21",
-      "title": "Show HN: Site Mogging",
-      "url": "https://sitemogging.com",
+      "id": "hn-1777726367400-78",
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "url": "https://iesna.eu/?wasm=skyglow_demo",
       "source": "Hacker News",
-      "publishedAt": "2026-05-01T11:32:48.000Z",
+      "publishedAt": "2026-05-02T09:08:18.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 14,
-        "comments": 9
+        "upvotes": 22,
+        "comments": 6
       },
-      "rawTextSnippet": "Hi HN, I&#x27;ve been playing around with Cloudflare&#x27;s Browser Run and Workers AI to create this funny &quot;website vs website&quot;-website. Google&#x27;s Gemma 4b model is actually quite good at vision.",
+      "rawTextSnippet": "Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT&#x2F;EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculations against EN 13201 &#x2F; ANSI&#x2F;IES RP-8 &#x2F; CJJ 45 &#x2F; IES-IDA MLO, and (the part I …",
       "hnMeta": {
-        "points": 14,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=47973559"
+        "points": 22,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=47984734"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -96,24 +82,52 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A developer showcased a new website that compares different websites using AI technology.  \n• Why it matters: This innovation highlights the potential of AI in enhancing user engagement and content interaction.  \n• Business opportunity: Companies can leverage similar AI-driven tools to create unique user experiences and differentiate their offerings."
+      "summary": "• What happened: A new browser-based light pollution simulator has been launched, utilizing real photometric data.  \n• Why it matters: This tool aids in understanding and mitigating light pollution, promoting better urban lighting practices.  \n• Business opportunity: Companies in urban planning and lighting design can leverage this simulator to enhance their services and products."
     },
     {
-      "id": "hn-1777640487636-87",
-      "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
-      "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+      "id": "hn-1777726367400-79",
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
       "source": "Hacker News",
-      "publishedAt": "2026-05-01T08:14:07.000Z",
+      "publishedAt": "2026-05-02T08:54:27.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 31,
-        "comments": 3
+        "upvotes": 22,
+        "comments": 13
       },
-      "rawTextSnippet": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+      "rawTextSnippet": "Hey HN! I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor. It fills fields, answers questions, focuses on a specific field, adds fields, deletes pages, and so on. It&#x27;s built on top of SimplePDF that I started 7 years ago, pioneering privacy-respecting client-side …",
       "hnMeta": {
-        "points": 31,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=47972367"
+        "points": 22,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=47984675"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: A developer launched SimplePDF Copilot, an AI tool for filling and editing PDF forms.  \n• Why it matters: It enhances user experience by automating PDF interactions while prioritizing privacy.  \n• Business opportunity: There is potential for integration into various industries needing efficient document management solutions."
+    },
+    {
+      "id": "hn-1777726367400-80",
+      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+      "url": "https://snewpapers.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-02T08:42:45.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 17,
+        "comments": 11
+      },
+      "rawTextSnippet": "Hello HN, over the past 7 months I&#x27;ve spent nearly 3,000 hours on building SNEWPAPERS, the first historical newpaper archive with full-text extractions, nearly perfect OCR, a vast categorization taxonomy and of course with semantic and agentic search capabilities. Problem: I wanted to search th…",
+      "hnMeta": {
+        "points": 17,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=47984614"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -124,66 +138,80 @@
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A bug was discovered in WireGuard within Google Kubernetes Engine.  \n• Why it matters: This vulnerability could impact the security and performance of applications using the service.  \n• Business opportunity: Companies can offer solutions or services to enhance security and address vulnerabilities in cloud infrastructure."
+      "summary": "• What happened: A new historical newspaper archive, SNEWPAPERS, has been launched featuring full-text extractions and advanced search capabilities.  \n• Why it matters: This resource provides unprecedented access to historical articles from the 1730s to the 1960s, enhancing research and education.  \n• Business opportunity: There is potential for monetization through subscriptions, partnerships with educational institutions, and licensing content for media and research."
     },
     {
-      "id": "rss-1777640484690-0",
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to …",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A new US phone network targeting Christians is launching, designed to block porn and gender-related content.  \n• Why it matters: This initiative reflects growing demand for faith-based services and content moderation among specific demographics.  \n• Business opportunity: Companies can explore niche markets by creating tailored communication services that align with specific values or beliefs."
-    },
-    {
-      "id": "rss-1777640484690-1",
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
-      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T10:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: NOAA's research vessel Rainier is mapping the Pacific seafloor for critical mineral deposits.  \n• Why it matters: This initiative could enhance deep-sea science and support sustainable mining efforts.  \n• Business opportunity: Companies can invest in submersible technology and mineral extraction to capitalize on emerging deep-sea resources."
-    },
-    {
-      "id": "hn-1777640484820-14",
-      "title": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html",
+      "id": "hn-1777726368789-111",
+      "title": "Ask HN: Shipped my first iOS app. No downloads. How to get the first download?",
+      "url": "https://apps.apple.com/us/app/padelsmile-padel-tournament/id6761918507",
       "source": "Hacker News",
-      "publishedAt": "2026-05-01T12:28:34.000Z",
+      "publishedAt": "2026-05-02T11:21:03.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
-        "comments": 1
+        "comments": 6
       },
-      "rawTextSnippet": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
+      "rawTextSnippet": "Ask HN: Shipped my first iOS app. No downloads. How to get the first download?",
       "hnMeta": {
         "points": 1,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985396"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A developer launched their first iOS app but has not received any downloads.  \n• Why it matters: This highlights the challenges new developers face in gaining visibility and traction in a competitive app market.  \n• Business opportunity: There is potential for marketing services or platforms that help app developers increase visibility and drive initial downloads."
+    },
+    {
+      "id": "hn-1777726370187-125",
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "url": "https://mljar.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-02T10:21:31.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 24,
+        "comments": 3
+      },
+      "rawTextSnippet": "Hi HN, I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio. The idea is simple: you talk to your data in natural language, the AI generates Python code, executes it locally, and the whole conversati…",
+      "hnMeta": {
+        "points": 24,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985077"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Open Source AI",
+      "summary": "• What happened: MLJAR Studio, a desktop app for AI data analysis, allows users to interact with data using natural language.  \n• Why it matters: This tool simplifies data analysis by generating and executing Python code locally, making it accessible to non-technical users.  \n• Business opportunity: Companies can leverage MLJAR Studio to enhance data-driven decision-making without needing extensive programming skills."
+    },
+    {
+      "id": "hn-1777726365972-24",
+      "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+      "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-02T11:55:14.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 1
+      },
+      "rawTextSnippet": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+      "hnMeta": {
+        "points": 3,
         "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47974008"
+        "hnUrl": "https://news.ycombinator.com/item?id=47985613"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -193,93 +221,120 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A California billionaire invested $3.5 million to oppose OpenAI in a New York congressional race.  \n• Why it matters: This move highlights growing political tensions surrounding AI regulation and its implications for the tech industry.  \n• Business opportunity: Companies can explore lobbying and advocacy strategies to navigate the evolving regulatory landscape in AI."
-    },
-    {
-      "id": "hn-1777640489092-98",
-      "title": "OpenAI has effectively abandoned first-party Stargate data centers",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term",
-      "source": "Hacker News",
-      "publishedAt": "2026-04-30T23:17:09.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 13,
-        "comments": 2
-      },
-      "rawTextSnippet": "OpenAI has effectively abandoned first-party Stargate data centers",
-      "hnMeta": {
-        "points": 13,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47969542"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 6
-      },
       "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: OpenAI has decided to discontinue its first-party Stargate data centers.  \n• Why it matters: This shift indicates a strategic pivot away from managing its own data infrastructure.  \n• Business opportunity: Companies can explore partnerships or services to fill the gap in data center solutions for AI applications."
+      "summary": "• What happened: Minnesota enacted a law banning the creation and distribution of fake AI-generated nude images.  \n• Why it matters: The legislation aims to protect individuals from non-consensual exploitation and privacy violations.  \n• Business opportunity: App developers can innovate in ethical AI applications while ensuring compliance to avoid hefty fines."
     },
     {
-      "id": "hn-1777640489092-100",
-      "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-      "url": "https://pu.dev/",
+      "id": "hn-1777726365972-10",
+      "title": "I Just Launched the AI Pledge for Humanity. Here's Why",
+      "url": "https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for",
       "source": "Hacker News",
-      "publishedAt": "2026-04-30T20:55:12.000Z",
+      "publishedAt": "2026-05-02T12:51:01.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 84,
-        "comments": 21
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "I originally was just messing with pi-autoresearch. Gave it a sample task to build the most portable coding agent. First cut was 6 KB of shell. Great for one-shots, unusable interactively. I was shocked it actually worked. Started building up -- adding features — but with a self-imposed rule: no new…",
+      "rawTextSnippet": "I Just Launched the AI Pledge for Humanity. Here's Why",
       "hnMeta": {
-        "points": 84,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=47968112"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985976"
       },
-      "score": 61,
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A developer created Pu.sh, a compact coding agent in 400 lines of shell code.  \n• Why it matters: This lightweight tool demonstrates the potential for efficient coding solutions in various applications.  \n• Business opportunity: There is potential to commercialize this technology for developers seeking streamlined coding assistance."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: An AI Pledge for Humanity was launched to promote ethical AI development.  \n• Why it matters: This initiative aims to ensure that AI technologies benefit society and mitigate potential risks.  \n• Business opportunity: Companies can align with the pledge to enhance their brand reputation and attract socially conscious consumers."
+    },
+    {
+      "id": "hn-1777726365972-11",
+      "title": "David Bessis on AI destroying mathematics",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-02T12:48:13.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "David Bessis on AI destroying mathematics",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985962"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: David Bessis discussed the impact of AI on the field of mathematics.  \n• Why it matters: The conversation highlights concerns over AI's potential to undermine traditional mathematical methods and education.  \n• Business opportunity: There is a growing demand for innovative educational tools that integrate AI while preserving mathematical integrity."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 48,
-      "trendScore": 198,
-      "whyTrending": "48 stories across Hacker, TechCrunch, OpenAI, 28 in the last 24h.",
+      "itemCount": 62,
+      "trendScore": 211,
+      "whyTrending": "62 stories across Hacker, MIT, TechCrunch, 41 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Site Mogging",
-        "url": "https://sitemogging.com"
+        "title": "Show HN: AI CAD Harness",
+        "url": "https://fusion.adam.new/install"
       },
       "items": [
         {
-          "id": "hn-1777640484820-21",
-          "title": "Show HN: Site Mogging",
-          "url": "https://sitemogging.com",
+          "id": "hn-1777726371591-169",
+          "title": "Show HN: AI CAD Harness",
+          "url": "https://fusion.adam.new/install",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T11:32:48.000Z",
+          "publishedAt": "2026-05-01T17:43:53.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 14,
-            "comments": 9
+            "upvotes": 86,
+            "comments": 86
           },
-          "rawTextSnippet": "Hi HN, I&#x27;ve been playing around with Cloudflare&#x27;s Browser Run and Workers AI to create this funny &quot;website vs website&quot;-website. Google&#x27;s Gemma 4b model is actually quite good at vision.",
+          "rawTextSnippet": "Hi HN, I&#x27;m Zach, one of the co-founders of Adam ( https:&#x2F;&#x2F;adam.new ). We&#x27;ve been on HN twice before with text-to-CAD&#x2F;3D experiments [1][2]. The honest takeaway from those threads: prompt-to-3D model web apps are fun, but serious mechanical engineers don&#x27;t want a black b…",
           "hnMeta": {
-            "points": 14,
-            "comments": 9,
-            "hnUrl": "https://news.ycombinator.com/item?id=47973559"
+            "points": 86,
+            "comments": 86,
+            "hnUrl": "https://news.ycombinator.com/item?id=47977694"
+          },
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1777726367400-78",
+          "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+          "url": "https://iesna.eu/?wasm=skyglow_demo",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T09:08:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 22,
+            "comments": 6
+          },
+          "rawTextSnippet": "Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT&#x2F;EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculations against EN 13201 &#x2F; ANSI&#x2F;IES RP-8 &#x2F; CJJ 45 &#x2F; IES-IDA MLO, and (the part I …",
+          "hnMeta": {
+            "points": 22,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=47984734"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -292,25 +347,25 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1777640489092-94",
-          "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
-          "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+          "id": "hn-1777726368789-111",
+          "title": "Ask HN: Shipped my first iOS app. No downloads. How to get the first download?",
+          "url": "https://apps.apple.com/us/app/padelsmile-padel-tournament/id6761918507",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T05:06:38.000Z",
+          "publishedAt": "2026-05-02T11:21:03.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 11,
-            "comments": 0
+            "upvotes": 1,
+            "comments": 6
           },
-          "rawTextSnippet": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+          "rawTextSnippet": "Ask HN: Shipped my first iOS app. No downloads. How to get the first download?",
           "hnMeta": {
-            "points": 11,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47971475"
+            "points": 1,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=47985396"
           },
-          "score": 60,
+          "score": 64,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 5,
             "novelty": 15,
@@ -319,21 +374,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1777640484820-11",
-          "title": "Ask HN: How do you feel about AI assisted blogging?",
-          "url": "https://news.ycombinator.com/item?id=47974256",
+          "id": "hn-1777726365972-11",
+          "title": "David Bessis on AI destroying mathematics",
+          "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T12:56:47.000Z",
+          "publishedAt": "2026-05-02T12:48:13.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "How do you feel when you learn someone has been using AI heavily to help them write? Setting aside English as a second language. My knee-jerk is to find it disappointing. But maybe I’m missing some nuance. And I don’t have the same negative reaction to AI coding. But if you’re going to ask me to rea…",
+          "rawTextSnippet": "David Bessis on AI destroying mathematics",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47974256"
+            "hnUrl": "https://news.ycombinator.com/item?id=47985962"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -346,48 +401,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1777640484820-15",
-          "title": "SpaceX spending on Starship tops $15B in rush for airline-like rocketry",
-          "url": "https://www.reuters.com/business/autos-transportation/spacex-spending-starship-tops-15-billion-rush-airline-like-rocketry-2026-05-01/",
+          "id": "hn-1777726365972-12",
+          "title": "AI Cyberattacks Meet Memory-Safe Code Defenses",
+          "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T12:20:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "SpaceX spending on Starship tops $15B in rush for airline-like rocketry",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47973947"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1777640484820-16",
-          "title": "AI commerce needs an MLPerf – early attempt at one",
-          "url": "https://ucpchecker.com/blog/ucp-playground-evals",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-01T12:17:12.000Z",
+          "publishedAt": "2026-05-02T12:38:50.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "AI commerce needs an MLPerf – early attempt at one",
+          "rawTextSnippet": "AI Cyberattacks Meet Memory-Safe Code Defenses",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47973917"
+            "hnUrl": "https://news.ycombinator.com/item?id=47985890"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -403,97 +431,30 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 57,
-      "trendScore": 197,
-      "whyTrending": "57 stories across MIT, Hacker, TechCrunch, 30 in the last 24h.",
+      "itemCount": 51,
+      "trendScore": 176,
+      "whyTrending": "51 stories across Hacker, TechCrunch, GitHub, 9 in the last 24h.",
       "topStory": {
-        "title": "The Download: a new Christian phone network, and debugging LLMs",
-        "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/"
+        "title": "WebLLM is a high-performance in-browser LLM inference engine",
+        "url": "https://github.com/mlc-ai/web-llm"
       },
       "items": [
         {
-          "id": "rss-1777640484690-0",
-          "title": "The Download: a new Christian phone network, and debugging LLMs",
-          "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-05-01T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to …",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1777640490615-127",
-          "title": "How People ask Claude for personal guidance",
-          "url": "https://www.anthropic.com/research/claude-personal-guidance",
+          "id": "hn-1777726365972-29",
+          "title": "WebLLM is a high-performance in-browser LLM inference engine",
+          "url": "https://github.com/mlc-ai/web-llm",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T05:35:49.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 13,
-            "comments": 4
-          },
-          "rawTextSnippet": "How People ask Claude for personal guidance",
-          "hnMeta": {
-            "points": 13,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=47971585"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "rss-1777640487570-61",
-          "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-          "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-30T18:20:03.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1777640484820-12",
-          "title": "Show HN: Stanzio, AI presentation tool that designs each slide as real HTML",
-          "url": "https://stanzio.fly.dev/",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-01T12:54:51.000Z",
+          "publishedAt": "2026-05-02T11:08:14.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Given that PowerPoint&#x27;s format doesn&#x27;t play well with LLMs, I built a tool that generates presentations as real HTML instead. Think Lovable but for slides. Would love to hear what you think :)",
+          "rawTextSnippet": "WebLLM is a high-performance in-browser LLM inference engine",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47974235"
+            "hnUrl": "https://news.ycombinator.com/item?id=47985332"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -506,25 +467,106 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1777640486228-33",
-          "title": "Coverage-guided and grammar-aware and LLM fuzzing finds 100 compiler bugs",
-          "url": "https://nowarp.io/blog/compiler-testing-part-1/",
+          "id": "hn-1777726368789-114",
+          "title": "Claude Code: Creating Kubernetes Debugging AI Agent for VictoriaMetrics",
+          "url": "https://rtfm.co.ua/en/claude-code-creating-kubernetes-debugging-ai-agent-for-victoriametrics/",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T12:38:23.000Z",
+          "publishedAt": "2026-05-02T08:35:46.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 1
+            "comments": 0
           },
-          "rawTextSnippet": "Coverage-guided and grammar-aware and LLM fuzzing finds 100 compiler bugs",
+          "rawTextSnippet": "Claude Code: Creating Kubernetes Debugging AI Agent for VictoriaMetrics",
           "hnMeta": {
             "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47974089"
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47984578"
           },
           "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1777726367400-85",
+          "title": "Raspberry Pi 5 gets LLM smarts with AI HAT+ 2",
+          "url": "https://www.theregister.com/2026/01/15/pi_5_ai_hat_2/",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T05:15:15.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Raspberry Pi 5 gets LLM smarts with AI HAT+ 2",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47983529"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1777726367400-86",
+          "title": "Understanding the LLM Bubble",
+          "url": "https://americanaffairsjournal.org/2026/02/understanding-the-llm-bubble/",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T04:15:24.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 2
+          },
+          "rawTextSnippet": "Understanding the LLM Bubble",
+          "hnMeta": {
+            "points": 3,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=47983239"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1777726367400-90",
+          "title": "Show HN: MemHub, Turn Your GPT/Claude/Gemini History into LLM-Wiki Mindmap",
+          "url": "https://github.com/XTraceAI/memhub-llm-wiki-guide",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T00:56:49.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "Hi, this is Tristan, CPO of XTrace. We are launching a very cool feature that is inspired by Andrey Karpathy&#x27;s LLM Wiki mindmap. Let everyone who doesn&#x27;t have enough sessions and markdowns made with claude code be able to visualize their own memory mindmap!",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47982219"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
@@ -536,88 +578,34 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 31,
-      "trendScore": 180,
-      "whyTrending": "31 stories across Hacker, TechCrunch, arXiv, 21 in the last 24h.",
+      "itemCount": 23,
+      "trendScore": 153,
+      "whyTrending": "23 stories across Hacker, GitHub, TechCrunch, 9 in the last 24h.",
       "topStory": {
-        "title": "'Rogue' Cursor AI agent loses control and wipes company's database",
-        "url": "https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181"
+        "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+        "url": "https://github.com/lahfir/agent-desktop"
       },
       "items": [
         {
-          "id": "hn-1777640484820-19",
-          "title": "'Rogue' Cursor AI agent loses control and wipes company's database",
-          "url": "https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181",
+          "id": "hn-1777726367400-89",
+          "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+          "url": "https://github.com/lahfir/agent-desktop",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T11:49:56.000Z",
+          "publishedAt": "2026-05-02T02:18:24.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 6,
-            "comments": 3
+            "upvotes": 87,
+            "comments": 28
           },
-          "rawTextSnippet": "'Rogue' Cursor AI agent loses control and wipes company's database",
+          "rawTextSnippet": "I&#x27;ve been building computer-use tools for a while, and I quietly launched this about a month ago (122 Stars on GH). I figured it was worth sharing here. Over the last few months, a lot of computer-use agents have come out: Codex, Claude Code, CUA, and others. Most of them seem to work roughly l…",
           "hnMeta": {
-            "points": 6,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47973681"
+            "points": 87,
+            "comments": 28,
+            "hnUrl": "https://news.ycombinator.com/item?id=47982708"
           },
-          "score": 64,
+          "score": 65,
           "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1777640487636-87",
-          "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
-          "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-01T08:14:07.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 31,
-            "comments": 3
-          },
-          "rawTextSnippet": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
-          "hnMeta": {
-            "points": 31,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47972367"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1777640489092-100",
-          "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-          "url": "https://pu.dev/",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-30T20:55:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 84,
-            "comments": 21
-          },
-          "rawTextSnippet": "I originally was just messing with pi-autoresearch. Gave it a sample task to build the most portable coding agent. First cut was 6 KB of shell. Great for one-shots, unusable interactively. I was shocked it actually worked. Started building up -- adding features — but with a self-imposed rule: no new…",
-          "hnMeta": {
-            "points": 84,
-            "comments": 21,
-            "hnUrl": "https://news.ycombinator.com/item?id=47968112"
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 26,
             "authority": 14,
             "engagement": 10,
             "novelty": 15,
@@ -626,21 +614,48 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1777640484820-24",
-          "title": "Show HN: \"Woo\", a multi-user world for agents",
-          "url": "https://woo.hughpyle.workers.dev/",
+          "id": "hn-1777726367400-80",
+          "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+          "url": "https://snewpapers.com/",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T11:17:53.000Z",
+          "publishedAt": "2026-05-02T08:42:45.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
+            "upvotes": 17,
+            "comments": 11
           },
-          "rawTextSnippet": "World of Objects. It&#x27;s basically LambdaMOO, but over Cloudflare Durable Objects and MCP. --- Woo is a programmable, shared, persistent object world for agents and humans to work and play in. Inspired by LambdaMOO, closely following its object model but modernized and slightly decentralized, wit…",
+          "rawTextSnippet": "Hello HN, over the past 7 months I&#x27;ve spent nearly 3,000 hours on building SNEWPAPERS, the first historical newpaper archive with full-text extractions, nearly perfect OCR, a vast categorization taxonomy and of course with semantic and agentic search capabilities. Problem: I wanted to search th…",
           "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47973443"
+            "points": 17,
+            "comments": 11,
+            "hnUrl": "https://news.ycombinator.com/item?id=47984614"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1777726368789-110",
+          "title": "Open Design: Use Your Coding Agent as a Design Engine",
+          "url": "https://github.com/nexu-io/open-design",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T12:16:16.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Open Design: Use Your Coding Agent as a Design Engine",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47985750"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -653,21 +668,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1777640484820-30",
-          "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
-          "url": "https://github.com/leox255/loopsy",
+          "id": "hn-1777726368789-115",
+          "title": "Show HN: Hollow is an open-sourced self-modifying agentic system",
+          "url": "https://github.com/ninjahawk/hollow-agentOS",
           "source": "Hacker News",
-          "publishedAt": "2026-05-01T10:25:41.000Z",
+          "publishedAt": "2026-05-02T07:43:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 7,
+            "comments": 1
           },
-          "rawTextSnippet": "I&#x27;ve always had the urge to have my two macbooks communicate. Having one idle while working on the other felt like underutilization of resources. So I built Loopsy. Initially the goal was to do file transfer via local network, and then came running commands. I then tried running coding agents f…",
+          "rawTextSnippet": "Show HN: Hollow is an open-sourced self-modifying agentic system",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47973093"
+            "points": 7,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=47984301"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -678,175 +693,209 @@
             "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1777726368789-116",
+          "title": "Show HN: Agent with its own computer on the cloud",
+          "url": "https://pulsarbot.cloud/",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T07:15:45.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Agent with its own computer on the cloud",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47984116"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Products",
+      "itemCount": 15,
+      "trendScore": 131,
+      "whyTrending": "15 stories across Hacker, MIT, arXiv, 5 in the last 24h.",
+      "topStory": {
+        "title": "I Just Launched the AI Pledge for Humanity. Here's Why",
+        "url": "https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for"
+      },
+      "items": [
+        {
+          "id": "hn-1777726365972-10",
+          "title": "I Just Launched the AI Pledge for Humanity. Here's Why",
+          "url": "https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T12:51:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "I Just Launched the AI Pledge for Humanity. Here's Why",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47985976"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1777726365972-14",
+          "title": "How Fast Could Robot Production Scale Up?",
+          "url": "https://epoch.ai/blog/how-fast-could-robot-production-scale-up",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T12:28:33.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "How Fast Could Robot Production Scale Up?",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47985829"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1777726367400-76",
+          "title": "Show HN: Manage Casio G-Shock watches from the browser",
+          "url": "https://github.com/izivkov/gshock-smart-sync-webapp",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T09:48:47.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "I&#x27;ve been maintaining GShockSmartSync (Android) for a while, and a recurring ask was &quot;can I do this without installing an app?&quot; So I built a browser-based version using the Web Bluetooth API. What it does: - Time sync with NTP (atomic-clock precision) - Full alarm management (all 5 al…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47984929"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1777726367400-77",
+          "title": "Show HN: I built Male Hormone Lab Interpreter that does what LLMs can't",
+          "url": "https://www.longevity-tools.com/male-hormones-interpreter",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T09:12:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Hi, My name is Zsolt. I build clinical tools for labs and longevity clinics, and I release some of them as free public tools. The Male Hormone Lab Interpreter unique feature is that it visualizes the testosterone production and feedback pathway on HPG axis to identify the true root cause of hormonal…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47984764"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1777726368789-113",
+          "title": "AI coding tools are silently disagreeing with each other",
+          "url": "https://github.com/sampleXbro/agentsmesh",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-02T08:40:50.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "AI coding tools are silently disagreeing with each other",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=47984606"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
         }
       ]
     },
     {
       "name": "AI Safety & Regulation",
       "itemCount": 12,
-      "trendScore": 136,
-      "whyTrending": "12 stories across Hacker, TechCrunch, arXiv, 9 in the last 24h.",
+      "trendScore": 128,
+      "whyTrending": "12 stories across Hacker, MIT, TechCrunch, 5 in the last 24h.",
       "topStory": {
-        "title": "OpenAI has effectively abandoned first-party Stargate data centers",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term"
+        "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+        "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/"
       },
       "items": [
         {
-          "id": "hn-1777640489092-98",
-          "title": "OpenAI has effectively abandoned first-party Stargate data centers",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term",
+          "id": "hn-1777726365972-24",
+          "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+          "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
           "source": "Hacker News",
-          "publishedAt": "2026-04-30T23:17:09.000Z",
+          "publishedAt": "2026-05-02T11:55:14.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 13,
-            "comments": 2
-          },
-          "rawTextSnippet": "OpenAI has effectively abandoned first-party Stargate data centers",
-          "hnMeta": {
-            "points": 13,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=47969542"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1777640484820-13",
-          "title": "An AI reasoning system just discovered a candidate universal law in astrophysics",
-          "url": "https://blankline.org/research/universal-bimodal-drift-rate",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-01T12:52:57.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 3,
             "comments": 1
           },
-          "rawTextSnippet": "An AI reasoning system just discovered a candidate universal law in astrophysics",
+          "rawTextSnippet": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
           "hnMeta": {
-            "points": 1,
+            "points": 3,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47974218"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1777640486228-35",
-          "title": "Show HN: Porting partially deobfuscated Old School Runescape to use LWJGL 3",
-          "url": "https://github.com/stevefan1999-personal/void-client/tree/feat/native-to-java-port",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-01T11:07:50.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "I tried to make this because I need the port to CheerpJ with a custom WebSocket wrapper that the private server is also modified to accept. The desktop client works flawlessly even on my Mac Mini M4 because LWJGL 3 ships an JNI implementation for mac-arm64. I have all the Windows, Linux and Mac plat…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=47973371"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1777640492023-161",
-          "title": "Utah's New Law Targeting VPNs Goes into Effect Next Week",
-          "url": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
-          "source": "Hacker News",
-          "publishedAt": "2026-04-30T23:57:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 43,
-            "comments": 3
-          },
-          "rawTextSnippet": "Utah's New Law Targeting VPNs Goes into Effect Next Week",
-          "hnMeta": {
-            "points": 43,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=47969868"
-          },
-          "score": 56,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "rss-1777640487570-69",
-          "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-          "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-30T03:58:22.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 9
-          },
-          "cluster": "AI Safety & Regulation"
-        }
-      ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 11,
-      "trendScore": 124,
-      "whyTrending": "11 stories across Hacker, MIT, TechCrunch, 5 in the last 24h.",
-      "topStory": {
-        "title": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
-        "url": "https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html"
-      },
-      "items": [
-        {
-          "id": "hn-1777640484820-14",
-          "title": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
-          "url": "https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-01T12:28:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=47974008"
+            "hnUrl": "https://news.ycombinator.com/item?id=47985613"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -856,18 +905,18 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1777640484691-4",
-          "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-          "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+          "id": "rss-1777726365817-0",
+          "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+          "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-04-30T18:42:50.000Z",
+          "publishedAt": "2026-05-01T22:08:19.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for &#8220;brainless clones&#8221; to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories…",
+          "rawTextSnippet": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat …",
           "score": 58,
           "scoreBreakdown": {
             "freshness": 22,
@@ -876,18 +925,18 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1777640487570-59",
-          "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-          "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+          "id": "rss-1777726368616-93",
+          "title": "Did you know you can&#8217;t steal a charity? Don&#8217;t worry. Elon Musk will remind you.",
+          "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-04-30T20:14:47.000Z",
+          "publishedAt": "2026-05-01T17:44:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+          "rawTextSnippet": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting…",
           "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
@@ -896,173 +945,131 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "arxiv-1777640494658-203",
-          "title": "Splitting Argumentation Frameworks with Collective Attacks and Supports",
-          "url": "https://arxiv.org/abs/2604.28112v1",
-          "source": "arXiv",
-          "publishedAt": "2026-04-30T17:01:06.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "This work proposes novel splitting techniques for argumentation formalisms that incorporate supports between defeasible elements. We base our studies on bipolar set-based argumentation frameworks (BSAFs) which generalize argumentation frameworks with collective attacks (SETAFs), as well as bipolar a…",
-          "arxivMeta": {
-            "authors": "Matti Berthold, Lydia Blümel, Giovanni Buraglio, Anna Rapberger",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1777640487570-57",
-          "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-          "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+          "id": "rss-1777726368616-95",
+          "title": "Musk v. Altman is just getting started",
+          "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-04-30T23:07:56.000Z",
+          "publishedAt": "2026-05-01T14:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-          "score": 53,
+          "rawTextSnippet": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s arg…",
+          "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1777726372956-204",
+          "title": "Utah's New Law Targeting VPNs Goes into Effect Next Week",
+          "url": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
+          "source": "Hacker News",
+          "publishedAt": "2026-04-30T23:57:30.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 47,
+            "comments": 3
+          },
+          "rawTextSnippet": "Utah's New Law Targeting VPNs Goes into Effect Next Week",
+          "hnMeta": {
+            "points": 47,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=47969868"
+          },
+          "score": 54,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1777640484691-3",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out …",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: A new US phone network targeting Christians will launch, blocking porn and gender-related content.  \n• Why it matters: This is the first US cell plan to implement network-level blocking of such content, which cannot be disabled by users.  \n• Business opportunity: There is potential for growth in niche markets focused on family-friendly and faith-based technology solutions."
-    },
-    {
-      "id": "hn-1777640484820-21",
-      "title": "Show HN: Site Mogging",
-      "url": "https://sitemogging.com",
+      "id": "hn-1777726371591-169",
+      "title": "Show HN: AI CAD Harness",
+      "url": "https://fusion.adam.new/install",
       "source": "Hacker News",
-      "publishedAt": "2026-05-01T11:32:48.000Z",
+      "publishedAt": "2026-05-01T17:43:53.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 14,
-        "comments": 9
+        "upvotes": 86,
+        "comments": 86
       },
-      "rawTextSnippet": "Hi HN, I&#x27;ve been playing around with Cloudflare&#x27;s Browser Run and Workers AI to create this funny &quot;website vs website&quot;-website. Google&#x27;s Gemma 4b model is actually quite good at vision.",
+      "rawTextSnippet": "Hi HN, I&#x27;m Zach, one of the co-founders of Adam ( https:&#x2F;&#x2F;adam.new ). We&#x27;ve been on HN twice before with text-to-CAD&#x2F;3D experiments [1][2]. The honest takeaway from those threads: prompt-to-3D model web apps are fun, but serious mechanical engineers don&#x27;t want a black b…",
       "hnMeta": {
-        "points": 14,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=47973559"
+        "points": 86,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=47977694"
       },
-      "score": 64,
+      "score": 66,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 15,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A developer showcased a new website comparing different sites using Cloudflare's Browser Run and Workers AI.  \n• Why it matters: The project highlights advancements in AI-driven web tools and their potential for creative applications.  \n• Business opportunity: There is potential for developing AI-based tools that enhance user engagement through interactive website comparisons."
+      "summary": "• What happened: A co-founder of Adam introduced an AI CAD tool aimed at mechanical engineers.  \n• Why it matters: The tool addresses the need for more practical and professional CAD solutions beyond experimental applications.  \n• Business opportunity: There is potential to capture a market of serious engineers seeking efficient, AI-driven design tools."
     },
     {
-      "id": "hn-1777640489092-94",
-      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
-      "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+      "id": "hn-1777726367400-89",
+      "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+      "url": "https://github.com/lahfir/agent-desktop",
       "source": "Hacker News",
-      "publishedAt": "2026-05-01T05:06:38.000Z",
+      "publishedAt": "2026-05-02T02:18:24.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 11,
-        "comments": 0
+        "upvotes": 87,
+        "comments": 28
       },
-      "rawTextSnippet": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+      "rawTextSnippet": "I&#x27;ve been building computer-use tools for a while, and I quietly launched this about a month ago (122 Stars on GH). I figured it was worth sharing here. Over the last few months, a lot of computer-use agents have come out: Codex, Claude Code, CUA, and others. Most of them seem to work roughly l…",
       "hnMeta": {
-        "points": 11,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47971475"
+        "points": 87,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=47982708"
       },
-      "score": 60,
+      "score": 65,
       "scoreBreakdown": {
         "freshness": 26,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 10,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Elon Musk acknowledged that xAI has utilized OpenAI's models for training.  \n• Why it matters: This admission raises questions about intellectual property and competitive practices in AI development.  \n• Business opportunity: Companies can explore partnerships or licensing agreements for AI model training to enhance their capabilities."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A developer launched Agent-desktop, a native desktop automation CLI for AI agents.  \n• Why it matters: This tool enhances the functionality of various AI agents, streamlining their integration into desktop environments.  \n• Business opportunity: There is potential for businesses to leverage this tool to improve productivity and automate workflows using AI technology."
     },
     {
-      "id": "rss-1777640487570-61",
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T18:20:03.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "hn-1777640484820-24",
-      "title": "Show HN: \"Woo\", a multi-user world for agents",
-      "url": "https://woo.hughpyle.workers.dev/",
+      "id": "hn-1777726365972-10",
+      "title": "I Just Launched the AI Pledge for Humanity. Here's Why",
+      "url": "https://scottsantens.substack.com/p/i-just-launched-the-ai-pledge-for",
       "source": "Hacker News",
-      "publishedAt": "2026-05-01T11:17:53.000Z",
+      "publishedAt": "2026-05-02T12:51:01.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
-        "comments": 1
+        "comments": 0
       },
-      "rawTextSnippet": "World of Objects. It&#x27;s basically LambdaMOO, but over Cloudflare Durable Objects and MCP. --- Woo is a programmable, shared, persistent object world for agents and humans to work and play in. Inspired by LambdaMOO, closely following its object model but modernized and slightly decentralized, wit…",
+      "rawTextSnippet": "I Just Launched the AI Pledge for Humanity. Here's Why",
       "hnMeta": {
         "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47973443"
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985976"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1072,13 +1079,68 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation"
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: The AI Pledge for Humanity was launched to promote responsible AI development.  \n• Why it matters: It addresses ethical concerns and fosters collaboration among stakeholders in the AI community.  \n• Business opportunity: Companies can leverage the pledge to enhance their brand reputation and attract ethically-conscious consumers."
+    },
+    {
+      "id": "hn-1777726365972-14",
+      "title": "How Fast Could Robot Production Scale Up?",
+      "url": "https://epoch.ai/blog/how-fast-could-robot-production-scale-up",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-02T12:28:33.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "How Fast Could Robot Production Scale Up?",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985829"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products"
+    },
+    {
+      "id": "hn-1777726367400-76",
+      "title": "Show HN: Manage Casio G-Shock watches from the browser",
+      "url": "https://github.com/izivkov/gshock-smart-sync-webapp",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-02T09:48:47.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "I&#x27;ve been maintaining GShockSmartSync (Android) for a while, and a recurring ask was &quot;can I do this without installing an app?&quot; So I built a browser-based version using the Web Bluetooth API. What it does: - Time sync with NTP (atomic-clock precision) - Full alarm management (all 5 al…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47984929"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1777640494658-200",
+      "id": "arxiv-1777726366269-43",
       "title": "PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning",
       "url": "https://arxiv.org/abs/2604.28123v1",
       "source": "arXiv",
@@ -1095,9 +1157,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1106,7 +1168,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1777640494658-203",
+      "id": "arxiv-1777726366269-46",
       "title": "Splitting Argumentation Frameworks with Collective Attacks and Supports",
       "url": "https://arxiv.org/abs/2604.28112v1",
       "source": "arXiv",
@@ -1123,9 +1185,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1134,7 +1196,7 @@
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "arxiv-1777640494658-213",
+      "id": "arxiv-1777726366270-56",
       "title": "To Build or Not to Build? Factors that Lead to Non-Development or Abandonment of AI Systems",
       "url": "https://arxiv.org/abs/2604.28053v1",
       "source": "arXiv",
@@ -1151,9 +1213,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1162,7 +1224,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1777640494658-215",
+      "id": "arxiv-1777726366270-58",
       "title": "Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment Perception",
       "url": "https://arxiv.org/abs/2604.28048v1",
       "source": "arXiv",
@@ -1179,9 +1241,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1190,7 +1252,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1777640494657-187",
+      "id": "arxiv-1777726366269-30",
       "title": "Computing Equilibrium beyond Unilateral Deviation",
       "url": "https://arxiv.org/abs/2604.28186v1",
       "source": "arXiv",
@@ -1207,9 +1269,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1220,64 +1282,43 @@
   ],
   "funding": [
     {
-      "id": "rss-1777640484691-2",
-      "title": "Trump&#8217;s mass firing just dealt another blow to American science",
-      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-01T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday la…",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: Trump fired the board overseeing the National Science Foundation, impacting its funding and research projects.  \n• Why it matters: This decision undermines scientific research in the US, potentially stalling innovation and progress.  \n• Business opportunity: Companies can invest in private research initiatives to fill the gap left by reduced federal funding."
-    },
-    {
-      "id": "hn-1777640484820-14",
-      "title": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html",
+      "id": "hn-1777726365972-17",
+      "title": "Apple Raises Mac Mini's Starting Price to $799 After AI Frenzy Drains Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/apple-raises-mac-mini-s-starting-price-to-799-after-ai-frenzy-drains-supply",
       "source": "Hacker News",
-      "publishedAt": "2026-05-01T12:28:34.000Z",
+      "publishedAt": "2026-05-02T12:13:51.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 1
+        "upvotes": 2,
+        "comments": 0
       },
-      "rawTextSnippet": "CA Billionaire Spends $3.5M to oppose OpenAI in NY house race",
+      "rawTextSnippet": "Apple Raises Mac Mini's Starting Price to $799 After AI Frenzy Drains Supply",
       "hnMeta": {
-        "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=47974008"
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985729"
       },
-      "score": 62,
+      "score": 59,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A California billionaire invested $3.5 million to oppose OpenAI in a New York congressional race.  \n• Why it matters: This significant funding highlights the growing political tensions surrounding AI regulation and influence.  \n• Business opportunity: Companies can explore lobbying and advocacy services to navigate the evolving landscape of AI policy and regulation."
+      "cluster": "General AI",
+      "summary": "• What happened: Apple increased the starting price of the Mac Mini to $799 due to supply constraints.  \n• Why it matters: The price hike reflects heightened demand driven by AI-related applications.  \n• Business opportunity: Companies can capitalize on the growing AI market by offering complementary products or services for Mac Mini users."
     },
     {
-      "id": "rss-1777640487570-64",
-      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "id": "rss-1777726368616-91",
+      "title": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T17:46:54.000Z",
+      "publishedAt": "2026-05-01T23:06:50.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+      "rawTextSnippet": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit…",
       "score": 56,
       "scoreBreakdown": {
         "freshness": 22,
@@ -1286,31 +1327,52 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Google is deploying its Gemini AI assistant in millions of vehicles.  \n• Why it matters: This initiative enhances the driving experience with advanced conversational AI technology.  \n• Business opportunity: Companies can explore partnerships or develop apps that integrate with Gemini for improved in-car services."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Replit's CEO Amjad Masad discussed the Cursor acquisition talks with SpaceX at a TechCrunch event.  \n• Why it matters: The potential $60 billion deal highlights the competitive landscape in the tech industry.  \n• Business opportunity: Companies can explore partnerships or acquisitions to enhance their market position amid rising valuations."
     },
     {
-      "id": "rss-1777640487570-69",
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "id": "rss-1777726365818-5",
+      "title": "Trump&#8217;s mass firing just dealt another blow to American science",
+      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-01T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday la…",
+      "score": 51,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks",
+      "summary": "• What happened: Trump fired the board overseeing the National Science Foundation, impacting its $9 billion funding for research.  \n• Why it matters: This move undermines scientific oversight and could hinder major research initiatives in the US.  \n• Business opportunity: Companies in the private sector may step in to fill the funding gap for scientific research and innovation."
+    },
+    {
+      "id": "rss-1777726368616-104",
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-04-30T03:58:22.000Z",
+      "publishedAt": "2026-04-30T17:46:54.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
-      "score": 55,
+      "rawTextSnippet": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+      "score": 49,
       "scoreBreakdown": {
         "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 9
+        "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation"
+      "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1777640494658-203",
+      "id": "arxiv-1777726366269-46",
       "title": "Splitting Argumentation Frameworks with Collective Attacks and Supports",
       "url": "https://arxiv.org/abs/2604.28112v1",
       "source": "arXiv",
@@ -1327,9 +1389,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1338,5 +1400,5 @@
       "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In a significant setback for American science, former President Trump's recent mass firings have raised concerns about the future of research funding and innovation, potentially stalling advancements in critical fields. Meanwhile, a new US phone network targeting Christian users aims to filter out pornographic and gender-related content, highlighting a growing market for niche telecommunications services that prioritize user values. On the tech front, a 'rogue' AI agent's failure to maintain control led to a catastrophic database wipe for a company, underscoring the risks associated with deploying autonomous systems without robust safeguards. Additionally, a bug discovered in WireGuard on Google Kubernetes Engine could have implications for security protocols in cloud environments, emphasizing the need for vigilant oversight in rapidly evolving tech landscapes."
+  "dailyBrief": "Today's AI landscape showcases innovative tools poised to enhance productivity and environmental awareness. A new AI CAD harness aims to streamline computer-aided design processes, potentially reducing project turnaround times for engineers and architects. Meanwhile, the Agent-desktop CLI offers native automation capabilities for AI agents, which could significantly improve workflow efficiency across various sectors. Additionally, a browser-based light pollution simulator utilizing real photometric data provides valuable insights for urban planners and environmentalists, while an AI tool for filling PDF forms enhances document management efficiency. Lastly, the large-scale extraction of newspaper articles from the 1730s to the 1960s opens new avenues for historical research and data analysis, potentially benefiting academia and market researchers alike."
 }
