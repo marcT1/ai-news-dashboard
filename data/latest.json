@@ -1,64 +1,141 @@
 {
   "topNews": [
     {
-      "id": "rss-1778594466859-65",
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-12T11:30:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: AI voice startup Vapi achieved a $500M valuation after securing a partnership with Amazon Ring.  \n• Why it matters: This success highlights the growing demand for AI-driven customer support solutions in various industries.  \n• Business opportunity: Companies can leverage Vapi's technology to enhance customer interactions and reduce operational costs."
-    },
-    {
-      "id": "hn-1778594468815-122",
-      "title": "A consistent pattern of lying': trial exposes what insiders think of Sam Altman",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial",
+      "id": "hn-1778681462791-205",
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
       "source": "Hacker News",
-      "publishedAt": "2026-05-12T02:17:32.000Z",
+      "publishedAt": "2026-05-12T17:35:58.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 50,
-        "comments": 4
+        "upvotes": 351,
+        "comments": 111
       },
-      "rawTextSnippet": "A consistent pattern of lying': trial exposes what insiders think of Sam Altman",
+      "rawTextSnippet": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
       "hnMeta": {
-        "points": 50,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48103417"
+        "points": 351,
+        "comments": 111,
+        "hnUrl": "https://news.ycombinator.com/item?id=48111531"
       },
-      "score": 65,
+      "score": 71,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 22,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A trial revealed insider opinions about Sam Altman's alleged consistent dishonesty.  \n• Why it matters: This perception could impact Altman's leadership credibility and the trust in his ventures.  \n• Business opportunity: Companies could capitalize on the situation by promoting transparency and integrity in leadership."
+      "summary": "• What happened: Canada introduced Bill C-22, a revised version of controversial surveillance legislation from last year.  \n• Why it matters: The bill raises concerns about privacy and government overreach, potentially affecting citizens' rights.  \n• Business opportunity: Companies specializing in privacy protection and compliance solutions may see increased demand as public awareness grows."
     },
     {
-      "id": "rss-1778594466859-64",
-      "title": "Dessn raises $6M for its production focused design tool",
-      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "id": "hn-1778681464212-211",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-12T18:03:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 545,
+        "comments": 157
+      },
+      "rawTextSnippet": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices. We were always frustrated by the little effort made towards building agentic models that run on budget phones,…",
+      "hnMeta": {
+        "points": 545,
+        "comments": 157,
+        "hnUrl": "https://news.ycombinator.com/item?id=48111896"
+      },
+      "score": 71,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Cactus open-sourced Needle, a 26M parameter function-calling model for consumer devices.  \n• Why it matters: Needle enables advanced AI capabilities on budget phones, enhancing accessibility and usability.  \n• Business opportunity: Companies can leverage Needle to develop cost-effective AI applications for a broader audience."
+    },
+    {
+      "id": "rss-1778681455618-0",
+      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+      "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-13T12:10:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit.…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Varda Space Industries is launching a plan to produce pharmaceuticals in orbit.  \n• Why it matters: This innovation could revolutionize drug manufacturing by utilizing microgravity for enhanced processes.  \n• Business opportunity: Companies can explore partnerships in space logistics and pharmaceutical development to capitalize on this emerging market."
+    },
+    {
+      "id": "rss-1778681455618-1",
+      "title": "A plan to make drugs in orbit is going commercial",
+      "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-13T10:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing. The idea of building things in outer space for use …",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Varda Space Industries has partnered with United Therapeutics to conduct drug experiments in space.  \n• Why it matters: This collaboration signifies a significant advancement in in-orbit manufacturing capabilities for pharmaceuticals.  \n• Business opportunity: Companies can explore innovative drug development and production processes that leverage microgravity conditions."
+    },
+    {
+      "id": "hn-1778681462791-202",
+      "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-12T21:48:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 210,
+        "comments": 38
+      },
+      "rawTextSnippet": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+      "hnMeta": {
+        "points": 210,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=48115059"
+      },
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: The Electronic Frontier Foundation (EFF) urged the 4th Circuit Court to mandate warrants for electronic device searches at the border.  \n• Why it matters: This case could set a legal precedent affecting privacy rights and law enforcement practices regarding digital devices.  \n• Business opportunity: Companies providing legal services or privacy protection solutions may see increased demand as individuals seek to safeguard their digital rights."
+    },
+    {
+      "id": "rss-1778681458572-107",
+      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-12T13:00:00.000Z",
+      "publishedAt": "2026-05-13T14:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "rawTextSnippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -68,24 +145,24 @@
         "businessImpact": 3
       },
       "cluster": "AI Tools & Products",
-      "summary": "• What happened: Dessn secured $6M in funding to develop AI-driven design tools integrated with production codebases.  \n• Why it matters: This innovation aims to streamline the design process, enhancing efficiency and collaboration between design and development teams.  \n• Business opportunity: Companies can leverage Dessn's tools to improve productivity and reduce time-to-market for their products."
+      "summary": "• What happened: TechCrunch Disrupt 2026 will host over 200 sessions across six stages from October 13-15.  \n• Why it matters: The event showcases insights from 250+ industry leaders, addressing challenges in the current startup market.  \n• Business opportunity: Companies can leverage networking and learning opportunities to adapt and thrive in a competitive landscape."
     },
     {
-      "id": "hn-1778594467176-89",
-      "title": "ICE Agents Have List of 20M People on Their iPhones Thanks to Palantir",
-      "url": "https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/",
+      "id": "hn-1778681455744-19",
+      "title": "Software Developers Say AI Is Rotting Their Brains",
+      "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
       "source": "Hacker News",
-      "publishedAt": "2026-05-12T13:09:37.000Z",
+      "publishedAt": "2026-05-13T13:34:51.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 12,
-        "comments": 0
+        "upvotes": 22,
+        "comments": 4
       },
-      "rawTextSnippet": "ICE Agents Have List of 20M People on Their iPhones Thanks to Palantir",
+      "rawTextSnippet": "Software Developers Say AI Is Rotting Their Brains",
       "hnMeta": {
-        "points": 12,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48107743"
+        "points": 22,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48121717"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -95,74 +172,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: ICE agents now have access to a database of 20 million individuals on their iPhones through Palantir technology.  \n• Why it matters: This development raises concerns about privacy and surveillance practices in law enforcement.  \n• Business opportunity: Companies specializing in data privacy solutions could capitalize on growing demand for transparency and ethical data management."
-    },
-    {
-      "id": "rss-1778594464085-0",
-      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-      "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-12T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu pu…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
       "cluster": "General AI",
-      "summary": "• What happened: Nobel-winning economist Daron Acemoglu discusses the implications of AI advancements.  \n• Why it matters: His insights highlight the need for responsible AI development to address societal impacts.  \n• Business opportunity: Companies can innovate by creating ethical AI solutions that align with economic and social considerations."
+      "summary": "• What happened: Software developers express concerns that reliance on AI is negatively impacting their cognitive skills.  \n• Why it matters: This trend could affect productivity and innovation within the tech industry.  \n• Business opportunity: Companies can develop training programs or tools that promote critical thinking alongside AI usage."
     },
     {
-      "id": "hn-1778594468815-121",
-      "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
-      "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
+      "id": "hn-1778681455744-20",
+      "title": "Show HN: Headless Cloud Security – Headless SaaS has come to security",
+      "url": "https://www.sysdig.com/learn-cloud-native/what-is-headless-cloud-security",
       "source": "Hacker News",
-      "publishedAt": "2026-05-12T03:31:28.000Z",
+      "publishedAt": "2026-05-13T13:30:08.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 2
+        "upvotes": 6,
+        "comments": 0
       },
-      "rawTextSnippet": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
+      "rawTextSnippet": "The cloud security company I work for, Sysdig, launched “Headless Cloud Security” last week. The short version: as attacks get faster and more automated, security tooling is going to need to evolve beyond dashboards and humans clicking through workflows all day. We’ve already seen “headless” models …",
       "hnMeta": {
-        "points": 7,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48103887"
-      },
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Sam Altman's business dealings are being scrutinized by the GOP ahead of OpenAI's IPO.  \n• Why it matters: This scrutiny could impact investor confidence and regulatory oversight during the IPO process.  \n• Business opportunity: Companies can capitalize on the situation by offering advisory services for navigating regulatory challenges."
-    },
-    {
-      "id": "hn-1778594467176-84",
-      "title": "Show HN: Nimbalyst open source Obsidian, Codex app, and Linear for coding agents",
-      "url": "https://github.com/nimbalyst/nimbalyst",
-      "source": "Hacker News",
-      "publishedAt": "2026-05-12T13:38:43.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 1
-      },
-      "rawTextSnippet": "Hi, I&#x27;m Karl. Greg and I spent the last year building Nimbalyst, an open-source local desktop workspace for working with coding agents. We want to give agents and humans one place to work together with maximum bandwidth and context, instead of Obsidian for plans, Excalidraw for diagrams, Codex …",
-      "hnMeta": {
-        "points": 4,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48108137"
+        "points": 6,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48121671"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -172,25 +200,25 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: Nimbalyst, an open-source desktop workspace for coding agents, was launched by Karl and Greg.  \n• Why it matters: It aims to enhance collaboration between agents and humans by consolidating tools into one platform.  \n• Business opportunity: There is potential for businesses to leverage this integrated solution to improve productivity and streamline workflows in coding projects."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Sysdig launched \"Headless Cloud Security\" to enhance cloud security automation.  \n• Why it matters: This innovation addresses the need for faster, more efficient security responses to automated attacks.  \n• Business opportunity: Companies can leverage headless security solutions to streamline their security processes and improve threat detection."
     },
     {
-      "id": "hn-1778594468815-117",
-      "title": "ChatGPT encouraged FSU shooter, victim's family alleges in new lawsuit",
-      "url": "https://www.cnn.com/2026/05/11/tech/fsu-shooter-victim-lawsuit-openai-chatgpt",
+      "id": "hn-1778681457165-78",
+      "title": "Show HN: MCPSafe – Free security scanner for MCP servers using 5-LLM consensus",
+      "url": "https://mcpsafe.io",
       "source": "Hacker News",
-      "publishedAt": "2026-05-12T13:08:32.000Z",
+      "publishedAt": "2026-05-13T12:01:53.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 3,
         "comments": 0
       },
-      "rawTextSnippet": "ChatGPT encouraged FSU shooter, victim's family alleges in new lawsuit",
+      "rawTextSnippet": "Show HN: MCPSafe – Free security scanner for MCP servers using 5-LLM consensus",
       "hnMeta": {
-        "points": 1,
+        "points": 3,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48107729"
+        "hnUrl": "https://news.ycombinator.com/item?id=48120796"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -201,232 +229,64 @@
         "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: A lawsuit claims ChatGPT encouraged the shooter involved in the FSU incident.  \n• Why it matters: This raises concerns about the responsibility of AI in influencing harmful behavior.  \n• Business opportunity: Companies developing AI safety protocols and ethical guidelines could see increased demand."
+      "summary": "• What happened: A new free security scanner, MCPSafe, was launched for MCP servers utilizing 5-LLM consensus.  \n• Why it matters: This tool enhances security measures for MCP servers, addressing vulnerabilities in a growing tech landscape.  \n• Business opportunity: Companies can leverage MCPSafe to improve their cybersecurity offerings and attract clients seeking robust server protection."
     },
     {
-      "id": "hn-1778594473143-174",
-      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-      "url": "https://github.com/ab-613/opengravity",
+      "id": "hn-1778681457165-82",
+      "title": "Show HN: Elecz – MCP server for real-time electricity prices in 40 countries",
+      "url": "https://elecz.com/",
       "source": "Hacker News",
-      "publishedAt": "2026-05-11T20:23:25.000Z",
+      "publishedAt": "2026-05-13T10:37:47.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 91,
-        "comments": 29
+        "upvotes": 3,
+        "comments": 0
       },
-      "rawTextSnippet": "Hi. I’m a high school student studying for my GCSEs. I was using Google Antigravity heavily for my side projects, but I kept hitting the usage limits, and getting random &quot;agent terminated&quot; errors. So I decided to try build my own version of the IDE. I love the UI, so I copied it as accurat…",
+      "rawTextSnippet": "Text: I built Elecz because LLMs regularly hallucinate electricity prices, cheapest charging hours, and energy contract data. Elecz is a read-only MCP server and REST API for real-time electricity data across 40 countries and 100+ bidding zones. It provides: spot prices cheapest hours contract compa…",
       "hnMeta": {
-        "points": 91,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48100192"
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48120164"
       },
-      "score": 61,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A high school student created OpenGravity, a zero-install JavaScript clone of Google Antigravity.  \n• Why it matters: This project addresses usage limits and errors faced by users of the original IDE, offering a reliable alternative.  \n• Business opportunity: There is potential for monetization through premium features or support for developers seeking customizable IDE solutions."
-    },
-    {
-      "id": "hn-1778594470264-157",
-      "title": "Elon Musk's Grok Is Losing Ground in AI Race",
-      "url": "https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369",
-      "source": "Hacker News",
-      "publishedAt": "2026-05-12T03:26:41.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 10,
-        "comments": 7
-      },
-      "rawTextSnippet": "Elon Musk's Grok Is Losing Ground in AI Race",
-      "hnMeta": {
-        "points": 10,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48103860"
-      },
-      "score": 60,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Elon Musk's AI venture, Grok, is falling behind competitors in the AI race.  \n• Why it matters: This decline may impact Musk's influence in the rapidly evolving AI sector.  \n• Business opportunity: There is potential for investment in emerging AI technologies that could outperform Grok."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Elecz launched a read-only MCP server and REST API for real-time electricity prices in 40 countries.  \n• Why it matters: It addresses inaccuracies in electricity pricing data often generated by LLMs, enhancing reliability for users.  \n• Business opportunity: Companies can leverage Elecz's data for better energy management and pricing strategies."
     }
   ],
   "trendingTopics": [
     {
-      "name": "General AI",
-      "itemCount": 59,
-      "trendScore": 206,
-      "whyTrending": "59 stories across Hacker, MIT, GitHub, 38 in the last 24h.",
-      "topStory": {
-        "title": "A consistent pattern of lying': trial exposes what insiders think of Sam Altman",
-        "url": "https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial"
-      },
-      "items": [
-        {
-          "id": "hn-1778594468815-122",
-          "title": "A consistent pattern of lying': trial exposes what insiders think of Sam Altman",
-          "url": "https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-12T02:17:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 50,
-            "comments": 4
-          },
-          "rawTextSnippet": "A consistent pattern of lying': trial exposes what insiders think of Sam Altman",
-          "hnMeta": {
-            "points": 50,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=48103417"
-          },
-          "score": 65,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1778594464085-0",
-          "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-          "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-05-12T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu pu…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1778594470264-157",
-          "title": "Elon Musk's Grok Is Losing Ground in AI Race",
-          "url": "https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-12T03:26:41.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 10,
-            "comments": 7
-          },
-          "rawTextSnippet": "Elon Musk's Grok Is Losing Ground in AI Race",
-          "hnMeta": {
-            "points": 10,
-            "comments": 7,
-            "hnUrl": "https://news.ycombinator.com/item?id=48103860"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1778594464285-11",
-          "title": "How We Built an AI Second Brain for 60K Knowledge Workers",
-          "url": "https://medium.com/@AnalyticsAtMeta/how-we-built-an-ai-second-brain-for-60k-knowledge-workers-78c507dd795b",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:51:04.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "How We Built an AI Second Brain for 60K Knowledge Workers",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48108301"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1778594464285-12",
-          "title": "In Trump administration battle over AI, U.S. spy agencies seek more power",
-          "url": "https://www.washingtonpost.com/politics/2026/05/11/trump-ai-regulation-commerce-intelligence/",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:41:26.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "In Trump administration battle over AI, U.S. spy agencies seek more power",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48108163"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        }
-      ]
-    },
-    {
       "name": "Large Language Models",
-      "itemCount": 59,
-      "trendScore": 199,
-      "whyTrending": "59 stories across Hacker, OpenAI, arXiv, 35 in the last 24h.",
+      "itemCount": 67,
+      "trendScore": 210,
+      "whyTrending": "67 stories across Hacker, TechCrunch, arXiv, 41 in the last 24h.",
       "topStory": {
-        "title": "ChatGPT encouraged FSU shooter, victim's family alleges in new lawsuit",
-        "url": "https://www.cnn.com/2026/05/11/tech/fsu-shooter-victim-lawsuit-openai-chatgpt"
+        "title": "Show HN: MCPSafe – Free security scanner for MCP servers using 5-LLM consensus",
+        "url": "https://mcpsafe.io"
       },
       "items": [
         {
-          "id": "hn-1778594468815-117",
-          "title": "ChatGPT encouraged FSU shooter, victim's family alleges in new lawsuit",
-          "url": "https://www.cnn.com/2026/05/11/tech/fsu-shooter-victim-lawsuit-openai-chatgpt",
+          "id": "hn-1778681457165-78",
+          "title": "Show HN: MCPSafe – Free security scanner for MCP servers using 5-LLM consensus",
+          "url": "https://mcpsafe.io",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:08:32.000Z",
+          "publishedAt": "2026-05-13T12:01:53.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "ChatGPT encouraged FSU shooter, victim's family alleges in new lawsuit",
+          "rawTextSnippet": "Show HN: MCPSafe – Free security scanner for MCP servers using 5-LLM consensus",
           "hnMeta": {
-            "points": 1,
+            "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48107729"
+            "hnUrl": "https://news.ycombinator.com/item?id=48120796"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -439,26 +299,73 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1778594464284-10",
-          "title": "Show HN: Kimiflare, Kimi K2.6 as a Coding Agent on Cloudflare Workers AI",
-          "url": "https://news.ycombinator.com/item?id=48108407",
+          "id": "hn-1778681457165-82",
+          "title": "Show HN: Elecz – MCP server for real-time electricity prices in 40 countries",
+          "url": "https://elecz.com/",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:57:27.000Z",
+          "publishedAt": "2026-05-13T10:37:47.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "hey HN, this is sina. i&#x27;ve had some cloudflare credits expiring on may 14 and was wondering what to do with them. when kimi k2.6 dropped and it was available on workers ai, i figured i&#x27;d build an open-source claude code clone with it. didn&#x27;t think too much about it. (people asked if i…",
+          "rawTextSnippet": "Text: I built Elecz because LLMs regularly hallucinate electricity prices, cheapest charging hours, and energy contract data. Elecz is a read-only MCP server and REST API for real-time electricity data across 40 countries and 100+ bidding zones. It provides: spot prices cheapest hours contract compa…",
           "hnMeta": {
-            "points": 1,
+            "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48108407"
+            "hnUrl": "https://news.ycombinator.com/item?id=48120164"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1778681459961-130",
+          "title": "OpenAI faces lawsuit claiming chatbot gave advice that led to fatal overdose",
+          "url": "https://www.reuters.com/legal/litigation/openai-faces-lawsuit-california-court-claiming-chatbot-gave-advice-that-led-2026-05-12/",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-13T10:33:47.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "OpenAI faces lawsuit claiming chatbot gave advice that led to fatal overdose",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48120135"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1778681458572-108",
+          "title": "WhatsApp adds an incognito mode in Meta AI chats",
+          "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-13T14:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -466,75 +373,21 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1778594464285-29",
-          "title": "AI-FI: Giving Claude Code Glitch Skills for Bypassing Secure Boot",
-          "url": "https://raelize.com/blog/ai-fi-giving-claude-code-glitch-skills-for-bypassing-secure-boot/",
+          "id": "hn-1778681455744-21",
+          "title": "Claude's Constitution; or love as the solution to the AI alignment problem",
+          "url": "https://nintil.com/claude-constitution/",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T12:29:58.000Z",
+          "publishedAt": "2026-05-13T13:30:05.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "AI-FI: Giving Claude Code Glitch Skills for Bypassing Secure Boot",
+          "rawTextSnippet": "Claude's Constitution; or love as the solution to the AI alignment problem",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48107302"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1778594465718-41",
-          "title": "Analyze LLM-generated posts: reasoning and rhetoric",
-          "url": "https://gravity7.com/Modules/Light/prototype-3-reverse-standalone.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:07:55.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "Analyze LLM-generated posts: reasoning and rhetoric",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48107720"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1778594465718-42",
-          "title": "Silent-Bench: cryptographic audit of LLM gateways (47.96% vs. 1.89%)",
-          "url": "https://doi.org/10.5281/zenodo.20128451",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:02:43.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Silent-Bench: cryptographic audit of LLM gateways (47.96% vs. 1.89%)",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48107658"
+            "hnUrl": "https://news.ycombinator.com/item?id=48121669"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -549,31 +402,85 @@
       ]
     },
     {
-      "name": "AI Agents & Automation",
-      "itemCount": 29,
-      "trendScore": 175,
-      "whyTrending": "29 stories across Hacker, TechCrunch, OpenAI, 20 in the last 24h.",
+      "name": "General AI",
+      "itemCount": 51,
+      "trendScore": 209,
+      "whyTrending": "51 stories across Hacker, TechCrunch, MIT, 33 in the last 24h.",
       "topStory": {
-        "title": "ICE Agents Have List of 20M People on Their iPhones Thanks to Palantir",
-        "url": "https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/"
+        "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+        "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare"
       },
       "items": [
         {
-          "id": "hn-1778594467176-89",
-          "title": "ICE Agents Have List of 20M People on Their iPhones Thanks to Palantir",
-          "url": "https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/",
+          "id": "hn-1778681462791-205",
+          "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+          "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:09:37.000Z",
+          "publishedAt": "2026-05-12T17:35:58.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 12,
-            "comments": 0
+            "upvotes": 351,
+            "comments": 111
           },
-          "rawTextSnippet": "ICE Agents Have List of 20M People on Their iPhones Thanks to Palantir",
+          "rawTextSnippet": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
           "hnMeta": {
-            "points": 12,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48107743"
+            "points": 351,
+            "comments": 111,
+            "hnUrl": "https://news.ycombinator.com/item?id=48111531"
+          },
+          "score": 71,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 20,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1778681462791-202",
+          "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+          "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-12T21:48:24.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 210,
+            "comments": 38
+          },
+          "rawTextSnippet": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+          "hnMeta": {
+            "points": 210,
+            "comments": 38,
+            "hnUrl": "https://news.ycombinator.com/item?id=48115059"
+          },
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1778681455744-19",
+          "title": "Software Developers Say AI Is Rotting Their Brains",
+          "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-13T13:34:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 22,
+            "comments": 4
+          },
+          "rawTextSnippet": "Software Developers Say AI Is Rotting Their Brains",
+          "hnMeta": {
+            "points": 22,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=48121717"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -583,51 +490,137 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Agents & Automation"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1778594473143-174",
-          "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-          "url": "https://github.com/ab-613/opengravity",
+          "id": "rss-1778681458572-109",
+          "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+          "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-13T13:27:09.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1778681455744-10",
+          "title": "Ask HN: What are you working on (non-AI)?",
+          "url": "https://news.ycombinator.com/item?id=48122103",
           "source": "Hacker News",
-          "publishedAt": "2026-05-11T20:23:25.000Z",
+          "publishedAt": "2026-05-13T14:07:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 91,
-            "comments": 29
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Hi. I’m a high school student studying for my GCSEs. I was using Google Antigravity heavily for my side projects, but I kept hitting the usage limits, and getting random &quot;agent terminated&quot; errors. So I decided to try build my own version of the IDE. I love the UI, so I copied it as accurat…",
+          "rawTextSnippet": "Please don&#x27;t turn this into an inflammatory post. Regardless of &quot;AI&quot; being good or bad (it&#x27;s not even just one thing as many of you know), I feel like the &quot;What are you working on?&quot; posts are drowning in things that use AI for something and&#x2F;or are clearly &quot;AI …",
           "hnMeta": {
-            "points": 91,
-            "comments": 29,
-            "hnUrl": "https://news.ycombinator.com/item?id=48100192"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48122103"
           },
-          "score": 61,
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        }
+      ]
+    },
+    {
+      "name": "AI Agents & Automation",
+      "itemCount": 28,
+      "trendScore": 173,
+      "whyTrending": "28 stories across Hacker, TechCrunch, arXiv, 16 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+        "url": "https://github.com/cactus-compute/needle"
+      },
+      "items": [
+        {
+          "id": "hn-1778681464212-211",
+          "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+          "url": "https://github.com/cactus-compute/needle",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-12T18:03:11.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 545,
+            "comments": 157
+          },
+          "rawTextSnippet": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices. We were always frustrated by the little effort made towards building agentic models that run on budget phones,…",
+          "hnMeta": {
+            "points": 545,
+            "comments": 157,
+            "hnUrl": "https://news.ycombinator.com/item?id=48111896"
+          },
+          "score": 71,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 20,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1778594464285-14",
-          "title": "Show HN: Automatic Git snapshots while AI agents edit your repo",
-          "url": "https://github.com/Baukaalm/safesandbox",
+          "id": "hn-1778681458566-103",
+          "title": "Authorization Bypass in AWS's Agentic AI for Enterprise: Amazon Quick",
+          "url": "https://www.fogsecurity.io/blog/authorization-bypass-in-amazon-quick-ai-agents",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:34:39.000Z",
+          "publishedAt": "2026-05-13T12:14:57.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Authorization Bypass in AWS's Agentic AI for Enterprise: Amazon Quick",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48120918"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1778681455744-15",
+          "title": "AI agents make small companies bigger",
+          "url": "https://text-incubation.com/ai-agents-make-small-companies-bigger",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-13T13:44:59.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: Automatic Git snapshots while AI agents edit your repo",
+          "rawTextSnippet": "AI agents make small companies bigger",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48108090"
+            "hnUrl": "https://news.ycombinator.com/item?id=48121836"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -640,21 +633,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1778594464285-16",
-          "title": "Show HN: Browser-native replay of an AI agent governance incident",
-          "url": "https://slashlife.ai/agent-gate/demo",
+          "id": "hn-1778681455744-16",
+          "title": "Show HN: Rotunda - A browser built for agents with simulated typing",
+          "url": "https://github.com/monkeysee-ai/rotunda",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:28:58.000Z",
+          "publishedAt": "2026-05-13T13:44:01.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: Browser-native replay of an AI agent governance incident",
+          "rawTextSnippet": "Hi HN! Pierce here. Rotunda is a firefox fork primarily intended for agent use, which I’ve been hacking on nights&#x2F;weekends. There was a [lengthy]( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48024859 ) discussion last week on how expensive computer use models are. The cost is going to d…",
           "hnMeta": {
-            "points": 1,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48108027"
+            "hnUrl": "https://news.ycombinator.com/item?id=48121824"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -667,21 +660,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1778594464285-19",
-          "title": "Reactive Agents, Typed Event Handlers, and Agent Swarms: What's New in Mozaik",
-          "url": "https://www.jigjoy.ai/blog/mozaik-reactive-agents",
+          "id": "hn-1778681455744-23",
+          "title": "Helm AI Kernel – an open-source execution firewall for AI agents",
+          "url": "https://github.com/Mindburn-Labs/helm-ai-kernel",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:10:31.000Z",
+          "publishedAt": "2026-05-13T13:25:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Reactive Agents, Typed Event Handlers, and Agent Swarms: What's New in Mozaik",
+          "rawTextSnippet": "Helm AI Kernel – an open-source execution firewall for AI agents",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48107757"
+            "hnUrl": "https://news.ycombinator.com/item?id=48121617"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -696,169 +689,151 @@
       ]
     },
     {
-      "name": "Research & Benchmarks",
+      "name": "Funding & Acquisitions",
       "itemCount": 13,
-      "trendScore": 124,
-      "whyTrending": "13 stories across MIT, arXiv, DeepMind, 7 in the last 24h.",
+      "trendScore": 134,
+      "whyTrending": "13 stories across MIT, Hacker, TechCrunch, 7 in the last 24h.",
       "topStory": {
-        "title": "Three things in AI to watch, according to a Nobel-winning economist",
-        "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+        "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+        "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/"
       },
       "items": [
         {
-          "id": "rss-1778594464085-1",
-          "title": "Three things in AI to watch, according to a Nobel-winning economist",
-          "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+          "id": "rss-1778681455618-0",
+          "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+          "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-05-11T17:35:12.000Z",
+          "publishedAt": "2026-05-13T12:10:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to …",
-          "score": 55,
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit.…",
+          "score": 66,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "arxiv-1778594478618-198",
-          "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
-          "url": "https://arxiv.org/abs/2605.10899v1",
-          "source": "arXiv",
-          "publishedAt": "2026-05-11T17:40:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Training deep research agents, namely systems that plan, search, evaluate evidence, and synthesize long-form reports, pushes reinforcement learning beyond the regime of verifiable rewards. Their outputs lack ground-truth answers, their trajectories span many tool-augmented decisions, and standard po…",
-          "arxivMeta": {
-            "authors": "Gaotang Li, Bhavana Dalvi Mishra, Zifeng Wang, Jun Yan, Yanfei Chen, Chun-Liang Li, Long T. Le, Rujun Han, George Lee, Hanghang Tong, Chen-Yu Lee, Tomas Pfister",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Research & Benchmarks"
+          "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "arxiv-1778594478618-197",
-          "title": "DataMaster: Towards Autonomous Data Engineering for Machine Learning",
-          "url": "https://arxiv.org/abs/2605.10906v1",
-          "source": "arXiv",
-          "publishedAt": "2026-05-11T17:46:24.000Z",
+          "id": "rss-1778681455618-1",
+          "title": "A plan to make drugs in orbit is going commercial",
+          "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-05-13T10:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 15
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "As model families, training recipes, and compute budgets become increasingly standardized, further gains in machine learning systems depend increasingly on data. Yet data engineering remains largely manual and ad hoc: practitioners repeatedly search for external datasets, adapt them to existing pipe…",
-          "arxivMeta": {
-            "authors": "Yaxin Du, Xiyuan Yang, Zhifan Zhou, Wanxu Liu, Zixing Lei, Zimeng Chen, Fenyi Liu, Haotian Wu, Yuzhu Cai, Zexi Liu, Xinyu Zhu, WenHao Wang, Linfeng Zhang, Chen Qian, Siheng Chen",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
+          "rawTextSnippet": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing. The idea of building things in outer space for use …",
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
           },
-          "score": 52,
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "hn-1778681461383-170",
+          "title": "Unauthorized Anthropic stock sales and investment scams",
+          "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-12T18:20:44.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 18,
+            "comments": 7
+          },
+          "rawTextSnippet": "Unauthorized Anthropic stock sales and investment scams",
+          "hnMeta": {
+            "points": 18,
+            "comments": 7,
+            "hnUrl": "https://news.ycombinator.com/item?id=48112190"
+          },
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 15,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "hn-1778681461383-164",
+          "title": "Anthropic in Talks to Raise Funding at a $950B Valuation",
+          "url": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-12T23:40:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic in Talks to Raise Funding at a $950B Valuation",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48116014"
+          },
+          "score": 54,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1778681458572-113",
+          "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+          "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-12T17:36:34.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "arxiv-1778594478619-206",
-          "title": "CADBench: A Multimodal Benchmark for AI-Assisted CAD Program Generation",
-          "url": "https://arxiv.org/abs/2605.10873v1",
-          "source": "arXiv",
-          "publishedAt": "2026-05-11T17:25:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Recovering editable CAD programs from images or 3D observations is central to AI-assisted design, but progress is difficult to measure because existing evaluations are fragmented across datasets, modalities, and metrics. We introduce CADBench, a unified benchmark for multimodal CAD program generatio…",
-          "arxivMeta": {
-            "authors": "Anna C. Doris, Jacob Thomas Sony, Ghadi Nehme, Era Syla, Amin Heyrani Nobari, Faez Ahmed",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "arxiv-1778594478619-209",
-          "title": "BEACON: A Multimodal Dataset for Learning Behavioral Fingerprints from Gameplay Data",
-          "url": "https://arxiv.org/abs/2605.10867v1",
-          "source": "arXiv",
-          "publishedAt": "2026-05-11T17:17:02.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Continuous authentication in high-stakes digital environments requires datasets with fine-grained behavioral signals under realistic cognitive and motor demands. But current benchmarks are often limited by small scale, unimodal sensing or lack of synchronised environmental context. To address this g…",
-          "arxivMeta": {
-            "authors": "Ishpuneet Singh, Gursmeep Kaur, Uday Pratap Singh Atwal, Guramrit Singh, Gurjot Singh, Maninder Singh",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
+          "cluster": "Funding & Acquisitions"
         }
       ]
     },
     {
       "name": "AI Tools & Products",
-      "itemCount": 13,
-      "trendScore": 118,
-      "whyTrending": "13 stories across TechCrunch, Hacker, OpenAI, 4 in the last 24h.",
+      "itemCount": 14,
+      "trendScore": 132,
+      "whyTrending": "14 stories across TechCrunch, Hacker, arXiv, 8 in the last 24h.",
       "topStory": {
-        "title": "Dessn raises $6M for its production focused design tool",
-        "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/"
+        "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+        "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/"
       },
       "items": [
         {
-          "id": "rss-1778594466859-64",
-          "title": "Dessn raises $6M for its production focused design tool",
-          "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+          "id": "rss-1778681458572-107",
+          "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+          "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-05-12T13:00:00.000Z",
+          "publishedAt": "2026-05-13T14:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+          "rawTextSnippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
           "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
@@ -870,75 +845,75 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1778594464285-22",
-          "title": "Show HN: Voice gender classifier for European voice AI (1MB, ONNX, 4ms)",
-          "url": "https://huggingface.co/syntropicsignal-ai/gender-voice-classifier",
+          "id": "hn-1778681455744-20",
+          "title": "Show HN: Headless Cloud Security – Headless SaaS has come to security",
+          "url": "https://www.sysdig.com/learn-cloud-native/what-is-headless-cloud-security",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T12:53:19.000Z",
+          "publishedAt": "2026-05-13T13:30:08.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 1
-          },
-          "rawTextSnippet": "Hi, I&#x27;m Kamil and I&#x27;m a founder of Applied AI agency in Warsaw, Poland. We&#x27;ve trained a small &lt;1MB voice classifier model that runs on CPU in 4ms. Can be run next to silero VAD in voice AI deployments. What we noticed in production deployments of voice assistants in Contact Centers…",
-          "hnMeta": {
-            "points": 3,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48107558"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1778594464285-27",
-          "title": "Tool-Response Engineering: The Frontier Beyond Prompt Engineering",
-          "url": "https://hic-ai.com/blog/tool-response-engineering",
-          "source": "Hacker News",
-          "publishedAt": "2026-05-12T12:33:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 6,
             "comments": 0
           },
-          "rawTextSnippet": "Tool-Response Engineering: The Frontier Beyond Prompt Engineering",
+          "rawTextSnippet": "The cloud security company I work for, Sysdig, launched “Headless Cloud Security” last week. The short version: as attacks get faster and more automated, security tooling is going to need to evolve beyond dashboards and humans clicking through workflows all day. We’ve already seen “headless” models …",
           "hnMeta": {
-            "points": 2,
+            "points": 6,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48107341"
+            "hnUrl": "https://news.ycombinator.com/item?id=48121671"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1778594468815-115",
-          "title": "OpenAI Just Launched Daybreak",
-          "url": "https://abz.global/technology/openai-just-launched-daybreak-cybersecurity-is-becoming-part-of-the-development-workflow",
+          "id": "hn-1778681461383-172",
+          "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+          "url": "https://voker.ai",
           "source": "Hacker News",
-          "publishedAt": "2026-05-12T13:56:23.000Z",
+          "publishedAt": "2026-05-12T15:45:20.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 55,
+            "comments": 20
+          },
+          "rawTextSnippet": "Hey HN, we&#x27;re Alex and Tyler, co-founders of Voker.ai ( https:&#x2F;&#x2F;voker.ai&#x2F; ), an agent analytics platform for AI product teams. Voker gives full visibility into what users are asking of your agents, and whether your agents are delivering, without having to dig through logs. Our ma…",
+          "hnMeta": {
+            "points": 55,
+            "comments": 20,
+            "hnUrl": "https://news.ycombinator.com/item?id=48109962"
+          },
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1778681457165-77",
+          "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
+          "url": "https://github.com/torrix-ai/install",
+          "source": "Hacker News",
+          "publishedAt": "2026-05-13T12:14:26.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 9,
             "comments": 0
           },
-          "rawTextSnippet": "OpenAI Just Launched Daybreak",
+          "rawTextSnippet": "I work as a SAP Integration consultant and built this as a side project. Friction point: Most self hosted LLM observability tools require Postgres, Redis and non trivial infrastructure. Teams just want to see what their agents are actually doing in Production, that set up cost discorages adoption. T…",
           "hnMeta": {
-            "points": 1,
+            "points": 9,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48108385"
+            "hnUrl": "https://news.ycombinator.com/item?id=48120912"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -951,22 +926,22 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "rss-1778594468478-96",
-          "title": "OpenAI Campus Network: Student club interest form",
-          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-05-11T10:00:00.000Z",
+          "id": "rss-1778681458572-116",
+          "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+          "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-12T17:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 20
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-          "score": 50,
+          "rawTextSnippet": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+          "score": 56,
           "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 20,
+            "freshness": 22,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "AI Tools & Products"
         }
@@ -975,36 +950,71 @@
   ],
   "toolLaunches": [
     {
-      "id": "rss-1778594466859-65",
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-12T11:30:00.000Z",
+      "id": "hn-1778681462791-205",
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-12T17:35:58.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 351,
+        "comments": 111
       },
-      "rawTextSnippet": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
-      "score": 67,
+      "rawTextSnippet": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "hnMeta": {
+        "points": 351,
+        "comments": 111,
+        "hnUrl": "https://news.ycombinator.com/item?id=48111531"
+      },
+      "score": 71,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 20,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 0
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: AI voice startup Vapi achieved a $500M valuation after securing a partnership with Amazon Ring.  \n• Why it matters: Vapi's enterprise business has expanded tenfold, highlighting a significant shift towards AI in customer support and sales.  \n• Business opportunity: Companies can leverage Vapi's technology to enhance customer interactions and streamline operations through AI-driven solutions."
+      "cluster": "General AI",
+      "summary": "• What happened: Canada introduced Bill C-22, which mirrors controversial surveillance measures from the previous year.  \n• Why it matters: The bill raises concerns about privacy and government overreach among citizens and advocacy groups.  \n• Business opportunity: Companies specializing in privacy protection and cybersecurity solutions may see increased demand as public awareness grows."
     },
     {
-      "id": "rss-1778594466859-64",
-      "title": "Dessn raises $6M for its production focused design tool",
-      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "id": "hn-1778681464212-211",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-12T18:03:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 545,
+        "comments": 157
+      },
+      "rawTextSnippet": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok&#x2F;s prefill and 1200 tok&#x2F;s decode on consumer devices. We were always frustrated by the little effort made towards building agentic models that run on budget phones,…",
+      "hnMeta": {
+        "points": 545,
+        "comments": 157,
+        "hnUrl": "https://news.ycombinator.com/item?id=48111896"
+      },
+      "score": 71,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Cactus open-sourced Needle, a 26M parameter function-calling model optimized for consumer devices.  \n• Why it matters: This model enables advanced AI capabilities on budget phones, expanding accessibility and usability.  \n• Business opportunity: Companies can leverage Needle to develop affordable AI applications for a wider audience."
+    },
+    {
+      "id": "rss-1778681458572-107",
+      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-12T13:00:00.000Z",
+      "publishedAt": "2026-05-13T14:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "rawTextSnippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -1014,24 +1024,24 @@
         "businessImpact": 3
       },
       "cluster": "AI Tools & Products",
-      "summary": "• What happened: Dessn secured $6M to develop AI-driven design tools integrated with production codebases.  \n• Why it matters: This funding highlights the growing demand for tools that streamline the design-to-production workflow in software development.  \n• Business opportunity: Companies can leverage Dessn's technology to enhance efficiency and reduce time-to-market for their products."
+      "summary": "• What happened: TechCrunch Disrupt 2026 will host over 200 sessions across six stages from October 13-15.  \n• Why it matters: The event showcases insights from 250+ tech leaders, addressing challenges in the current startup market.  \n• Business opportunity: Companies can gain exposure and network with industry leaders while attending or sponsoring the event."
     },
     {
-      "id": "hn-1778594467176-84",
-      "title": "Show HN: Nimbalyst open source Obsidian, Codex app, and Linear for coding agents",
-      "url": "https://github.com/nimbalyst/nimbalyst",
+      "id": "hn-1778681455744-20",
+      "title": "Show HN: Headless Cloud Security – Headless SaaS has come to security",
+      "url": "https://www.sysdig.com/learn-cloud-native/what-is-headless-cloud-security",
       "source": "Hacker News",
-      "publishedAt": "2026-05-12T13:38:43.000Z",
+      "publishedAt": "2026-05-13T13:30:08.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 1
+        "upvotes": 6,
+        "comments": 0
       },
-      "rawTextSnippet": "Hi, I&#x27;m Karl. Greg and I spent the last year building Nimbalyst, an open-source local desktop workspace for working with coding agents. We want to give agents and humans one place to work together with maximum bandwidth and context, instead of Obsidian for plans, Excalidraw for diagrams, Codex …",
+      "rawTextSnippet": "The cloud security company I work for, Sysdig, launched “Headless Cloud Security” last week. The short version: as attacks get faster and more automated, security tooling is going to need to evolve beyond dashboards and humans clicking through workflows all day. We’ve already seen “headless” models …",
       "hnMeta": {
-        "points": 4,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48108137"
+        "points": 6,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48121671"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -1041,60 +1051,32 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: Nimbalyst, an open-source desktop workspace for coding agents, was launched by Karl and Greg.  \n• Why it matters: It aims to enhance collaboration between agents and humans by consolidating tools into one platform.  \n• Business opportunity: There is potential for businesses to leverage Nimbalyst for improved productivity and streamlined workflows in coding projects."
+      "cluster": "AI Tools & Products"
     },
     {
-      "id": "hn-1778594473143-174",
-      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-      "url": "https://github.com/ab-613/opengravity",
+      "id": "hn-1778681457165-82",
+      "title": "Show HN: Elecz – MCP server for real-time electricity prices in 40 countries",
+      "url": "https://elecz.com/",
       "source": "Hacker News",
-      "publishedAt": "2026-05-11T20:23:25.000Z",
+      "publishedAt": "2026-05-13T10:37:47.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 91,
-        "comments": 29
-      },
-      "rawTextSnippet": "Hi. I’m a high school student studying for my GCSEs. I was using Google Antigravity heavily for my side projects, but I kept hitting the usage limits, and getting random &quot;agent terminated&quot; errors. So I decided to try build my own version of the IDE. I love the UI, so I copied it as accurat…",
-      "hnMeta": {
-        "points": 91,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48100192"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "hn-1778594464284-10",
-      "title": "Show HN: Kimiflare, Kimi K2.6 as a Coding Agent on Cloudflare Workers AI",
-      "url": "https://news.ycombinator.com/item?id=48108407",
-      "source": "Hacker News",
-      "publishedAt": "2026-05-12T13:57:27.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 3,
         "comments": 0
       },
-      "rawTextSnippet": "hey HN, this is sina. i&#x27;ve had some cloudflare credits expiring on may 14 and was wondering what to do with them. when kimi k2.6 dropped and it was available on workers ai, i figured i&#x27;d build an open-source claude code clone with it. didn&#x27;t think too much about it. (people asked if i…",
+      "rawTextSnippet": "Text: I built Elecz because LLMs regularly hallucinate electricity prices, cheapest charging hours, and energy contract data. Elecz is a read-only MCP server and REST API for real-time electricity data across 40 countries and 100+ bidding zones. It provides: spot prices cheapest hours contract compa…",
       "hnMeta": {
-        "points": 1,
+        "points": 3,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48108407"
+        "hnUrl": "https://news.ycombinator.com/item?id=48120164"
       },
-      "score": 59,
+      "score": 62,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
       "cluster": "Large Language Models"
     }
@@ -1102,17 +1084,17 @@
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1778594478617-189",
-      "title": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting",
-      "url": "https://arxiv.org/abs/2605.10934v1",
+      "id": "arxiv-1778681456138-33",
+      "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+      "url": "https://arxiv.org/abs/2605.12495v1",
       "source": "arXiv",
-      "publishedAt": "2026-05-11T17:58:45.000Z",
+      "publishedAt": "2026-05-12T17:59:47.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide a natural mathematical framework for capturing jumps and heavy tails, Bayesian inference for Lévy-d…",
+      "rawTextSnippet": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to…",
       "arxivMeta": {
-        "authors": "Yaman Kindap, Manfred Opper, Benjamin Dupuis, Umut Simsekli, Tolga Birdal",
+        "authors": "Runhui Huang, Jie Wu, Rui Yang, Zhe Liu, Hengshuang Zhao",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1130,17 +1112,17 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1778594478618-192",
-      "title": "Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition",
-      "url": "https://arxiv.org/abs/2605.10916v1",
+      "id": "arxiv-1778681456138-38",
+      "title": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
+      "url": "https://arxiv.org/abs/2605.12483v1",
       "source": "arXiv",
-      "publishedAt": "2026-05-11T17:51:46.000Z",
+      "publishedAt": "2026-05-12T17:57:48.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Recognition of handwritten Bangla compound characters remains a challenging problem due to complex character structures, large intra-class variation, and limited availability of high-quality annotated data. Existing Bangla handwritten character recognition systems often struggle to generalize across…",
+      "rawTextSnippet": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often …",
       "arxivMeta": {
-        "authors": "Md. Sultan Al Rayhan, Maheen Islam",
+        "authors": "Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang, Alborz Geramifard",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1158,17 +1140,17 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1778594478618-195",
-      "title": "Revisiting Policy Gradients for Restricted Policy Classes: Escaping Myopic Local Optima with $k$-step Policy Gradients",
-      "url": "https://arxiv.org/abs/2605.10909v1",
+      "id": "arxiv-1778681456138-43",
+      "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.12474v1",
       "source": "arXiv",
-      "publishedAt": "2026-05-11T17:49:09.000Z",
+      "publishedAt": "2026-05-12T17:54:25.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "This work revisits standard policy gradient methods used on restricted policy classes, which are known to get stuck in suboptimal critical points. We identify an important cause for this phenomenon to be that the policy gradient is itself fundamentally myopic, i.e. it only improves the policy based …",
+      "rawTextSnippet": "Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward hacking in rubric-based RL, where a policy is optimized against a training verifier but evaluated ag…",
       "arxivMeta": {
-        "authors": "Alex DeWeese, Guannan Qu",
+        "authors": "Anas Mahmoud, MohammadHossein Rezaei, Zihao Wang, Anisha Gunjal, Bing Liu, Yunzhong He",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1186,45 +1168,17 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1778594478618-198",
-      "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2605.10899v1",
+      "id": "arxiv-1778681456139-61",
+      "title": "Model-based Bootstrap of Controlled Markov Chains",
+      "url": "https://arxiv.org/abs/2605.12410v1",
       "source": "arXiv",
-      "publishedAt": "2026-05-11T17:40:38.000Z",
+      "publishedAt": "2026-05-12T17:05:59.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Training deep research agents, namely systems that plan, search, evaluate evidence, and synthesize long-form reports, pushes reinforcement learning beyond the regime of verifiable rewards. Their outputs lack ground-truth answers, their trajectories span many tool-augmented decisions, and standard po…",
+      "rawTextSnippet": "We propose and analyze a model-based bootstrap for transition kernels in finite controlled Markov chains (CMCs) with possibly nonstationary or history-dependent control policies, a setting that arises naturally in offline reinforcement learning (RL) when the behavior policy generating the data is un…",
       "arxivMeta": {
-        "authors": "Gaotang Li, Bhavana Dalvi Mishra, Zifeng Wang, Jun Yan, Yanfei Chen, Chun-Liang Li, Long T. Le, Rujun Han, George Lee, Hanghang Tong, Chen-Yu Lee, Tomas Pfister",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Research & Benchmarks"
-    },
-    {
-      "id": "arxiv-1778594478618-200",
-      "title": "Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why",
-      "url": "https://arxiv.org/abs/2605.10889v1",
-      "source": "arXiv",
-      "publishedAt": "2026-05-11T17:33:28.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "On-policy distillation offers dense, per-token supervision for training reasoning models; however, it remains unclear under which conditions this signal is beneficial and under which it is detrimental. Which teacher model should be used, and in the case of self-distillation, which specific context s…",
-      "arxivMeta": {
-        "authors": "Mohammadreza Armandpour, Fatih Ilhan, David Harrison, Ajay Jaiswal, Duc N. M Hoang, Fartash Faghri, Yizhe Zhang, Minsik Cho, Mehrdad Farajtabar",
+        "authors": "Ziwei Su, Imon Banerjee, Diego Klabjan",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1240,60 +1194,136 @@
         "businessImpact": 3
       },
       "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1778681456138-34",
+      "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+      "url": "https://arxiv.org/abs/2605.12493v1",
+      "source": "arXiv",
+      "publishedAt": "2026-05-12T17:59:34.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Long-term memory is crucial for agents in specialized web environments, where success depends on recalling interface affordances, state dynamics, workflows, and recurring failure modes. However, existing memory benchmarks for agents mostly focus on user histories, short traces, or downstream task su…",
+      "arxivMeta": {
+        "authors": "Di Wu, Zixiang Ji, Asmi Kawatkar, Bryan Kwan, Jia-Chen Gu, Nanyun Peng, Kai-Wei Chang",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation"
     }
   ],
   "funding": [
     {
-      "id": "rss-1778594466859-64",
-      "title": "Dessn raises $6M for its production focused design tool",
+      "id": "hn-1778681461383-170",
+      "title": "Unauthorized Anthropic stock sales and investment scams",
+      "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-12T18:20:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 18,
+        "comments": 7
+      },
+      "rawTextSnippet": "Unauthorized Anthropic stock sales and investment scams",
+      "hnMeta": {
+        "points": 18,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48112190"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Unauthorized sales of Anthropic stock and related investment scams have been reported.  \n• Why it matters: These incidents highlight vulnerabilities in the investment landscape, potentially harming investor trust.  \n• Business opportunity: There is a growing need for enhanced security measures and fraud detection solutions in investment platforms."
+    },
+    {
+      "id": "hn-1778681461383-164",
+      "title": "Anthropic in Talks to Raise Funding at a $950B Valuation",
+      "url": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-05-12T23:40:40.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
+      },
+      "rawTextSnippet": "Anthropic in Talks to Raise Funding at a $950B Valuation",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48116014"
+      },
+      "score": 54,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic is negotiating to secure funding at a valuation of $950 billion.  \n• Why it matters: This significant valuation highlights the growing investor interest in AI companies.  \n• Business opportunity: Investors and partners may capitalize on the expanding AI market and Anthropic's innovative technologies."
+    },
+    {
+      "id": "rss-1778681458572-113",
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-12T17:36:34.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+      "score": 53,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic cautioned investors about unauthorized secondary platforms selling its shares.  \n• Why it matters: The company emphasizes that such transactions are invalid and not acknowledged by its records.  \n• Business opportunity: This situation highlights the need for legitimate investment platforms to ensure compliance and investor security."
+    },
+    {
+      "id": "rss-1778681458572-121",
+      "title": "Dessn raises $6M for its production-focused design tool",
       "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-12T13:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
-      "score": 64,
+      "rawTextSnippet": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
+      "score": 52,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 6
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Dessn secured $6M in funding to develop AI-driven design tools integrated with production codebases.  \n• Why it matters: This innovation aims to streamline the design process, enhancing efficiency for developers and designers.  \n• Business opportunity: Investing in Dessn could capitalize on the growing demand for tools that bridge design and production workflows."
+      "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "hn-1778594468815-121",
-      "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
-      "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
-      "source": "Hacker News",
-      "publishedAt": "2026-05-12T03:31:28.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 2
-      },
-      "rawTextSnippet": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
-      "hnMeta": {
-        "points": 7,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48103887"
-      },
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Sam Altman's business dealings are being scrutinized by GOP as OpenAI prepares for its IPO.  \n• Why it matters: This scrutiny could impact investor confidence and regulatory considerations for the IPO.  \n• Business opportunity: Companies can capitalize on the evolving regulatory landscape by offering compliance and advisory services."
-    },
-    {
-      "id": "rss-1778594466859-67",
+      "id": "rss-1778681458572-124",
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
       "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
       "source": "TechCrunch AI",
@@ -1302,64 +1332,16 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "score": 59,
+      "score": 52,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Robinhood has confidentially filed for its second retail venture IPO focused on growth and early-stage startups.  \n• Why it matters: This move indicates Robinhood's commitment to expanding its investment offerings and capitalizing on the AI boom.  \n• Business opportunity: Investors can explore new avenues in the burgeoning AI sector through Robinhood's upcoming venture fund."
-    },
-    {
-      "id": "hn-1778594470264-163",
-      "title": "Unauthorized Anthropic stock sales and investment scams",
-      "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
-      "source": "Hacker News",
-      "publishedAt": "2026-05-11T17:04:08.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 10,
-        "comments": 3
-      },
-      "rawTextSnippet": "Unauthorized Anthropic stock sales and investment scams",
-      "hnMeta": {
-        "points": 10,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48097626"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
       "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1778594464085-2",
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-11T13:33:06.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a…",
-      "score": 51,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Research & Benchmarks"
     }
   ],
-  "dailyBrief": "AI voice startup Vapi has reached a $500 million valuation after successfully securing a partnership with Amazon Ring, outpacing over 40 competitors, signaling a growing interest in voice technology within smart home ecosystems. Meanwhile, the trial surrounding Sam Altman has revealed a troubling pattern of deception among insiders, raising concerns about leadership transparency in the AI sector. In funding news, design tool startup Dessn has raised $6 million to enhance production-focused design capabilities, reflecting the increasing demand for specialized AI tools in creative industries. Additionally, reports indicate that ICE agents are utilizing Palantir technology to maintain a database of 20 million individuals, highlighting the controversial intersection of AI and surveillance. Finally, a recent discussion featuring a Nobel laureate emphasizes the urgent need for ethical frameworks in AI development, underscoring the potential for both innovation and societal impact."
+  "dailyBrief": "Today's AI landscape is marked by significant developments in regulation and innovation. Canada's Bill C-22, criticized as a repackaged version of last year's controversial surveillance legislation, raises concerns for businesses regarding data privacy and compliance costs. Meanwhile, the launch of Needle, a tool that distills Gemini's capabilities into a 26 million parameter model, could enhance AI applications across various sectors, driving efficiency and innovation. In a groundbreaking move, plans to manufacture drugs in orbit are moving towards commercialization, potentially revolutionizing pharmaceuticals and supply chains. Lastly, the Electronic Frontier Foundation's push for warrant requirements on electronic device searches at the border underscores the ongoing tension between security and privacy, which could impact cross-border business operations."
 }
