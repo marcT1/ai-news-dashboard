@@ -1,106 +1,141 @@
 {
   "topNews": [
     {
-      "id": "rss-1780584078329-0",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-04T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado,…",
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: Courts are facing an increase in AI-generated lawsuits, prompting adjustments in legal processes.  \n• Why it matters: This trend could overwhelm the judicial system, impacting the efficiency of legal proceedings.  \n• Business opportunity: Companies can develop AI tools to streamline legal documentation and assist courts in managing case loads."
-    },
-    {
-      "id": "rss-1780584082528-100",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-06-04T12:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "score": 68,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Endava is integrating AI agents and tools like ChatGPT Enterprise and Codex to enhance software delivery.  \n• Why it matters: This approach aims to streamline workflows and foster an AI-native culture within the organization.  \n• Business opportunity: Companies can leverage similar AI-driven strategies to improve efficiency and innovation in software development."
-    },
-    {
-      "id": "rss-1780584078329-1",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-04T10:50:18.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind…",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: Courts are facing an influx of AI-generated lawsuits, overwhelming judges with unrepresented filings.  \n• Why it matters: This trend highlights the challenges in the legal system, as many individuals lack access to affordable legal representation.  \n• Business opportunity: There is potential for legal tech solutions that streamline case management and provide affordable assistance to self-represented litigants."
-    },
-    {
-      "id": "hn-1780584084605-162",
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "id": "hn-1780669797131-153",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
       "source": "Hacker News",
-      "publishedAt": "2026-06-04T00:27:52.000Z",
+      "publishedAt": "2026-06-04T16:20:17.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 169,
-        "comments": 79
+        "upvotes": 481,
+        "comments": 643
       },
-      "rawTextSnippet": "The ways we contain Claude across products",
+      "rawTextSnippet": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "hnMeta": {
-        "points": 169,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=48392082"
+        "points": 481,
+        "comments": 643,
+        "hnUrl": "https://news.ycombinator.com/item?id=48400842"
       },
-      "score": 66,
+      "score": 76,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 14,
-        "engagement": 15,
+        "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Claude's containment strategies have been implemented across various products.  \n• Why it matters: These strategies enhance user safety and product reliability.  \n• Business opportunity: Companies can leverage these containment methods to improve their own product offerings and customer trust."
+      "cluster": "General AI",
+      "summary": "• What happened: Researchers are advancing AI's ability to improve its own algorithms through recursive self-improvement.  \n• Why it matters: This development could lead to significant enhancements in AI efficiency and capabilities, potentially transforming various industries.  \n• Business opportunity: Companies can leverage this technology to innovate products and services, gaining a competitive edge in the market."
     },
     {
-      "id": "rss-1780584080992-66",
-      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
-      "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+      "id": "hn-1780669797131-151",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-04T20:11:20.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 473,
+        "comments": 129
+      },
+      "rawTextSnippet": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "hnMeta": {
+        "points": 473,
+        "comments": 129,
+        "hnUrl": "https://news.ycombinator.com/item?id=48403980"
+      },
+      "score": 71,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Open Source AI",
+      "summary": "• What happened: Anthropic launched an open-source framework for AI-driven vulnerability discovery.  \n• Why it matters: This innovation aims to enhance cybersecurity by automating the identification of software vulnerabilities.  \n• Business opportunity: Companies can leverage this framework to improve their security measures and reduce risks associated with software vulnerabilities."
+    },
+    {
+      "id": "hn-1780669792858-52",
+      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-05T09:10:42.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 37,
+        "comments": 22
+      },
+      "rawTextSnippet": "Hi HN, Not sure if anyone would be interested. But, just wanted to share that I&#x27;ve been maintaining my small tool called &#x27;lowfat&#x27; that helps me filters some of my verbose CLI output. It&#x27;s a single binary, works as an agent hook or a shell wrapper. It has a plugin system to custom…",
+      "hnMeta": {
+        "points": 37,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48409955"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: A developer introduced 'lowfat,' a CLI filter that significantly reduces LLM token usage by 91.8%.  \n• Why it matters: This tool enhances efficiency in processing verbose command-line outputs, potentially lowering costs for users reliant on LLMs.  \n• Business opportunity: There is potential for monetization through offering premium plugins or enterprise solutions for businesses needing optimized CLI interactions."
+    },
+    {
+      "id": "rss-1780669791233-0",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots&#8217; impact on our brains",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-05T12:10:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to ste…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Attackers exploited Meta's AI customer support agent for hacking.  \n• Why it matters: This incident highlights vulnerabilities in AI systems and the need for enhanced security measures.  \n• Business opportunity: Companies can invest in developing robust AI security solutions to protect against emerging threats."
+    },
+    {
+      "id": "rss-1780669791233-2",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Attackers exploited Meta's AI customer support agent to steal Instagram accounts by linking them to controlled email addresses.  \n• Why it matters: This incident highlights vulnerabilities in AI systems that can be manipulated for malicious purposes.  \n• Business opportunity: Companies can invest in robust AI security solutions to prevent similar exploitation and protect user data."
+    },
+    {
+      "id": "rss-1780669793864-68",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T14:05:58.000Z",
+      "publishedAt": "2026-06-05T13:03:10.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+      "rawTextSnippet": "The Australian data center operator plans to set up 5GW of capacity in India.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -109,625 +144,269 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Apple reported $1.4 trillion in App Store billings and sales, with a significant portion being commission-free.  \n• Why it matters: The increase in sales highlights the App Store's robust growth and the potential for developers to thrive without heavy commission fees.  \n• Business opportunity: Companies can leverage the App Store's ecosystem to maximize revenue by offering digital goods and services."
+      "cluster": "General AI",
+      "summary": "• What happened: AirTrunk announced a $30 billion investment to build 5GW of AI data centers in India.  \n• Why it matters: This move positions AirTrunk to capitalize on the growing demand for AI infrastructure in a rapidly digitizing economy.  \n• Business opportunity: Companies can explore partnerships or services related to AI, cloud computing, and data management in the expanding Indian market."
     },
     {
-      "id": "hn-1780584078548-10",
-      "title": "Solving the Worlds Hardest Problems with AI",
-      "url": "https://worldproblemssolved.com",
+      "id": "hn-1780669797131-143",
+      "title": "Anthropic calls for global freeze in AI development",
+      "url": "https://www.telegraph.co.uk/business/2026/06/04/worlds-most-valuable-ai-start-up-calls-for-global-freeze-in/",
       "source": "Hacker News",
-      "publishedAt": "2026-06-04T14:40:02.000Z",
+      "publishedAt": "2026-06-05T10:21:47.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "upvotes": 6,
+        "comments": 6
       },
-      "rawTextSnippet": "Solving the Worlds Hardest Problems with AI",
+      "rawTextSnippet": "Anthropic calls for global freeze in AI development",
       "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48399383"
+        "points": 6,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48410437"
       },
-      "score": 59,
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 0,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A new initiative aims to leverage AI to tackle some of the world's most challenging issues.  \n• Why it matters: This approach could lead to innovative solutions in areas like healthcare, climate change, and education.  \n• Business opportunity: Companies can invest in AI technologies and partnerships to capitalize on emerging solutions and markets."
+      "summary": "• What happened: Anthropic has proposed a global freeze on AI development.  \n• Why it matters: This call highlights growing concerns over the rapid advancement and potential risks of AI technologies.  \n• Business opportunity: Companies can focus on developing ethical AI frameworks and safety measures to address these concerns."
     },
     {
-      "id": "hn-1780584078548-11",
-      "title": "Show HN: AgentKitten: Swift package for provider-agnostic AI agents",
-      "url": "https://github.com/fbeeper/agentkitten",
+      "id": "hn-1780669797131-144",
+      "title": "Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk",
+      "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73",
       "source": "Hacker News",
-      "publishedAt": "2026-06-04T14:37:55.000Z",
+      "publishedAt": "2026-06-05T08:41:01.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 1
+        "upvotes": 13,
+        "comments": 6
       },
-      "rawTextSnippet": "Show HN: AgentKitten: Swift package for provider-agnostic AI agents",
+      "rawTextSnippet": "Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk",
       "hnMeta": {
-        "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48399345"
+        "points": 13,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48409735"
       },
-      "score": 59,
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 0,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new Swift package called AgentKitten was introduced for creating provider-agnostic AI agents.  \n• Why it matters: This development allows developers to build versatile AI solutions without being tied to specific service providers.  \n• Business opportunity: Companies can leverage AgentKitten to enhance their AI capabilities and reduce dependency on single vendors."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Anthropic has called for a global halt in AI development due to concerns over potential self-improvement risks.  \n• Why it matters: This request highlights growing fears about the safety and ethical implications of advanced AI systems.  \n• Business opportunity: Companies can focus on developing robust safety measures and ethical guidelines for AI technologies."
     },
     {
-      "id": "hn-1780584078548-12",
-      "title": "Claude can miss the motives of politicians",
-      "url": "https://futuresearch.ai/llms-miss-motives-politicians/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-04T14:33:23.000Z",
+      "id": "rss-1780669791233-1",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "Claude can miss the motives of politicians",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48399278"
-      },
-      "score": 59,
+      "rawTextSnippet": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital techno…",
+      "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
+        "authority": 18,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Claude, an AI model, struggles to accurately interpret the motives of politicians.  \n• Why it matters: Misinterpretation of political motives can lead to flawed analyses and decisions.  \n• Business opportunity: There is a demand for AI solutions that enhance understanding of political contexts and motivations."
+      "summary": "• What happened: Discussions at SXSW London highlighted concerns about AI chatbots affecting human cognitive control.  \n• Why it matters: Understanding the impact of AI on mental processes is crucial for responsible technology development.  \n• Business opportunity: Companies can innovate solutions that enhance user engagement while mitigating cognitive overload from AI interactions."
     },
     {
-      "id": "hn-1780584078548-13",
-      "title": "Show HN: Getting into Physical AI and Robotics",
-      "url": "https://news.ycombinator.com/item?id=48399271",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-04T14:32:56.000Z",
+      "id": "rss-1780669793864-70",
+      "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-04T22:43:26.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "I started reading about Build AI when I come across their launch in Feb and couldn&#x27;t stop noticing all these new companies talking about selling data for robots. Would appreciate any thoughts on how I can learn more, link: https:&#x2F;&#x2F;x.com&#x2F;airwarmedd&#x2F;status&#x2F;205127039169249…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48399271"
-      },
-      "score": 59,
+      "rawTextSnippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
+        "freshness": 22,
+        "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 9
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: A user on Hacker News shared insights about emerging companies selling data for robots.  \n• Why it matters: This trend highlights the growing intersection of AI, robotics, and data monetization.  \n• Business opportunity: There is potential for startups to develop platforms that facilitate data sharing and analytics for robotic applications."
-    },
-    {
-      "id": "hn-1780584078548-14",
-      "title": "AI as a Context Compiler",
-      "url": "https://dominiek.substack.com/p/ai-as-a-context-compiler",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-04T14:30:43.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "AI as a Context Compiler",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48399229"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: AI is being developed to serve as a context compiler, enhancing understanding and relevance in communication.  \n• Why it matters: This advancement could significantly improve information processing and decision-making across various industries.  \n• Business opportunity: Companies can leverage this technology to create more effective communication tools and personalized user experiences."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic's annualized revenue surged to $47 billion, up from $9 billion in 2025.  \n• Why it matters: This rapid growth highlights the potential of AI technologies despite skepticism about their financial returns.  \n• Business opportunity: Investors and companies can explore partnerships or investments in AI firms poised for significant revenue growth."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 51,
-      "trendScore": 197,
-      "whyTrending": "51 stories across Hacker, MIT, TechCrunch, 30 in the last 24h.",
+      "itemCount": 61,
+      "trendScore": 213,
+      "whyTrending": "61 stories across Hacker, TechCrunch, MIT, 40 in the last 24h.",
       "topStory": {
-        "title": "Solving the Worlds Hardest Problems with AI",
-        "url": "https://worldproblemssolved.com"
+        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+        "url": "https://www.anthropic.com/institute/recursive-self-improvement"
       },
       "items": [
         {
-          "id": "hn-1780584078548-10",
-          "title": "Solving the Worlds Hardest Problems with AI",
-          "url": "https://worldproblemssolved.com",
+          "id": "hn-1780669797131-153",
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
           "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:40:02.000Z",
+          "publishedAt": "2026-06-04T16:20:17.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 481,
+            "comments": 643
           },
-          "rawTextSnippet": "Solving the Worlds Hardest Problems with AI",
+          "rawTextSnippet": "When AI Builds Itself: Our progress toward recursive self-improvement",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399383"
+            "points": 481,
+            "comments": 643,
+            "hnUrl": "https://news.ycombinator.com/item?id=48400842"
           },
-          "score": 59,
+          "score": 76,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 25,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "hn-1780584078548-14",
-          "title": "AI as a Context Compiler",
-          "url": "https://dominiek.substack.com/p/ai-as-a-context-compiler",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:30:43.000Z",
+          "id": "rss-1780669793864-68",
+          "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+          "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-05T13:03:10.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "AI as a Context Compiler",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399229"
-          },
-          "score": 59,
+          "rawTextSnippet": "The Australian data center operator plans to set up 5GW of capacity in India.",
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1780584078548-16",
-          "title": "Hackers Asked Meta AI for Passwords. Meta AI Said Yes",
-          "url": "https://medium.com/@tbelbek/hackers-asked-meta-ai-for-passwords-meta-ai-said-yes-b17c9129ce1b",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:21:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 2
-          },
-          "rawTextSnippet": "Hackers Asked Meta AI for Passwords. Meta AI Said Yes",
-          "hnMeta": {
-            "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399075"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1780584078548-19",
-          "title": "Sangam Tamil literature search engine with AI explanations",
-          "url": "http://sangam.tamilnlp.com/mp/json/ai.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:14:56.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Sangam Tamil literature search engine with AI explanations",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48398995"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1780584078548-20",
-          "title": "First clinical pregnancy following AI-based sperm detection and recovery",
-          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:14:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "First clinical pregnancy following AI-based sperm detection and recovery",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48398984"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        }
-      ]
-    },
-    {
-      "name": "Large Language Models",
-      "itemCount": 38,
-      "trendScore": 182,
-      "whyTrending": "38 stories across OpenAI, Hacker, TechCrunch, 17 in the last 24h.",
-      "topStory": {
-        "title": "How Endava is redesigning software delivery around AI agents",
-        "url": "https://openai.com/index/endava-frontiers"
-      },
-      "items": [
-        {
-          "id": "rss-1780584082528-100",
-          "title": "How Endava is redesigning software delivery around AI agents",
-          "url": "https://openai.com/index/endava-frontiers",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-06-04T12:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-          "score": 68,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 20,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1780584084605-162",
-          "title": "The ways we contain Claude across products",
-          "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "id": "hn-1780669797131-143",
+          "title": "Anthropic calls for global freeze in AI development",
+          "url": "https://www.telegraph.co.uk/business/2026/06/04/worlds-most-valuable-ai-start-up-calls-for-global-freeze-in/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-04T00:27:52.000Z",
+          "publishedAt": "2026-06-05T10:21:47.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 169,
-            "comments": 79
+            "upvotes": 6,
+            "comments": 6
           },
-          "rawTextSnippet": "The ways we contain Claude across products",
+          "rawTextSnippet": "Anthropic calls for global freeze in AI development",
           "hnMeta": {
-            "points": 169,
-            "comments": 79,
-            "hnUrl": "https://news.ycombinator.com/item?id=48392082"
+            "points": 6,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=48410437"
           },
-          "score": 66,
+          "score": 64,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 15,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1780584078548-12",
-          "title": "Claude can miss the motives of politicians",
-          "url": "https://futuresearch.ai/llms-miss-motives-politicians/",
+          "id": "hn-1780669791409-15",
+          "title": "Amazon engineers in Seattle slam employer for building AI data centers",
+          "url": "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
           "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:33:23.000Z",
+          "publishedAt": "2026-06-05T13:43:04.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "Claude can miss the motives of politicians",
+          "rawTextSnippet": "Amazon engineers in Seattle slam employer for building AI data centers",
           "hnMeta": {
-            "points": 1,
+            "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399278"
+            "hnUrl": "https://news.ycombinator.com/item?id=48412458"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1780584080011-41",
-          "title": "Reviewing Kernel Patches with LLMs",
-          "url": "https://lwn.net/Articles/1073583/",
+          "id": "hn-1780669791409-16",
+          "title": "The Data Center Moves to Your Machine",
+          "url": "https://www.perplexity.ai/hub/blog/the-data-center-moves-to-your-machine",
           "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:25:30.000Z",
+          "publishedAt": "2026-06-05T13:42:04.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "Reviewing Kernel Patches with LLMs",
+          "rawTextSnippet": "The Data Center Moves to Your Machine",
           "hnMeta": {
             "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399148"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48412444"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1780584080011-43",
-          "title": "The simplest proof LLMs are not conscious [video]",
-          "url": "https://www.youtube.com/shorts/sPaKDMqfAG8",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T13:48:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 2
-          },
-          "rawTextSnippet": "The simplest proof LLMs are not conscious [video]",
-          "hnMeta": {
-            "points": 1,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=48398625"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         }
       ]
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 28,
-      "trendScore": 173,
-      "whyTrending": "28 stories across Hacker, TechCrunch, GitHub, 16 in the last 24h.",
+      "itemCount": 32,
+      "trendScore": 178,
+      "whyTrending": "32 stories across MIT, Hacker, GitHub, 20 in the last 24h.",
       "topStory": {
-        "title": "Show HN: AgentKitten: Swift package for provider-agnostic AI agents",
-        "url": "https://github.com/fbeeper/agentkitten"
+        "title": "The Meta hack shows there’s more to AI security than Mythos",
+        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
       },
       "items": [
         {
-          "id": "hn-1780584078548-11",
-          "title": "Show HN: AgentKitten: Swift package for provider-agnostic AI agents",
-          "url": "https://github.com/fbeeper/agentkitten",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:37:55.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "Show HN: AgentKitten: Swift package for provider-agnostic AI agents",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399345"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1780584078548-15",
-          "title": "DeepSWE: Measuring frontier coding agents on original, long-horizon SWE tasks",
-          "url": "https://deepswe.datacurve.ai/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:23:25.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "DeepSWE: Measuring frontier coding agents on original, long-horizon SWE tasks",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399111"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1780584080011-40",
-          "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-          "url": "https://boxes.dev",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:38:35.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Hi HN, we’re Nick and Drew, and we’re building boxes.dev – the first cloud-only agentic dev environment (ADE) that gives every Codex and Claude Code agent its own cloud computer. We’re two engineers who previously built Gem (co-founder&#x2F;CTO and first hire), and we spent the last year coding almo…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399358"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1780584081659-86",
-          "title": "Agent Skill for TDD",
-          "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:10:40.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Agent Skill for TDD",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48398925"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1780584081659-87",
-          "title": "Rewiring software delivery for the agentic era",
-          "url": "https://www.mckinsey.com/capabilities/technology/our-insights/rewiring-software-delivery-for-the-agentic-era?hsid=af9fc8a1-903e-4e14-b651-fddd63932a36",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:06:02.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Rewiring software delivery for the agentic era",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48398866"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "AI Safety & Regulation",
-      "itemCount": 12,
-      "trendScore": 131,
-      "whyTrending": "12 stories across MIT, Hacker, OpenAI, 3 in the last 24h.",
-      "topStory": {
-        "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-        "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/"
-      },
-      "items": [
-        {
-          "id": "rss-1780584078329-0",
-          "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-          "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+          "id": "rss-1780669791233-2",
+          "title": "The Meta hack shows there’s more to AI security than Mythos",
+          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-06-04T12:10:00.000Z",
+          "publishedAt": "2026-06-05T09:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado,…",
-          "score": 69,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "rss-1780584078329-1",
-          "title": "How courts are coping with a flood of AI-generated lawsuits",
-          "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-06-04T10:50:18.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind…",
+          "rawTextSnippet": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh…",
           "score": 66,
           "scoreBreakdown": {
             "freshness": 30,
@@ -736,24 +415,24 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1780584078548-21",
-          "title": "Top AI CEOs Call for Law Protecting Against Biological Weapons",
-          "url": "https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f",
+          "id": "hn-1780669791409-13",
+          "title": "Crustafarianism: The religion AI agents built in 14 hours",
+          "url": "https://mibitacora.eu/57-crustafarianismo-religion-agentes/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:11:35.000Z",
+          "publishedAt": "2026-06-05T14:05:10.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 1
           },
-          "rawTextSnippet": "Top AI CEOs Call for Law Protecting Against Biological Weapons",
+          "rawTextSnippet": "Crustafarianism: The religion AI agents built in 14 hours",
           "hnMeta": {
             "points": 2,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48398939"
+            "hnUrl": "https://news.ycombinator.com/item?id=48412751"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -763,124 +442,271 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "rss-1780584082529-103",
-          "title": "OpenAI public policy agenda",
-          "url": "https://openai.com/index/public-policy-agenda",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-06-03T10:00:00.000Z",
+          "id": "hn-1780669791409-25",
+          "title": "Obsidian Vault Can Now Run SQL (and Your Agent Can Read It)",
+          "url": "https://motherduck.com/blog/obsidian-vault-duckdb-ai-agents/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-05T13:18:48.000Z",
           "scoreSignals": {
-            "sourceAuthority": 20
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
           },
-          "rawTextSnippet": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-          "score": 53,
+          "rawTextSnippet": "Obsidian Vault Can Now Run SQL (and Your Agent Can Read It)",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48412126"
+          },
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 20,
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1780669794272-88",
+          "title": "SAIdecar, for the small questions that don't belong the main agent session",
+          "url": "https://github.com/Deca/saidecar",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-05T13:55:02.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "SAIdecar, for the small questions that don't belong the main agent session",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48412623"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1780669794272-89",
+          "title": "Vibe Coding Is Dangerous, Agentic Engineering Isn't",
+          "url": "https://motherduck.com/blog/vibe-coding-dangerous-agentic-engineering-wes-mckinney/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-05T13:04:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Vibe Coding Is Dangerous, Agentic Engineering Isn't",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48411914"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "itemCount": 39,
+      "trendScore": 172,
+      "whyTrending": "39 stories across MIT, Hacker, OpenAI, 13 in the last 24h.",
+      "topStory": {
+        "title": "The Download: AI hacking beyond Mythos, and chatbots&#8217; impact on our brains",
+        "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/"
+      },
+      "items": [
+        {
+          "id": "rss-1780669791233-0",
+          "title": "The Download: AI hacking beyond Mythos, and chatbots&#8217; impact on our brains",
+          "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-05T12:10:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to ste…",
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1780584082529-104",
-          "title": "A blueprint for democratic governance of frontier AI",
-          "url": "https://openai.com/index/frontier-safety-blueprint",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-06-03T10:00:00.000Z",
+          "id": "rss-1780669791233-1",
+          "title": "Are AI chatbots making us lose control of our brains?",
+          "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-05T09:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 20
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-          "score": 53,
+          "rawTextSnippet": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital techno…",
+          "score": 63,
           "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 20,
+            "freshness": 30,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1780669792858-41",
+          "title": "Llms.txt directory – Find llms.txt files across the web",
+          "url": "https://llmstxt.site/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-05T13:07:31.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Llms.txt directory – Find llms.txt files across the web",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48411970"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1780669792858-43",
+          "title": "vLLM: An Efficient Inference Engine for Large Language Models [pdf]",
+          "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/Archive/EECS-2025-192.pdf",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-05T12:29:57.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "vLLM: An Efficient Inference Engine for Large Language Models [pdf]",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48411506"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1780669792858-44",
+          "title": "Claude resets your limit too late, not anymore",
+          "url": "https://github.com/claude-schwabe/schwabe",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-05T11:50:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Claude resets your limit too late, not anymore",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48411139"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
         }
       ]
     },
     {
       "name": "AI Tools & Products",
-      "itemCount": 13,
-      "trendScore": 125,
-      "whyTrending": "13 stories across Hacker, TechCrunch, OpenAI, 6 in the last 24h.",
+      "itemCount": 14,
+      "trendScore": 123,
+      "whyTrending": "14 stories across Hacker, TechCrunch, OpenAI, 5 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Getting into Physical AI and Robotics",
-        "url": "https://news.ycombinator.com/item?id=48399271"
+        "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+        "url": "https://github.com/zdk/lowfat"
       },
       "items": [
         {
-          "id": "hn-1780584078548-13",
-          "title": "Show HN: Getting into Physical AI and Robotics",
-          "url": "https://news.ycombinator.com/item?id=48399271",
+          "id": "hn-1780669792858-52",
+          "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+          "url": "https://github.com/zdk/lowfat",
           "source": "Hacker News",
-          "publishedAt": "2026-06-04T14:32:56.000Z",
+          "publishedAt": "2026-06-05T09:10:42.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 37,
+            "comments": 22
           },
-          "rawTextSnippet": "I started reading about Build AI when I come across their launch in Feb and couldn&#x27;t stop noticing all these new companies talking about selling data for robots. Would appreciate any thoughts on how I can learn more, link: https:&#x2F;&#x2F;x.com&#x2F;airwarmedd&#x2F;status&#x2F;205127039169249…",
+          "rawTextSnippet": "Hi HN, Not sure if anyone would be interested. But, just wanted to share that I&#x27;ve been maintaining my small tool called &#x27;lowfat&#x27; that helps me filters some of my verbose CLI output. It&#x27;s a single binary, works as an agent hook or a shell wrapper. It has a plugin system to custom…",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48399271"
+            "points": 37,
+            "comments": 22,
+            "hnUrl": "https://news.ycombinator.com/item?id=48409955"
           },
-          "score": 59,
+          "score": 69,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 10,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1780584083103-120",
-          "title": "Breaking Changes in APIs: How to Detect and Prevent Them",
-          "url": "https://apiguard.co/blog/openapi-breaking-changes",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-04T13:51:24.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Breaking Changes in APIs: How to Detect and Prevent Them",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48398660"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1780584080992-72",
-          "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-          "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+          "id": "rss-1780669793864-71",
+          "title": "Airbnb&#8217;s Brian Chesky plans to launch a new AI lab",
+          "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-03T14:58:33.000Z",
+          "publishedAt": "2026-06-04T22:29:50.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+          "rawTextSnippet": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
           "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
@@ -892,25 +718,52 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1780584083103-127",
-          "title": "Show HN: Apertis – OpenAI-compatible API gateway for 470 AI models",
-          "url": "https://apertis.ai/",
+          "id": "hn-1780669791409-21",
+          "title": "What to Expect from Apple's AI, Siri and iOS 27 Launch at WWDC",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce",
           "source": "Hacker News",
-          "publishedAt": "2026-06-04T03:54:35.000Z",
+          "publishedAt": "2026-06-05T13:29:43.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "What to Expect from Apple's AI, Siri and iOS 27 Launch at WWDC",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48412284"
+          },
+          "score": 54,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 10,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1780669795684-135",
+          "title": "TokkeyCC – OpenAI-compatible API for 100 AI models, .22 per 1M tokens",
+          "url": "https://tokkeycc.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-04T16:23:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: Apertis – OpenAI-compatible API gateway for 470 AI models",
+          "rawTextSnippet": "TokkeyCC – OpenAI-compatible API for 100 AI models, .22 per 1M tokens",
           "hnMeta": {
-            "points": 1,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48393576"
+            "hnUrl": "https://news.ycombinator.com/item?id=48400900"
           },
-          "score": 55,
+          "score": 51,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 22,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
@@ -919,15 +772,114 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "rss-1780584080992-69",
-          "title": "Google&#8217;s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-          "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "id": "rss-1780669793864-84",
+          "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+          "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-03T19:07:42.000Z",
+          "publishedAt": "2026-06-03T14:58:33.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+          "rawTextSnippet": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+          "score": 49,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Tools & Products"
+        }
+      ]
+    },
+    {
+      "name": "Funding & Acquisitions",
+      "itemCount": 11,
+      "trendScore": 121,
+      "whyTrending": "11 stories across TechCrunch, Hacker, VentureBeat, 4 in the last 24h.",
+      "topStory": {
+        "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
+        "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/"
+      },
+      "items": [
+        {
+          "id": "rss-1780669793864-70",
+          "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
+          "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-04T22:43:26.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "hn-1780669797131-146",
+          "title": "Anthropic tops AI Arena rankings as it files for IPO",
+          "url": "https://liveclip.substack.com/p/anthropic-files-for-ipo-state-of-ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-05T06:01:16.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic tops AI Arena rankings as it files for IPO",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48408555"
+          },
+          "score": 58,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1780669793864-77",
+          "title": "Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is.",
+          "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-04T15:05:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+          "score": 56,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1780669793864-72",
+          "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+          "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-04T21:30:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure …",
           "score": 53,
           "scoreBreakdown": {
             "freshness": 22,
@@ -936,84 +888,97 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1780669793864-78",
+          "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+          "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-04T14:05:58.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+          "score": 49,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1780584084605-162",
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "id": "hn-1780669792858-52",
+      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
       "source": "Hacker News",
-      "publishedAt": "2026-06-04T00:27:52.000Z",
+      "publishedAt": "2026-06-05T09:10:42.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 169,
-        "comments": 79
+        "upvotes": 37,
+        "comments": 22
       },
-      "rawTextSnippet": "The ways we contain Claude across products",
+      "rawTextSnippet": "Hi HN, Not sure if anyone would be interested. But, just wanted to share that I&#x27;ve been maintaining my small tool called &#x27;lowfat&#x27; that helps me filters some of my verbose CLI output. It&#x27;s a single binary, works as an agent hook or a shell wrapper. It has a plugin system to custom…",
       "hnMeta": {
-        "points": 169,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=48392082"
+        "points": 37,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48409955"
       },
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Claude's containment strategies are being implemented across various products.  \n• Why it matters: Effective containment enhances user safety and product reliability.  \n• Business opportunity: Companies can leverage these strategies to improve product offerings and gain competitive advantage."
-    },
-    {
-      "id": "hn-1780584078548-13",
-      "title": "Show HN: Getting into Physical AI and Robotics",
-      "url": "https://news.ycombinator.com/item?id=48399271",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-04T14:32:56.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "I started reading about Build AI when I come across their launch in Feb and couldn&#x27;t stop noticing all these new companies talking about selling data for robots. Would appreciate any thoughts on how I can learn more, link: https:&#x2F;&#x2F;x.com&#x2F;airwarmedd&#x2F;status&#x2F;205127039169249…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48399271"
-      },
-      "score": 59,
+      "score": 69,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 0,
+        "engagement": 10,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "AI Tools & Products",
-      "summary": "• What happened: A user on Hacker News is exploring the emergence of companies selling data for robotics.  \n• Why it matters: This trend highlights a growing intersection between AI, robotics, and data monetization.  \n• Business opportunity: There is potential for investment in companies that provide data solutions for the robotics industry."
+      "summary": "• What happened: A developer introduced 'lowfat', a CLI filter that reduces LLM token usage by 91.8%.  \n• Why it matters: This tool can significantly enhance efficiency for users dealing with verbose command-line outputs.  \n• Business opportunity: There is potential for developing and marketing similar tools that optimize resource usage in software applications."
     },
     {
-      "id": "hn-1780584078548-18",
-      "title": "What Bun Can Tell Us About AI, Open Source and Anthropic",
-      "url": "https://redmonk.com/sogrady/2026/06/04/bun-two-lessons/",
+      "id": "rss-1780669793864-70",
+      "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-04T22:43:26.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic's annualized revenue surged to $47 billion, up from $9 billion in 2025.  \n• Why it matters: This rapid growth highlights the potential of AI, despite skepticism about its profitability.  \n• Business opportunity: Investors may find lucrative prospects in AI companies demonstrating strong revenue growth and market potential."
+    },
+    {
+      "id": "hn-1780669791409-10",
+      "title": "AI is designing OpenAI's next model in a sign of 'super intelligence'",
+      "url": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html",
       "source": "Hacker News",
-      "publishedAt": "2026-06-04T14:15:39.000Z",
+      "publishedAt": "2026-06-05T14:16:41.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "What Bun Can Tell Us About AI, Open Source and Anthropic",
+      "rawTextSnippet": "AI is designing OpenAI's next model in a sign of 'super intelligence'",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48399002"
+        "hnUrl": "https://news.ycombinator.com/item?id=48412879"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1023,25 +988,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: Bun's insights on AI and open source highlight its potential impact on Anthropic.  \n• Why it matters: Understanding these dynamics can shape future AI development and collaboration strategies.  \n• Business opportunity: Companies can leverage open-source AI frameworks to innovate and enhance their offerings."
+      "cluster": "General AI",
+      "summary": "• What happened: OpenAI is utilizing AI to design its next model, indicating advancements in artificial intelligence.  \n• Why it matters: This development suggests a significant leap towards 'super intelligence,' raising questions about AI's future capabilities.  \n• Business opportunity: Companies can leverage this trend to innovate AI-driven solutions and enhance their product offerings."
     },
     {
-      "id": "hn-1780584078548-26",
-      "title": "Show HN: Hello Inbox – Your AI Email Deliverability Expert, Available 24/7",
-      "url": "https://www.helloinbox.email/",
+      "id": "hn-1780669791409-26",
+      "title": "I open-sourced my UFC prediction model, code, and database after 5 years of work",
+      "url": "https://mcinerney.ai/writings/i-open-sourced-my-ufc-prediction-model-weights-and-database/",
       "source": "Hacker News",
-      "publishedAt": "2026-06-04T13:38:55.000Z",
+      "publishedAt": "2026-06-05T13:14:54.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
+        "upvotes": 3,
+        "comments": 1
       },
-      "rawTextSnippet": "Show HN: Hello Inbox – Your AI Email Deliverability Expert, Available 24/7",
+      "rawTextSnippet": "I open-sourced my UFC prediction model, code, and database after 5 years of work",
       "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48398490"
+        "points": 3,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48412069"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1051,24 +1016,24 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI"
+      "cluster": "Open Source AI"
     },
     {
-      "id": "hn-1780584080011-51",
-      "title": "Defending LLM–Database Integrations from Prompt Injection",
-      "url": "https://www.stackbuilders.com/insights/when-text-becomes-code-defending-llmdatabase-integrations-from-prompt-injection/",
+      "id": "hn-1780669792858-43",
+      "title": "vLLM: An Efficient Inference Engine for Large Language Models [pdf]",
+      "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/Archive/EECS-2025-192.pdf",
       "source": "Hacker News",
-      "publishedAt": "2026-06-04T12:40:54.000Z",
+      "publishedAt": "2026-06-05T12:29:57.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Defending LLM–Database Integrations from Prompt Injection",
+      "rawTextSnippet": "vLLM: An Efficient Inference Engine for Large Language Models [pdf]",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48397821"
+        "hnUrl": "https://news.ycombinator.com/item?id=48411506"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1085,7 +1050,77 @@
   "research": [],
   "funding": [
     {
-      "id": "rss-1780584080992-66",
+      "id": "rss-1780669793864-70",
+      "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-04T22:43:26.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic's annualized revenue surged to $47 billion, up from $9 billion in 2025.  \n• Why it matters: This rapid growth highlights the potential of AI, despite skepticism about its profitability.  \n• Business opportunity: Investors may find lucrative prospects in AI companies demonstrating significant revenue growth."
+    },
+    {
+      "id": "hn-1780669797131-146",
+      "title": "Anthropic tops AI Arena rankings as it files for IPO",
+      "url": "https://liveclip.substack.com/p/anthropic-files-for-ipo-state-of-ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-05T06:01:16.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "Anthropic tops AI Arena rankings as it files for IPO",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48408555"
+      },
+      "score": 58,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic has been ranked first in the AI Arena and has filed for an initial public offering (IPO).  \n• Why it matters: This ranking highlights Anthropic's competitive position in the rapidly evolving AI industry.  \n• Business opportunity: Investors may find potential in supporting a leading AI firm poised for growth through its IPO."
+    },
+    {
+      "id": "rss-1780669793864-72",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-04T21:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure …",
+      "score": 53,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: A gathering of investors, founders, and tech leaders took place on June 18 to discuss venture capital, defense tech, and AI.  \n• Why it matters: This event highlights the growing intersection of technology and defense, signaling shifts in investment priorities.  \n• Business opportunity: Companies in defense tech and AI can leverage increased interest and funding from investors to innovate and expand."
+    },
+    {
+      "id": "rss-1780669793864-78",
       "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
       "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
       "source": "TechCrunch AI",
@@ -1094,19 +1129,18 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
-      "score": 64,
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Apple reported $1.4 trillion in App Store billings and sales, with a significant portion generated without commission.  \n• Why it matters: This growth highlights the increasing importance of digital goods and services in Apple's ecosystem.  \n• Business opportunity: Companies can explore innovative digital products to leverage the commission-free sales environment on the App Store."
+      "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1780584080992-68",
+      "id": "rss-1780669793864-80",
       "title": "Alphabet&#8217;s record-breaking $85B raise for Google&#8217;s AI business is a helluva good signal",
       "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
       "source": "TechCrunch AI",
@@ -1115,78 +1149,16 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-      "score": 56,
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Alphabet raised a record $85 billion through a stock sale for Google’s AI business.  \n• Why it matters: This signals strong investor confidence and appetite for AI-related investments.  \n• Business opportunity: Companies in the AI sector may attract increased funding and partnerships as investor interest grows."
-    },
-    {
-      "id": "rss-1780584080992-85",
-      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T14:44:21.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Anthropic is expanding its Claude Mythos program to 150 organizations across 15 countries.  \n• Why it matters: This initiative targets critical infrastructure sectors, enhancing cybersecurity where vulnerabilities could impact millions.  \n• Business opportunity: Companies can collaborate with Anthropic to strengthen their cybersecurity measures and protect essential services."
-    },
-    {
-      "id": "rss-1780584080992-75",
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T22:50:56.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
       "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1780584080992-84",
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T16:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate…",
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Tools & Products"
     }
   ],
-  "dailyBrief": "Today's AI landscape reveals significant shifts in both legal and operational frameworks. With courts grappling with a surge of AI-generated lawsuits, businesses must navigate new legal challenges while considering the implications of AI in their operations. Endava's innovative approach to software delivery, centered around AI agents, highlights a trend towards automation that could streamline processes and reduce costs. Meanwhile, Apple reported a staggering $1.4 trillion in App Store billings, with 90% of transactions occurring without a commission, underscoring the growing importance of AI-driven platforms in driving revenue. As companies adapt to these developments, the integration of AI will be crucial for maintaining competitive advantage."
+  "dailyBrief": "Today's AI landscape is marked by significant advancements and emerging challenges. Researchers are exploring recursive self-improvement in AI, potentially accelerating innovation cycles and reducing development costs. Meanwhile, Anthropic has introduced an open-source framework aimed at enhancing AI-powered vulnerability discovery, which could bolster cybersecurity measures across industries. In practical applications, a new CLI filter called Lowfat has demonstrated a remarkable 91.8% reduction in token usage for large language models, promising efficiency gains for businesses leveraging AI. However, recent security breaches, including a notable hack at Meta, underscore the need for robust AI security measures beyond traditional frameworks, highlighting the dual-edged nature of AI advancements in both opportunity and risk management."
 }
