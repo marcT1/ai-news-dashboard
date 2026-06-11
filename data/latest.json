@@ -1,217 +1,126 @@
 {
   "topNews": [
     {
-      "id": "hn-1781103474736-175",
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "id": "hn-1781192408444-149",
+      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+      "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
       "source": "Hacker News",
-      "publishedAt": "2026-06-09T16:58:01.000Z",
+      "publishedAt": "2026-06-11T05:16:42.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2427,
-        "comments": 1919
+        "upvotes": 71,
+        "comments": 93
       },
-      "rawTextSnippet": "System Card [pdf]: https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...",
+      "rawTextSnippet": "OpenAI mulls slashing prices as it competes with Anthropic for users",
       "hnMeta": {
-        "points": 2427,
-        "comments": 1919,
-        "hnUrl": "https://news.ycombinator.com/item?id=48463808"
+        "points": 71,
+        "comments": 93,
+        "hnUrl": "https://news.ycombinator.com/item?id=48486486"
       },
-      "score": 76,
+      "score": 70,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 25,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Anthropic released the System Card for Claude Fable 5.  \n• Why it matters: This document outlines the model's capabilities and ethical considerations, enhancing transparency.  \n• Business opportunity: Companies can leverage insights from the System Card to improve AI integration and compliance strategies."
-    },
-    {
-      "id": "hn-1781103477463-212",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-08T19:14:47.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 722,
-        "comments": 555
-      },
-      "rawTextSnippet": "Apple reveals new AI architecture built around Google Gemini models",
-      "hnMeta": {
-        "points": 722,
-        "comments": 555,
-        "hnUrl": "https://news.ycombinator.com/item?id=48450142"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 25,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Apple announced a new AI architecture utilizing Google Gemini models.  \n• Why it matters: This collaboration signifies a strategic shift in Apple's approach to AI development.  \n• Business opportunity: Companies can explore partnerships or innovations leveraging this new AI framework for enhanced applications."
-    },
-    {
-      "id": "rss-1781103471666-89",
-      "title": "The three hard-tech moonshots fueling SpaceX&#8217;s unbelievable IPO",
-      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T14:48:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: SpaceX's IPO is significantly driven by its innovative space data center initiatives.  \n• Why it matters: This reflects investor confidence in the potential of hard-tech advancements in the space sector.  \n• Business opportunity: Companies can explore partnerships or solutions that support SpaceX's data center vision and broader space infrastructure."
-    },
-    {
-      "id": "rss-1781103471666-90",
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T14:31:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Warner Music Group acquired AI attribution startup Sureel AI.  \n• Why it matters: This acquisition enhances WMG's ability to monitor the use of its artists' work in AI-generated content.  \n• Business opportunity: There is potential for new revenue streams by ensuring artists are compensated for AI usage of their work."
-    },
-    {
-      "id": "hn-1781103469108-29",
-      "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-10T13:39:11.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 10,
-        "comments": 1
-      },
-      "rawTextSnippet": "A €0.01 bank transfer could compromise a banking AI agent",
-      "hnMeta": {
-        "points": 10,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48476136"
-      },
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A €0.01 bank transfer has the potential to disrupt a banking AI agent.  \n• Why it matters: This vulnerability highlights security risks associated with AI in financial services.  \n• Business opportunity: Companies can develop enhanced security solutions to protect AI systems in banking."
-    },
-    {
-      "id": "rss-1781103468938-0",
-      "title": "The Download: the “steroid olympics&#8221; and a safer Mythos",
-      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-10T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parki…",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A recent event dubbed the “steroid olympics” showcased extreme athleticism and cultural commentary.  \n• Why it matters: It highlights societal attitudes towards performance enhancement and the evolving nature of competition.  \n• Business opportunity: There is potential for developing safer performance-enhancing technologies and wellness products in sports."
-    },
-    {
-      "id": "hn-1781103474736-174",
-      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
-      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-09T16:58:13.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 211,
-        "comments": 1
-      },
-      "rawTextSnippet": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
-      "hnMeta": {
-        "points": 211,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48463811"
-      },
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 26,
         "authority": 14,
         "engagement": 15,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: The release of the System Card for Claude Fable 5 and Claude Mythos 5 was announced.  \n• Why it matters: This development highlights advancements in AI capabilities and their potential applications.  \n• Business opportunity: Companies can leverage these AI systems for enhanced automation and decision-making processes."
+      "cluster": "General AI",
+      "summary": "• What happened: OpenAI is considering reducing prices to attract more users amid competition with Anthropic.  \n• Why it matters: Lower prices could enhance user acquisition and market share in the AI industry.  \n• Business opportunity: Companies can leverage this price shift to explore cost-effective AI solutions for their operations."
     },
     {
-      "id": "rss-1781103471666-91",
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T13:33:09.000Z",
+      "id": "rss-1781192404026-1",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-11T11:00:45.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-      "score": 64,
+      "rawTextSnippet": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without…",
+      "score": 69,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
+        "authority": 18,
         "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Google DeepMind is funding research on the risks of millions of AI agents interacting online.  \n• Why it matters: Understanding these interactions is crucial for ensuring safety and alignment in AI systems.  \n• Business opportunity: Companies can innovate in AI safety solutions to address emerging challenges in multi-agent environments."
+    },
+    {
+      "id": "hn-1781192409861-177",
+      "title": "Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude",
+      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-11T03:41:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 59,
+        "comments": 29
+      },
+      "rawTextSnippet": "Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude",
+      "hnMeta": {
+        "points": 59,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48485958"
+      },
+      "score": 68,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 10,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Jedify secured $24M in funding to enhance AI agents with business context.  \n• Why it matters: This investment highlights the growing demand for AI solutions that improve operational efficiency and decision-making.  \n• Business opportunity: Companies can leverage Jedify's technology to optimize their AI implementations and gain competitive advantages."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Anthropic reversed a controversial policy that restricted researchers' access to its AI model, Claude.  \n• Why it matters: The initial policy could have hindered research and innovation in AI, raising concerns in the academic community.  \n• Business opportunity: This change may foster collaboration and attract more researchers, enhancing Anthropic's reputation and user base."
     },
     {
-      "id": "hn-1781103471917-113",
-      "title": "Collective of economists considers 'growth' a doomed strategy",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders",
+      "id": "hn-1781192405653-80",
+      "title": "I procrastinate by building tools to stop me from procrastinating: A sad story",
+      "url": "https://news.ycombinator.com/item?id=48489109",
       "source": "Hacker News",
-      "publishedAt": "2026-06-10T13:22:11.000Z",
+      "publishedAt": "2026-06-11T11:51:23.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 2
+        "upvotes": 2,
+        "comments": 5
       },
-      "rawTextSnippet": "Collective of economists considers 'growth' a doomed strategy",
+      "rawTextSnippet": "Hello, fellow overstimulated kids I don&#x27;t know if it&#x27;s something of my generation, my worsening ADHD or just laziness, but whenever I sit down and start studying something, magically, I find myself researching the most random shit ever. Need to do at least 1 hour of Game Theory? Best I can…",
       "hnMeta": {
-        "points": 7,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48475930"
+        "points": 2,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48489109"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Research & Benchmarks",
+      "summary": "• What happened: A person shares their struggle with procrastination and distraction while studying.  \n• Why it matters: This highlights a common challenge faced by many, particularly among younger generations with ADHD.  \n• Business opportunity: There is potential to develop effective productivity tools tailored for individuals struggling with focus and procrastination."
+    },
+    {
+      "id": "hn-1781192408444-146",
+      "title": "OpenAI Considers Drastic Price Cuts, Anticipating War for Users with Anthropic",
+      "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-11T09:57:57.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 9,
+        "comments": 5
+      },
+      "rawTextSnippet": "OpenAI Considers Drastic Price Cuts, Anticipating War for Users with Anthropic",
+      "hnMeta": {
+        "points": 9,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48488310"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -222,211 +131,168 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A group of economists has declared the pursuit of economic growth as a failing strategy.  \n• Why it matters: This perspective challenges traditional economic models and could reshape policy-making.  \n• Business opportunity: Companies may explore sustainable practices and alternative metrics for success beyond growth."
+      "summary": "• What happened: OpenAI is contemplating significant price reductions in response to competition from Anthropic.  \n• Why it matters: This move could intensify the rivalry in the AI market, affecting user acquisition strategies.  \n• Business opportunity: Companies can leverage lower prices to attract users and enhance their AI offerings."
     },
     {
-      "id": "hn-1781103471917-120",
-      "title": "Show HN: RiskKernel, kill -9 an AI agent and resume it without paying twice",
-      "url": "https://riskkernel.com/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-10T12:37:02.000Z",
+      "id": "rss-1781192404026-0",
+      "title": "The Download: soccer&#8217;s data renaissance and China&#8217;s big nuclear plans",
+      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-11T12:10:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 5
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "Show HN: RiskKernel, kill -9 an AI agent and resume it without paying twice",
-      "hnMeta": {
-        "points": 2,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48475381"
-      },
-      "score": 64,
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of …",
+      "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
+        "authority": 18,
+        "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: RiskKernel allows users to terminate an AI agent and restart it without incurring additional costs.  \n• Why it matters: This innovation enhances efficiency and cost-effectiveness in AI operations.  \n• Business opportunity: Companies can leverage RiskKernel to optimize AI resource management and reduce operational expenses."
+      "cluster": "General AI",
+      "summary": "• What happened: Soccer is experiencing a data-driven transformation, enhancing player performance and fan engagement.  \n• Why it matters: This shift could redefine how teams strategize and interact with audiences, influencing the sport's future.  \n• Business opportunity: Companies can develop innovative analytics tools and platforms to capitalize on the growing demand for data in sports."
+    },
+    {
+      "id": "rss-1781192404026-2",
+      "title": "Job titles of the future: Nature&#8217;s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Chemist Tim Cernak transitioned from Big Pharma to focus on natural drug design.  \n• Why it matters: This shift highlights the growing interest in sustainable and nature-inspired pharmaceuticals.  \n• Business opportunity: Companies can explore innovative drug development by leveraging natural compounds and sustainable practices."
+    },
+    {
+      "id": "rss-1781192404026-3",
+      "title": "Inside soccer’s data renaissance",
+      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Soccer is experiencing a data-driven transformation, influencing strategies and gameplay.  \n• Why it matters: This shift enhances team performance and fan engagement, reshaping traditional perceptions of the sport.  \n• Business opportunity: Companies can leverage sports analytics to develop innovative tools and services for teams and broadcasters."
+    },
+    {
+      "id": "rss-1781192404026-4",
+      "title": "Why China is betting on big nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Mean…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: China is rapidly expanding its nuclear power capacity, nearly doubling its fleet since 2016 to almost 60 gigawatts.  \n• Why it matters: This growth positions China as a leader in nuclear energy, addressing energy demands and climate goals.  \n• Business opportunity: There are potential investments in nuclear technology and infrastructure development for companies looking to enter or expand in the energy sector."
+    },
+    {
+      "id": "rss-1781192408382-124",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-06-10T20:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: Oracle Cloud users can now access OpenAI models and Codex through their existing commitments.  \n• Why it matters: This integration enhances enterprise security and governance for AI deployment.  \n• Business opportunity: Companies can leverage advanced AI capabilities without additional costs, driving innovation and efficiency."
     }
   ],
   "trendingTopics": [
     {
-      "name": "Large Language Models",
-      "itemCount": 62,
-      "trendScore": 216,
-      "whyTrending": "62 stories across Hacker, arXiv, TechCrunch, 44 in the last 24h.",
+      "name": "General AI",
+      "itemCount": 69,
+      "trendScore": 220,
+      "whyTrending": "69 stories across Hacker, MIT, TechCrunch, 48 in the last 24h.",
       "topStory": {
-        "title": "Claude Fable 5",
-        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+        "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+        "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html"
       },
       "items": [
         {
-          "id": "hn-1781103474736-175",
-          "title": "Claude Fable 5",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "id": "hn-1781192408444-149",
+          "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+          "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
           "source": "Hacker News",
-          "publishedAt": "2026-06-09T16:58:01.000Z",
+          "publishedAt": "2026-06-11T05:16:42.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2427,
-            "comments": 1919
+            "upvotes": 71,
+            "comments": 93
           },
-          "rawTextSnippet": "System Card [pdf]: https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...",
+          "rawTextSnippet": "OpenAI mulls slashing prices as it competes with Anthropic for users",
           "hnMeta": {
-            "points": 2427,
-            "comments": 1919,
-            "hnUrl": "https://news.ycombinator.com/item?id=48463808"
+            "points": 71,
+            "comments": 93,
+            "hnUrl": "https://news.ycombinator.com/item?id=48486486"
           },
-          "score": 76,
+          "score": 70,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 25,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1781103477463-212",
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-08T19:14:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 722,
-            "comments": 555
-          },
-          "rawTextSnippet": "Apple reveals new AI architecture built around Google Gemini models",
-          "hnMeta": {
-            "points": 722,
-            "comments": 555,
-            "hnUrl": "https://news.ycombinator.com/item?id=48450142"
-          },
-          "score": 69,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 14,
-            "engagement": 25,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1781103474736-174",
-          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
-          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-09T16:58:13.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 211,
-            "comments": 1
-          },
-          "rawTextSnippet": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
-          "hnMeta": {
-            "points": 211,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48463811"
-          },
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 26,
             "authority": 14,
             "engagement": 15,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1781103477463-200",
-          "title": "Google Gemini Is Down",
-          "url": "https://www.techradar.com/news/live/gemini-down-june-2026",
+          "id": "hn-1781192408444-146",
+          "title": "OpenAI Considers Drastic Price Cuts, Anticipating War for Users with Anthropic",
+          "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e",
           "source": "Hacker News",
-          "publishedAt": "2026-06-10T12:28:58.000Z",
+          "publishedAt": "2026-06-11T09:57:57.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 8,
-            "comments": 4
+            "upvotes": 9,
+            "comments": 5
           },
-          "rawTextSnippet": "Google Gemini Is Down",
+          "rawTextSnippet": "OpenAI Considers Drastic Price Cuts, Anticipating War for Users with Anthropic",
           "hnMeta": {
-            "points": 8,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=48475307"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1781103470503-75",
-          "title": "Show HN: I generated 235 system docs in a day using GPT-5.5",
-          "url": "https://www.paxerp.com/docs",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-10T13:26:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
-          },
-          "rawTextSnippet": "I generated 235 system documentation pages for a startup in about 8 hours using GPT-5.5 in Codex. We&#x27;ve been putting off the chore of writing technical docs since our team could handle all customer questions directly. However, since releasing an AI tool in the system, users have started asking …",
-          "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48475992"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        }
-      ]
-    },
-    {
-      "name": "General AI",
-      "itemCount": 63,
-      "trendScore": 209,
-      "whyTrending": "63 stories across Hacker, MIT, TechCrunch, 38 in the last 24h.",
-      "topStory": {
-        "title": "Collective of economists considers 'growth' a doomed strategy",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders"
-      },
-      "items": [
-        {
-          "id": "hn-1781103471917-113",
-          "title": "Collective of economists considers 'growth' a doomed strategy",
-          "url": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-10T13:22:11.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 2
-          },
-          "rawTextSnippet": "Collective of economists considers 'growth' a doomed strategy",
-          "hnMeta": {
-            "points": 7,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=48475930"
+            "points": 9,
+            "comments": 5,
+            "hnUrl": "https://news.ycombinator.com/item?id=48488310"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -439,15 +305,15 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1781103468938-1",
-          "title": "The “steroid olympics” were a circus—and a window into our culture",
-          "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+          "id": "rss-1781192404026-0",
+          "title": "The Download: soccer&#8217;s data renaissance and China&#8217;s big nuclear plans",
+          "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-06-10T09:00:00.000Z",
+          "publishedAt": "2026-06-11T12:10:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing …",
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of …",
           "score": 63,
           "scoreBreakdown": {
             "freshness": 30,
@@ -459,46 +325,19 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1781103471666-93",
-          "title": "Meta signs first AI data center deal in India with Reliance",
-          "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-10T07:05:26.000Z",
+          "id": "rss-1781192404026-3",
+          "title": "Inside soccer’s data renaissance",
+          "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-11T10:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1781103469108-11",
-          "title": "Skimming an AI answer cost me 100 passwords",
-          "url": "https://alwaysdraft.com/skimming-ai-answer-cost-100-passwords/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-10T14:55:57.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Skimming an AI answer cost me 100 passwords",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48477307"
-          },
-          "score": 59,
+          "rawTextSnippet": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were…",
+          "score": 63,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -506,26 +345,19 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1781103469108-13",
-          "title": "Can Socratic dialogue cut through AI \"bullshit\"?",
-          "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/06/09/can-socratic-dialogue-cut-through-ai-bullshit/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-10T14:49:22.000Z",
+          "id": "rss-1781192404026-4",
+          "title": "Why China is betting on big nuclear reactors",
+          "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-11T10:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "Can Socratic dialogue cut through AI \"bullshit\"?",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48477170"
-          },
-          "score": 59,
+          "rawTextSnippet": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Mean…",
+          "score": 63,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -535,85 +367,171 @@
       ]
     },
     {
-      "name": "AI Agents & Automation",
-      "itemCount": 30,
-      "trendScore": 183,
-      "whyTrending": "30 stories across Hacker, arXiv, MIT, 23 in the last 24h.",
+      "name": "Large Language Models",
+      "itemCount": 56,
+      "trendScore": 204,
+      "whyTrending": "56 stories across Hacker, TechCrunch, OpenAI, 34 in the last 24h.",
       "topStory": {
-        "title": "A €0.01 bank transfer could compromise a banking AI agent",
-        "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
+        "title": "Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude",
+        "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/"
       },
       "items": [
         {
-          "id": "hn-1781103469108-29",
-          "title": "A €0.01 bank transfer could compromise a banking AI agent",
-          "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+          "id": "hn-1781192409861-177",
+          "title": "Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude",
+          "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-10T13:39:11.000Z",
+          "publishedAt": "2026-06-11T03:41:06.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 10,
-            "comments": 1
+            "upvotes": 59,
+            "comments": 29
           },
-          "rawTextSnippet": "A €0.01 bank transfer could compromise a banking AI agent",
+          "rawTextSnippet": "Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude",
           "hnMeta": {
-            "points": 10,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48476136"
+            "points": 59,
+            "comments": 29,
+            "hnUrl": "https://news.ycombinator.com/item?id=48485958"
           },
-          "score": 67,
+          "score": 68,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 26,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 10,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "AI Agents & Automation"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1781103471917-120",
-          "title": "Show HN: RiskKernel, kill -9 an AI agent and resume it without paying twice",
-          "url": "https://riskkernel.com/",
+          "id": "hn-1781192405653-83",
+          "title": "Show HN: Claumon – forecasting Claude Code usage limits with a Gamma process",
+          "url": "https://github.com/fabioconcina/claumon",
           "source": "Hacker News",
-          "publishedAt": "2026-06-10T12:37:02.000Z",
+          "publishedAt": "2026-06-11T11:05:55.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 5
+            "upvotes": 5,
+            "comments": 0
           },
-          "rawTextSnippet": "Show HN: RiskKernel, kill -9 an AI agent and resume it without paying twice",
+          "rawTextSnippet": "Anthropic&#x27;s usage analytics dashboard is only available to Team and Enterprise org admins. On a Pro or Max plan all you get is &#x2F;usage and the claude.ai usage page, which show where you stand right now but not where you&#x27;re heading. I looked at various open-source projects but none quit…",
           "hnMeta": {
-            "points": 2,
-            "comments": 5,
-            "hnUrl": "https://news.ycombinator.com/item?id=48475381"
+            "points": 5,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48488753"
           },
-          "score": 64,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1781192409861-168",
+          "title": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
+          "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-11T09:57:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48488304"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1781192406704-86",
+          "title": "DoorDash&#8217;s new AI chatbot lets you order with prompts and photos",
+          "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-11T14:23:43.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Agents & Automation"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1781103469108-16",
-          "title": "Security scanners for AI agent skills agree no better than chance",
-          "url": "https://trymastro.com/study",
+          "id": "hn-1781192404253-10",
+          "title": "Show HN: In-browser LLM token counter and cost estimation",
+          "url": "https://holaclaw.ai/tools/token-studio",
           "source": "Hacker News",
-          "publishedAt": "2026-06-10T14:45:25.000Z",
+          "publishedAt": "2026-06-11T15:37:32.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Security scanners for AI agent skills agree no better than chance",
+          "rawTextSnippet": "Show HN: In-browser LLM token counter and cost estimation",
           "hnMeta": {
-            "points": 2,
+            "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48477095"
+            "hnUrl": "https://news.ycombinator.com/item?id=48491836"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        }
+      ]
+    },
+    {
+      "name": "AI Agents & Automation",
+      "itemCount": 26,
+      "trendScore": 182,
+      "whyTrending": "26 stories across Hacker, arXiv, DeepMind, 22 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Agent Bondage – Agent Security Stack",
+        "url": "https://learntoprompt.org/guides/agent-stack.html"
+      },
+      "items": [
+        {
+          "id": "hn-1781192407022-117",
+          "title": "Show HN: Agent Bondage – Agent Security Stack",
+          "url": "https://learntoprompt.org/guides/agent-stack.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-11T13:03:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Agent Bondage – Agent Security Stack",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48489789"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -626,21 +544,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1781103469108-17",
-          "title": "Manifesto for Agentic Teams – reorganizing engineering around AI agents",
-          "url": "https://agentic-team-manifesto.org/",
+          "id": "hn-1781192404254-23",
+          "title": "Upgrading Pilo to Support Human-in-the-Loop Browser Automation",
+          "url": "https://tabstack.ai/blog/pilo-interactive-mode",
           "source": "Hacker News",
-          "publishedAt": "2026-06-10T14:32:07.000Z",
+          "publishedAt": "2026-06-11T14:45:45.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Manifesto for Agentic Teams – reorganizing engineering around AI agents",
+          "rawTextSnippet": "Upgrading Pilo to Support Human-in-the-Loop Browser Automation",
           "hnMeta": {
-            "points": 3,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48476888"
+            "hnUrl": "https://news.ycombinator.com/item?id=48491087"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -653,21 +571,75 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1781103469108-28",
-          "title": "Lua.ex: Sandboxed Lua 5.3 on the Beam, Built for AI Agents · Lua.ex",
-          "url": "https://deflua.com/",
+          "id": "hn-1781192404254-28",
+          "title": "Unknown Is Not False: An AI Agent Pre-Execution Checklist",
+          "url": "https://discuss.huggingface.co/t/if-unsure-ask-never-guess-ai-agent-pre-execution-checklist/176632",
           "source": "Hacker News",
-          "publishedAt": "2026-06-10T13:44:54.000Z",
+          "publishedAt": "2026-06-11T14:17:42.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Unknown Is Not False: An AI Agent Pre-Execution Checklist",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48490713"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1781192407022-105",
+          "title": "Agentic-Engineering-Handbook",
+          "url": "https://github.com/keyuchen21/agentic-engineering-handbook",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-11T15:04:17.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Lua.ex: Sandboxed Lua 5.3 on the Beam, Built for AI Agents · Lua.ex",
+          "rawTextSnippet": "Agentic-Engineering-Handbook",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48476189"
+            "hnUrl": "https://news.ycombinator.com/item?id=48491343"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1781192407022-106",
+          "title": "Agent Harness Should Repair Itself",
+          "url": "https://twitter.com/akshay_pachaar/status/2064051835636498924",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-11T14:57:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Agent Harness Should Repair Itself",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48491237"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -682,105 +654,65 @@
       ]
     },
     {
-      "name": "Funding & Acquisitions",
-      "itemCount": 13,
-      "trendScore": 141,
-      "whyTrending": "13 stories across TechCrunch, MIT, arXiv, 6 in the last 24h.",
+      "name": "AI Safety & Regulation",
+      "itemCount": 15,
+      "trendScore": 138,
+      "whyTrending": "15 stories across MIT, TechCrunch, arXiv, 10 in the last 24h.",
       "topStory": {
-        "title": "The three hard-tech moonshots fueling SpaceX&#8217;s unbelievable IPO",
-        "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/"
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
       },
       "items": [
         {
-          "id": "rss-1781103471666-89",
-          "title": "The three hard-tech moonshots fueling SpaceX&#8217;s unbelievable IPO",
-          "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-10T14:48:01.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1781103471666-90",
-          "title": "Warner Music acquires AI attribution startup Sureel AI",
-          "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-10T14:31:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1781103468938-0",
-          "title": "The Download: the “steroid olympics&#8221; and a safer Mythos",
-          "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+          "id": "rss-1781192404026-1",
+          "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+          "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-06-10T12:10:00.000Z",
+          "publishedAt": "2026-06-11T11:00:45.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parki…",
-          "score": 66,
+          "rawTextSnippet": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without…",
+          "score": 69,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 18,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 6
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1781103471666-91",
-          "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-          "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+          "id": "rss-1781192406704-89",
+          "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+          "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-10T13:33:09.000Z",
+          "publishedAt": "2026-06-10T22:31:19.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-          "score": 64,
+          "rawTextSnippet": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 6
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1781103471666-95",
-          "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-          "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+          "id": "rss-1781192406704-90",
+          "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+          "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-09T23:17:51.000Z",
+          "publishedAt": "2026-06-10T20:19:31.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+          "rawTextSnippet": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
           "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
@@ -789,226 +721,288 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
-        }
-      ]
-    },
-    {
-      "name": "AI Safety & Regulation",
-      "itemCount": 10,
-      "trendScore": 112,
-      "whyTrending": "10 stories across Hacker, OpenAI, arXiv, 3 in the last 24h.",
-      "topStory": {
-        "title": "SoftBank Attempt to Get $6B OpenAI Margin Loan Stalls",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-10/softbank-s-attempt-to-get-6-billion-openai-margin-loan-stalls"
-      },
-      "items": [
-        {
-          "id": "hn-1781103473334-143",
-          "title": "SoftBank Attempt to Get $6B OpenAI Margin Loan Stalls",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-10/softbank-s-attempt-to-get-6-billion-openai-margin-loan-stalls",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-10T12:12:52.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 0
-          },
-          "rawTextSnippet": "SoftBank Attempt to Get $6B OpenAI Margin Loan Stalls",
-          "hnMeta": {
-            "points": 5,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48475116"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1781103476094-196",
-          "title": "How and Why to Fight Back Against Social Media Bans",
-          "url": "https://www.eff.org/deeplinks/2026/06/how-and-why-fight-back-against-social-media-bans",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-10T14:43:14.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "How and Why to Fight Back Against Social Media Bans",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48477058"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "rss-1781103473309-126",
-          "title": "Industrial policy for the Intelligence Age",
-          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-06-09T00:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-          "score": 53,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "arxiv-1781103469393-39",
-          "title": "Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models",
-          "url": "https://arxiv.org/abs/2606.11167v1",
+          "id": "arxiv-1781192404538-32",
+          "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+          "url": "https://arxiv.org/abs/2606.12406v1",
           "source": "arXiv",
-          "publishedAt": "2026-06-09T17:46:55.000Z",
+          "publishedAt": "2026-06-10T17:59:35.000Z",
           "scoreSignals": {
             "sourceAuthority": 15
           },
-          "rawTextSnippet": "Full-duplex spoken dialogue models can listen and speak simultaneously, making them a promising architecture for natural conversation. However, current models are trained solely with supervised learning through token-level likelihood maximization, which does not directly optimize interaction-level b…",
+          "rawTextSnippet": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1…",
           "arxivMeta": {
-            "authors": "Atsumoto Ohashi, Neil Zeghidour, Alexandre Défossez, Eugene Kharitonov",
+            "authors": "Steven Oh, Jason Jingzhou Liu, Tony Tao, Philip Han, Kenneth Shaw, Satoshi Funabashi, Ruslan Salakhutdinov, Deepak Pathak",
             "categories": [
               "cs.AI",
               "cs.CL",
               "stat.ML"
             ]
           },
-          "score": 52,
+          "score": 55,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 15,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1781103473309-128",
-          "title": "Built to benefit everyone: our plan",
-          "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-06-08T01:30:00.000Z",
+          "id": "arxiv-1781192404539-45",
+          "title": "Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics",
+          "url": "https://arxiv.org/abs/2606.12365v1",
+          "source": "arXiv",
+          "publishedAt": "2026-06-10T17:34:12.000Z",
           "scoreSignals": {
-            "sourceAuthority": 20
+            "sourceAuthority": 15
           },
-          "rawTextSnippet": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-          "score": 43,
+          "rawTextSnippet": "We propose Ambient Diffusion Policy, a simple and principled method for imitation learning from suboptimal data in robotics. High-quality, task-specific robot data is expensive and time-consuming to collect, while suboptimal datasets with lower-quality or out-of-distribution demonstrations are abund…",
+          "arxivMeta": {
+            "authors": "Adam Wei, Nicholas Pfaff, Thomas Cohn, Arif Kerem Dayı, Constantinos Daskalakis, Giannis Daras, Russ Tedrake",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 55,
           "scoreBreakdown": {
-            "freshness": 8,
-            "authority": 20,
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
+    },
+    {
+      "name": "Research & Benchmarks",
+      "itemCount": 11,
+      "trendScore": 134,
+      "whyTrending": "11 stories across Hacker, TechCrunch, arXiv, 10 in the last 24h.",
+      "topStory": {
+        "title": "I procrastinate by building tools to stop me from procrastinating: A sad story",
+        "url": "https://news.ycombinator.com/item?id=48489109"
+      },
+      "items": [
+        {
+          "id": "hn-1781192405653-80",
+          "title": "I procrastinate by building tools to stop me from procrastinating: A sad story",
+          "url": "https://news.ycombinator.com/item?id=48489109",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-11T11:51:23.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 5
+          },
+          "rawTextSnippet": "Hello, fellow overstimulated kids I don&#x27;t know if it&#x27;s something of my generation, my worsening ADHD or just laziness, but whenever I sit down and start studying something, magically, I find myself researching the most random shit ever. Need to do at least 1 hour of Game Theory? Best I can…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 5,
+            "hnUrl": "https://news.ycombinator.com/item?id=48489109"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1781192404254-12",
+          "title": "First Steps Toward Automated AI Research",
+          "url": "https://www.recursive.com/articles/first-steps-toward-automated-ai-research",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-11T15:21:48.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "First Steps Toward Automated AI Research",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48491593"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1781192409861-167",
+          "title": "Anthropic's AI Jobs Paper",
+          "url": "https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-11T10:17:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic's AI Jobs Paper",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48488424"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "rss-1781192406704-93",
+          "title": "Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&#8217;s Fable",
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-10T15:41:22.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+          "score": 56,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1781192409861-173",
+          "title": "AI researcher claims he's bypassed Anthropic's Fable 5 guardrails",
+          "url": "https://cointelegraph.com/news/researcher-claims-hes-already-jailbroken-anthropics-guardrailed-claude-fable-5",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-11T06:19:15.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "AI researcher claims he's bypassed Anthropic's Fable 5 guardrails",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48486846"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1781103477463-212",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-08T19:14:47.000Z",
+      "id": "rss-1781192404026-2",
+      "title": "Job titles of the future: Nature&#8217;s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-11T10:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 722,
-        "comments": 555
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "Apple reveals new AI architecture built around Google Gemini models",
-      "hnMeta": {
-        "points": 722,
-        "comments": 555,
-        "hnUrl": "https://news.ycombinator.com/item?id=48450142"
-      },
-      "score": 69,
+      "rawTextSnippet": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&#160; For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he…",
+      "score": 63,
       "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 25,
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Apple announced a new AI architecture utilizing Google Gemini models.  \n• Why it matters: This collaboration signifies a strategic shift in Apple's approach to artificial intelligence.  \n• Business opportunity: Companies can explore partnerships or innovations leveraging this new AI framework for enhanced applications."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Chemist Tim Cernak transitioned from Big Pharma to focus on natural drug design.  \n• Why it matters: This shift highlights the growing interest in sustainable and nature-inspired pharmaceuticals.  \n• Business opportunity: Companies can explore innovative drug development by leveraging natural compounds and biopharmaceuticals."
     },
     {
-      "id": "rss-1781103471666-90",
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T14:31:30.000Z",
+      "id": "rss-1781192408382-124",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-06-10T20:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 20
       },
-      "rawTextSnippet": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "score": 67,
+      "rawTextSnippet": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "score": 63,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
+        "freshness": 22,
+        "authority": 20,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Warner Music Group acquired AI attribution startup Sureel AI.  \n• Why it matters: This acquisition enhances WMG's ability to monitor the use of its artists' work in AI-generated content.  \n• Business opportunity: The move opens avenues for monetizing AI-related content and protecting artists' rights in the evolving digital landscape."
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: Oracle Cloud users can now access OpenAI models and Codex through their existing commitments.  \n• Why it matters: This integration enhances enterprise security and governance for AI deployments.  \n• Business opportunity: Companies can leverage advanced AI capabilities without additional costs, driving innovation and efficiency."
     },
     {
-      "id": "rss-1781103471666-91",
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T13:33:09.000Z",
+      "id": "hn-1781192405653-83",
+      "title": "Show HN: Claumon – forecasting Claude Code usage limits with a Gamma process",
+      "url": "https://github.com/fabioconcina/claumon",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-11T11:05:55.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 0
       },
-      "rawTextSnippet": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-      "score": 64,
+      "rawTextSnippet": "Anthropic&#x27;s usage analytics dashboard is only available to Team and Enterprise org admins. On a Pro or Max plan all you get is &#x2F;usage and the claude.ai usage page, which show where you stand right now but not where you&#x27;re heading. I looked at various open-source projects but none quit…",
+      "hnMeta": {
+        "points": 5,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48488753"
+      },
+      "score": 62,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Jedify secured $24M in funding to enhance AI agents with business context.  \n• Why it matters: This investment highlights the growing demand for AI solutions that understand specific business environments.  \n• Business opportunity: Companies can leverage Jedify's technology to improve AI-driven decision-making and customer interactions."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A new tool, Claumon, forecasts Claude Code usage limits using a Gamma process.  \n• Why it matters: It addresses the lack of predictive analytics for users on Pro or Max plans of Anthropic's dashboard.  \n• Business opportunity: There is potential to develop advanced analytics tools for users seeking better usage insights in AI platforms."
     },
     {
-      "id": "rss-1781103471666-92",
-      "title": "Decart&#8217;s new world model can simulate hours of photorealistic driving — with some caveats",
-      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "id": "rss-1781192406704-85",
+      "title": "Pool&#8217;s new app turns your screenshots into something useful",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T13:07:56.000Z",
+      "publishedAt": "2026-06-11T15:30:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "rawTextSnippet": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
       "score": 61,
       "scoreBreakdown": {
         "freshness": 30,
@@ -1020,21 +1014,21 @@
       "cluster": "AI Tools & Products"
     },
     {
-      "id": "hn-1781103469108-10",
-      "title": "Show HN: AuthAI, an open-source relay for user-authorized AI sessions",
-      "url": "https://github.com/authai-io/authai",
+      "id": "hn-1781192405652-71",
+      "title": "Model choice is not an authorization layer",
+      "url": "https://github.com/hugoii/llm-agent-audit/blob/master/docs/model-choice-is-not-an-authorization-layer.md",
       "source": "Hacker News",
-      "publishedAt": "2026-06-10T14:56:54.000Z",
+      "publishedAt": "2026-06-11T13:55:04.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Hello HN, My name is Riccardo and I created AuthAI for indie hackers. The idea is quite simple: let the end users connect their chatgpt&#x2F;grok&#x2F;copilot account and route the AI requests through their AI subscriptions. This enable a lot of new cool ideas where the business model&#x2F;unit econ…",
+      "rawTextSnippet": "Model choice is not an authorization layer",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48477326"
+        "hnUrl": "https://news.ycombinator.com/item?id=48490393"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1044,51 +1038,23 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models"
+      "cluster": "General AI"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1781103469394-58",
-      "title": "Unifying Local Communications and Local Updates for LLM Pretraining",
-      "url": "https://arxiv.org/abs/2606.11081v1",
+      "id": "arxiv-1781192404538-32",
+      "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+      "url": "https://arxiv.org/abs/2606.12406v1",
       "source": "arXiv",
-      "publishedAt": "2026-06-09T16:40:54.000Z",
+      "publishedAt": "2026-06-10T17:59:35.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Communication-efficient pre-training of LLMs is increasingly important as training draws on compute distributed across clusters, data centers, and lower-bandwidth links. Many practical methods reduce communication frequency but still rely on synchronous All-Reduce operations that maintain identical …",
+      "rawTextSnippet": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1…",
       "arxivMeta": {
-        "authors": "Pietro Cagnasso, Eugene Belilovsky, Edouard Oyallon",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 58,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1781103469393-43",
-      "title": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
-      "url": "https://arxiv.org/abs/2606.11150v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-09T17:35:37.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Large language models (LLMs) are rapidly acquiring capabilities relevant to biological research, from literature synthesis to interpretation of experimental data. Increasingly, LLM agents can also perform in silico biology tasks that previously required experienced human biologists. These emerging A…",
-      "arxivMeta": {
-        "authors": "Andrew Bo Liu, Samira Nedungadi, Bryce Cai, Alex Kleinman, Harmon Bhasin, Seth Donoughe",
+        "authors": "Steven Oh, Jason Jingzhou Liu, Tony Tao, Philip Han, Kenneth Shaw, Satoshi Funabashi, Ruslan Salakhutdinov, Deepak Pathak",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1103,20 +1069,20 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Large Language Models"
+      "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1781103469394-47",
-      "title": "Monte Carlo Pass Search: Using Trajectory Generation for 3D Counterfactual Pass Evaluation in Football",
-      "url": "https://arxiv.org/abs/2606.11120v1",
+      "id": "arxiv-1781192404538-40",
+      "title": "APPO: Agentic Procedural Policy Optimization",
+      "url": "https://arxiv.org/abs/2606.12384v1",
       "source": "arXiv",
-      "publishedAt": "2026-06-09T17:16:30.000Z",
+      "publishedAt": "2026-06-10T17:47:07.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "We recast pass evaluation in football (soccer) as a Monte Carlo Tree Search (MCTS)-like evaluation problem whose components mostly exist in the literature under different names: a value model (possession value), a world model (multi-agent trajectories with ball interactions), and a policy over count…",
+      "rawTextSnippet": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit over coarse heuristic units, such as tool-call boundaries or fixed workflows, making it difficult to id…",
       "arxivMeta": {
-        "authors": "Andrew Kang, Priya Narasimhan",
+        "authors": "Xucong Wang, Ziyu Ma, Yong Wang, Yuxiang Ji, Shidong Yang, Guanhua Chen, Pengkun Wang, Xiangxiang Chu",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1134,17 +1100,73 @@
       "cluster": "AI Agents & Automation"
     },
     {
-      "id": "arxiv-1781103469394-48",
-      "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.11119v1",
+      "id": "arxiv-1781192404539-45",
+      "title": "Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics",
+      "url": "https://arxiv.org/abs/2606.12365v1",
       "source": "arXiv",
-      "publishedAt": "2026-06-09T17:16:03.000Z",
+      "publishedAt": "2026-06-10T17:34:12.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is often limited by insufficient reward contrast, arising when overly simple or complex prompts generate…",
+      "rawTextSnippet": "We propose Ambient Diffusion Policy, a simple and principled method for imitation learning from suboptimal data in robotics. High-quality, task-specific robot data is expensive and time-consuming to collect, while suboptimal datasets with lower-quality or out-of-distribution demonstrations are abund…",
       "arxivMeta": {
-        "authors": "Heming Zou, Qi Wang, Yun Qu, Yuhang Jiang, Lizhou Cai, Yixiu Mao, Ru Peng, Xin Xu, Weijie Liu, Kai Yang, Saiyong Yang, Xiangyang Ji",
+        "authors": "Adam Wei, Nicholas Pfaff, Thomas Cohn, Arif Kerem Dayı, Constantinos Daskalakis, Giannis Daras, Russ Tedrake",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1781192404539-47",
+      "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy",
+      "url": "https://arxiv.org/abs/2606.12352v1",
+      "source": "arXiv",
+      "publishedAt": "2026-06-10T17:26:08.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Multi-robot collaboration allows robots to efficiently take on a wide range of tasks, from moving a couch through a doorway to assembling structures on a construction site. However, achieving such coordination in mobile multi-robot settings remains challenging: centralized methods conditioned on the…",
+      "arxivMeta": {
+        "authors": "Ria Doshi, Tian Gao, Annie Chen, Chelsea Finn, Jeannette Bohg",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1781192404539-50",
+      "title": "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
+      "url": "https://arxiv.org/abs/2606.12344v1",
+      "source": "arXiv",
+      "publishedAt": "2026-06-10T17:16:23.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "General-purpose agents such as OpenClaw are increasingly used as autonomous tool users, but their coding ability is difficult to measure under SWE-bench: a generic agent does not by itself satisfy the clean Docker workspace, patch, and prediction contract required for scoring. We introduce Claw-SWE-…",
+      "arxivMeta": {
+        "authors": "Mengyu Zheng, Kai Han, Boxun Li, Haiyang Xu, Yuchuan Tian, Wei He, Hang Zhou, Jianyuan Guo, Hailin Hu, Lin Ma, Chao Xu, Guohao Dai, Lixue Xia, Yunchao Wei, Yunhe Wang, Yu Wang",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1160,140 +1182,126 @@
         "businessImpact": 3
       },
       "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1781103469393-34",
-      "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
-      "url": "https://arxiv.org/abs/2606.11189v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-09T17:59:54.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. Strictly fitting toward this one-hot target may be suboptimal, especially when the pretrained model en…",
-      "arxivMeta": {
-        "authors": "Tong Xie, Yuanhao Ban, Yunqi Hong, Sohyun An, Yihang Chen, Cho-Jui Hsieh",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Research & Benchmarks"
     }
   ],
   "funding": [
     {
-      "id": "rss-1781103471666-89",
-      "title": "The three hard-tech moonshots fueling SpaceX&#8217;s unbelievable IPO",
-      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T14:48:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: SpaceX's IPO is largely driven by its plans for ambitious space data centers.  \n• Why it matters: This strategy positions SpaceX as a leader in the emerging space data market.  \n• Business opportunity: Investors can capitalize on the growth potential of space-based data services."
-    },
-    {
-      "id": "rss-1781103471666-90",
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T14:31:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Warner Music Group acquired AI attribution startup Sureel AI.  \n• Why it matters: This acquisition enhances WMG's ability to monitor the use of its artists' work in AI-generated content.  \n• Business opportunity: There is potential for new revenue streams through licensing and protecting artists' rights in the evolving AI landscape."
-    },
-    {
-      "id": "rss-1781103468938-0",
-      "title": "The Download: the “steroid olympics&#8221; and a safer Mythos",
-      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "id": "rss-1781192404026-1",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-06-10T12:10:00.000Z",
+      "publishedAt": "2026-06-11T11:00:45.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parki…",
-      "score": 66,
+      "rawTextSnippet": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without…",
+      "score": 69,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 18,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A recent event dubbed the “steroid olympics” showcased extreme athleticism in a high-stakes environment.  \n• Why it matters: This spectacle reflects cultural attitudes towards performance enhancement and competition in sports.  \n• Business opportunity: There is potential for innovative health and performance monitoring technologies targeting athletes and fitness enthusiasts."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Google DeepMind is funding research on the risks of millions of AI agents interacting online.  \n• Why it matters: Understanding these interactions is crucial for ensuring safety and alignment in AI systems.  \n• Business opportunity: Companies can develop solutions to manage and regulate AI interactions, enhancing safety protocols."
     },
     {
-      "id": "rss-1781103471666-91",
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "id": "rss-1781192406704-89",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T13:33:09.000Z",
+      "publishedAt": "2026-06-10T22:31:19.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1781103471666-95",
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T23:17:51.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-      "score": 56,
+      "rawTextSnippet": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "score": 59,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A former xAI engineer claims he was fired for voicing AI safety concerns about Grok before SpaceX's IPO.  \n• Why it matters: The lawsuit highlights potential ethical issues and risks associated with AI development and corporate governance.  \n• Business opportunity: Companies can enhance their AI safety protocols and transparency to build trust and mitigate legal risks."
+    },
+    {
+      "id": "hn-1781192404254-13",
+      "title": "I robotics company Theker raises $85M from investors including LVMH",
+      "url": "https://www.reuters.com/business/ai-robotics-company-theker-raises-85-million-investors-including-lvmh-2026-06-11/",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-11T15:10:05.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "I robotics company Theker raises $85M from investors including LVMH",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48491433"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Robotics company Theker secured $85 million in funding from investors, including LVMH.  \n• Why it matters: This investment highlights growing interest in robotics and automation technologies.  \n• Business opportunity: Companies can explore partnerships or innovations in robotics to enhance efficiency and product offerings."
+    },
+    {
+      "id": "hn-1781192408444-161",
+      "title": "Following acquisition by OpenAI, Tart is still proprietary software",
+      "url": "https://github.com/openai/tart/pull/1238",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-10T17:33:22.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "Following acquisition by OpenAI, Tart is still proprietary software",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48479747"
+      },
+      "score": 54,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions"
+    },
+    {
+      "id": "rss-1781192409940-179",
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "source": "DeepMind Blog",
+      "publishedAt": "2026-06-10T10:21:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "score": 53,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation"
     }
   ],
-  "dailyBrief": "Today’s AI landscape is buzzing with significant developments. Anthropic's Claude Fable 5 has garnered attention for its advanced capabilities, potentially reshaping competitive dynamics in AI. Meanwhile, Apple has unveiled a new AI architecture leveraging Google’s Gemini models, signaling a strategic pivot that could enhance its product offerings and market position. In the aerospace sector, SpaceX is reportedly focusing on three hard-tech moonshots that could drive its upcoming IPO, highlighting the intersection of AI and innovation in high-stakes industries. Additionally, Warner Music's acquisition of AI attribution startup Sureel AI underscores the growing importance of AI in the music industry for data-driven decision-making. However, a recent report warns that even a minimal €0.01 bank transfer could pose risks to banking AI agents, raising concerns about security in financial applications."
+  "dailyBrief": "OpenAI is reportedly considering significant price cuts to remain competitive against Anthropic, as both companies vie for a larger share of the AI user base. This potential shift in pricing strategy could reshape market dynamics, particularly as Anthropic recently retracted a controversial policy that could have hindered researchers' access to its Claude AI. Meanwhile, Google DeepMind is expressing concerns about the implications of millions of AI agents interacting, highlighting the need for robust frameworks to manage such complexities. As these developments unfold, businesses should prepare for a rapidly evolving landscape that could affect their AI adoption strategies and operational costs."
 }
