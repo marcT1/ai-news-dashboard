@@ -1,49 +1,21 @@
 {
   "topNews": [
     {
-      "id": "hn-1782146436882-121",
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "url": "https://github.com/openai/codex/issues/28224",
+      "id": "hn-1782225098267-77",
+      "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
+      "url": "https://arxiv.org/abs/2309.12288",
       "source": "Hacker News",
-      "publishedAt": "2026-06-22T07:30:17.000Z",
+      "publishedAt": "2026-06-23T11:07:05.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 324,
-        "comments": 180
+        "upvotes": 21,
+        "comments": 33
       },
-      "rawTextSnippet": "Codex logging bug may write TBs to local SSDs",
+      "rawTextSnippet": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
       "hnMeta": {
-        "points": 324,
-        "comments": 180,
-        "hnUrl": "https://news.ycombinator.com/item?id=48626930"
-      },
-      "score": 75,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A bug in Codex may cause excessive data logging, potentially writing terabytes to local SSDs.  \n• Why it matters: This issue could lead to significant storage costs and performance degradation for users.  \n• Business opportunity: Companies can develop solutions to monitor and manage data logging to prevent excessive storage use."
-    },
-    {
-      "id": "hn-1782146433930-57",
-      "title": "LLMs do not merely reflect the bias of their training, they police it (2025)",
-      "url": "https://twitter.com/brianroemmele/status/1991714955339657384",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-22T10:50:46.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 29,
-        "comments": 16
-      },
-      "rawTextSnippet": "LLMs do not merely reflect the bias of their training, they police it (2025)",
-      "hnMeta": {
-        "points": 29,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48628450"
+        "points": 21,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48643184"
       },
       "score": 69,
       "scoreBreakdown": {
@@ -54,46 +26,18 @@
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Research reveals that large language models (LLMs) actively manage and mitigate biases in their outputs.  \n• Why it matters: Understanding LLMs' bias policing capabilities can enhance their ethical deployment in various applications.  \n• Business opportunity: Companies can leverage this insight to develop more responsible AI solutions, improving trust and user engagement."
+      "summary": "• What happened: LLMs struggle to understand reverse relationships, failing to learn \"B is A\" from \"A is B.\"  \n• Why it matters: This limitation affects the accuracy and reliability of AI models in various applications.  \n• Business opportunity: Companies can innovate solutions to enhance LLM training methods, improving their understanding of relational concepts."
     },
     {
-      "id": "hn-1782146432495-21",
-      "title": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
-      "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:56:27.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 12,
-        "comments": 1
-      },
-      "rawTextSnippet": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
-      "hnMeta": {
-        "points": 12,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631982"
-      },
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: SpaceX has signed a computing power deal with AI startup Reflection valued at up to $6.3 billion.  \n• Why it matters: This partnership highlights the growing intersection of aerospace and artificial intelligence technologies.  \n• Business opportunity: Companies in AI and aerospace can explore collaborations to leverage advanced computing capabilities for innovative solutions."
-    },
-    {
-      "id": "rss-1782146432247-0",
-      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "id": "rss-1782225096779-0",
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-06-22T12:10:00.000Z",
+      "publishedAt": "2026-06-23T12:10:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It…",
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a…",
       "score": 66,
       "scoreBreakdown": {
         "freshness": 30,
@@ -102,25 +46,46 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Record-breaking subsea tunnels and flexible data centers are being developed.  \n• Why it matters: These innovations enhance infrastructure resilience and connectivity in challenging environments.  \n• Business opportunity: Companies can invest in subsea technology and data center solutions to meet growing demand for reliable digital infrastructure."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: ASML unveiled a $400 million machine that will revolutionize chipmaking.  \n• Why it matters: This advancement is crucial for the semiconductor industry, impacting technology development globally.  \n• Business opportunity: Companies can invest in or partner with ASML to leverage cutting-edge chip manufacturing capabilities."
     },
     {
-      "id": "hn-1782146433930-44",
-      "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
-      "url": "https://github.com/Intuned/selector-forge",
+      "id": "rss-1782225099554-92",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-23T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Fika Jobs secured $4M to develop a video-first hiring platform utilizing AI interview agents.  \n• Why it matters: This innovative approach could streamline the hiring process and enhance candidate engagement.  \n• Business opportunity: There is potential for growth in the recruitment tech sector by integrating AI and video content."
+    },
+    {
+      "id": "hn-1782225096871-21",
+      "title": "Ask HN: Am I missing something with AI",
+      "url": "https://news.ycombinator.com/item?id=48645072",
       "source": "Hacker News",
-      "publishedAt": "2026-06-22T14:21:24.000Z",
+      "publishedAt": "2026-06-23T13:57:23.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 14,
-        "comments": 0
+        "upvotes": 3,
+        "comments": 5
       },
-      "rawTextSnippet": "Hi HN, I&#x27;m Ahmad from the Intuned ( https:&#x2F;&#x2F;intunedhq.com ) team. Today, we&#x27;re releasing and open-sourcing Selector Forge ( https:&#x2F;&#x2F;selectorforge.ai&#x2F; ), a browser extension that generates reliable CSS&#x2F;XPath selectors using AI. You can use it to create a select…",
+      "rawTextSnippet": "I constantly hear developers around me talk about how AI has completely changed their life and how they don&#x27;t even program anymore, they just prompt. But any time I&#x27;ve used it, the output has always been off. And when the output is off I have to go and read through everything, learn how it…",
       "hnMeta": {
-        "points": 14,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48630515"
+        "points": 3,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48645072"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -130,53 +95,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Generative AI & Media",
-      "summary": "• What happened: Selector Forge, an AI-powered browser extension for generating resilient CSS/XPath selectors, has been released and open-sourced.  \n• Why it matters: This tool enhances web development efficiency by automating the creation of reliable selectors, reducing manual coding errors.  \n• Business opportunity: Companies can leverage this technology to streamline their web development processes and improve product quality."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: A developer expressed frustration on Hacker News about AI's inconsistent output compared to peers' experiences.  \n• Why it matters: This highlights a gap in AI effectiveness and user satisfaction, impacting its adoption among developers.  \n• Business opportunity: There is potential for tools that enhance AI accuracy and user control, improving developer experiences."
     },
     {
-      "id": "hn-1782146435391-91",
-      "title": "Show HN: PMB – local-first memory for AI coding agents over MCP",
-      "url": "https://github.com/oleksiijko/pmb/blob/main/README.md",
+      "id": "hn-1782225099722-120",
+      "title": "Agents Make Engineering Hard Again",
+      "url": "https://ninjapenguin.co.uk/blog/2026/06/19/agents-make-engineering-hard-again/",
       "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:03:20.000Z",
+      "publishedAt": "2026-06-23T12:16:03.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 6
+        "upvotes": 7,
+        "comments": 2
       },
-      "rawTextSnippet": "How it works: - Storage uses one SQLite database file, plus a local LanceDB index of vectors. No need for a server, cloud services, or any API keys. - Retrieval is a hybrid approach using BM25 (rank-bm25) and vector-based search (sentence-transformers) combined with a co-occurrence graph of entities…",
+      "rawTextSnippet": "Agents Make Engineering Hard Again",
       "hnMeta": {
-        "points": 6,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631169"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: PMB introduces a local-first memory solution for AI coding agents, utilizing SQLite and LanceDB for storage and retrieval.  \n• Why it matters: This approach eliminates reliance on servers and cloud services, enhancing privacy and accessibility for developers.  \n• Business opportunity: Companies can leverage this technology to create more efficient, secure AI coding tools that operate offline."
-    },
-    {
-      "id": "hn-1782146435391-93",
-      "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
-      "url": "https://github.com/0xroylee/ponytrail",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-22T14:54:59.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 21,
-        "comments": 9
-      },
-      "rawTextSnippet": "I built Ponytrail, a local audit trail for AI coding-agent edits",
-      "hnMeta": {
-        "points": 21,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631043"
+        "points": 7,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48643807"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -187,45 +124,66 @@
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new tool called Ponytrail was developed to create a local audit trail for edits made by AI coding agents.  \n• Why it matters: This innovation enhances transparency and accountability in AI-assisted coding processes.  \n• Business opportunity: There is potential for businesses to adopt Ponytrail to improve compliance and trust in AI technologies."
+      "summary": "• What happened: Recent discussions highlight challenges in engineering due to the rise of AI agents.  \n• Why it matters: These challenges may complicate workflows and productivity in tech industries.  \n• Business opportunity: Companies can innovate solutions to streamline engineering processes and enhance collaboration with AI tools."
     },
     {
-      "id": "rss-1782146432248-1",
-      "title": "Inside the world’s deepest and longest subsea road tunnel",
-      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "id": "rss-1782225096779-1",
+      "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+      "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-06-22T08:00:00.000Z",
+      "publishedAt": "2026-06-23T09:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov…",
-      "score": 62,
+      "rawTextSnippet": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been …",
+      "score": 63,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 18,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A detailed exploration of the world's deepest and longest subsea road tunnel was published.  \n• Why it matters: This tunnel represents significant engineering advancements and challenges in infrastructure development.  \n• Business opportunity: Companies can invest in innovative construction technologies and maintenance solutions for subsea infrastructure projects."
+      "cluster": "General AI",
+      "summary": "• What happened: AI warning systems are being developed to prevent deadly clashes between humans and elephants in India.  \n• Why it matters: With 60% of the world's wild Asian elephants in India, reducing conflicts is crucial for both wildlife conservation and human safety.  \n• Business opportunity: There is potential for tech companies to innovate and provide AI solutions for wildlife management and conflict prevention."
     },
     {
-      "id": "hn-1782146432495-24",
-      "title": "Township Leaders Vow to Fight Nuclear AI Data Center",
-      "url": "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
+      "id": "rss-1782225099554-100",
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-22T16:51:29.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: SpaceX signed a $150 million monthly deal with Reflection AI for access to Nvidia's GB300 AI chips.  \n• Why it matters: This partnership enhances SpaceX's capabilities in AI and data processing, positioning it as a leader in the tech space.  \n• Business opportunity: Companies can explore collaborations in AI hardware and software development leveraging SpaceX's advanced infrastructure."
+    },
+    {
+      "id": "hn-1782225096871-25",
+      "title": "Free EU AI Act Article 50 compliance checker for indie SaaS",
+      "url": "https://aiact.bridgeai.one/",
       "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:45:03.000Z",
+      "publishedAt": "2026-06-23T13:53:46.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Township Leaders Vow to Fight Nuclear AI Data Center",
+      "rawTextSnippet": "Free EU AI Act Article 50 compliance checker for indie SaaS",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631829"
+        "hnUrl": "https://news.ycombinator.com/item?id=48645030"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -235,25 +193,25 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Township leaders are opposing the establishment of a nuclear-powered AI data center.  \n• Why it matters: This resistance highlights community concerns over safety and environmental impacts of advanced technology.  \n• Business opportunity: Companies can explore alternative energy solutions and community engagement strategies to address local concerns."
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: A free compliance checker for Article 50 of the EU AI Act has been launched for independent SaaS companies.  \n• Why it matters: This tool helps indie SaaS businesses ensure they meet regulatory requirements, reducing legal risks.  \n• Business opportunity: Developers can leverage this checker to enhance their offerings and attract compliance-focused clients."
     },
     {
-      "id": "hn-1782146432495-27",
-      "title": "Show HN: FastUbu – An Ultrafast Video Archive",
-      "url": "https://fastubu.com/",
+      "id": "hn-1782225101110-125",
+      "title": "See How Sam Altman's Personal Investments Benefit from Ties to OpenAI",
+      "url": "https://www.wsj.com/tech/ai/see-how-sam-altmans-personal-investments-benefit-from-ties-to-openai-9fcb24c9",
       "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:34:34.000Z",
+      "publishedAt": "2026-06-23T09:44:05.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 3,
         "comments": 0
       },
-      "rawTextSnippet": "Ubu is a 30 year old archive of strange films you&#x27;d usually only see in museums. I felt it was a perfect candidate for modern Midjourney-like performance. Really enjoyed using Cheng Lou&#x27;s pretext and masonry pattern. AI indexing, transcription, and video processing via my startup Kino&#x27…",
+      "rawTextSnippet": "See How Sam Altman's Personal Investments Benefit from Ties to OpenAI",
       "hnMeta": {
         "points": 3,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631681"
+        "hnUrl": "https://news.ycombinator.com/item?id=48642542"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -263,105 +221,72 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Generative AI & Media",
-      "summary": "• What happened: A new project, FastUbu, modernizes a 30-year-old archive of unusual films using advanced AI technologies.  \n• Why it matters: This initiative enhances accessibility and engagement with niche cultural content that typically remains in museums.  \n• Business opportunity: There is potential for monetizing unique digital archives through subscription models or partnerships with educational institutions."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Sam Altman's personal investments are reportedly profiting due to his connections with OpenAI.  \n• Why it matters: This highlights potential conflicts of interest and the influence of AI on investment strategies.  \n• Business opportunity: Investors could explore AI-related ventures that leverage similar ties to established tech companies."
+    },
+    {
+      "id": "rss-1782225096779-2",
+      "title": "The $400 million machine powering the future of chipmaking",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-23T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the …",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 10,
+        "businessImpact": 3
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: A new $400 million machine has been developed to enhance chipmaking processes.  \n• Why it matters: This innovation could significantly improve the efficiency and capabilities of semiconductor manufacturing.  \n• Business opportunity: Companies in the semiconductor industry can leverage this technology to boost production and meet rising demand."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 64,
+      "itemCount": 61,
       "trendScore": 201,
-      "whyTrending": "64 stories across Hacker, MIT, TechCrunch, 26 in the last 24h.",
+      "whyTrending": "61 stories across MIT, TechCrunch, Hacker, 32 in the last 24h.",
       "topStory": {
-        "title": "Codex logging bug may write TBs to local SSDs",
-        "url": "https://github.com/openai/codex/issues/28224"
+        "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+        "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/"
       },
       "items": [
         {
-          "id": "hn-1782146436882-121",
-          "title": "Codex logging bug may write TBs to local SSDs",
-          "url": "https://github.com/openai/codex/issues/28224",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-22T07:30:17.000Z",
+          "id": "rss-1782225096779-1",
+          "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+          "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-23T09:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 324,
-            "comments": 180
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "Codex logging bug may write TBs to local SSDs",
-          "hnMeta": {
-            "points": 324,
-            "comments": 180,
-            "hnUrl": "https://news.ycombinator.com/item?id=48626930"
-          },
-          "score": 75,
+          "rawTextSnippet": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been …",
+          "score": 63,
           "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 20,
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "rss-1782146432247-0",
-          "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-          "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-06-22T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It…",
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1782146432495-24",
-          "title": "Township Leaders Vow to Fight Nuclear AI Data Center",
-          "url": "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-22T15:45:03.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Township Leaders Vow to Fight Nuclear AI Data Center",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631829"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1782146434980-61",
-          "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-          "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+          "id": "rss-1782225099554-91",
+          "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+          "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-22T14:00:00.000Z",
+          "publishedAt": "2026-06-23T14:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+          "rawTextSnippet": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
           "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
@@ -373,27 +298,81 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1782146438358-155",
-          "title": "Anthropic to require age verification via Persona",
-          "url": "https://web.archive.org/web/20260415064244/https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "id": "hn-1782225096871-12",
+          "title": "Anthropic – Elevated error rate across multiple models",
+          "url": "https://downdetector.com.br/en/status/claude-ai/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T10:27:12.000Z",
+          "publishedAt": "2026-06-23T14:26:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 2
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Anthropic to require age verification via Persona",
+          "rawTextSnippet": "Anthropic – Elevated error rate across multiple models",
           "hnMeta": {
-            "points": 7,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=48628264"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48645481"
           },
-          "score": 60,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1782225096871-14",
+          "title": "Meta Glasses",
+          "url": "https://www.meta.com/at/en/ai-glasses/meta-glasses/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-23T14:23:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Meta Glasses",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48645424"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1782225096871-15",
+          "title": "The AI-powered World Cup runs on thousands of data workers",
+          "url": "https://restofworld.org/2026/fifa-world-cup-ai-data-workers/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-23T14:17:56.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "The AI-powered World Cup runs on thousands of data workers",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48645364"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
@@ -403,30 +382,30 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 32,
-      "trendScore": 163,
-      "whyTrending": "32 stories across Hacker, OpenAI, GitHub, 10 in the last 24h.",
+      "itemCount": 47,
+      "trendScore": 195,
+      "whyTrending": "47 stories across Hacker, arXiv, OpenAI, 29 in the last 24h.",
       "topStory": {
-        "title": "LLMs do not merely reflect the bias of their training, they police it (2025)",
-        "url": "https://twitter.com/brianroemmele/status/1991714955339657384"
+        "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
+        "url": "https://arxiv.org/abs/2309.12288"
       },
       "items": [
         {
-          "id": "hn-1782146433930-57",
-          "title": "LLMs do not merely reflect the bias of their training, they police it (2025)",
-          "url": "https://twitter.com/brianroemmele/status/1991714955339657384",
+          "id": "hn-1782225098267-77",
+          "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
+          "url": "https://arxiv.org/abs/2309.12288",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T10:50:46.000Z",
+          "publishedAt": "2026-06-23T11:07:05.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 29,
-            "comments": 16
+            "upvotes": 21,
+            "comments": 33
           },
-          "rawTextSnippet": "LLMs do not merely reflect the bias of their training, they police it (2025)",
+          "rawTextSnippet": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
           "hnMeta": {
-            "points": 29,
-            "comments": 16,
-            "hnUrl": "https://news.ycombinator.com/item?id=48628450"
+            "points": 21,
+            "comments": 33,
+            "hnUrl": "https://news.ycombinator.com/item?id=48643184"
           },
           "score": 69,
           "scoreBreakdown": {
@@ -439,68 +418,21 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1782146435391-91",
-          "title": "Show HN: PMB – local-first memory for AI coding agents over MCP",
-          "url": "https://github.com/oleksiijko/pmb/blob/main/README.md",
+          "id": "hn-1782225096871-27",
+          "title": "LiteLLM Migrates to Rust",
+          "url": "https://docs.litellm.ai/blog/litellm-rust-launch",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T15:03:20.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 6,
-            "comments": 6
-          },
-          "rawTextSnippet": "How it works: - Storage uses one SQLite database file, plus a local LanceDB index of vectors. No need for a server, cloud services, or any API keys. - Retrieval is a hybrid approach using BM25 (rank-bm25) and vector-based search (sentence-transformers) combined with a co-occurrence graph of entities…",
-          "hnMeta": {
-            "points": 6,
-            "comments": 6,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631169"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "rss-1782146436606-95",
-          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-06-21T23:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1782146433930-39",
-          "title": "I Tracked LLM Pricing for 8 Weeks. Here's What the Data Shows",
-          "url": "https://tokenprices.io/blog/llm-pricing-8-weeks",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-22T16:09:39.000Z",
+          "publishedAt": "2026-06-23T13:44:40.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "I Tracked LLM Pricing for 8 Weeks. Here's What the Data Shows",
+          "rawTextSnippet": "LiteLLM Migrates to Rust",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48632126"
+            "hnUrl": "https://news.ycombinator.com/item?id=48644899"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -513,21 +445,75 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1782146433930-42",
-          "title": "Show HN: Sturnus – OpenAI-compatible LLM proxy routing to the fastest provider",
-          "url": "https://github.com/sturnus-dev/sturnus",
+          "id": "hn-1782225098267-65",
+          "title": "Show HN: Cc-fleet – run other LLMs as Claude Code workers, your sub drives",
+          "url": "https://github.com/ethanhq/cc-fleet",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T15:24:39.000Z",
+          "publishedAt": "2026-06-23T13:39:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: Sturnus – OpenAI-compatible LLM proxy routing to the fastest provider",
+          "rawTextSnippet": "Show HN: Cc-fleet – run other LLMs as Claude Code workers, your sub drives",
           "hnMeta": {
-            "points": 2,
+            "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631510"
+            "hnUrl": "https://news.ycombinator.com/item?id=48644834"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782225098267-66",
+          "title": "Show HN: Route LLM prompts to cheapest capable model – pydantic-AI and litellm",
+          "url": "https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-23T13:30:26.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Route LLM prompts to cheapest capable model – pydantic-AI and litellm",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48644688"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782225098267-68",
+          "title": "How good a detective is an AI? A Sherlock Holmes board game as an LLM-agent eval",
+          "url": "https://alexweil.github.io/sherlock-agent-eval/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-23T13:11:47.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "How good a detective is an AI? A Sherlock Holmes board game as an LLM-agent eval",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48644467"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -543,30 +529,50 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 16,
-      "trendScore": 149,
-      "whyTrending": "16 stories across Hacker, OpenAI, DeepMind, 11 in the last 24h.",
+      "itemCount": 24,
+      "trendScore": 172,
+      "whyTrending": "24 stories across TechCrunch, Hacker, arXiv, 18 in the last 24h.",
       "topStory": {
-        "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
-        "url": "https://github.com/0xroylee/ponytrail"
+        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+        "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
       },
       "items": [
         {
-          "id": "hn-1782146435391-93",
-          "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
-          "url": "https://github.com/0xroylee/ponytrail",
+          "id": "rss-1782225099554-92",
+          "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+          "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-23T13:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1782225099722-120",
+          "title": "Agents Make Engineering Hard Again",
+          "url": "https://ninjapenguin.co.uk/blog/2026/06/19/agents-make-engineering-hard-again/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T14:54:59.000Z",
+          "publishedAt": "2026-06-23T12:16:03.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 21,
-            "comments": 9
+            "upvotes": 7,
+            "comments": 2
           },
-          "rawTextSnippet": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+          "rawTextSnippet": "Agents Make Engineering Hard Again",
           "hnMeta": {
-            "points": 21,
-            "comments": 9,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631043"
+            "points": 7,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=48643807"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -579,21 +585,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1782146432495-11",
-          "title": "Super AI Agentic Android App (BYOK)",
-          "url": "https://news.ycombinator.com/item?id=48632415",
+          "id": "hn-1782225096871-10",
+          "title": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
+          "url": "https://github.com/latitude-dev/latitude-llm",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T16:31:20.000Z",
+          "publishedAt": "2026-06-23T14:30:54.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "i am building an Agentic Android App (twent.xyz) that has: SOTA agentic memory + Knowledge Base to see Agent&#x27;s memory, UI Automation, explain-what&#x27;s-on-screen, Linux Ubuntu Terminal with Agent CLIs Supported, Connects to 1k+ tools, Infinite MCP Servers &amp; Agent SKILLS, Browser to browse…",
+          "rawTextSnippet": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48632415"
+            "hnUrl": "https://news.ycombinator.com/item?id=48645555"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -606,21 +612,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1782146432495-18",
-          "title": "Show HN: Frontier AI for Motion Design",
-          "url": "https://motion.so",
+          "id": "hn-1782225096871-13",
+          "title": "The AI Code Agent Hype: Real Progress vs. Expectations",
+          "url": "https://jawuil.dev/en/blog/the-ai-code-agent-hype-real-progress-vs-expectations/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T16:06:09.000Z",
+          "publishedAt": "2026-06-23T14:23:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 6,
-            "comments": 1
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Hey HN, meet Motion — a frontier agent for motion design. Here’s how it works: 1. Give Motion a prompt — include any context like product links, X threads, YouTube videos, personal assets, and design MD. Motion will reference styles, incorporate research, and storyboard scenes. 2. Motion creates the…",
+          "rawTextSnippet": "The AI Code Agent Hype: Real Progress vs. Expectations",
           "hnMeta": {
-            "points": 6,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48632098"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48645432"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -633,48 +639,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1782146432495-28",
-          "title": "How to build an AI agent in 2026: a practical step-by-step guide",
-          "url": "https://www.execlave.com/blog/how-to-build-an-ai-agent",
+          "id": "hn-1782225096871-22",
+          "title": "Show HN: Legant gives AI agents bounded authority to act on your behalf",
+          "url": "https://github.com/legant-dev/legant",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T15:31:17.000Z",
+          "publishedAt": "2026-06-23T13:56:37.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "How to build an AI agent in 2026: a practical step-by-step guide",
+          "rawTextSnippet": "Show HN: Legant gives AI agents bounded authority to act on your behalf",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631636"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1782146432495-29",
-          "title": "Two Heads Are Better Than One: Run Many AI Agents, Merge One Auditable Result",
-          "url": "https://medium.com/@Koukyosyumei/two-heads-are-better-than-one-run-many-coding-agents-merge-one-auditable-result-de58be3a1b1b",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-22T15:26:23.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Two Heads Are Better Than One: Run Many AI Agents, Merge One Auditable Result",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631543"
+            "hnUrl": "https://news.ycombinator.com/item?id=48645063"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -689,191 +668,150 @@
       ]
     },
     {
-      "name": "Funding & Acquisitions",
-      "itemCount": 10,
-      "trendScore": 116,
-      "whyTrending": "10 stories across Hacker, MIT, TechCrunch, 4 in the last 24h.",
+      "name": "AI Hardware & Chips",
+      "itemCount": 9,
+      "trendScore": 133,
+      "whyTrending": "9 stories across MIT, Hacker, TechCrunch, 9 in the last 24h.",
       "topStory": {
-        "title": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
-        "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html"
+        "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+        "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
       },
       "items": [
         {
-          "id": "hn-1782146432495-21",
-          "title": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
-          "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-22T15:56:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 12,
-            "comments": 1
-          },
-          "rawTextSnippet": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
-          "hnMeta": {
-            "points": 12,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631982"
-          },
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1782146432248-1",
-          "title": "Inside the world’s deepest and longest subsea road tunnel",
-          "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+          "id": "rss-1782225096779-0",
+          "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+          "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-06-22T08:00:00.000Z",
+          "publishedAt": "2026-06-23T12:10:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov…",
-          "score": 62,
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a…",
+          "score": 66,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "hn-1782146433930-43",
-          "title": "Uber-backed Lime seeks up to $1.66B valuation in US IPO",
-          "url": "https://www.reuters.com/business/uber-backed-lime-aims-raise-up-1809-million-us-ipo-2026-06-22/",
+          "id": "hn-1782225096871-21",
+          "title": "Ask HN: Am I missing something with AI",
+          "url": "https://news.ycombinator.com/item?id=48645072",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T15:13:22.000Z",
+          "publishedAt": "2026-06-23T13:57:23.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 3,
-            "comments": 0
+            "comments": 5
           },
-          "rawTextSnippet": "Uber-backed Lime seeks up to $1.66B valuation in US IPO",
+          "rawTextSnippet": "I constantly hear developers around me talk about how AI has completely changed their life and how they don&#x27;t even program anymore, they just prompt. But any time I&#x27;ve used it, the output has always been off. And when the output is off I have to go and read through everything, learn how it…",
           "hnMeta": {
             "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631319"
+            "comments": 5,
+            "hnUrl": "https://news.ycombinator.com/item?id=48645072"
           },
-          "score": 62,
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 5,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "hn-1782146436882-115",
-          "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-          "url": "https://apnews.com/article/openai-chatgpt-subpoena-attorneys-general-probe-a95894407773307fae8ae3ce9742b586",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-22T15:22:01.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48631465"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1782146434980-70",
-          "title": "Billionaire Ambani wants AI in every call, app, and home",
-          "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+          "id": "rss-1782225099554-100",
+          "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+          "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-19T15:23:28.000Z",
+          "publishedAt": "2026-06-22T16:51:29.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-          "score": 42,
+          "rawTextSnippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 2,
+            "freshness": 22,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 9
           },
-          "cluster": "Funding & Acquisitions"
-        }
-      ]
-    },
-    {
-      "name": "AI Safety & Regulation",
-      "itemCount": 12,
-      "trendScore": 116,
-      "whyTrending": "12 stories across Hacker, OpenAI, TechCrunch, 2 in the last 24h.",
-      "topStory": {
-        "title": "How Anthropic may have talked itself into an AI export ban",
-        "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/"
-      },
-      "items": [
+          "cluster": "AI Hardware & Chips"
+        },
         {
-          "id": "hn-1782146438358-152",
-          "title": "How Anthropic may have talked itself into an AI export ban",
-          "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-22T14:32:07.000Z",
+          "id": "rss-1782225096779-2",
+          "title": "The $400 million machine powering the future of chipmaking",
+          "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-06-23T09:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "How Anthropic may have talked itself into an AI export ban",
-          "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48630702"
-          },
-          "score": 62,
+          "rawTextSnippet": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the …",
+          "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 10,
+            "businessImpact": 3
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "rss-1782225099554-97",
+          "title": "Nvidia wants to cut data center water use, but that&#8217;s not the same as fixing AI&#8217;s water problem",
+          "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-22T20:08:15.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+          "score": 56,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "AI Safety & Regulation"
-        },
+          "cluster": "AI Hardware & Chips"
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Products",
+      "itemCount": 12,
+      "trendScore": 115,
+      "whyTrending": "12 stories across Hacker, OpenAI, TechCrunch, 5 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Free tools to audit a landing page and check if AI recommends you",
+        "url": "https://www.ismylandingpagevalid.com"
+      },
+      "items": [
         {
-          "id": "hn-1782146432495-16",
-          "title": "AI law firm wins UK court case for first time",
-          "url": "https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb",
+          "id": "hn-1782225096871-24",
+          "title": "Show HN: Free tools to audit a landing page and check if AI recommends you",
+          "url": "https://www.ismylandingpagevalid.com",
           "source": "Hacker News",
-          "publishedAt": "2026-06-22T16:17:40.000Z",
+          "publishedAt": "2026-06-23T13:54:04.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 2
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "AI law firm wins UK court case for first time",
+          "rawTextSnippet": "Show HN: Free tools to audit a landing page and check if AI recommends you",
           "hnMeta": {
-            "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=48632235"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48645033"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -883,165 +821,144 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1782146439774-174",
-          "title": "A new bill takes aim at government pressure to silence lawful online speech",
-          "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-19T17:34:28.000Z",
+          "id": "rss-1782225101440-144",
+          "title": "How Omio is building the future of conversational travel",
+          "url": "https://openai.com/index/omio",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-06-23T00:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 298,
-            "comments": 138
+            "sourceAuthority": 20
           },
-          "rawTextSnippet": "A new bill takes aim at government pressure to silence lawful online speech",
-          "hnMeta": {
-            "points": 298,
-            "comments": 138,
-            "hnUrl": "https://news.ycombinator.com/item?id=48600950"
-          },
+          "rawTextSnippet": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
           "score": 57,
           "scoreBreakdown": {
-            "freshness": 8,
-            "authority": 14,
-            "engagement": 20,
+            "freshness": 22,
+            "authority": 20,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1782146439774-173",
-          "title": "The UK's new under-16 social media ban will cause more harm than it prevents",
-          "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
+          "id": "hn-1782225101110-128",
+          "title": "Corelayer0 – Turn any OpenAPI spec into a hosted MCP server",
+          "url": "https://corelayer0.com",
           "source": "Hacker News",
-          "publishedAt": "2026-06-19T21:58:22.000Z",
+          "publishedAt": "2026-06-23T05:24:23.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 95,
-            "comments": 166
+            "upvotes": 4,
+            "comments": 0
           },
-          "rawTextSnippet": "The UK's new under-16 social media ban will cause more harm than it prevents",
+          "rawTextSnippet": "Corelayer0 – Turn any OpenAPI spec into a hosted MCP server",
           "hnMeta": {
-            "points": 95,
-            "comments": 166,
-            "hnUrl": "https://news.ycombinator.com/item?id=48603761"
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48640660"
           },
           "score": 55,
           "scoreBreakdown": {
-            "freshness": 8,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1782146438358-161",
-          "title": "Anthropic Faces Questions over AI Export Ban Influence",
-          "url": "https://fivetakes.news/did-anthropic-talk-its-way-into-an-ai-export-ban",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-21T08:39:51.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Anthropic Faces Questions over AI Export Ban Influence",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48616892"
-          },
-          "score": 47,
-          "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 26,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1782225099554-98",
+          "title": "Google DeepMind bets $75M on AI&#8217;s future in Hollywood with A24 deal",
+          "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-22T18:49:44.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "arxiv-1782225097131-47",
+          "title": "Diffusion Models Adapt to Low-Dimensional Structure Under Flexible Coefficient Choices",
+          "url": "https://arxiv.org/abs/2606.23627v1",
+          "source": "arXiv",
+          "publishedAt": "2026-06-22T17:20:56.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "Diffusion models are known to exploit unknown low-dimensional structure to accelerate sampling. However, existing convergence theory under low-dimensional data structure has largely focused on update rules with narrowly prescribed coefficient choices. This raises a fundamental question: is adaptatio…",
+          "arxivMeta": {
+            "authors": "Changxiao Cai, Yuchen Jiao, Gen Li",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 52,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1782146435391-91",
-      "title": "Show HN: PMB – local-first memory for AI coding agents over MCP",
-      "url": "https://github.com/oleksiijko/pmb/blob/main/README.md",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:03:20.000Z",
+      "id": "rss-1782225099554-100",
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-22T16:51:29.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 6
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "How it works: - Storage uses one SQLite database file, plus a local LanceDB index of vectors. No need for a server, cloud services, or any API keys. - Retrieval is a hybrid approach using BM25 (rank-bm25) and vector-based search (sentence-transformers) combined with a co-occurrence graph of entities…",
-      "hnMeta": {
-        "points": 6,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631169"
-      },
-      "score": 64,
+      "rawTextSnippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A new local-first memory system for AI coding agents, PMB, was introduced, utilizing SQLite and LanceDB for storage.  \n• Why it matters: This approach eliminates reliance on servers or cloud services, enhancing privacy and accessibility for developers.  \n• Business opportunity: Companies can leverage this technology to create more secure and efficient AI coding tools without cloud dependencies."
-    },
-    {
-      "id": "hn-1782146436882-119",
-      "title": "Show HN: KeyGhost – Keyboard app launcher for macOS",
-      "url": "https://keyghost.dev/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-22T10:27:17.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 3
-      },
-      "rawTextSnippet": "I got tired of MacOS failing to index applications (it consistently seems to prefer apps installed on my phone instead of the computer) so I&#x27;ve bound them to keys and have started building muscle memory for opening and switching apps. Reduces mental fatigue from constantly cmd + tabbing between…",
-      "hnMeta": {
-        "points": 6,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48628270"
-      },
-      "score": 60,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 9
       },
       "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: A developer created KeyGhost, a keyboard app launcher for macOS to improve application access.  \n• Why it matters: It addresses the common issue of macOS's inefficient application indexing, enhancing user productivity.  \n• Business opportunity: There is potential for further development or monetization of productivity tools that streamline app access on macOS."
+      "summary": "• What happened: SpaceX secured a $150 million monthly deal with Reflection AI for access to Nvidia's GB300 AI chips starting July 2026.  \n• Why it matters: This partnership enhances SpaceX's capabilities in AI computing, positioning it as a leader in the tech space.  \n• Business opportunity: Companies can explore collaborations in AI hardware and software development, leveraging advanced technologies for innovative solutions."
     },
     {
-      "id": "hn-1782146432495-18",
-      "title": "Show HN: Frontier AI for Motion Design",
-      "url": "https://motion.so",
+      "id": "hn-1782225096871-10",
+      "title": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
+      "url": "https://github.com/latitude-dev/latitude-llm",
       "source": "Hacker News",
-      "publishedAt": "2026-06-22T16:06:09.000Z",
+      "publishedAt": "2026-06-23T14:30:54.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 1
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "Hey HN, meet Motion — a frontier agent for motion design. Here’s how it works: 1. Give Motion a prompt — include any context like product links, X threads, YouTube videos, personal assets, and design MD. Motion will reference styles, incorporate research, and storyboard scenes. 2. Motion creates the…",
+      "rawTextSnippet": "Show HN: Find and fix issues in your AI Agents (MIT, open source)",
       "hnMeta": {
-        "points": 6,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48632098"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48645555"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1052,24 +969,24 @@
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new AI tool called Motion has been introduced for motion design, allowing users to create designs based on prompts and context.  \n• Why it matters: This innovation streamlines the motion design process, making it more accessible and efficient for creators.  \n• Business opportunity: Companies can leverage Motion to enhance their marketing and content creation efforts, reducing costs and time."
+      "summary": "• What happened: MIT released an open-source tool to identify and resolve issues in AI agents.  \n• Why it matters: This advancement enhances the reliability and performance of AI systems, crucial for various applications.  \n• Business opportunity: Companies can leverage this tool to improve their AI solutions, potentially increasing customer trust and satisfaction."
     },
     {
-      "id": "hn-1782146432495-20",
-      "title": "Show HN: GitPT – AI commit messages with Apple's on-device Foundation Models",
-      "url": "https://github.com/bartaxyz/GitPT",
+      "id": "hn-1782225096871-12",
+      "title": "Anthropic – Elevated error rate across multiple models",
+      "url": "https://downdetector.com.br/en/status/claude-ai/",
       "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:58:24.000Z",
+      "publishedAt": "2026-06-23T14:26:30.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
+        "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Show HN: GitPT – AI commit messages with Apple's on-device Foundation Models",
+      "rawTextSnippet": "Anthropic – Elevated error rate across multiple models",
       "hnMeta": {
-        "points": 2,
+        "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631997"
+        "hnUrl": "https://news.ycombinator.com/item?id=48645481"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1079,24 +996,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI"
+      "cluster": "General AI",
+      "summary": "• What happened: Anthropic reported an increased error rate across several of its AI models.  \n• Why it matters: This issue raises concerns about the reliability and performance of their technology.  \n• Business opportunity: There is potential for improvements and innovations in AI model development and error mitigation strategies."
     },
     {
-      "id": "hn-1782146432495-22",
-      "title": "Show HN: Build and Host AI apps on your own servers",
-      "url": "https://agentry.run",
+      "id": "hn-1782225096871-18",
+      "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
+      "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409&relate=Y&depth=400409&programType=newsDataEng",
       "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:56:11.000Z",
+      "publishedAt": "2026-06-23T14:12:35.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 0
+        "upvotes": 1,
+        "comments": 1
       },
-      "rawTextSnippet": "I wanted a way to build and host some vibecoded apps&#x2F;dashboards etc , but figured there was no good way outside using things like lovable and replit , where the code and data and the hosting lives on their servers Many of the online app builders don&#x27;t allow you to switch the model to an op…",
+      "rawTextSnippet": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
       "hnMeta": {
-        "points": 3,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631977"
+        "points": 1,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48645294"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1106,129 +1024,290 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI"
+      "cluster": "AI in Enterprise"
+    },
+    {
+      "id": "hn-1782225098267-66",
+      "title": "Show HN: Route LLM prompts to cheapest capable model – pydantic-AI and litellm",
+      "url": "https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-23T13:30:26.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Show HN: Route LLM prompts to cheapest capable model – pydantic-AI and litellm",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48644688"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models"
     }
   ],
   "redditSignals": [],
-  "research": [],
+  "research": [
+    {
+      "id": "arxiv-1782225097130-42",
+      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+      "url": "https://arxiv.org/abs/2606.23654v1",
+      "source": "arXiv",
+      "publishedAt": "2026-06-22T17:39:43.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark constructed from proprietary, real-world agent sessions. Starting from a large archive of workplace s…",
+      "arxivMeta": {
+        "authors": "Jincheng Zhong, Weizhi Wang, Che Jiang, Kai Tian, Zhenzhao Yuan, Junlin Yang, Dianqiao Lei, Kaiyan Zhang",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI in Enterprise"
+    },
+    {
+      "id": "arxiv-1782225097130-44",
+      "title": "Learning Process Rewards via Success Visitation Matching for Efficient RL",
+      "url": "https://arxiv.org/abs/2606.23640v1",
+      "source": "arXiv",
+      "publishedAt": "2026-06-22T17:30:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "In many modern applications of reinforcement learning (RL), the natural reward for a task of interest is inherently sparse: a reward of 0 is given everywhere except when the task is completed, when a reward of +1 is given. Training a policy to maximize such a sparse reward requires solving a challen…",
+      "arxivMeta": {
+        "authors": "Raymond Tsao, Andrew Wagenmaker, Sergey Levine",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1782225097131-49",
+      "title": "RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.23617v1",
+      "source": "arXiv",
+      "publishedAt": "2026-06-22T17:12:50.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Vision-Language-Action (VLA) models are commonly fine-tuned through passive imitation learning, where additional demonstrations are collected for tasks where the policy performs poorly. This approach incurs several downsides: it requires the robot to fail before data collection is triggered, provide…",
+      "arxivMeta": {
+        "authors": "Ulas Berk Karli, Tesca Fitzgerald",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1782225097131-53",
+      "title": "Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers",
+      "url": "https://arxiv.org/abs/2606.23607v1",
+      "source": "arXiv",
+      "publishedAt": "2026-06-22T17:08:28.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Linear mode connectivity (LMC) provides a promising foundation for understanding and merging independently trained neural networks, but existing methods typically optimize the interpolation path from only one model endpoint, limiting their scalability and effectiveness for large pretrained transform…",
+      "arxivMeta": {
+        "authors": "Tianyi Li, Zhiqiang Shen",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1782225097131-61",
+      "title": "Evaluation Awareness Is Not One Capability: Evidence from Open Language Models",
+      "url": "https://arxiv.org/abs/2606.23583v1",
+      "source": "arXiv",
+      "publishedAt": "2026-06-22T16:48:43.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Safety benchmarks assume that test-condition behavior predicts deployment behavior, an assumption that fails if models detect evaluation cues and adapt. This opens a gap between benchmark performance and deployment behavior: compliance measured under test conditions becomes an optimistic upper bound…",
+      "arxivMeta": {
+        "authors": "Nilesh Nayan, Aishwarya Sampath Kumar, Rishiraj Girmal, Shivani Anilkumar, Sankaran Vaidyanathan, David A. Nader Palacio, Reshmi Ghosh, Soundararajan Srinivasan",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    }
+  ],
   "funding": [
     {
-      "id": "rss-1782146432248-1",
-      "title": "Inside the world’s deepest and longest subsea road tunnel",
-      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "id": "rss-1782225096779-0",
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-06-22T08:00:00.000Z",
+      "publishedAt": "2026-06-23T12:10:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov…",
-      "score": 62,
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a…",
+      "score": 66,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 18,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A detailed exploration of the world's deepest and longest subsea road tunnel reveals its challenging conditions.  \n• Why it matters: This infrastructure project highlights advancements in engineering and the complexities of underwater construction.  \n• Business opportunity: Companies specializing in tunnel construction and maintenance could capitalize on emerging technologies and techniques for similar projects."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: ASML unveiled a $400 million machine that will advance chipmaking technology.  \n• Why it matters: This innovation is crucial for enhancing semiconductor production efficiency and meeting rising global demand.  \n• Business opportunity: Companies in tech and manufacturing can leverage advanced chipmaking capabilities to improve product performance and competitiveness."
     },
     {
-      "id": "hn-1782146433930-43",
-      "title": "Uber-backed Lime seeks up to $1.66B valuation in US IPO",
-      "url": "https://www.reuters.com/business/uber-backed-lime-aims-raise-up-1809-million-us-ipo-2026-06-22/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:13:22.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 0
-      },
-      "rawTextSnippet": "Uber-backed Lime seeks up to $1.66B valuation in US IPO",
-      "hnMeta": {
-        "points": 3,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631319"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Lime, supported by Uber, is aiming for a valuation of up to $1.66 billion in its upcoming US IPO.  \n• Why it matters: This IPO could signal investor confidence in the micromobility sector as demand for alternative transportation grows.  \n• Business opportunity: Companies in the micromobility space may explore partnerships or investments to capitalize on the expanding market."
-    },
-    {
-      "id": "hn-1782146436882-115",
-      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-      "url": "https://apnews.com/article/openai-chatgpt-subpoena-attorneys-general-probe-a95894407773307fae8ae3ce9742b586",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-22T15:22:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 0
-      },
-      "rawTextSnippet": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-      "hnMeta": {
-        "points": 3,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631465"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI is facing a multistate investigation regarding potential user harm.  \n• Why it matters: The probe could impact OpenAI's upcoming IPO and investor confidence.  \n• Business opportunity: Companies can explore compliance solutions and ethical AI practices to address regulatory concerns."
-    },
-    {
-      "id": "rss-1782146434980-70",
-      "title": "Billionaire Ambani wants AI in every call, app, and home",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "id": "rss-1782225099554-92",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19T15:23:28.000Z",
+      "publishedAt": "2026-06-23T13:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "score": 42,
+      "rawTextSnippet": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 2,
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Fika Jobs secured $4M to develop a video-first hiring platform utilizing AI agents for candidate interviews.  \n• Why it matters: This innovative approach aims to enhance the recruitment process by integrating engaging video profiles with AI technology.  \n• Business opportunity: Companies can leverage this platform to streamline hiring and improve candidate engagement, tapping into the growing demand for modern recruitment solutions."
+    },
+    {
+      "id": "rss-1782225099554-100",
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-22T16:51:29.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 9
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: SpaceX signed a $150 million monthly deal with Reflection AI for access to Nvidia's GB300 AI chips.  \n• Why it matters: This partnership enhances SpaceX's data center capabilities, positioning it as a key player in the AI hardware market.  \n• Business opportunity: Companies can explore collaborations in AI infrastructure and chip technology to meet growing demand."
+    },
+    {
+      "id": "hn-1782225101110-125",
+      "title": "See How Sam Altman's Personal Investments Benefit from Ties to OpenAI",
+      "url": "https://www.wsj.com/tech/ai/see-how-sam-altmans-personal-investments-benefit-from-ties-to-openai-9fcb24c9",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-23T09:44:05.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 0
+      },
+      "rawTextSnippet": "See How Sam Altman's Personal Investments Benefit from Ties to OpenAI",
+      "hnMeta": {
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48642542"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1782146434980-78",
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-18T18:22:13.000Z",
+      "id": "rss-1782225096779-2",
+      "title": "The $400 million machine powering the future of chipmaking",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-23T09:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "score": 42,
+      "rawTextSnippet": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the …",
+      "score": 61,
       "scoreBreakdown": {
-        "freshness": 2,
-        "authority": 16,
+        "freshness": 30,
+        "authority": 18,
         "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
+        "novelty": 10,
+        "businessImpact": 3
       },
       "cluster": "AI Hardware & Chips"
     }
   ],
-  "dailyBrief": "Today's AI landscape is marked by significant developments, including a critical logging bug in Codex that could potentially write terabytes of data to local SSDs, raising concerns for businesses about data management and storage costs. In a related discussion, research indicates that large language models (LLMs) not only reflect but actively police biases in their training data, which could influence corporate responsibility in AI deployment. Meanwhile, SpaceX has entered a groundbreaking $6.3 billion deal with AI startup Reflection for computing power, highlighting the increasing intersection of aerospace and AI technologies. Additionally, innovations in infrastructure, such as record-breaking subsea tunnels and flexible data centers, are set to enhance data processing capabilities. Lastly, the introduction of Selector Forge, a browser extension for AI-generated resilient selectors, could streamline web development processes, offering businesses a competitive edge in digital transformation."
+  "dailyBrief": "Today's AI landscape reveals critical challenges and innovations shaping the industry. Research highlights a significant limitation in large language models (LLMs), where systems trained on \"A is B\" struggle to reverse this logic, raising concerns about their reliability in complex reasoning tasks. Meanwhile, Anthropic faces regulatory hurdles as it navigates the evolving landscape of chipmaking, a sector crucial for AI development. On a more positive note, Fika Jobs has secured $4 million to develop a video-first hiring platform, leveraging AI agents to streamline candidate interviews, which could revolutionize recruitment efficiency. As businesses increasingly rely on AI, understanding these dynamics will be essential for strategic planning and investment."
 }
