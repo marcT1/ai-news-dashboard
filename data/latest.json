@@ -1,91 +1,154 @@
 {
   "topNews": [
     {
-      "id": "hn-1782482852994-84",
-      "title": "Why current LLM costs are not sustainable",
-      "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+      "id": "hn-1782566171542-28",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "source": "Hacker News",
-      "publishedAt": "2026-06-26T07:44:11.000Z",
+      "publishedAt": "2026-06-27T09:18:52.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 100,
-        "comments": 175
+        "upvotes": 480,
+        "comments": 162
       },
-      "rawTextSnippet": "Why current LLM costs are not sustainable",
+      "rawTextSnippet": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "hnMeta": {
-        "points": 100,
-        "comments": 175,
-        "hnUrl": "https://news.ycombinator.com/item?id=48683588"
+        "points": 480,
+        "comments": 162,
+        "hnUrl": "https://news.ycombinator.com/item?id=48696585"
       },
-      "score": 70,
+      "score": 79,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: DSpark introduced speculative decoding to enhance the inference speed of large language models (LLMs).  \n• Why it matters: This innovation could significantly reduce latency and improve performance in AI applications.  \n• Business opportunity: Companies can leverage faster LLMs to enhance user experiences and develop more efficient AI-driven products."
+    },
+    {
+      "id": "hn-1782566175838-158",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-26T18:23:14.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1078,
+        "comments": 1137
+      },
+      "rawTextSnippet": "https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl",
+      "hnMeta": {
+        "points": 1078,
+        "comments": 1137,
+        "hnUrl": "https://news.ycombinator.com/item?id=48690101"
+      },
+      "score": 76,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 25,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: The U.S. government is set to regulate access to GPT-5.6.  \n• Why it matters: This decision could shape the competitive landscape for AI technologies and their applications.  \n• Business opportunity: Companies can strategize to align with regulatory standards and secure access to advanced AI tools."
+    },
+    {
+      "id": "hn-1782566178744-202",
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-26T21:13:50.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 440,
+        "comments": 156
+      },
+      "rawTextSnippet": "We can still stop California's 3D printer surveillance scheme",
+      "hnMeta": {
+        "points": 440,
+        "comments": 156,
+        "hnUrl": "https://news.ycombinator.com/item?id=48692051"
+      },
+      "score": 71,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: California's proposed 3D printer surveillance scheme faces opposition.  \n• Why it matters: The initiative raises concerns about privacy and government overreach.  \n• Business opportunity: Companies can develop privacy-focused 3D printing solutions to meet consumer demand."
+    },
+    {
+      "id": "rss-1782566173897-92",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-27T12:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Asian AI startups are launching models similar to Mythos amid ongoing export bans from the U.S.  \n• Why it matters: This shift could diminish the competitive edge of U.S. AI labs in a significant market.  \n• Business opportunity: Companies can invest in or partner with Asian startups to leverage emerging AI technologies."
+    },
+    {
+      "id": "hn-1782566175838-163",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-26T16:40:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 181,
+        "comments": 99
+      },
+      "rawTextSnippet": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it locally: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM . At Weave, we write most of our …",
+      "hnMeta": {
+        "points": 181,
+        "comments": 99,
+        "hnUrl": "https://news.ycombinator.com/item?id=48688700"
+      },
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 22,
         "authority": 14,
         "engagement": 15,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Current costs associated with large language models (LLMs) are deemed unsustainable.  \n• Why it matters: Unsustainable costs could hinder the growth and accessibility of AI technologies.  \n• Business opportunity: There is potential for innovation in cost-effective AI solutions and model optimization."
+      "summary": "• What happened: A new model router was developed to optimize requests to coding agents like Claude Code, Codex, and Cursor.  \n• Why it matters: This innovation enhances efficiency by directing tasks to the most suitable AI model, improving performance.  \n• Business opportunity: Companies can leverage this technology to streamline coding processes and reduce development time."
     },
     {
-      "id": "rss-1782482851437-0",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-26T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: London experienced dangerous heatwaves impacting mental health.  \n• Why it matters: Extreme temperatures can affect cognitive function and public safety.  \n• Business opportunity: Companies can develop climate resilience solutions and mental health support services."
-    },
-    {
-      "id": "rss-1782482851437-1",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-26T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures …",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A dangerous heat wave in Western Europe has led to record high temperatures, with the UK experiencing its hottest June day ever.  \n• Why it matters: Extreme heat can negatively impact cognitive function and public health, raising concerns about climate change effects.  \n• Business opportunity: Companies can develop innovative cooling technologies and health solutions to mitigate the impacts of heat on productivity and well-being."
-    },
-    {
-      "id": "hn-1782482851586-23",
-      "title": "SpaceX's newest Starmind will make earth data centers obsolete",
-      "url": "https://www.teslarati.com/spacex-starmind-ai-satellite-vs-starlink/",
+      "id": "hn-1782566171542-26",
+      "title": "AI data centers are supercharging a new battery market",
+      "url": "https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/06/24/ai-data-centers-are-supercharging-new-battery-market/",
       "source": "Hacker News",
-      "publishedAt": "2026-06-26T13:19:37.000Z",
+      "publishedAt": "2026-06-27T10:22:18.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
-        "comments": 2
+        "comments": 1
       },
-      "rawTextSnippet": "SpaceX's newest Starmind will make earth data centers obsolete",
+      "rawTextSnippet": "AI data centers are supercharging a new battery market",
       "hnMeta": {
         "points": 2,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48686310"
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48696939"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -96,80 +159,24 @@
         "businessImpact": 3
       },
       "cluster": "General AI",
-      "summary": "• What happened: SpaceX announced its Starmind technology, which is set to render traditional earth data centers obsolete.  \n• Why it matters: This innovation could revolutionize data storage and processing by leveraging space-based solutions.  \n• Business opportunity: Companies can explore partnerships with SpaceX to develop and integrate space-based data services."
+      "summary": "• What happened: AI data centers are driving growth in the battery market.  \n• Why it matters: Increased demand for energy storage solutions is crucial for supporting AI technologies.  \n• Business opportunity: Companies can invest in battery production and innovation to meet rising energy needs."
     },
     {
-      "id": "hn-1782482851586-27",
-      "title": "Show HN: Ponder – the best articles and essays on the internet",
-      "url": "https://www.readponder.com/",
+      "id": "hn-1782566172968-79",
+      "title": "NLNet Labs LLM Policy",
+      "url": "https://nlnetlabs.nl/llm-policy/",
       "source": "Hacker News",
-      "publishedAt": "2026-06-26T12:56:14.000Z",
+      "publishedAt": "2026-06-27T07:41:42.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 2
-      },
-      "rawTextSnippet": "Hello HN, I love to read articles, but I have trouble finding the bangers that really make you think. I want to be able to organize a huge database of articles and filter it by category then order it by quality to find the best ones worth my time. There&#x27;s iMDb for film, Goodreads for books, AOT…",
-      "hnMeta": {
-        "points": 3,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48686081"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: A user on Hacker News proposed creating Ponder, a platform to curate and organize high-quality articles and essays.  \n• Why it matters: This initiative addresses the challenge of discovering valuable written content in an overwhelming digital landscape.  \n• Business opportunity: There is potential for a subscription-based model or partnerships with educational institutions to monetize curated content."
-    },
-    {
-      "id": "hn-1782482854405-127",
-      "title": "Agentlint – A security scanner for MCP server configs",
-      "url": "https://github.com/Leporis14/agentlint",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T09:47:20.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "Agentlint – A security scanner for MCP server configs",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48684532"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Agentlint has been introduced as a security scanner specifically for MCP server configurations.  \n• Why it matters: It addresses security vulnerabilities in MCP servers, enhancing overall system integrity.  \n• Business opportunity: Companies can leverage Agentlint to improve their cybersecurity measures and compliance, attracting clients seeking robust security solutions."
-    },
-    {
-      "id": "hn-1782482855847-159",
-      "title": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T10:24:58.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 5,
+        "upvotes": 8,
         "comments": 1
       },
-      "rawTextSnippet": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
+      "rawTextSnippet": "NLNet Labs LLM Policy",
       "hnMeta": {
-        "points": 5,
+        "points": 8,
         "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48684845"
+        "hnUrl": "https://news.ycombinator.com/item?id=48696077"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -179,74 +186,25 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI Codex has been found to perform excessive write operations on SSDs.  \n• Why it matters: This inefficiency leads to significant financial losses, potentially amounting to millions.  \n• Business opportunity: Companies can develop optimized software solutions to reduce unnecessary write operations and save costs."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: NLNet Labs announced a new policy regarding the use of large language models (LLMs).  \n• Why it matters: This policy aims to guide ethical and responsible use of AI technologies.  \n• Business opportunity: Companies can leverage this framework to enhance their AI governance and compliance strategies."
     },
     {
-      "id": "rss-1782482854030-99",
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-26T13:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Early Bird pricing for the TechCrunch Founder Summit 2026 ends tonight at 11:59 p.m. PT.  \n• Why it matters: Attendees can save up to $190 by registering before the deadline.  \n• Business opportunity: This is a chance for startups and entrepreneurs to secure affordable access to valuable networking and insights."
-    },
-    {
-      "id": "hn-1782482852994-87",
-      "title": "Show HN: Appaca – AI Workspace for Operators",
-      "url": "https://www.appaca.ai/",
+      "id": "hn-1782566171542-10",
+      "title": "It's 11:00 pm. Do you know where your AI agent is?",
+      "url": "https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/",
       "source": "Hacker News",
-      "publishedAt": "2026-06-26T04:54:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 1
-      },
-      "rawTextSnippet": "Appaca is my third pivot. A couple of years ago, I started working on an idea on no-code platform that generates code. The goal is to help devs and agencies ship products faster for their clients. I went through Antler startup accelerator and got initial funding. I was working on the right problem, …",
-      "hnMeta": {
-        "points": 5,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48682461"
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Appaca launched as an AI workspace aimed at helping developers and agencies streamline product delivery.  \n• Why it matters: The platform addresses the growing demand for efficient development tools in a competitive market.  \n• Business opportunity: There is potential for partnerships with agencies and developers seeking to enhance productivity through AI-driven solutions."
-    },
-    {
-      "id": "hn-1782482851586-10",
-      "title": "History Lens – AI-powered historical artifact and monument identifier",
-      "url": "https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T14:06:47.000Z",
+      "publishedAt": "2026-06-27T13:12:34.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "History Lens – AI-powered historical artifact and monument identifier",
+      "rawTextSnippet": "It's 11:00 pm. Do you know where your AI agent is?",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48686796"
+        "hnUrl": "https://news.ycombinator.com/item?id=48697978"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -256,77 +214,120 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: History Lens launched an AI tool for identifying historical artifacts and monuments.  \n• Why it matters: This innovation enhances accessibility to historical knowledge and cultural heritage.  \n• Business opportunity: There is potential for partnerships with museums and educational institutions to integrate this technology."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A discussion emerged about the accountability and location of AI agents at late hours.  \n• Why it matters: Understanding AI agent behavior is crucial for trust and reliability in technology.  \n• Business opportunity: Companies can develop solutions to enhance transparency and monitoring of AI agents' activities."
+    },
+    {
+      "id": "hn-1782566171542-12",
+      "title": "Ask HN: What do you predict the world will look like in 5-10 years?",
+      "url": "https://news.ycombinator.com/item?id=48697956",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-27T13:10:15.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "With how much progress there has been in LLM and AI, what do you think is gonna look vastly different in the near future?",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48697956"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A discussion on Hacker News explores predictions for the world in 5-10 years, focusing on advancements in LLM and AI.  \n• Why it matters: Insights from this conversation could shape future technological developments and societal changes.  \n• Business opportunity: Companies can leverage these predictions to innovate products and services that align with emerging trends in AI and technology."
+    },
+    {
+      "id": "hn-1782566171542-13",
+      "title": "Show HN: Aerial-autonomy-stack – open-source perception-based drone swarms",
+      "url": "https://github.com/JacopoPan/aerial-autonomy-stack",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-27T13:07:45.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Combining (1) open-source autopilots with (2) open-source ROS2 simulation&#x2F;navigation&#x2F;mapping packages and (3) open-source, hardware-accelerated computer vision should not be hard, but it is. aerial-autonomy-stack aims to solve this by collapsing (1) multi-robot, (2) software-in-the-loop, (…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48697927"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Aerial-autonomy-stack launched an open-source platform for drone swarms integrating autopilots, ROS2, and computer vision.  \n• Why it matters: This initiative simplifies the development of multi-robot systems, enhancing drone capabilities and accessibility.  \n• Business opportunity: Companies can leverage this technology to innovate in sectors like logistics, agriculture, and surveillance with cost-effective drone solutions."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 58,
-      "trendScore": 206,
-      "whyTrending": "58 stories across MIT, Hacker, TechCrunch, 38 in the last 24h.",
+      "itemCount": 55,
+      "trendScore": 194,
+      "whyTrending": "55 stories across Hacker, TechCrunch, GitHub, 23 in the last 24h.",
       "topStory": {
-        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-        "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
+        "title": "We can still stop California's 3D printer surveillance scheme",
+        "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme"
       },
       "items": [
         {
-          "id": "rss-1782482851437-0",
-          "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-          "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-06-26T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1782482851437-1",
-          "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-          "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-06-26T09:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures …",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1782482851586-23",
-          "title": "SpaceX's newest Starmind will make earth data centers obsolete",
-          "url": "https://www.teslarati.com/spacex-starmind-ai-satellite-vs-starlink/",
+          "id": "hn-1782566178744-202",
+          "title": "We can still stop California's 3D printer surveillance scheme",
+          "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T13:19:37.000Z",
+          "publishedAt": "2026-06-26T21:13:50.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 440,
+            "comments": 156
+          },
+          "rawTextSnippet": "We can still stop California's 3D printer surveillance scheme",
+          "hnMeta": {
+            "points": 440,
+            "comments": 156,
+            "hnUrl": "https://news.ycombinator.com/item?id=48692051"
+          },
+          "score": 71,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 20,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1782566171542-26",
+          "title": "AI data centers are supercharging a new battery market",
+          "url": "https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/06/24/ai-data-centers-are-supercharging-new-battery-market/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T10:22:18.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
-            "comments": 2
+            "comments": 1
           },
-          "rawTextSnippet": "SpaceX's newest Starmind will make earth data centers obsolete",
+          "rawTextSnippet": "AI data centers are supercharging a new battery market",
           "hnMeta": {
             "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686310"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48696939"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -339,19 +340,26 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1782482854030-99",
-          "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-          "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-26T13:00:00.000Z",
+          "id": "hn-1782566171542-18",
+          "title": "How Saarinen and Eames Imagined Airport Operations and Influenced Dulles",
+          "url": "https://www.youtube.com/watch?v=6C3iKBJhgZM",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T11:51:11.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-          "score": 61,
+          "rawTextSnippet": "How Saarinen and Eames Imagined Airport Operations and Influenced Dulles",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48697442"
+          },
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 16,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -359,21 +367,48 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1782482851586-10",
-          "title": "History Lens – AI-powered historical artifact and monument identifier",
-          "url": "https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028",
+          "id": "hn-1782566171542-20",
+          "title": "It's Official: F-35s Are Now Being Delivered Without Radars",
+          "url": "https://www.twz.com/air/its-official-f-35s-are-now-being-delivered-without-radars",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T14:06:47.000Z",
+          "publishedAt": "2026-06-27T11:27:02.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 2
+          },
+          "rawTextSnippet": "It's Official: F-35s Are Now Being Delivered Without Radars",
+          "hnMeta": {
+            "points": 2,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=48697297"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1782566171542-22",
+          "title": "How a New York race became the first front in the AI industry's midterm war",
+          "url": "https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T11:04:20.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "History Lens – AI-powered historical artifact and monument identifier",
+          "rawTextSnippet": "How a New York race became the first front in the AI industry's midterm war",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686796"
+            "hnUrl": "https://news.ycombinator.com/item?id=48697173"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -389,34 +424,88 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 55,
-      "trendScore": 203,
-      "whyTrending": "55 stories across Hacker, arXiv, TechCrunch, 33 in the last 24h.",
+      "itemCount": 50,
+      "trendScore": 188,
+      "whyTrending": "50 stories across Hacker, TechCrunch, OpenAI, 17 in the last 24h.",
       "topStory": {
-        "title": "Why current LLM costs are not sustainable",
-        "url": "https://aditya.patadia.org/p/ai-and-cloud-costs"
+        "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
       },
       "items": [
         {
-          "id": "hn-1782482852994-84",
-          "title": "Why current LLM costs are not sustainable",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+          "id": "hn-1782566171542-28",
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T07:44:11.000Z",
+          "publishedAt": "2026-06-27T09:18:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 100,
-            "comments": 175
+            "upvotes": 480,
+            "comments": 162
           },
-          "rawTextSnippet": "Why current LLM costs are not sustainable",
+          "rawTextSnippet": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
           "hnMeta": {
-            "points": 100,
-            "comments": 175,
-            "hnUrl": "https://news.ycombinator.com/item?id=48683588"
+            "points": 480,
+            "comments": 162,
+            "hnUrl": "https://news.ycombinator.com/item?id=48696585"
           },
-          "score": 70,
+          "score": 79,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 20,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782566175838-158",
+          "title": "U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-26T18:23:14.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1078,
+            "comments": 1137
+          },
+          "rawTextSnippet": "https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl",
+          "hnMeta": {
+            "points": 1078,
+            "comments": 1137,
+            "hnUrl": "https://news.ycombinator.com/item?id=48690101"
+          },
+          "score": 76,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 25,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782566175838-163",
+          "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://github.com/workweave/router",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-26T16:40:11.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 181,
+            "comments": 99
+          },
+          "rawTextSnippet": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it locally: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM . At Weave, we write most of our …",
+          "hnMeta": {
+            "points": 181,
+            "comments": 99,
+            "hnUrl": "https://news.ycombinator.com/item?id=48688700"
+          },
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 22,
             "authority": 14,
             "engagement": 15,
             "novelty": 15,
@@ -425,102 +514,48 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1782482852993-69",
-          "title": "Ornith-1.0: Self-Scaffolding open source LLMs for Agentic Coding rivaling Claude",
-          "url": "https://deep-reinforce.com/ornith_1_0.html",
+          "id": "hn-1782566172968-79",
+          "title": "NLNet Labs LLM Policy",
+          "url": "https://nlnetlabs.nl/llm-policy/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T13:37:12.000Z",
+          "publishedAt": "2026-06-27T07:41:42.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 8,
+            "comments": 1
+          },
+          "rawTextSnippet": "NLNet Labs LLM Policy",
+          "hnMeta": {
+            "points": 8,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48696077"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782566171542-12",
+          "title": "Ask HN: What do you predict the world will look like in 5-10 years?",
+          "url": "https://news.ycombinator.com/item?id=48697956",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T13:10:15.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Ornith-1.0: Self-Scaffolding open source LLMs for Agentic Coding rivaling Claude",
+          "rawTextSnippet": "With how much progress there has been in LLM and AI, what do you think is gonna look vastly different in the near future?",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686521"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1782482852993-71",
-          "title": "Free Software and LLM Contribution Policies",
-          "url": "https://www.sicpers.info/2026/06/free-software-and-llm-contribution-policies/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T12:43:46.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Free Software and LLM Contribution Policies",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48685983"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1782482852993-73",
-          "title": "The closed-source LLM premium has collapsed",
-          "url": "https://runware.ai/blog/the-closed-source-llm-premium-has-collapsed",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T12:34:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "The closed-source LLM premium has collapsed",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48685911"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1782482852993-75",
-          "title": "Thinking Different, Thinking Slowly: LLMs on a PowerPC Mac",
-          "url": "http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T11:00:20.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Thinking Different, Thinking Slowly: LLMs on a PowerPC Mac",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48685145"
+            "hnUrl": "https://news.ycombinator.com/item?id=48697956"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -536,57 +571,30 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 25,
-      "trendScore": 167,
-      "whyTrending": "25 stories across Hacker, TechCrunch, arXiv, 17 in the last 24h.",
+      "itemCount": 27,
+      "trendScore": 169,
+      "whyTrending": "27 stories across Hacker, TechCrunch, arXiv, 16 in the last 24h.",
       "topStory": {
-        "title": "Agentlint – A security scanner for MCP server configs",
-        "url": "https://github.com/Leporis14/agentlint"
+        "title": "It's 11:00 pm. Do you know where your AI agent is?",
+        "url": "https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/"
       },
       "items": [
         {
-          "id": "hn-1782482854405-127",
-          "title": "Agentlint – A security scanner for MCP server configs",
-          "url": "https://github.com/Leporis14/agentlint",
+          "id": "hn-1782566171542-10",
+          "title": "It's 11:00 pm. Do you know where your AI agent is?",
+          "url": "https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T09:47:20.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Agentlint – A security scanner for MCP server configs",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48684532"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1782482851586-11",
-          "title": "Agent Nation – The Skunkworks",
-          "url": "https://syntheticauth.ai/posts/agent-nation-01-the-skunkworks",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T14:03:58.000Z",
+          "publishedAt": "2026-06-27T13:12:34.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Agent Nation – The Skunkworks",
+          "rawTextSnippet": "It's 11:00 pm. Do you know where your AI agent is?",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686776"
+            "hnUrl": "https://news.ycombinator.com/item?id=48697978"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -599,21 +607,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1782482851586-28",
-          "title": "Guardrails for Offensive AI Agents",
-          "url": "https://dest.host/b/guardrails-for-offensive-ai-agents/",
+          "id": "hn-1782566171542-15",
+          "title": "Show HN: Nirnam – a browser-native message bus and AI agent framework for MFEs",
+          "url": "https://github.com/shaurcasm/nirnam",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T12:52:06.000Z",
+          "publishedAt": "2026-06-27T12:27:25.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Guardrails for Offensive AI Agents",
+          "rawTextSnippet": "Communication hub to make communication easier for MFEs, Browser Worker threads, Browser-native Agents. And an Agent framework to make it easier to build browser native multi-agent system.",
           "hnMeta": {
-            "points": 2,
+            "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686060"
+            "hnUrl": "https://news.ycombinator.com/item?id=48697653"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -626,21 +634,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1782482854405-120",
-          "title": "Skills vs. knowledge – formalizing how agents need both",
-          "url": "https://blog.herlein.com/post/procedures-travel-knowledge-stays-home/",
+          "id": "hn-1782566171542-21",
+          "title": "Everyone Will Have an AI Coding Agent",
+          "url": "https://github.com/HoratiuCode/Clawie",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T13:26:06.000Z",
+          "publishedAt": "2026-06-27T11:04:39.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Skills vs. knowledge – formalizing how agents need both",
+          "rawTextSnippet": "Everyone Will Have an AI Coding Agent",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686372"
+            "hnUrl": "https://news.ycombinator.com/item?id=48697174"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -653,21 +661,48 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1782482854405-121",
-          "title": "The first open-source, agentic video production system",
-          "url": "https://github.com/calesthio/OpenMontage",
+          "id": "hn-1782566172968-70",
+          "title": "Ornith-1.0: A family of open-source LLMs specialized for agentic coding",
+          "url": "https://twitter.com/ornith_/status/2070148887067963854",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T13:00:18.000Z",
+          "publishedAt": "2026-06-27T10:45:38.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 6,
+            "comments": 1
+          },
+          "rawTextSnippet": "Ornith-1.0: A family of open-source LLMs specialized for agentic coding",
+          "hnMeta": {
+            "points": 6,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48697068"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1782566174402-112",
+          "title": "Using Local Coding Agents",
+          "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T12:05:47.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "The first open-source, agentic video production system",
+          "rawTextSnippet": "Using Local Coding Agents",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686111"
+            "hnUrl": "https://news.ycombinator.com/item?id=48697529"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -682,85 +717,171 @@
       ]
     },
     {
-      "name": "AI Tools & Products",
-      "itemCount": 17,
-      "trendScore": 135,
-      "whyTrending": "17 stories across Hacker, MIT, TechCrunch, 8 in the last 24h.",
+      "name": "AI Safety & Regulation",
+      "itemCount": 13,
+      "trendScore": 127,
+      "whyTrending": "13 stories across TechCrunch, Hacker, arXiv, 4 in the last 24h.",
       "topStory": {
-        "title": "Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon",
-        "url": "https://age-of-product.com/food-agile-thought-550-make-ai-boring/"
+        "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
       },
       "items": [
         {
-          "id": "hn-1782482851586-16",
-          "title": "Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon",
-          "url": "https://age-of-product.com/food-agile-thought-550-make-ai-boring/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T13:41:51.000Z",
+          "id": "rss-1782566173897-92",
+          "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-27T12:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686564"
-          },
-          "score": 59,
+          "rawTextSnippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+          "score": 67,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 6
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1782482851586-25",
-          "title": "AI Makes Bad Product Decisions Look Like Finished Software",
-          "url": "https://www.vincentschmalbach.com/ai-makes-bad-product-decisions-look-like-finished-software-cost-quality-test/",
+          "id": "hn-1782566174403-115",
+          "title": "Padel disrupted the genteel world of lawn tennis",
+          "url": "https://theconversation.com/how-padel-disrupted-the-genteel-world-of-lawn-tennis-285867",
           "source": "Hacker News",
-          "publishedAt": "2026-06-26T13:13:11.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "AI Makes Bad Product Decisions Look Like Finished Software",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48686237"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1782482852994-78",
-          "title": "Show HN: Unofficial cross-platform Shure MV client",
-          "url": "https://github.com/Humblemonk/shurectl",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T09:58:12.000Z",
+          "publishedAt": "2026-06-27T09:43:16.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "(Disclosure: This tool makes my repo obsolete. I am not the code author.) A few years ago, I used Wireshark to sniff and decode the protocol for the Shure MVX2U, a USB&#x2F;3.5mm adapter for professional microphones. Shure did not have a method for changing adapter settings in Linux or Android, and …",
+          "rawTextSnippet": "Padel disrupted the genteel world of lawn tennis",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48684618"
+            "hnUrl": "https://news.ycombinator.com/item?id=48696698"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1782566175838-149",
+          "title": "The New York Times Amends Lawsuit Against OpenAI and Microsoft",
+          "url": "https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T04:37:50.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "The New York Times Amends Lawsuit Against OpenAI and Microsoft",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48695181"
+          },
+          "score": 58,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1782566178744-203",
+          "title": "Lawmakers Must Act Now to Prevent Armed Police Drones",
+          "url": "https://www.eff.org/deeplinks/2026/06/lawmakers-must-act-now-prevent-armed-police-drones",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-26T21:12:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 6,
+            "comments": 1
+          },
+          "rawTextSnippet": "Lawmakers Must Act Now to Prevent Armed Police Drones",
+          "hnMeta": {
+            "points": 6,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48692021"
+          },
+          "score": 51,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1782566178744-206",
+          "title": "Are Your Local Police Using Flock Safety ALPRs to Scan for Immigrants?",
+          "url": "https://www.eff.org/deeplinks/2026/06/are-your-local-police-using-flock-safety-alprs-scan-immigrants",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-26T01:30:36.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 18,
+            "comments": 0
+          },
+          "rawTextSnippet": "Are Your Local Police Using Flock Safety ALPRs to Scan for Immigrants?",
+          "hnMeta": {
+            "points": 18,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48681347"
+          },
+          "score": 49,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Products",
+      "itemCount": 14,
+      "trendScore": 123,
+      "whyTrending": "14 stories across Hacker, MIT, TechCrunch, 4 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Mcpify – Turn any REST API into an MCP server in one command",
+        "url": "https://github.com/Amanbig/mcpify"
+      },
+      "items": [
+        {
+          "id": "hn-1782566172968-71",
+          "title": "Show HN: Mcpify – Turn any REST API into an MCP server in one command",
+          "url": "https://github.com/Amanbig/mcpify",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T10:28:41.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Wiring an existing API into MCP means hand-writing a tool wrapper per endpoint. Almost every API has an OpenAPI spec, so mcpify just reads it and generates the whole server. Built it because I kept doing this by hand. Feedback welcome.",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48696979"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -773,7 +894,88 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "rss-1782482851437-2",
+          "id": "hn-1782566172968-74",
+          "title": "Show HN: The TypeScript Semantic Layer for ClickHouse",
+          "url": "https://github.com/hypequery/hypequery",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T09:37:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 2
+          },
+          "rawTextSnippet": "I&#x27;ve built a type-safe semantic layer in code, for ClickHouse. If you&#x27;re building analytics off ClickHouse in TypeScript, I would love your feedback. With hypequery there is no platform to adopt, no YAML sprawl. It runs where your app runs. Key features: - Define metrics once, reuse them e…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=48696675"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1782566175838-146",
+          "title": "Show HN: Codex can track external events with respect to internal data",
+          "url": "https://app.getsupers.com/admin/growth",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-27T10:38:27.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Most analytics tools track your data, but completely ignore relevant external events like world news, platform shifts, pandemics, OpenAI announcements, etc. so you may be completely blind to the signals that impact growth most. I built a tool that tracks our internal data with respect to external ev…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48697024"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1782566178744-204",
+          "title": "Hate \"The Algorithm?\" RSS Is One of the Tools You've Been Looking For",
+          "url": "https://www.eff.org/deeplinks/2026/06/hate-algorithm-rss-one-tools-youve-been-looking",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-26T17:07:41.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 6,
+            "comments": 0
+          },
+          "rawTextSnippet": "Hate \"The Algorithm?\" RSS Is One of the Tools You've Been Looking For",
+          "hnMeta": {
+            "points": 6,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48689037"
+          },
+          "score": 51,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1782566171333-2",
           "title": "Repositioning retail for the AI era",
           "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
           "source": "MIT Technology Review",
@@ -782,231 +984,85 @@
             "sourceAuthority": 18
           },
           "rawTextSnippet": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven…",
-          "score": 55,
+          "score": 48,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1782482854030-104",
-          "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-          "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-25T16:48:11.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-          "score": 53,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        }
-      ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 12,
-      "trendScore": 134,
-      "whyTrending": "12 stories across Hacker, TechCrunch, VentureBeat, 6 in the last 24h.",
-      "topStory": {
-        "title": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402"
-      },
-      "items": [
-        {
-          "id": "hn-1782482855847-159",
-          "title": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
-          "url": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T10:24:58.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 1
-          },
-          "rawTextSnippet": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
-          "hnMeta": {
-            "points": 5,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48684845"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1782482852994-87",
-          "title": "Show HN: Appaca – AI Workspace for Operators",
-          "url": "https://www.appaca.ai/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T04:54:29.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 1
-          },
-          "rawTextSnippet": "Appaca is my third pivot. A couple of years ago, I started working on an idea on no-code platform that generates code. The goal is to help devs and agencies ship products faster for their clients. I went through Antler startup accelerator and got initial funding. I was working on the right problem, …",
-          "hnMeta": {
-            "points": 5,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48682461"
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1782482855847-161",
-          "title": "OpenAI leans toward waiting until next year for IPO, NYT reports",
-          "url": "https://www.reuters.com/business/trump-administration-asks-openai-stagger-release-new-model-information-reports-2026-06-25/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T07:36:21.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "OpenAI leans toward waiting until next year for IPO, NYT reports",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48683527"
-          },
-          "score": 58,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1782482855847-163",
-          "title": "OpenAI Mulls Delaying IPO Until 2027",
-          "url": "https://www.investors.com/news/technology/openai-ipo-ai-startup-mulls-delaying-until-2027-spacex/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T05:27:22.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "OpenAI Mulls Delaying IPO Until 2027",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48682651"
-          },
-          "score": 58,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1782482855847-167",
-          "title": "Competition intensifies for Anthropic and OpenAI ahead of IPOs",
-          "url": "https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-26T02:23:48.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Competition intensifies for Anthropic and OpenAI ahead of IPOs",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48681642"
-          },
-          "score": 58,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1782482852994-87",
-      "title": "Show HN: Appaca – AI Workspace for Operators",
-      "url": "https://www.appaca.ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T04:54:29.000Z",
+      "id": "rss-1782566173897-92",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-27T12:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 1
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "Appaca is my third pivot. A couple of years ago, I started working on an idea on no-code platform that generates code. The goal is to help devs and agencies ship products faster for their clients. I went through Antler startup accelerator and got initial funding. I was working on the right problem, …",
-      "hnMeta": {
-        "points": 5,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48682461"
-      },
-      "score": 61,
+      "rawTextSnippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "score": 67,
       "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
+        "freshness": 30,
+        "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Appaca launched as an AI workspace aimed at helping developers and agencies streamline product delivery.  \n• Why it matters: The platform addresses the growing demand for efficient no-code solutions in software development.  \n• Business opportunity: There is potential for partnerships with agencies seeking to enhance their service offerings through AI-driven tools."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Asian AI startups are introducing models similar to Mythos amid ongoing export bans from the U.S.  \n• Why it matters: This development could lead to a significant shift in the AI market, potentially sidelining U.S. companies.  \n• Business opportunity: There is a growing demand for AI solutions in Asia, presenting lucrative prospects for local startups."
     },
     {
-      "id": "hn-1782482851586-16",
-      "title": "Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon",
-      "url": "https://age-of-product.com/food-agile-thought-550-make-ai-boring/",
+      "id": "hn-1782566175838-163",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
       "source": "Hacker News",
-      "publishedAt": "2026-06-26T13:41:51.000Z",
+      "publishedAt": "2026-06-26T16:40:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 181,
+        "comments": 99
+      },
+      "rawTextSnippet": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it locally: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=isKhAyivtfM . At Weave, we write most of our …",
+      "hnMeta": {
+        "points": 181,
+        "comments": 99,
+        "hnUrl": "https://news.ycombinator.com/item?id=48688700"
+      },
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A new model router was developed to optimize requests among coding agents like Claude Code, Codex, and Cursor.  \n• Why it matters: This innovation enhances efficiency by ensuring requests are directed to the most suitable model for processing.  \n• Business opportunity: Companies can leverage this technology to improve coding workflows and reduce development time."
+    },
+    {
+      "id": "hn-1782566171542-23",
+      "title": "U.S. government restricts access to OpenAI's new AI model",
+      "url": "https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-27T10:44:33.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon",
+      "rawTextSnippet": "U.S. government restricts access to OpenAI's new AI model",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48686564"
+        "hnUrl": "https://news.ycombinator.com/item?id=48697064"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1016,53 +1072,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: A new discussion emphasizes the need to simplify AI and democratize product management.  \n• Why it matters: Making AI more accessible can enhance innovation and efficiency across industries.  \n• Business opportunity: Companies can develop user-friendly AI tools that empower non-technical staff to manage products effectively."
+      "cluster": "General AI",
+      "summary": "• What happened: The U.S. government has imposed restrictions on access to OpenAI's latest AI model.  \n• Why it matters: This move could impact innovation and development in the AI sector, potentially slowing progress.  \n• Business opportunity: Companies may seek alternative AI solutions or develop compliant models to meet regulatory standards."
     },
     {
-      "id": "hn-1782482851586-18",
-      "title": "Hey HN, I built local char an open source local AI platform like character AI",
-      "url": "https://github.com/KishaWeb/local-char",
+      "id": "hn-1782566172968-71",
+      "title": "Show HN: Mcpify – Turn any REST API into an MCP server in one command",
+      "url": "https://github.com/Amanbig/mcpify",
       "source": "Hacker News",
-      "publishedAt": "2026-06-26T13:34:03.000Z",
+      "publishedAt": "2026-06-27T10:28:41.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Hey HN, I built local char an open source local AI platform like character AI",
+      "rawTextSnippet": "Wiring an existing API into MCP means hand-writing a tool wrapper per endpoint. Almost every API has an OpenAPI spec, so mcpify just reads it and generates the whole server. Built it because I kept doing this by hand. Feedback welcome.",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48686474"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: A developer launched Local Char, an open-source AI platform similar to Character AI.  \n• Why it matters: This initiative democratizes access to AI tools, enabling users to create personalized AI experiences locally.  \n• Business opportunity: Companies can leverage Local Char to develop customized AI solutions without relying on cloud-based services."
-    },
-    {
-      "id": "hn-1782482851586-25",
-      "title": "AI Makes Bad Product Decisions Look Like Finished Software",
-      "url": "https://www.vincentschmalbach.com/ai-makes-bad-product-decisions-look-like-finished-software-cost-quality-test/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T13:13:11.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 1
-      },
-      "rawTextSnippet": "AI Makes Bad Product Decisions Look Like Finished Software",
-      "hnMeta": {
-        "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48686237"
+        "hnUrl": "https://news.ycombinator.com/item?id=48696979"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1075,21 +1103,21 @@
       "cluster": "AI Tools & Products"
     },
     {
-      "id": "hn-1782482852993-69",
-      "title": "Ornith-1.0: Self-Scaffolding open source LLMs for Agentic Coding rivaling Claude",
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
+      "id": "hn-1782566172968-76",
+      "title": "Higher rate limits on the Claude API",
+      "url": "https://platform.claude.com/docs/en/api/rate-limits",
       "source": "Hacker News",
-      "publishedAt": "2026-06-26T13:37:12.000Z",
+      "publishedAt": "2026-06-27T08:15:18.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Ornith-1.0: Self-Scaffolding open source LLMs for Agentic Coding rivaling Claude",
+      "rawTextSnippet": "Higher rate limits on the Claude API",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48686521"
+        "hnUrl": "https://news.ycombinator.com/item?id=48696224"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1105,7 +1133,7 @@
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1782482851660-32",
+      "id": "arxiv-1782566171902-30",
       "title": "DanceOPD: On-Policy Generative Field Distillation",
       "url": "https://arxiv.org/abs/2606.27377v1",
       "source": "arXiv",
@@ -1122,9 +1150,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1133,7 +1161,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1782482851661-39",
+      "id": "arxiv-1782566171902-37",
       "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
       "url": "https://arxiv.org/abs/2606.27334v1",
       "source": "arXiv",
@@ -1150,9 +1178,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1161,7 +1189,7 @@
       "cluster": "General AI"
     },
     {
-      "id": "arxiv-1782482851661-42",
+      "id": "arxiv-1782566171902-40",
       "title": "LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank",
       "url": "https://arxiv.org/abs/2606.27316v1",
       "source": "arXiv",
@@ -1178,9 +1206,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1189,7 +1217,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1782482851661-45",
+      "id": "arxiv-1782566171902-43",
       "title": "AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns",
       "url": "https://arxiv.org/abs/2606.27302v1",
       "source": "arXiv",
@@ -1206,9 +1234,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1217,7 +1245,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1782482851661-47",
+      "id": "arxiv-1782566171902-45",
       "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
       "url": "https://arxiv.org/abs/2606.27288v1",
       "source": "arXiv",
@@ -1234,9 +1262,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1247,118 +1275,49 @@
   ],
   "funding": [
     {
-      "id": "hn-1782482855847-159",
-      "title": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/23/openai-codex-bombards-ssds-with-needless-write-operations-costing-millions/5260402",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T10:24:58.000Z",
+      "id": "rss-1782566173897-101",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T20:19:25.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 1
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "OpenAI Codex bombards SSDs with needless write operations, costing millions",
-      "hnMeta": {
-        "points": 5,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48684845"
-      },
-      "score": 62,
+      "rawTextSnippet": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
+        "freshness": 15,
+        "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI Codex is causing excessive write operations on SSDs, leading to significant financial losses.  \n• Why it matters: This inefficiency highlights potential flaws in AI operational processes, impacting hardware longevity and costs.  \n• Business opportunity: Companies can develop solutions to optimize AI performance and reduce unnecessary hardware wear, saving costs."
+      "summary": "• What happened: Patronus AI secured $50M in funding to develop digital environments for testing AI agents.  \n• Why it matters: The startup, founded by ex-Meta AI researchers, addresses a growing need for robust AI evaluation tools.  \n• Business opportunity: Companies can leverage Patronus AI's technology to enhance the reliability and performance of their AI systems."
     },
     {
-      "id": "hn-1782482852994-87",
-      "title": "Show HN: Appaca – AI Workspace for Operators",
-      "url": "https://www.appaca.ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T04:54:29.000Z",
+      "id": "rss-1782566173897-103",
+      "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T16:55:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 1
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "Appaca is my third pivot. A couple of years ago, I started working on an idea on no-code platform that generates code. The goal is to help devs and agencies ship products faster for their clients. I went through Antler startup accelerator and got initial funding. I was working on the right problem, …",
-      "hnMeta": {
-        "points": 5,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48682461"
-      },
-      "score": 61,
+      "rawTextSnippet": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Appaca launched as an AI workspace aimed at helping developers and agencies streamline product delivery.  \n• Why it matters: It addresses the growing demand for efficient development tools in a competitive tech landscape.  \n• Business opportunity: There is potential for partnerships with agencies and developers seeking to enhance productivity through AI-driven solutions."
-    },
-    {
-      "id": "hn-1782482855847-161",
-      "title": "OpenAI leans toward waiting until next year for IPO, NYT reports",
-      "url": "https://www.reuters.com/business/trump-administration-asks-openai-stagger-release-new-model-information-reports-2026-06-25/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T07:36:21.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 1
-      },
-      "rawTextSnippet": "OpenAI leans toward waiting until next year for IPO, NYT reports",
-      "hnMeta": {
-        "points": 2,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48683527"
-      },
-      "score": 58,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
+        "freshness": 15,
+        "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI is considering postponing its initial public offering (IPO) until next year.  \n• Why it matters: This delay could impact investor sentiment and market dynamics in the tech sector.  \n• Business opportunity: Investors may find opportunities in the interim to engage with emerging AI startups or related technologies."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: General Intuition raised $320 million to enhance AI training using video game data.  \n• Why it matters: This investment aims to develop AI that mimics human intuition, potentially revolutionizing AI applications.  \n• Business opportunity: Companies can leverage this technology to create more advanced AI solutions across various industries."
     },
     {
-      "id": "hn-1782482855847-163",
-      "title": "OpenAI Mulls Delaying IPO Until 2027",
-      "url": "https://www.investors.com/news/technology/openai-ipo-ai-startup-mulls-delaying-until-2027-spacex/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-26T05:27:22.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "OpenAI Mulls Delaying IPO Until 2027",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48682651"
-      },
-      "score": 58,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "hn-1782482855847-167",
+      "id": "hn-1782566177291-200",
       "title": "Competition intensifies for Anthropic and OpenAI ahead of IPOs",
       "url": "https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8",
       "source": "Hacker News",
@@ -1374,16 +1333,57 @@
         "comments": 0,
         "hnUrl": "https://news.ycombinator.com/item?id=48681642"
       },
-      "score": 58,
+      "score": 47,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 15,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic and OpenAI are facing increased competition as they prepare for their IPOs.  \n• Why it matters: This heightened competition could impact their market valuations and investor interest.  \n• Business opportunity: Companies can explore partnerships or innovations in AI to capitalize on the evolving landscape."
+    },
+    {
+      "id": "rss-1782566173897-105",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T14:55:38.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "score": 46,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI"
+    },
+    {
+      "id": "rss-1782566173897-106",
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-25T14:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+      "score": 46,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
       "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "Today's AI landscape reveals critical challenges and innovations shaping the industry. A recent Hacker News discussion highlights that the current costs associated with large language models (LLMs) are unsustainable, prompting businesses to rethink their AI strategies and explore more cost-effective solutions. Meanwhile, unprecedented restrictions from OpenAI are raising concerns about accessibility and innovation in AI development, as reported by MIT Technology Review. In a related note, scientists are investigating the cognitive impacts of extreme heat waves, which could affect workforce productivity and decision-making. On a more optimistic front, SpaceX's new Starmind technology promises to revolutionize data processing, potentially rendering traditional earth-based data centers obsolete, which could significantly reduce operational costs for tech companies."
+  "dailyBrief": "Today's AI landscape is buzzing with significant developments. DSpark has introduced speculative decoding, which could enhance large language model (LLM) inference speeds, potentially reducing operational costs for businesses reliant on AI-driven applications. Meanwhile, the U.S. government is set to regulate access to GPT-5.6, a move that could reshape competitive dynamics in the AI sector and impact companies' innovation strategies. In Asia, startups are launching models similar to Mythos, as they navigate the challenges posed by Anthropic's export ban, indicating a shift in regional AI capabilities. Additionally, advancements in smart model routing within platforms like Claude, Codex, and Cursor promise to streamline workflows, enhancing productivity for tech professionals. These developments underscore the rapidly evolving AI ecosystem and its implications for business strategy and regulatory compliance."
 }
