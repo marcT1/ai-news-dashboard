@@ -1,241 +1,227 @@
 {
   "topNews": [
     {
-      "id": "github-1782828093594-30",
-      "title": "[TianhangZhuzth/Fundamental-Ava] Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "id": "hn-1782915240113-145",
+      "title": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-01T03:11:40.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 136,
+        "comments": 41
+      },
+      "rawTextSnippet": "Redeploying Fable 5",
+      "hnMeta": {
+        "points": 136,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=48741853"
+      },
+      "score": 70,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Fable 5 is being redeployed to enhance its functionality.  \n• Why it matters: This redeployment aims to improve user experience and performance.  \n• Business opportunity: Companies can leverage the upgraded Fable 5 for better application development and user engagement."
+    },
+    {
+      "id": "hn-1782915241481-173",
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-30T16:48:37.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 410,
+        "comments": 169
+      },
+      "rawTextSnippet": "Nano Banana 2 Lite",
+      "hnMeta": {
+        "points": 410,
+        "comments": 169,
+        "hnUrl": "https://news.ycombinator.com/item?id=48735444"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 10,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: The release of Nano Banana 2 Lite was announced.  \n• Why it matters: This new version offers enhanced features and accessibility for users.  \n• Business opportunity: Companies can leverage this technology for innovative applications in various sectors."
+    },
+    {
+      "id": "rss-1782915236796-66",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T14:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: The Builders Stage at TechCrunch Disrupt 2026 will feature over 10,000 founders, operators, and investors discussing strategies for scaling startups.  \n• Why it matters: This event provides valuable insights and networking opportunities for entrepreneurs looking to grow their businesses.  \n• Business opportunity: Companies can leverage participation to connect with potential partners and investors, enhancing their growth prospects."
+    },
+    {
+      "id": "hn-1782915242893-176",
+      "title": "Google Gemini Claims to be \"structurally protective\" of Donald Trump",
+      "url": "https://www.thatprivacyguy.com/blog/google-ai-guardrails-protect-trump/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-01T09:22:39.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 11,
+        "comments": 2
+      },
+      "rawTextSnippet": "Google Gemini Claims to be \"structurally protective\" of Donald Trump",
+      "hnMeta": {
+        "points": 11,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48744241"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Google Gemini announced it is \"structurally protective\" of Donald Trump.  \n• Why it matters: This statement could influence public perception and political discourse surrounding Trump.  \n• Business opportunity: Companies may explore partnerships or tools that leverage Gemini's protective stance in political marketing."
+    },
+    {
+      "id": "rss-1782915234076-0",
+      "title": "The Download: Anthropic launches Claude Science, and California&#8217;s carbon manure math",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-01T12:10:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: Anthropic launched Claude Science, its latest flagship product, targeting the biotech and pharmaceutical sectors.  \n• Why it matters: This development highlights the growing intersection of AI and life sciences, potentially transforming drug discovery and research.  \n• Business opportunity: Companies in biotech can leverage Claude Science to enhance research efficiency and accelerate innovation."
+    },
+    {
+      "id": "hn-1782915240113-141",
+      "title": "Anthropic says US lifts export ban on Fable 5",
+      "url": "https://www.bbc.com/news/articles/cdr42623e1do",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-01T04:47:38.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 14,
+        "comments": 1
+      },
+      "rawTextSnippet": "Anthropic says US lifts export ban on Fable 5",
+      "hnMeta": {
+        "points": 14,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48742354"
+      },
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: The US has lifted the export ban on Anthropic's Fable 5.  \n• Why it matters: This change allows broader access to advanced AI technologies, potentially enhancing global competition.  \n• Business opportunity: Companies can now leverage Fable 5 for innovative AI solutions, opening new markets and partnerships."
+    },
+    {
+      "id": "hn-1782915235835-41",
+      "title": "The Canary magazine has been debanked by Lloyds Bank in the UK",
+      "url": "https://www.thecanary.co/uk/2026/06/30/lloyds-canary/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-01T13:45:40.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "The Canary magazine has been debanked by Lloyds Bank in the UK",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48746700"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: The Canary magazine has been debanked by Lloyds Bank in the UK.  \n• Why it matters: This action raises concerns about financial censorship and the impact on independent media.  \n• Business opportunity: There is potential for alternative banking solutions that support independent journalism and free speech."
+    },
+    {
+      "id": "github-1782915234344-10",
+      "title": "[TianhangZhuzth/Fundamental-Ava] Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "source": "GitHub Trending",
       "publishedAt": "2026-06-30T01:04:13.000Z",
       "scoreSignals": {
         "sourceAuthority": 12,
-        "upvotes": 463
+        "upvotes": 689
       },
-      "rawTextSnippet": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "rawTextSnippet": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "githubMeta": {
-        "stars": 463,
+        "stars": 689,
         "language": "Python",
         "topics": [
           "ai",
           "ai-agents"
         ]
       },
-      "score": 64,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 12,
-        "engagement": 15,
+        "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: TianhangZhuzth/Fundamental-Ava announced the development of autonomous, collaborative, and socially intelligent digital human beings.  \n• Why it matters: This innovation could revolutionize human-computer interaction and enhance productivity across various sectors.  \n• Business opportunity: Companies can leverage these digital agents for customer service, training, and virtual collaboration, creating new revenue streams."
+      "summary": "• What happened: A project aims to develop autonomous, collaborative, and socially intelligent digital human beings.  \n• Why it matters: This innovation could revolutionize human-computer interaction and enhance automation in various sectors.  \n• Business opportunity: Companies can leverage these digital agents to improve customer service, training, and operational efficiency."
     },
     {
-      "id": "rss-1782828093326-0",
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-30T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: AI agents are being introduced as \"coworkers\" in the workplace.  \n• Why it matters: This shift could redefine job roles and collaboration dynamics in various industries.  \n• Business opportunity: Companies can leverage AI to enhance productivity and streamline operations."
-    },
-    {
-      "id": "rss-1782828093327-1",
-      "title": "Agriculture is ready for AI, but its data isn&#8217;t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-30T12:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins …",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Agriculture is poised for AI adoption, but data infrastructure remains inadequate.  \n• Why it matters: Proper data management is crucial for maximizing AI's potential in addressing industry challenges.  \n• Business opportunity: Companies can invest in data solutions to support AI integration and enhance agricultural efficiency."
-    },
-    {
-      "id": "rss-1782828093327-2",
-      "title": "Building tech in the world’s secret R&#038;D hub",
-      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-30T10:23:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, howe…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: A small city has emerged as a significant R&D hub for major tech companies like Apple, Google, and Microsoft.  \n• Why it matters: This concentration of innovation outside Silicon Valley highlights the potential for regional tech ecosystems to thrive.  \n• Business opportunity: Companies can explore partnerships and investments in this emerging tech hub to leverage diverse talent and resources."
-    },
-    {
-      "id": "hn-1782828093570-15",
-      "title": "Show HN: Valmis, an OpenClaw alternative built for work, with security in mind",
-      "url": "https://github.com/valmishq/valmis",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-30T13:46:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "Hi HN, I would like to share with you Valmis, an AI agent harness built for work, with the ability to connect to 100+ business and productivity integrations. The system is designed with security in mind, and agents run in isolated containers, meaning AI never gets access to your API credentials or y…",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48732702"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Valmis, an AI agent designed for work, was introduced as a secure alternative to OpenClaw.  \n• Why it matters: It prioritizes security by isolating agents in containers, protecting sensitive API credentials.  \n• Business opportunity: Companies can leverage Valmis to enhance productivity while ensuring data security across integrations."
-    },
-    {
-      "id": "hn-1782828094983-81",
-      "title": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
-      "url": "https://ai-policy-gen.pages.dev",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-30T10:18:04.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 0
-      },
-      "rawTextSnippet": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
-      "hnMeta": {
-        "points": 4,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48730624"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A new privacy policy generator for AI applications has been introduced, focusing on LLM disclosure and compliance with the EU AI Act.  \n• Why it matters: This tool addresses growing regulatory demands for transparency and accountability in AI technologies.  \n• Business opportunity: Companies can leverage this generator to streamline compliance processes and enhance user trust in their AI products."
-    },
-    {
-      "id": "hn-1782828096390-123",
-      "title": "Show HN: Sigil – FIDO2 key-derived P2P remote desktop (agentic workflow retro)",
-      "url": "https://dami.zip/blog/sigil-agentic-retro/",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-30T12:35:36.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "I built a remote desktop app where your FIDO2 security key acts as the address. The hmac-secret produces the same Iroh P2P node identity on both ends. That means there are no accounts, pairing, or VPN required. I documented an agentic development workflow retrospective, including PoC spikes, spec dr…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48731840"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new remote desktop app, Sigil, uses FIDO2 security keys for peer-to-peer connections without accounts or VPNs.  \n• Why it matters: This innovation simplifies remote access while enhancing security through hardware-based authentication.  \n• Business opportunity: There is potential for developing secure, user-friendly remote access solutions for businesses and individuals."
-    },
-    {
-      "id": "hn-1782828100567-201",
-      "title": "The KIDS Act would require age checks to get online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-28T11:56:16.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 634,
-        "comments": 560
-      },
-      "rawTextSnippet": "https:&#x2F;&#x2F;act.eff.org&#x2F;action&#x2F;tell-congress-don-t-force-age-che...",
-      "hnMeta": {
-        "points": 634,
-        "comments": 560,
-        "hnUrl": "https://news.ycombinator.com/item?id=48706560"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 14,
-        "engagement": 25,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: The KIDS Act proposes mandatory age verification for online access.  \n• Why it matters: This legislation aims to protect children from inappropriate content on the internet.  \n• Business opportunity: Companies can develop and offer age verification solutions to comply with new regulations."
-    },
-    {
-      "id": "rss-1782828093327-4",
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-29T14:44:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out…",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Enterprise investment in AI is surging, with Gartner predicting 2026 as a pivotal year for aligning AI projects with business goals.  \n• Why it matters: Increased pressure to demonstrate ROI is pushing executives to adopt agentic AI for tangible financial outcomes.  \n• Business opportunity: Companies can capitalize on this trend by developing AI solutions that directly enhance operational efficiency and profitability."
-    },
-    {
-      "id": "rss-1782828096008-96",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "id": "rss-1782915236796-67",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "publishedAt": "2026-07-01T13:43:07.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
+      "rawTextSnippet": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
       "score": 61,
       "scoreBreakdown": {
         "freshness": 30,
@@ -244,118 +230,92 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: OKX is developing a marketplace where AI agents can hire and compensate each other.  \n• Why it matters: This innovation could streamline operations and enhance efficiency in digital transactions.  \n• Business opportunity: Companies can leverage this platform to automate hiring processes and reduce operational costs."
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: Meta is planning to launch a cloud infrastructure business to sell AI compute power and models.  \n• Why it matters: This initiative positions Meta to compete with major cloud providers like AWS, Google Cloud, and Microsoft Azure.  \n• Business opportunity: Companies can leverage Meta's AI capabilities, potentially enhancing their own services and reducing reliance on traditional cloud providers."
+    },
+    {
+      "id": "hn-1782915240113-143",
+      "title": "Claude Fable 5 available globally tomorrow",
+      "url": "https://twitter.com/anthropicai/status/2072163884430229756",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-01T04:25:50.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 40,
+        "comments": 2
+      },
+      "rawTextSnippet": "Claude Fable 5 available globally tomorrow",
+      "hnMeta": {
+        "points": 40,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48742236"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Fable 5 will be launched globally tomorrow.  \n• Why it matters: This release signifies advancements in AI technology and accessibility.  \n• Business opportunity: Companies can leverage Claude Fable 5 for enhanced AI-driven solutions and services."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 58,
-      "trendScore": 200,
-      "whyTrending": "58 stories across Hacker, TechCrunch, arXiv, 31 in the last 24h.",
+      "itemCount": 45,
+      "trendScore": 189,
+      "whyTrending": "45 stories across Hacker, TechCrunch, OpenAI, 27 in the last 24h.",
       "topStory": {
-        "title": "The KIDS Act would require age checks to get online",
-        "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"
+        "title": "Redeploying Fable 5",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5"
       },
       "items": [
         {
-          "id": "hn-1782828100567-201",
-          "title": "The KIDS Act would require age checks to get online",
-          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "id": "hn-1782915240113-145",
+          "title": "Redeploying Fable 5",
+          "url": "https://www.anthropic.com/news/redeploying-fable-5",
           "source": "Hacker News",
-          "publishedAt": "2026-06-28T11:56:16.000Z",
+          "publishedAt": "2026-07-01T03:11:40.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 634,
-            "comments": 560
+            "upvotes": 136,
+            "comments": 41
           },
-          "rawTextSnippet": "https:&#x2F;&#x2F;act.eff.org&#x2F;action&#x2F;tell-congress-don-t-force-age-che...",
+          "rawTextSnippet": "Redeploying Fable 5",
           "hnMeta": {
-            "points": 634,
-            "comments": 560,
-            "hnUrl": "https://news.ycombinator.com/item?id=48706560"
+            "points": 136,
+            "comments": 41,
+            "hnUrl": "https://news.ycombinator.com/item?id=48741853"
           },
-          "score": 62,
+          "score": 70,
           "scoreBreakdown": {
-            "freshness": 8,
+            "freshness": 26,
             "authority": 14,
-            "engagement": 25,
+            "engagement": 15,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "hn-1782828093570-11",
-          "title": "The next big breakthrough will be AIs learning on the job",
-          "url": "https://www.dwarkesh.com/p/the-next-paradigm",
+          "id": "hn-1782915234430-16",
+          "title": "Show HN: Loma – a self-hosted shared AI layer for your whole company",
+          "url": "https://github.com/plotlinelabs/loma",
           "source": "Hacker News",
-          "publishedAt": "2026-06-30T13:49:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 2
-          },
-          "rawTextSnippet": "The next big breakthrough will be AIs learning on the job",
-          "hnMeta": {
-            "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732750"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1782828093570-16",
-          "title": "DGX Spark vs. Mac Studio and Halo",
-          "url": "https://aimultiple.com/dgx-spark-alternatives",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T13:44:14.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "DGX Spark vs. Mac Studio and Halo",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732679"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1782828093570-20",
-          "title": "AI and Us: It's Complicated",
-          "url": "https://syntheticauth.ai/posts/ai-the-falsity-of-comparison",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T13:15:08.000Z",
+          "publishedAt": "2026-07-01T14:07:23.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "AI and Us: It's Complicated",
+          "rawTextSnippet": "Show HN: Loma – a self-hosted shared AI layer for your whole company",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732326"
+            "hnUrl": "https://news.ycombinator.com/item?id=48747049"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -368,21 +328,75 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1782828093570-21",
-          "title": "Reasoning About Async Rust with State Machines",
-          "url": "https://aibodh.com/posts/async-rust-chapter-2-what-async-fn-compiles-into/",
+          "id": "hn-1782915234430-18",
+          "title": "Creator Left Furious After Man Uses AI to Turn Her Book Idea into Content",
+          "url": "https://thenerdstash.com/colorado-creator-left-furious-after-man-uses-ai-to-turn-her-book-idea-into-content-we-do-not-want-ai-slop-books/",
           "source": "Hacker News",
-          "publishedAt": "2026-06-30T13:12:17.000Z",
+          "publishedAt": "2026-07-01T14:04:04.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "Reasoning About Async Rust with State Machines",
+          "rawTextSnippet": "Creator Left Furious After Man Uses AI to Turn Her Book Idea into Content",
           "hnMeta": {
-            "points": 1,
+            "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732287"
+            "hnUrl": "https://news.ycombinator.com/item?id=48746999"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1782915234430-20",
+          "title": "Your Site, Your Rules",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T14:00:29.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Your Site, Your Rules",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746938"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1782915234430-23",
+          "title": "Short story accused of being AI-written wins overall Commonwealth prize",
+          "url": "https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:49:09.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Short story accused of being AI-written wins overall Commonwealth prize",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746757"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -397,54 +411,461 @@
       ]
     },
     {
-      "name": "AI Agents & Automation",
-      "itemCount": 35,
-      "trendScore": 192,
-      "whyTrending": "35 stories across GitHub, MIT, Hacker, 28 in the last 24h.",
+      "name": "Large Language Models",
+      "itemCount": 42,
+      "trendScore": 181,
+      "whyTrending": "42 stories across Hacker, MIT, DeepMind, 17 in the last 24h.",
       "topStory": {
-        "title": "[TianhangZhuzth/Fundamental-Ava] Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+        "title": "Google Gemini Claims to be \"structurally protective\" of Donald Trump",
+        "url": "https://www.thatprivacyguy.com/blog/google-ai-guardrails-protect-trump/"
+      },
+      "items": [
+        {
+          "id": "hn-1782915242893-176",
+          "title": "Google Gemini Claims to be \"structurally protective\" of Donald Trump",
+          "url": "https://www.thatprivacyguy.com/blog/google-ai-guardrails-protect-trump/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T09:22:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 11,
+            "comments": 2
+          },
+          "rawTextSnippet": "Google Gemini Claims to be \"structurally protective\" of Donald Trump",
+          "hnMeta": {
+            "points": 11,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=48744241"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782915240113-143",
+          "title": "Claude Fable 5 available globally tomorrow",
+          "url": "https://twitter.com/anthropicai/status/2072163884430229756",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T04:25:50.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 40,
+            "comments": 2
+          },
+          "rawTextSnippet": "Claude Fable 5 available globally tomorrow",
+          "hnMeta": {
+            "points": 40,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=48742236"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782915234430-19",
+          "title": "Discovering Concept-Editing Algorithms with LLM Agents",
+          "url": "https://dmodel.ai/concept-erasure/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T14:02:53.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Discovering Concept-Editing Algorithms with LLM Agents",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746983"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782915235835-40",
+          "title": "Claude Helped a Hacker Find a Way to Issue Tickets to US Music Festivals",
+          "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:54:38.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Claude Helped a Hacker Find a Way to Issue Tickets to US Music Festivals",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746847"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1782915235835-42",
+          "title": "Signal: A draft UX framework for LLM-based systems",
+          "url": "https://github.com/hi-mundo/SIGNAL",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:41:34.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Signal: A draft UX framework for LLM-based systems",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746626"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        }
+      ]
+    },
+    {
+      "name": "AI Agents & Automation",
+      "itemCount": 28,
+      "trendScore": 175,
+      "whyTrending": "28 stories across GitHub, Hacker, TechCrunch, 15 in the last 24h.",
+      "topStory": {
+        "title": "[TianhangZhuzth/Fundamental-Ava] Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
         "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
       },
       "items": [
         {
-          "id": "github-1782828093594-30",
-          "title": "[TianhangZhuzth/Fundamental-Ava] Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+          "id": "github-1782915234344-10",
+          "title": "[TianhangZhuzth/Fundamental-Ava] Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
           "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
           "source": "GitHub Trending",
           "publishedAt": "2026-06-30T01:04:13.000Z",
           "scoreSignals": {
             "sourceAuthority": 12,
-            "upvotes": 463
+            "upvotes": 689
           },
-          "rawTextSnippet": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+          "rawTextSnippet": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
           "githubMeta": {
-            "stars": 463,
+            "stars": 689,
             "language": "Python",
             "topics": [
               "ai",
               "ai-agents"
             ]
           },
-          "score": 64,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 12,
-            "engagement": 15,
+            "engagement": 20,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "rss-1782828093326-0",
-          "title": "The Download: AI “coworkers” and stratospheric internet",
-          "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+          "id": "hn-1782915234430-13",
+          "title": "Monlite: The complete back end for AI agents – in one file",
+          "url": "https://github.com/qataruts/monlite",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T14:11:31.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Monlite: The complete back end for AI agents – in one file",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48747142"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1782915234430-21",
+          "title": "Chainything: Workflow automation tool with no-code UI and AI assistant",
+          "url": "https://github.com/Bessouat40/chainything",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:55:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Chainything: Workflow automation tool with no-code UI and AI assistant",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746862"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1782915234430-22",
+          "title": "Auditable Workspaces for AI Coding Agents",
+          "url": "https://medium.com/@Koukyosyumei/auditable-workspaces-for-ai-coding-agents-de00eff5f9b9",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:54:34.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Auditable Workspaces for AI Coding Agents",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746845"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1782915235835-47",
+          "title": "Show HN: Lymwave, Agentic Marketing Autopilot",
+          "url": "https://lymwave.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T11:50:17.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Lymwave, Agentic Marketing Autopilot",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48745228"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "AI Safety & Regulation",
+      "itemCount": 11,
+      "trendScore": 134,
+      "whyTrending": "11 stories across Hacker, TechCrunch, OpenAI, 9 in the last 24h.",
+      "topStory": {
+        "title": "Nano Banana 2 Lite",
+        "url": "https://deepmind.google/models/gemini-image/flash-lite/"
+      },
+      "items": [
+        {
+          "id": "hn-1782915241481-173",
+          "title": "Nano Banana 2 Lite",
+          "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "source": "Hacker News",
+          "publishedAt": "2026-06-30T16:48:37.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 410,
+            "comments": 169
+          },
+          "rawTextSnippet": "Nano Banana 2 Lite",
+          "hnMeta": {
+            "points": 410,
+            "comments": 169,
+            "hnUrl": "https://news.ycombinator.com/item?id=48735444"
+          },
+          "score": 69,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 20,
+            "novelty": 10,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1782915240113-141",
+          "title": "Anthropic says US lifts export ban on Fable 5",
+          "url": "https://www.bbc.com/news/articles/cdr42623e1do",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T04:47:38.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 14,
+            "comments": 1
+          },
+          "rawTextSnippet": "Anthropic says US lifts export ban on Fable 5",
+          "hnMeta": {
+            "points": 14,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48742354"
+          },
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1782915235835-41",
+          "title": "The Canary magazine has been debanked by Lloyds Bank in the UK",
+          "url": "https://www.thecanary.co/uk/2026/06/30/lloyds-canary/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:45:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "The Canary magazine has been debanked by Lloyds Bank in the UK",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746700"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1782915240113-138",
+          "title": "White House lifts ban on Anthropic models",
+          "url": "https://www.ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T07:21:45.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "White House lifts ban on Anthropic models",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48743332"
+          },
+          "score": 58,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "rss-1782915236796-69",
+          "title": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
+          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-01T02:16:06.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 10,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Products",
+      "itemCount": 12,
+      "trendScore": 126,
+      "whyTrending": "12 stories across MIT, Hacker, TechCrunch, 8 in the last 24h.",
+      "topStory": {
+        "title": "The Download: Anthropic launches Claude Science, and California&#8217;s carbon manure math",
+        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
+      },
+      "items": [
+        {
+          "id": "rss-1782915234076-0",
+          "title": "The Download: Anthropic launches Claude Science, and California&#8217;s carbon manure math",
+          "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-06-30T12:10:00.000Z",
+          "publishedAt": "2026-07-01T12:10:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI to…",
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi…",
           "score": 63,
           "scoreBreakdown": {
             "freshness": 30,
@@ -453,184 +874,24 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Agents & Automation"
+          "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1782828096390-123",
-          "title": "Show HN: Sigil – FIDO2 key-derived P2P remote desktop (agentic workflow retro)",
-          "url": "https://dami.zip/blog/sigil-agentic-retro/",
+          "id": "hn-1782915234430-24",
+          "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+          "url": "https://news.ycombinator.com/item?id=48746752",
           "source": "Hacker News",
-          "publishedAt": "2026-06-30T12:35:36.000Z",
+          "publishedAt": "2026-07-01T13:48:44.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "I built a remote desktop app where your FIDO2 security key acts as the address. The hmac-secret produces the same Iroh P2P node identity on both ends. That means there are no accounts, pairing, or VPN required. I documented an agentic development workflow retrospective, including PoC spikes, spec dr…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48731840"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1782828093327-4",
-          "title": "Agent confidence on the technical frontier",
-          "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-06-29T14:44:01.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out…",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1782828096008-96",
-          "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-          "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-30T09:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Large Language Models",
-      "itemCount": 55,
-      "trendScore": 191,
-      "whyTrending": "55 stories across Hacker, TechCrunch, arXiv, 26 in the last 24h.",
-      "topStory": {
-        "title": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
-        "url": "https://ai-policy-gen.pages.dev"
-      },
-      "items": [
-        {
-          "id": "hn-1782828094983-81",
-          "title": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
-          "url": "https://ai-policy-gen.pages.dev",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T10:18:04.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: Privacy policy generator for AI apps (LLM disclosure, EU AI Act)",
-          "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48730624"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1782828093569-10",
-          "title": "Show HN: Autoharness – a self-learning, maintaining skill layer for Claude Code",
-          "url": "https://github.com/tigerless-labs/autoharness",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T13:53:28.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: Autoharness – a self-learning, maintaining skill layer for Claude Code",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732795"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1782828093570-29",
-          "title": "Show HN: NodePad – AI agent on a canvas instead of a linear chat",
-          "url": "https://node-pad.com/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T12:47:52.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: NodePad – AI agent on a canvas instead of a linear chat",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48731991"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1782828094983-72",
-          "title": "Show HN: Ouijit, command terminals running coding agents",
-          "url": "https://github.com/ouijit/ouijit",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T13:37:01.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
+            "upvotes": 8,
             "comments": 1
           },
-          "rawTextSnippet": "Hey folks, I started working on Ouijit around the start of the new year, and its since become the daily driver for myself and a handful of other engineers (that I know of). The initial reason I built it was over dissatisfaction with how most agent orchestrators abstract stuff behind chat UIs, requir…",
+          "rawTextSnippet": "Hi all, it’s Greg and Max, founders of Parsewise here Parsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents. Imagine giving Claude a bunch of files and asking for a CSV or JSON output. If you have tried this, you know bot…",
           "hnMeta": {
-            "points": 3,
+            "points": 8,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732590"
+            "hnUrl": "https://news.ycombinator.com/item?id=48746752"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -640,63 +901,51 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1782828094983-73",
-          "title": "Why LLMs invent answers instead of saying they don't know",
-          "url": "https://cristobalsantana.substack.com/p/hallucination-vs-confabulation-why",
+          "id": "hn-1782915234430-28",
+          "title": "The Usage Runtime for AI Products",
+          "url": "https://www.stigg.io/blog-posts/announcing-stigg-2-0-the-usage-runtime-for-ai-products",
           "source": "Hacker News",
-          "publishedAt": "2026-06-30T13:33:48.000Z",
+          "publishedAt": "2026-07-01T13:37:53.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "The Usage Runtime for AI Products",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48746573"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1782915234430-29",
+          "title": "Tim Cook Holds 'Constructive' Talks with EU over Siri AI Launch",
+          "url": "https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-01T13:23:59.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Why LLMs invent answers instead of saying they don't know",
+          "rawTextSnippet": "Tim Cook Holds 'Constructive' Talks with EU over Siri AI Launch",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732553"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 14,
-      "trendScore": 125,
-      "whyTrending": "14 stories across Hacker, TechCrunch, arXiv, 7 in the last 24h.",
-      "topStory": {
-        "title": "XFCE4 desktop icons no longer persist positions after 4.20.2 update",
-        "url": "https://news.ycombinator.com/item?id=48732720"
-      },
-      "items": [
-        {
-          "id": "hn-1782828093570-13",
-          "title": "XFCE4 desktop icons no longer persist positions after 4.20.2 update",
-          "url": "https://news.ycombinator.com/item?id=48732720",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T13:47:24.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "At some point in the last few weeks, an XFCE4 update changed how desktop icon coords are stored and restored. I spent considerable time debugging this without identifying the cause. System: Void, runit, XFCE 4.20.2, HD 3840×2160 HDMI-1 Symptom: Desktop icons set to default grid (1 of 8 options&#x2F;…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732720"
+            "hnUrl": "https://news.ycombinator.com/item?id=48746353"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -709,42 +958,15 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1782828093570-25",
-          "title": "Show HN: I Made an SDK to work with Vapi and Retell without vendor lock in",
-          "url": "https://voice-ai.dev",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T12:54:41.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: I Made an SDK to work with Vapi and Retell without vendor lock in",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48732064"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1782828096008-104",
-          "title": "TIDAL cracks down on AI music by cutting off monetization",
-          "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+          "id": "rss-1782915236796-78",
+          "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+          "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-06-29T16:29:04.000Z",
+          "publishedAt": "2026-06-30T15:08:42.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+          "rawTextSnippet": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
           "score": 53,
           "scoreBreakdown": {
             "freshness": 22,
@@ -754,295 +976,97 @@
             "businessImpact": 0
           },
           "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "arxiv-1782828094881-43",
-          "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
-          "url": "https://arxiv.org/abs/2606.30632v1",
-          "source": "arXiv",
-          "publishedAt": "2026-06-29T17:56:53.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and…",
-          "arxivMeta": {
-            "authors": "Yuhong Deng, Yuyao Liu, David Hsu",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "arxiv-1782828094883-66",
-          "title": "Entity Binding Failures in Tool-Augmented Agents",
-          "url": "https://arxiv.org/abs/2606.30531v1",
-          "source": "arXiv",
-          "publishedAt": "2026-06-29T16:34:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Tool-augmented language-model agents are often evaluated by whether they select the correct tool, produce valid API arguments, and complete the requested task. However, an agent may choose the right tool and still act on the wrong external entity. For example, a request to \"email Alex about the laun…",
-          "arxivMeta": {
-            "authors": "Rahul Suresh Babu, Shashank Indukuri",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        }
-      ]
-    },
-    {
-      "name": "Research & Benchmarks",
-      "itemCount": 10,
-      "trendScore": 113,
-      "whyTrending": "10 stories across MIT, Hacker, arXiv, 4 in the last 24h.",
-      "topStory": {
-        "title": "Building tech in the world’s secret R&#038;D hub",
-        "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/"
-      },
-      "items": [
-        {
-          "id": "rss-1782828093327-2",
-          "title": "Building tech in the world’s secret R&#038;D hub",
-          "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-06-30T10:23:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, howe…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "hn-1782828094983-85",
-          "title": "Simulate altitude training by tilting your bed",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13173307/",
-          "source": "Hacker News",
-          "publishedAt": "2026-06-30T09:44:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "Simulate altitude training by tilting your bed",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48730423"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "arxiv-1782828094882-52",
-          "title": "Beyond 2D Matching: A Unified Single-Stage Framework for Geometry-Aware Cross-View Object Geo-Localization",
-          "url": "https://arxiv.org/abs/2606.30576v1",
-          "source": "arXiv",
-          "publishedAt": "2026-06-29T17:19:49.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Cross-view object geo-localization (CVOGL) aims to locate a target object from a query view (e.g., ground or drone) within a geo-tagged reference image (e.g., satellite). Existing approaches heavily rely on 2D appearance matching and are constrained by limited datasets lacking geometric metadata, di…",
-          "arxivMeta": {
-            "authors": "Liyao Wang, Ruipu Wu, Haojun Xu, Lei Shi, Linjiang Huang, Si Liu",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "arxiv-1782828094882-57",
-          "title": "The Human Creativity Benchmark",
-          "url": "https://arxiv.org/abs/2606.30561v1",
-          "source": "arXiv",
-          "publishedAt": "2026-06-29T16:59:46.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Modern AI evaluation frameworks treat evaluator disagreement as noise to be resolved. In creative domains, professional disagreement reflects genuine differences in taste, not measurement error. We argue that evaluating creative AI requires preserving two distinct signals: convergence, where profess…",
-          "arxivMeta": {
-            "authors": "Aspen Hopkins, Allison Nulty, Alexandria Minetti, Anoop Pakki, Angad Singh",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "rss-1782828096008-105",
-          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-          "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-29T14:00:08.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-          "score": 49,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Research & Benchmarks"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1782828093570-15",
-      "title": "Show HN: Valmis, an OpenClaw alternative built for work, with security in mind",
-      "url": "https://github.com/valmishq/valmis",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-30T13:46:01.000Z",
+      "id": "rss-1782915234076-0",
+      "title": "The Download: Anthropic launches Claude Science, and California&#8217;s carbon manure math",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-01T12:10:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "Hi HN, I would like to share with you Valmis, an AI agent harness built for work, with the ability to connect to 100+ business and productivity integrations. The system is designed with security in mind, and agents run in isolated containers, meaning AI never gets access to your API credentials or y…",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48732702"
-      },
-      "score": 62,
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi…",
+      "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Valmis, an AI agent designed for work, was introduced as a secure alternative to OpenClaw.  \n• Why it matters: Its security features prevent unauthorized access to sensitive API credentials, addressing major concerns in AI integration.  \n• Business opportunity: Companies can leverage Valmis to enhance productivity while ensuring data security across multiple integrations."
-    },
-    {
-      "id": "rss-1782828096008-98",
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T02:28:41.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "score": 60,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Base44, a Wix-owned vibe coding platform, has launched its own AI model.  \n• Why it matters: This move aims to enhance competitiveness and defensibility in the growing AI startup landscape.  \n• Business opportunity: Companies can leverage Base44's new model for innovative coding solutions and improved AI capabilities."
-    },
-    {
-      "id": "hn-1782828093570-13",
-      "title": "XFCE4 desktop icons no longer persist positions after 4.20.2 update",
-      "url": "https://news.ycombinator.com/item?id=48732720",
-      "source": "Hacker News",
-      "publishedAt": "2026-06-30T13:47:24.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "At some point in the last few weeks, an XFCE4 update changed how desktop icon coords are stored and restored. I spent considerable time debugging this without identifying the cause. System: Void, runit, XFCE 4.20.2, HD 3840×2160 HDMI-1 Symptom: Desktop icons set to default grid (1 of 8 options&#x2F;…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48732720"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
+        "authority": 18,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "AI Tools & Products",
-      "summary": "• What happened: The XFCE4 desktop update 4.20.2 altered how desktop icon positions are stored, causing them to reset.  \n• Why it matters: This change disrupts user experience by preventing customized desktop layouts, which can frustrate users.  \n• Business opportunity: Developers can create tools or patches to restore icon position functionality, addressing user needs for customization."
+      "summary": "• What happened: Anthropic launched Claude Science, its latest flagship product, at an event for biotech and pharmaceutical leaders.  \n• Why it matters: This development highlights advancements in AI technology tailored for the life sciences sector.  \n• Business opportunity: Companies in biotech can leverage Claude Science to enhance research and drug development processes."
     },
     {
-      "id": "hn-1782828093570-19",
-      "title": "The AI Productivity Trap",
-      "url": "https://i0exception.substack.com/p/doing-more-shipping-less",
+      "id": "rss-1782915236796-67",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T13:43:07.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: Meta is planning to launch a cloud infrastructure business to sell AI compute power and models.  \n• Why it matters: This move positions Meta to compete with major cloud providers, potentially reshaping the AI services market.  \n• Business opportunity: Companies can leverage Meta's AI capabilities, creating new partnerships and revenue streams in the cloud computing sector."
+    },
+    {
+      "id": "hn-1782915240113-143",
+      "title": "Claude Fable 5 available globally tomorrow",
+      "url": "https://twitter.com/anthropicai/status/2072163884430229756",
       "source": "Hacker News",
-      "publishedAt": "2026-06-30T13:17:19.000Z",
+      "publishedAt": "2026-07-01T04:25:50.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
+        "upvotes": 40,
+        "comments": 2
       },
-      "rawTextSnippet": "The AI Productivity Trap",
+      "rawTextSnippet": "Claude Fable 5 available globally tomorrow",
       "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48732361"
+        "points": 40,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48742236"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Fable 5 will be released globally tomorrow.  \n• Why it matters: This launch could enhance competitive dynamics in the AI market.  \n• Business opportunity: Companies can leverage Claude Fable 5's capabilities for innovative applications and solutions."
+    },
+    {
+      "id": "hn-1782915234430-24",
+      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "url": "https://news.ycombinator.com/item?id=48746752",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-01T13:48:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 8,
+        "comments": 1
+      },
+      "rawTextSnippet": "Hi all, it’s Greg and Max, founders of Parsewise here Parsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents. Imagine giving Claude a bunch of files and asking for a CSV or JSON output. If you have tried this, you know bot…",
+      "hnMeta": {
+        "points": 8,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48746752"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1052,24 +1076,24 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI in Enterprise"
+      "cluster": "AI Tools & Products"
     },
     {
-      "id": "hn-1782828093570-25",
-      "title": "Show HN: I Made an SDK to work with Vapi and Retell without vendor lock in",
-      "url": "https://voice-ai.dev",
+      "id": "hn-1782915234430-28",
+      "title": "The Usage Runtime for AI Products",
+      "url": "https://www.stigg.io/blog-posts/announcing-stigg-2-0-the-usage-runtime-for-ai-products",
       "source": "Hacker News",
-      "publishedAt": "2026-06-30T12:54:41.000Z",
+      "publishedAt": "2026-07-01T13:37:53.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Show HN: I Made an SDK to work with Vapi and Retell without vendor lock in",
+      "rawTextSnippet": "The Usage Runtime for AI Products",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48732064"
+        "hnUrl": "https://news.ycombinator.com/item?id=48746573"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1083,268 +1107,111 @@
     }
   ],
   "redditSignals": [],
-  "research": [
-    {
-      "id": "arxiv-1782828094881-44",
-      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.30627v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-29T17:56:03.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanist…",
-      "arxivMeta": {
-        "authors": "Subramanyam Sahoo, Aman Chadha, Vinija Jain, Divya Chaudhary",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "arxiv-1782828094881-45",
-      "title": "DOPD: Dual On-policy Distillation",
-      "url": "https://arxiv.org/abs/2606.30626v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-29T17:55:53.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged informat…",
-      "arxivMeta": {
-        "authors": "Xinlei Yu, Gen Li, Qingyi Si, Guibin Zhang, Yuqi Xu, Congcong Wang, Shuai Dong, Kaiwen Tuo, Xiangyu Zeng, Kaituo Feng, Qunzhong Wang, Yang Shi, Xiaobin Hu, Xiangyu Yue, Jiaqi Wang, Shuicheng Yan",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "arxiv-1782828094882-65",
-      "title": "Learning from Mistakes: Rollout-Retrieval Lifelong Policy Learning for Autonomous Driving",
-      "url": "https://arxiv.org/abs/2606.30537v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-29T16:37:50.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Autonomous driving policies should be able to improve continually as deployment exposes them to increasingly diverse and long-tail traffic situations. However, most learning-based policies are trained or fine-tuned on expert demonstrations and then rely largely on generalization to handle challengin…",
-      "arxivMeta": {
-        "authors": "Cheng Gong, Haoyang Wang, Chao Lu, Zirui Li, Jianwei Gong",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1782828094880-40",
-      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
-      "url": "https://arxiv.org/abs/2606.30645v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-29T17:59:55.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this…",
-      "arxivMeta": {
-        "authors": "Yen-Jen Wang, Jiaman Li, Sirui Chen, Takara E. Truong, Pei Xu, Pieter Abbeel, Rocky Duan, Koushil Sreenath, Angjoo Kanazawa, Carmelo Sferrazza, Guanya Shi, Karen Liu",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Generative AI & Media"
-    },
-    {
-      "id": "arxiv-1782828094880-41",
-      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
-      "url": "https://arxiv.org/abs/2606.30642v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-29T17:59:20.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling preserves vocal-instrument coordination but obscures track-spe…",
-      "arxivMeta": {
-        "authors": "Shun Lei, Huaicheng Zhang, Dapeng Wu, Yaoxun Xu, Lishi Zuo, Wei Tan, Hangting Chen, Guangzheng Li, Jianwei Yu, Zhiyong Wu, Dong Yu",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    }
-  ],
+  "research": [],
   "funding": [
     {
-      "id": "rss-1782828093327-1",
-      "title": "Agriculture is ready for AI, but its data isn&#8217;t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-30T12:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins …",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Agriculture is poised for AI adoption, but lacks sufficient data infrastructure.  \n• Why it matters: Proper data groundwork is crucial to maximize AI's potential in addressing industry challenges.  \n• Business opportunity: Companies can invest in data solutions to enable effective AI integration in agriculture."
-    },
-    {
-      "id": "rss-1782828093327-4",
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-29T14:44:01.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out…",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Enterprise investment in AI is surging, with Gartner predicting 2026 as a pivotal year for aligning AI projects with business goals.  \n• Why it matters: The increasing pressure to demonstrate ROI is pushing executives to adopt agentic AI for tangible financial outcomes.  \n• Business opportunity: Companies can capitalize on this trend by developing solutions that enhance AI integration and measurable impact on business performance."
-    },
-    {
-      "id": "rss-1782828096008-106",
-      "title": "Omen AI&#8217;s plan to optimize data centers is all wet",
-      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "id": "rss-1782915236796-66",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29T13:00:00.000Z",
+      "publishedAt": "2026-07-01T14:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-      "score": 52,
+      "rawTextSnippet": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: The Builders Stage at TechCrunch Disrupt 2026 will feature over 10,000 attendees focused on scaling startups.  \n• Why it matters: This event provides valuable insights and networking opportunities for entrepreneurs and investors in the startup ecosystem.  \n• Business opportunity: Companies can leverage the event to showcase their solutions and connect with potential partners and investors."
+    },
+    {
+      "id": "rss-1782915236796-74",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T18:13:02.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
       "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Omen AI secured $31 million in Series A funding to enhance data center operations by monitoring chip coolant and preventing bacterial outbreaks.  \n• Why it matters: This innovation addresses critical efficiency and health issues in data centers, which are vital for tech infrastructure.  \n• Business opportunity: Companies can leverage Omen AI's technology to improve operational reliability and reduce maintenance costs in data centers."
+      "summary": "• What happened: Etched, a competitor to Nvidia, achieved a $5 billion valuation and $1 billion in sales for its AI chip.  \n• Why it matters: This milestone highlights the growing competition in the AI chip market, challenging Nvidia's dominance.  \n• Business opportunity: Companies can explore partnerships or investments in emerging AI chip firms like Etched to diversify their technology portfolios."
     },
     {
-      "id": "arxiv-1782828094882-47",
-      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-      "url": "https://arxiv.org/abs/2606.30616v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-29T17:50:54.000Z",
+      "id": "rss-1782915234076-2",
+      "title": "Roundtables: Longevity&#8217;s Next Frontier: &#8220;Reprogramming&#8221; Your Body",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-30T17:36:48.000Z",
       "scoreSignals": {
-        "sourceAuthority": 15
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "We introduce Agents-A1, a 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling the agent horizon. We investigate agent-horizon scaling from two perspectives: scaling long-horizon trajectories and scaling heterogeneous agent abilities. To support this goal…",
-      "arxivMeta": {
-        "authors": "Lei Bai, Zongsheng Cao, Yang Chen, Zhiyao Cui, Shangheng Du, Yue Fan, Shiyang Feng, Zijie Guo, Haonan He, Liang He, Xiaohan He, Shuyue Hu, Yusong Hu, Songtao Huang, Yichen Jiang, Hao Li, Xin Li, Dahua Lin, Weihao Lin, Fenghua Ling, Dongrui Liu, Zhuo Liu, Runmin Ma, Chunjiang Mu, Haoyang Peng, Tianshuo Peng, Jinxin Shi, Luohe Shi, Boyuan Sun, Zelin Tan, Shengji Tang, Qianyi Wang, Yiming Wu, Yi Xie, Xiangchao Yan, Jingqi Ye, Peng Ye, Fangchen Yu, Jiakang Yuan, Bihao Zhan, Bo Zhang, Chen Zhang, Shufei Zhang, Shuaiyu Zhang, Wenlong Zhang, Yiqun Zhang, Junpeng Zhao, Zhijie Zhong, Bowen Zhou, Yuhao Zhou",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
+      "rawTextSnippet": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity&#8217;s new focus. Spe…",
+      "score": 58,
       "scoreBreakdown": {
         "freshness": 22,
-        "authority": 15,
+        "authority": 18,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Scientists are exploring methods to \"reprogram\" cells to reverse aging, attracting significant investment.  \n• Why it matters: This research could revolutionize healthcare and extend human lifespan, impacting demographics and economies.  \n• Business opportunity: Companies can invest in or develop technologies related to cellular reprogramming and longevity treatments."
+    },
+    {
+      "id": "rss-1782915236796-72",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T20:33:48.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks"
+    },
+    {
+      "id": "rss-1782915236796-80",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T15:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
       },
       "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1782828094882-50",
-      "title": "Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection",
-      "url": "https://arxiv.org/abs/2606.30587v1",
-      "source": "arXiv",
-      "publishedAt": "2026-06-29T17:31:10.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Researchers and practitioners increasingly apply Large Language Models (LLMs) for automated vulnerability detection. Recent work has shown that LLMs are susceptible to the same cognitive heuristics that bias human judgment. Yet, no work has investigated whether these heuristics affect a model's asse…",
-      "arxivMeta": {
-        "authors": "Asif Shahriar, Hongyu Cai, Hadjer Benkraouda, Gang Wang, Z. Berkay Celik",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
     }
   ],
-  "dailyBrief": "Today’s AI landscape is buzzing with innovation and opportunity. TianhangZhuzth's project on GitHub is gaining traction for its development of digital human beings—autonomous agents designed for collaboration and social intelligence, which could revolutionize customer service and remote work. Meanwhile, MIT Technology Review highlights the emergence of AI \"coworkers\" and the potential of stratospheric internet to enhance connectivity, paving the way for more integrated AI solutions in various industries. However, the agricultural sector faces a challenge, as it is ready for AI adoption, yet struggles with inadequate data infrastructure. Additionally, the launch of Valmis, an OpenClaw alternative focused on security, underscores the growing demand for secure AI tools in the workplace. These developments signal a pivotal moment for businesses to leverage AI effectively while addressing data readiness and security concerns."
+  "dailyBrief": "In today's AI landscape, Fable 5 is being redeployed to enhance user engagement, while the launch of Nano Banana 2 Lite promises to streamline data processing for smaller enterprises. At TechCrunch Disrupt 2026, the Builders Stage agenda has been unveiled, focusing on practical strategies for scaling startups, which could provide valuable insights for entrepreneurs navigating the current economic climate. Meanwhile, Google Gemini's claim of being \"structurally protective\" of Donald Trump raises questions about the ethical implications of AI in political discourse. Lastly, Anthropic's introduction of Claude Science aims to advance AI research, coinciding with California's innovative approach to carbon manure calculations, highlighting the intersection of AI and sustainability in business practices."
 }
