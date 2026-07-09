@@ -1,70 +1,119 @@
 {
   "topNews": [
     {
-      "id": "hn-1783518320799-139",
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "id": "hn-1783607813238-199",
+      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
       "source": "Hacker News",
-      "publishedAt": "2026-07-08T04:12:13.000Z",
+      "publishedAt": "2026-07-08T20:41:33.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 214,
-        "comments": 190
+        "upvotes": 209,
+        "comments": 187
       },
-      "rawTextSnippet": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "rawTextSnippet": "The classifiers Anthropic puts in front of Fable are too zealous",
       "hnMeta": {
-        "points": 214,
-        "comments": 190,
-        "hnUrl": "https://news.ycombinator.com/item?id=48827402"
+        "points": 209,
+        "comments": 187,
+        "hnUrl": "https://news.ycombinator.com/item?id=48837162"
       },
-      "score": 75,
+      "score": 71,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 22,
         "authority": 14,
         "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: GPT-5.6 Sol, Terra, and Luna are set to launch publicly this Thursday.  \n• Why it matters: This launch could significantly impact the AI and blockchain sectors, attracting attention and investment.  \n• Business opportunity: Companies can explore integration and partnership opportunities with these emerging technologies to enhance their offerings."
+      "cluster": "General AI",
+      "summary": "• What happened: Anthropic's classifiers for Fable are overly aggressive in their filtering.  \n• Why it matters: This could hinder user experience and limit content accessibility.  \n• Business opportunity: There is potential for developing more balanced classification tools that enhance user engagement."
     },
     {
-      "id": "rss-1783518319001-100",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "id": "hn-1783607810424-122",
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "url": "https://github.com/ronak-create/FableCut",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-09T13:23:10.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 46,
+        "comments": 26
+      },
+      "rawTextSnippet": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "hnMeta": {
+        "points": 46,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=48845422"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: FableCut, a browser-based video editor powered by AI agents, has been launched.  \n• Why it matters: It offers a zero-dependency solution for video editing, making it accessible to a wider audience.  \n• Business opportunity: There is potential for partnerships with content creators and marketers seeking efficient video production tools."
+    },
+    {
+      "id": "rss-1783607807370-0",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-09T12:10:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Four nuclear reactors in the US achieved a significant milestone.  \n• Why it matters: This advancement highlights progress in nuclear energy, which is crucial for sustainable power generation.  \n• Business opportunity: Companies in the energy sector can explore investments in nuclear technology and infrastructure development."
+    },
+    {
+      "id": "rss-1783607809943-101",
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08T08:00:00.000Z",
+      "publishedAt": "2026-07-09T12:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "score": 67,
+      "rawTextSnippet": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 3
       },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: ZML, a French AI startup, launched ZML/LLMD software to enhance AI inference efficiency.  \n• Why it matters: This innovation could significantly reduce operational costs for AI applications.  \n• Business opportunity: Companies can leverage ZML/LLMD to optimize AI performance and lower expenses in their operations."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Nandan Nilekani stepped down from his general partner role at Fundamentum, which is launching a $200M third fund.  \n• Why it matters: This transition signals a strategic shift as the firm aims to enhance its leadership and focus on AI and fintech sectors in India.  \n• Business opportunity: Investors can capitalize on the growing demand for AI and fintech innovations in the Indian market."
     },
     {
-      "id": "hn-1783518317940-86",
-      "title": "ZML/LLMD alpha – cross platform LLM server",
-      "url": "https://zml.ai/posts/llmd/",
+      "id": "hn-1783607807573-19",
+      "title": "Introducing Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
       "source": "Hacker News",
-      "publishedAt": "2026-07-08T08:58:48.000Z",
+      "publishedAt": "2026-07-09T14:10:22.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 15,
-        "comments": 3
+        "upvotes": 29,
+        "comments": 7
       },
-      "rawTextSnippet": "ZML/LLMD alpha – cross platform LLM server",
+      "rawTextSnippet": "Introducing Muse Spark 1.1",
       "hnMeta": {
-        "points": 15,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48829412"
+        "points": 29,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48846184"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -74,67 +123,137 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: ZML/LLMD alpha has launched a cross-platform LLM server.  \n• Why it matters: This development enhances accessibility and interoperability for large language models across different systems.  \n• Business opportunity: Companies can leverage this technology to improve AI integration and streamline operations across diverse platforms."
+      "cluster": "General AI",
+      "summary": "• What happened: Muse Spark 1.1 has been launched with new features.  \n• Why it matters: This update enhances user experience and functionality.  \n• Business opportunity: Companies can leverage these improvements to attract and retain users."
     },
     {
-      "id": "rss-1783518316307-0",
-      "title": "The Download: worms fight pollution, and geoengineering faces reality",
-      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-08T12:10:00.000Z",
+      "id": "hn-1783607808974-73",
+      "title": "Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger",
+      "url": "https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-09T13:19:12.000Z",
       "scoreSignals": {
-        "sourceAuthority": 18
+        "sourceAuthority": 14,
+        "upvotes": 11,
+        "comments": 0
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu…",
-      "score": 63,
+      "rawTextSnippet": "Kiyeovo is a decentralized, end-to-end encrypted messenger. It requires no accounts, no email, no central servers. Peers find each other and talk directly over libp2p. kad-DHT stores messages for offline peers and handles finding other users by their username&#x2F;peerID. After almost a year of solo…",
+      "hnMeta": {
+        "points": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48845367"
+      },
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Open Source AI",
+      "summary": "• What happened: Kiyeovo 1.0, a decentralized end-to-end encrypted P2P messenger, was released.  \n• Why it matters: It eliminates the need for accounts and central servers, enhancing user privacy and security.  \n• Business opportunity: There is potential for growth in the secure communication market, appealing to privacy-conscious users."
+    },
+    {
+      "id": "hn-1783607808974-78",
+      "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
+      "url": "https://arcaide.foo",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-09T12:59:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 12,
+        "comments": 3
+      },
+      "rawTextSnippet": "One of the things I do when approaching a new codebase is to find the entry points and start exploring down the call paths. This gives a good overview of the different components in the code and how they&#x27;re connected. I wanted to translate that to a visual experience, similar to how you would u…",
+      "hnMeta": {
+        "points": 12,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48845142"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: Researchers are exploring the use of worms and microbes to combat manure pollution in agriculture.  \n• Why it matters: This approach could significantly reduce environmental pollution and improve sustainability in farming practices.  \n• Business opportunity: Companies can invest in bioengineering solutions that harness worms and microbes for eco-friendly waste management."
+      "summary": "• What happened: Arcaide launched a tool for visualizing multi-level call graphs in codebases.  \n• Why it matters: This tool enhances understanding of code structure and relationships, improving developer efficiency.  \n• Business opportunity: There is potential for software development firms to integrate Arcaide into their workflows for better onboarding and code management."
     },
     {
-      "id": "rss-1783518319001-101",
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08T07:16:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: AI chip maker SambaNova raised $1 billion at an $11 billion valuation.  \n• Why it matters: This funding round highlights the growing investor confidence in AI hardware amid rising demand.  \n• Business opportunity: Companies can explore partnerships or investments in AI chip technology to capitalize on market growth."
-    },
-    {
-      "id": "hn-1783518316513-52",
-      "title": "I had 25 AI agents try to kill 25 startup ideas. They killed 22",
-      "url": "https://thatsbuddy.com/blog/kill-test",
+      "id": "hn-1783607808974-86",
+      "title": "LLama.cpp Got Screwd",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/25482",
       "source": "Hacker News",
-      "publishedAt": "2026-07-08T13:03:42.000Z",
+      "publishedAt": "2026-07-09T11:40:16.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 4
+      },
+      "rawTextSnippet": "LLama.cpp Got Screwd",
+      "hnMeta": {
+        "points": 5,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48844268"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Open Source AI",
+      "summary": "• What happened: LLama.cpp faced significant setbacks in its development.  \n• Why it matters: This situation highlights vulnerabilities in open-source projects and community support.  \n• Business opportunity: There is potential for companies to offer robust support and management solutions for open-source software."
+    },
+    {
+      "id": "hn-1783607807573-11",
+      "title": "Stacking Chips Sideways Gives AI More Memory",
+      "url": "https://spectrum.ieee.org/stacking-chips-sideways",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-09T14:31:12.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "I had 25 AI agents try to kill 25 startup ideas. They killed 22",
+      "rawTextSnippet": "Stacking Chips Sideways Gives AI More Memory",
       "hnMeta": {
         "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48831410"
+        "hnUrl": "https://news.ycombinator.com/item?id=48846515"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Researchers developed a method to stack chips sideways, enhancing AI memory capacity.  \n• Why it matters: Increased memory allows AI systems to process more data efficiently, improving performance.  \n• Business opportunity: Companies can leverage this technology to create advanced AI applications with superior capabilities."
+    },
+    {
+      "id": "hn-1783607807573-20",
+      "title": "A Startup That Builds AI Agents Used One to Raise $100M",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-09T14:09:30.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "A Startup That Builds AI Agents Used One to Raise $100M",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48846166"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -145,168 +264,63 @@
         "businessImpact": 3
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: An experiment with 25 AI agents resulted in the rejection of 22 startup ideas.  \n• Why it matters: This highlights the potential of AI in evaluating and refining business concepts.  \n• Business opportunity: Entrepreneurs can leverage AI tools to validate and improve their startup ideas before launch."
-    },
-    {
-      "id": "hn-1783518322253-173",
-      "title": "Backdoor security alert over Anthropic's Claude Code",
-      "url": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-08T12:31:25.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 0
-      },
-      "rawTextSnippet": "Backdoor security alert over Anthropic's Claude Code",
-      "hnMeta": {
-        "points": 4,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48831100"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A security alert was issued regarding potential backdoor vulnerabilities in Anthropic's Claude Code.  \n• Why it matters: This raises concerns about the integrity and safety of AI systems in sensitive applications.  \n• Business opportunity: Companies can invest in robust security solutions to mitigate risks associated with AI vulnerabilities."
-    },
-    {
-      "id": "hn-1783518322253-175",
-      "title": "China warns of 'security backdoor' in Anthropic AI coding tool",
-      "url": "https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-08T11:49:28.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 0
-      },
-      "rawTextSnippet": "China warns of 'security backdoor' in Anthropic AI coding tool",
-      "hnMeta": {
-        "points": 4,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48830702"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: China has issued a warning about a potential security backdoor in Anthropic's AI coding tool.  \n• Why it matters: This raises concerns over data security and the integrity of AI technologies used in sensitive applications.  \n• Business opportunity: Companies can capitalize on this by developing robust security solutions for AI tools to enhance trust and compliance."
-    },
-    {
-      "id": "rss-1783518319001-99",
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08T12:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Former OpenAI executive Kevin Weil joined the board of Stoke Space.  \n• Why it matters: This move indicates a growing interest in reusable rocket technology in Silicon Valley.  \n• Business opportunity: Companies can explore investments and innovations in the emerging reusable space launch market."
-    },
-    {
-      "id": "hn-1783518320799-140",
-      "title": "Trump administration lifts restrictions on OpenAI's GPT 5.6",
-      "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-08T03:42:39.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 4
-      },
-      "rawTextSnippet": "Trump administration lifts restrictions on OpenAI's GPT 5.6",
-      "hnMeta": {
-        "points": 7,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48827227"
-      },
-      "score": 60,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: The Trump administration has lifted restrictions on OpenAI's GPT 5.6.  \n• Why it matters: This move could accelerate AI development and deployment across various sectors.  \n• Business opportunity: Companies can leverage enhanced AI capabilities for innovation and competitive advantage."
+      "summary": "• What happened: A startup specializing in AI agents successfully raised $100 million.  \n• Why it matters: This funding highlights investor confidence in AI technologies and their potential impact.  \n• Business opportunity: Companies can explore AI solutions to enhance efficiency and attract investment."
     }
   ],
   "trendingTopics": [
     {
-      "name": "Large Language Models",
-      "itemCount": 62,
-      "trendScore": 209,
-      "whyTrending": "62 stories across Hacker, arXiv, OpenAI, 37 in the last 24h.",
+      "name": "General AI",
+      "itemCount": 50,
+      "trendScore": 194,
+      "whyTrending": "50 stories across Hacker, MIT, arXiv, 25 in the last 24h.",
       "topStory": {
-        "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-        "url": "https://twitter.com/OpenAI/status/2074704958419792299"
+        "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+        "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html"
       },
       "items": [
         {
-          "id": "hn-1783518320799-139",
-          "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-          "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+          "id": "hn-1783607813238-199",
+          "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+          "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
           "source": "Hacker News",
-          "publishedAt": "2026-07-08T04:12:13.000Z",
+          "publishedAt": "2026-07-08T20:41:33.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 214,
-            "comments": 190
+            "upvotes": 209,
+            "comments": 187
           },
-          "rawTextSnippet": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+          "rawTextSnippet": "The classifiers Anthropic puts in front of Fable are too zealous",
           "hnMeta": {
-            "points": 214,
-            "comments": 190,
-            "hnUrl": "https://news.ycombinator.com/item?id=48827402"
+            "points": 209,
+            "comments": 187,
+            "hnUrl": "https://news.ycombinator.com/item?id=48837162"
           },
-          "score": 75,
+          "score": 71,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 22,
             "authority": 14,
             "engagement": 20,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1783518317940-86",
-          "title": "ZML/LLMD alpha – cross platform LLM server",
-          "url": "https://zml.ai/posts/llmd/",
+          "id": "hn-1783607807573-19",
+          "title": "Introducing Muse Spark 1.1",
+          "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
           "source": "Hacker News",
-          "publishedAt": "2026-07-08T08:58:48.000Z",
+          "publishedAt": "2026-07-09T14:10:22.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 15,
-            "comments": 3
+            "upvotes": 29,
+            "comments": 7
           },
-          "rawTextSnippet": "ZML/LLMD alpha – cross platform LLM server",
+          "rawTextSnippet": "Introducing Muse Spark 1.1",
           "hnMeta": {
-            "points": 15,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=48829412"
+            "points": 29,
+            "comments": 7,
+            "hnUrl": "https://news.ycombinator.com/item?id=48846184"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -316,114 +330,48 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1783518322253-173",
-          "title": "Backdoor security alert over Anthropic's Claude Code",
-          "url": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
+          "id": "hn-1783607808974-78",
+          "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
+          "url": "https://arcaide.foo",
           "source": "Hacker News",
-          "publishedAt": "2026-07-08T12:31:25.000Z",
+          "publishedAt": "2026-07-09T12:59:44.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
+            "upvotes": 12,
+            "comments": 3
           },
-          "rawTextSnippet": "Backdoor security alert over Anthropic's Claude Code",
+          "rawTextSnippet": "One of the things I do when approaching a new codebase is to find the entry points and start exploring down the call paths. This gives a good overview of the different components in the code and how they&#x27;re connected. I wanted to translate that to a visual experience, similar to how you would u…",
           "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831100"
+            "points": 12,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=48845142"
           },
-          "score": 62,
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1783518320799-140",
-          "title": "Trump administration lifts restrictions on OpenAI's GPT 5.6",
-          "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T03:42:39.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 4
-          },
-          "rawTextSnippet": "Trump administration lifts restrictions on OpenAI's GPT 5.6",
-          "hnMeta": {
-            "points": 7,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=48827227"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
             "authority": 14,
             "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1783518316513-46",
-          "title": "Are LLMs good enough for Document Extraction?",
-          "url": "https://www.unsiloed.ai/blog/are-llms-good-enough-for-document-extraction-in-2026",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:34:35.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Are LLMs good enough for Document Extraction?",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831764"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        }
-      ]
-    },
-    {
-      "name": "General AI",
-      "itemCount": 53,
-      "trendScore": 202,
-      "whyTrending": "53 stories across MIT, TechCrunch, Hacker, 34 in the last 24h.",
-      "topStory": {
-        "title": "The Download: worms fight pollution, and geoengineering faces reality",
-        "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
-      },
-      "items": [
-        {
-          "id": "rss-1783518316307-0",
-          "title": "The Download: worms fight pollution, and geoengineering faces reality",
-          "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+          "id": "rss-1783607807370-1",
+          "title": "Four nuclear reactors hit a big milestone in the US",
+          "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-07-08T12:10:00.000Z",
+          "publishedAt": "2026-07-09T08:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu…",
-          "score": 63,
+          "rawTextSnippet": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es…",
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 26,
             "authority": 18,
             "engagement": 0,
             "novelty": 15,
@@ -432,95 +380,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1783518319001-99",
-          "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-          "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-08T12:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1783518316513-45",
-          "title": "The AI boom is coming for the bond market",
-          "url": "https://economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
+          "id": "hn-1783607807573-10",
+          "title": "Zuckerberg Pledges 'Aggressive' Pricing with Meta's First Pay-to-Use AI",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model",
           "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:35:10.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "The AI boom is coming for the bond market",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831775"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1783518316513-47",
-          "title": "Amazon aims to raise $25B from bond sale",
-          "url": "https://www.reuters.com/legal/transactional/amazon-aims-raise-25-billion-bond-sale-bloomberg-news-reports-2026-07-07/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:32:26.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
-          },
-          "rawTextSnippet": "Amazon aims to raise $25B from bond sale",
-          "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831732"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1783518316513-48",
-          "title": "What AI Sandboxing Means",
-          "url": "https://kenhuangus.substack.com/p/the-untrusted-tenant-rethinking-infrastructure",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:27:15.000Z",
+          "publishedAt": "2026-07-09T14:35:02.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "What AI Sandboxing Means",
+          "rawTextSnippet": "Zuckerberg Pledges 'Aggressive' Pricing with Meta's First Pay-to-Use AI",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831681"
+            "hnUrl": "https://news.ycombinator.com/item?id=48846578"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -536,30 +410,57 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 34,
-      "trendScore": 186,
-      "whyTrending": "34 stories across Hacker, GitHub, arXiv, 21 in the last 24h.",
+      "itemCount": 38,
+      "trendScore": 194,
+      "whyTrending": "38 stories across Hacker, GitHub, TechCrunch, 26 in the last 24h.",
       "topStory": {
-        "title": "I had 25 AI agents try to kill 25 startup ideas. They killed 22",
-        "url": "https://thatsbuddy.com/blog/kill-test"
+        "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+        "url": "https://github.com/ronak-create/FableCut"
       },
       "items": [
         {
-          "id": "hn-1783518316513-52",
-          "title": "I had 25 AI agents try to kill 25 startup ideas. They killed 22",
-          "url": "https://thatsbuddy.com/blog/kill-test",
+          "id": "hn-1783607810424-122",
+          "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+          "url": "https://github.com/ronak-create/FableCut",
           "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:03:42.000Z",
+          "publishedAt": "2026-07-09T13:23:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 46,
+            "comments": 26
+          },
+          "rawTextSnippet": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+          "hnMeta": {
+            "points": 46,
+            "comments": 26,
+            "hnUrl": "https://news.ycombinator.com/item?id=48845422"
+          },
+          "score": 69,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1783607807573-20",
+          "title": "A Startup That Builds AI Agents Used One to Raise $100M",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T14:09:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "I had 25 AI agents try to kill 25 startup ideas. They killed 22",
+          "rawTextSnippet": "A Startup That Builds AI Agents Used One to Raise $100M",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831410"
+            "hnUrl": "https://news.ycombinator.com/item?id=48846166"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -572,288 +473,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1783518316513-50",
-          "title": "AI agents accessing production database",
-          "url": "https://news.ycombinator.com/item?id=48831580",
+          "id": "hn-1783607807573-13",
+          "title": "Altman: GPT-5.6 is 54% more token efficient on agentic coding",
+          "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
           "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:19:37.000Z",
+          "publishedAt": "2026-07-09T14:25:13.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "So we have arrived at a point, our agent neeeds to interact with real production database. So if you have implemented agents beyond the prototype stage, 1. what does your architecture is like, 2. any guardrails or runtime we need to custom build and 3. problems you have faced when it reached product…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831580"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1783518316513-54",
-          "title": "Show HN: AIfunc – Call AI as a function, not as an agent",
-          "url": "https://github.com/aifunc-dev/aifunc/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:00:43.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: AIfunc – Call AI as a function, not as an agent",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831383"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1783518317940-79",
-          "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
-          "url": "https://danluu.com/ai-coding/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T11:37:54.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48830620"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1783518319371-119",
-          "title": "Build, deploy, and scale agents at any level (L1–L5)",
-          "url": "https://github.com/scaleapi/scale-agentex",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:35:39.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Build, deploy, and scale agents at any level (L1–L5)",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831782"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Generative AI & Media",
-      "itemCount": 11,
-      "trendScore": 132,
-      "whyTrending": "11 stories across Hacker, arXiv, TechCrunch, 9 in the last 24h.",
-      "topStory": {
-        "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-        "url": "https://www.bbc.com/news/articles/cp9lee19y1yo"
-      },
-      "items": [
-        {
-          "id": "hn-1783518316513-40",
-          "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-          "url": "https://www.bbc.com/news/articles/cp9lee19y1yo",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:40:54.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831854"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Generative AI & Media"
-        },
-        {
-          "id": "hn-1783518316513-41",
-          "title": "We just figured out how AI works (J-Space) [video]",
-          "url": "https://www.youtube.com/watch?v=bjHuGNo3spk",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:39:53.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "We just figured out how AI works (J-Space) [video]",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831837"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Generative AI & Media"
-        },
-        {
-          "id": "hn-1783518316513-42",
-          "title": "NexSub: The First Offline AI Video Subtitle Translator",
-          "url": "https://steelsoft.site/software/NexSub_home.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:39:07.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "NexSub: The First Offline AI Video Subtitle Translator",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831827"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Generative AI & Media"
-        },
-        {
-          "id": "hn-1783518316513-44",
-          "title": "Meta releases MuseImage and MuseVideo, its image and video generation models",
-          "url": "https://twitter.com/AIatMeta/status/2074577662840832382",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T13:35:28.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Meta releases MuseImage and MuseVideo, its image and video generation models",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831779"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Generative AI & Media"
-        },
-        {
-          "id": "hn-1783518316513-56",
-          "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images–Unless You Opt Out",
-          "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T12:59:41.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 2
-          },
-          "rawTextSnippet": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images–Unless You Opt Out",
-          "hnMeta": {
-            "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=48831365"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Generative AI & Media"
-        }
-      ]
-    },
-    {
-      "name": "AI Safety & Regulation",
-      "itemCount": 12,
-      "trendScore": 127,
-      "whyTrending": "12 stories across Hacker, TechCrunch, arXiv, 8 in the last 24h.",
-      "topStory": {
-        "title": "OpenClaw plugin for real phone calls via Twilio and OpenAI Realtime",
-        "url": "https://github.com/TristanBrotherton/openclaw-voice-call-realtime"
-      },
-      "items": [
-        {
-          "id": "hn-1783518320799-135",
-          "title": "OpenClaw plugin for real phone calls via Twilio and OpenAI Realtime",
-          "url": "https://github.com/TristanBrotherton/openclaw-voice-call-realtime",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-08T11:33:40.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 3,
             "comments": 1
           },
-          "rawTextSnippet": "OpenClaw plugin for real phone calls via Twilio and OpenAI Realtime",
+          "rawTextSnippet": "Altman: GPT-5.6 is 54% more token efficient on agentic coding",
           "hnMeta": {
-            "points": 1,
+            "points": 3,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=48830588"
+            "hnUrl": "https://news.ycombinator.com/item?id=48846407"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -863,261 +497,628 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1783518322253-178",
-          "title": "Abnormal Response to Anthropic Lawsuit",
-          "url": "https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit",
+          "id": "hn-1783607807573-14",
+          "title": "AI Agent Platforms Are Getting Hacked. Here's What's Missing",
+          "url": "https://konghq.com/blog/enterprise/ai-agent-platforms-hacked-whats-missing",
           "source": "Hacker News",
-          "publishedAt": "2026-07-08T04:14:01.000Z",
+          "publishedAt": "2026-07-09T14:24:09.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 6,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Abnormal Response to Anthropic Lawsuit",
+          "rawTextSnippet": "AI Agent Platforms Are Getting Hacked. Here's What's Missing",
           "hnMeta": {
-            "points": 6,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=48827418"
+            "hnUrl": "https://news.ycombinator.com/item?id=48846393"
           },
-          "score": 58,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1783607807573-15",
+          "title": "AI Agent Skill Traceability in UX Design",
+          "url": "https://rapidkt.com/pages/blog/ai_agent_skill_traceability_in_ux_design",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T14:22:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "AI Agent Skill Traceability in UX Design",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48846376"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "itemCount": 50,
+      "trendScore": 193,
+      "whyTrending": "50 stories across Hacker, TechCrunch, arXiv, 26 in the last 24h.",
+      "topStory": {
+        "title": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+        "url": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/"
+      },
+      "items": [
+        {
+          "id": "hn-1783607813238-194",
+          "title": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+          "url": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T11:11:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 1
+          },
+          "rawTextSnippet": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+          "hnMeta": {
+            "points": 3,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=48844002"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1783518319001-105",
-          "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-          "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+          "id": "rss-1783607809943-99",
+          "title": "Character.AI enters the microdrama arena with its own productions, but there&#8217;s a twist",
+          "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-07-07T19:28:38.000Z",
+          "publishedAt": "2026-07-09T13:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-          "score": 56,
+          "rawTextSnippet": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1783607809943-105",
+          "title": "This startup thinks robotics is about to have its ChatGPT moment",
+          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-08T19:19:15.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 6
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "arxiv-1783518316509-16",
-          "title": "Life Style Levels: Neighborhood Delineation using Geospatial Data",
-          "url": "https://arxiv.org/abs/2607.06529v1",
+          "id": "hn-1783607807573-16",
+          "title": "Show HN: BareMetalRT – TensorRT-LLM running natively on Windows (no WSL)",
+          "url": "https://baremetalrt.ai/app?mode=1gpu",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T14:18:27.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: BareMetalRT – TensorRT-LLM running natively on Windows (no WSL)",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48846307"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1783607808974-70",
+          "title": "Show HN: EvenKeel – a free financial planning chatbot",
+          "url": "https://evenkeel.c6e.me/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T14:06:32.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "EvenKeel is an LLM-powered chatbot that helps with budgeting, financial planning, retirement savings, tax optimization, etc. It is a harness around Gemini 3 Flash Preview that provides a library of skills for things like: evaluating a house purchase, insurance planning, portfolio asset allocation, e…",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48846108"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        }
+      ]
+    },
+    {
+      "name": "Open Source AI",
+      "itemCount": 11,
+      "trendScore": 130,
+      "whyTrending": "11 stories across Hacker, TechCrunch, VentureBeat, 8 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger",
+        "url": "https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0"
+      },
+      "items": [
+        {
+          "id": "hn-1783607808974-73",
+          "title": "Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger",
+          "url": "https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T13:19:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 11,
+            "comments": 0
+          },
+          "rawTextSnippet": "Kiyeovo is a decentralized, end-to-end encrypted messenger. It requires no accounts, no email, no central servers. Peers find each other and talk directly over libp2p. kad-DHT stores messages for offline peers and handles finding other users by their username&#x2F;peerID. After almost a year of solo…",
+          "hnMeta": {
+            "points": 11,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48845367"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Open Source AI"
+        },
+        {
+          "id": "hn-1783607808974-86",
+          "title": "LLama.cpp Got Screwd",
+          "url": "https://github.com/ggml-org/llama.cpp/discussions/25482",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T11:40:16.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 4
+          },
+          "rawTextSnippet": "LLama.cpp Got Screwd",
+          "hnMeta": {
+            "points": 5,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=48844268"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Open Source AI"
+        },
+        {
+          "id": "rss-1783607809943-100",
+          "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+          "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-09T13:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Open Source AI"
+        },
+        {
+          "id": "hn-1783607807573-24",
+          "title": "Show HN: Present and Build Whiteboards, Flowcharts and Diagrams on iPhone",
+          "url": "https://apps.apple.com/us/app/canvasprism-whiteboard/id6785350171",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T13:49:32.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Hi HN! I built a native iPhone and iPad whiteboard app on top of the open source Excalidraw libraries, combining them with several other open source components to create a polished offline experience. I also added features like AirPlay presentation mode with an integrated laser pointer, along with o…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48845810"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Open Source AI"
+        },
+        {
+          "id": "hn-1783607808974-72",
+          "title": "Engineering Sacrifice: How Open Source Survives the Age of Free Code",
+          "url": "https://lumramabaja.com/posts/engineering-sacrifice-how-open-source-survives-the-age-of-free-code/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T13:49:31.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Engineering Sacrifice: How Open Source Survives the Age of Free Code",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48845809"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Open Source AI"
+        }
+      ]
+    },
+    {
+      "name": "Research & Benchmarks",
+      "itemCount": 12,
+      "trendScore": 127,
+      "whyTrending": "12 stories across Hacker, GitHub, arXiv, 7 in the last 24h.",
+      "topStory": {
+        "title": "Ask HN: What do you ask AI to do with your files?",
+        "url": "https://news.ycombinator.com/item?id=48846461"
+      },
+      "items": [
+        {
+          "id": "hn-1783607807573-12",
+          "title": "Ask HN: What do you ask AI to do with your files?",
+          "url": "https://news.ycombinator.com/item?id=48846461",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T14:28:25.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "I&#x27;m researching how people who don&#x27;t code use AI tools for multi-step work on their actual files – renaming&#x2F;organizing documents, filling forms on PDFs, cleaning up spreadsheets, turning notes into a report, and so on –. What was the last multi-step task you gave AI involving your fil…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48846461"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1783607807573-26",
+          "title": "Lab: The Full-Stack Platform for Training Your Own Models",
+          "url": "https://www.primeintellect.ai/blog/lab",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-09T13:47:20.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Lab: The Full-Stack Platform for Training Your Own Models",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=48845777"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "github-1783607807679-31",
+          "title": "[synthetic-sciences/openscience] The open-source AI workbench for scientific research",
+          "url": "https://github.com/synthetic-sciences/openscience",
+          "source": "GitHub Trending",
+          "publishedAt": "2026-07-03T15:06:45.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 12,
+            "upvotes": 1899
+          },
+          "rawTextSnippet": "The open-source AI workbench for scientific research",
+          "githubMeta": {
+            "stars": 1899,
+            "language": "TypeScript",
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agent",
+              "bun",
+              "cli",
+              "co-scientist",
+              "llm",
+              "ml",
+              "ml-engineering",
+              "open-source",
+              "research",
+              "research-tools",
+              "science",
+              "scientific-computing",
+              "typescript"
+            ]
+          },
+          "score": 54,
+          "scoreBreakdown": {
+            "freshness": 2,
+            "authority": 12,
+            "engagement": 25,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1783607808677-44",
+          "title": "Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops",
+          "url": "https://arxiv.org/abs/2607.07663v1",
           "source": "arXiv",
-          "publishedAt": "2026-07-07T17:37:03.000Z",
+          "publishedAt": "2026-07-08T17:19:50.000Z",
           "scoreSignals": {
             "sourceAuthority": 15
           },
-          "rawTextSnippet": "Fine-scale socioeconomic information is often unavailable across rapidly ur-banizing regions of the developing world, like India, limiting the ability to delineate intra-urban variations in affluence and deprivation. This study pro-poses a scalable, grid-based urban delineation framework using build…",
+          "rawTextSnippet": "AI systems increasingly participate in their own improvement: revising their outputs, adapting their own harnesses during deployment, training on data they generate, and, increasingly, conducting AI research itself. This literature is described under a vocabulary (\"self-refine,\" \"self-reward,\" \"self…",
           "arxivMeta": {
-            "authors": "Srivatsa Kulkarni, Debarag Banerjee",
+            "authors": "Mingguang Chen, Licheng Wang, Bo Qu",
             "categories": [
               "cs.AI",
               "cs.CL",
               "stat.ML"
             ]
           },
-          "score": 55,
+          "score": 52,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 15,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
         },
         {
-          "id": "arxiv-1783518316511-39",
-          "title": "TILDE: TILt-based Distributional Erasure for Concept Unlearning",
-          "url": "https://arxiv.org/abs/2607.06432v1",
+          "id": "arxiv-1783607808677-45",
+          "title": "RL Post-Training Builds Compositional Reasoning Strategies",
+          "url": "https://arxiv.org/abs/2607.07646v1",
           "source": "arXiv",
-          "publishedAt": "2026-07-07T15:59:59.000Z",
+          "publishedAt": "2026-07-08T17:04:42.000Z",
           "scoreSignals": {
             "sourceAuthority": 15
           },
-          "rawTextSnippet": "Concept unlearning in text-to-image diffusion models is critical for safe and practical deployment: with rising privacy concerns, copyright disputes, trademark constraints, and safety regulations, deployed systems must be able to suppress unwanted concepts after training. Existing methods often remo…",
+          "rawTextSnippet": "Does RL post-training merely amplify primitive skills already latent in a base model, or can it compose primitive skills into new higher-level strategies? We study this question in a fully observable rewrite-grammar environment where the pretraining distribution is known and every generated rewrite …",
           "arxivMeta": {
-            "authors": "Naveen George, Naoki Murata, Yuhta Takida, Konda Reddy Mopuri, Yuki Mitsufuji",
+            "authors": "Azwar Abdulsalam, Nishil Patel, Andrew Saxe",
             "categories": [
               "cs.AI",
               "cs.CL",
               "stat.ML"
             ]
           },
-          "score": 55,
+          "score": 52,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 15,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1783518320799-139",
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-08T04:12:13.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 214,
-        "comments": 190
-      },
-      "rawTextSnippet": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "hnMeta": {
-        "points": 214,
-        "comments": 190,
-        "hnUrl": "https://news.ycombinator.com/item?id=48827402"
-      },
-      "score": 75,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: GPT-5.6 Sol, Terra, and Luna are set for public launch this Thursday.  \n• Why it matters: This launch could enhance AI capabilities and blockchain integration.  \n• Business opportunity: Companies can leverage these technologies for innovative solutions in AI and decentralized finance."
-    },
-    {
-      "id": "rss-1783518319001-100",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "id": "rss-1783607809943-101",
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08T08:00:00.000Z",
+      "publishedAt": "2026-07-09T12:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "score": 67,
+      "rawTextSnippet": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Nandan Nilekani stepped down from his general partner role at Fundamentum, which launched a $200M third fund.  \n• Why it matters: The firm is expanding its leadership team and focusing on investments in AI and fintech startups in India.  \n• Business opportunity: There is potential for growth in the Indian AI and fintech sectors, attracting new investments and innovations."
+    },
+    {
+      "id": "hn-1783607808974-73",
+      "title": "Show HN: Kiyeovo 1.0 release- dual network-mode decentralized E2EE P2P messenger",
+      "url": "https://github.com/Realman78/Kiyeovo/releases/tag/kiyeovo-1.0.0",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-09T13:19:12.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 11,
+        "comments": 0
+      },
+      "rawTextSnippet": "Kiyeovo is a decentralized, end-to-end encrypted messenger. It requires no accounts, no email, no central servers. Peers find each other and talk directly over libp2p. kad-DHT stores messages for offline peers and handles finding other users by their username&#x2F;peerID. After almost a year of solo…",
+      "hnMeta": {
+        "points": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48845367"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Open Source AI",
+      "summary": "• What happened: Kiyeovo 1.0, a decentralized E2EE P2P messenger, has been released.  \n• Why it matters: It enhances privacy and security by eliminating the need for accounts and central servers.  \n• Business opportunity: There is potential for growth in the secure communication market, appealing to privacy-conscious users."
+    },
+    {
+      "id": "rss-1783607809943-99",
+      "title": "Character.AI enters the microdrama arena with its own productions, but there&#8217;s a twist",
+      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Character.AI launched interactive microdrama productions allowing users to engage with characters.  \n• Why it matters: This innovation enhances user engagement and leverages AI technology in storytelling.  \n• Business opportunity: Brands can explore partnerships for interactive narratives, creating unique marketing experiences."
+    },
+    {
+      "id": "rss-1783607809943-100",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Open Source AI"
+    },
+    {
+      "id": "rss-1783607809943-105",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T19:19:15.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: ZML, a French AI startup, launched ZML/LLMD software to enhance AI inference efficiency across multiple chips.  \n• Why it matters: This innovation could significantly reduce operational costs for AI applications, making them more accessible.  \n• Business opportunity: Companies can leverage ZML/LLMD to optimize AI performance and reduce expenses, creating a competitive edge."
-    },
-    {
-      "id": "hn-1783518316513-44",
-      "title": "Meta releases MuseImage and MuseVideo, its image and video generation models",
-      "url": "https://twitter.com/AIatMeta/status/2074577662840832382",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-08T13:35:28.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Meta releases MuseImage and MuseVideo, its image and video generation models",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48831779"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Generative AI & Media",
-      "summary": "• What happened: Meta launched MuseImage and MuseVideo, new models for generating images and videos.  \n• Why it matters: These advancements enhance creative capabilities and competition in AI-generated media.  \n• Business opportunity: Companies can leverage these models for innovative marketing, content creation, and entertainment solutions."
-    },
-    {
-      "id": "hn-1783518316513-50",
-      "title": "AI agents accessing production database",
-      "url": "https://news.ycombinator.com/item?id=48831580",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-08T13:19:37.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "So we have arrived at a point, our agent neeeds to interact with real production database. So if you have implemented agents beyond the prototype stage, 1. what does your architecture is like, 2. any guardrails or runtime we need to custom build and 3. problems you have faced when it reached product…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48831580"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "hn-1783518317939-71",
-      "title": "Show HN: Kettio – using ML to assume audience buying",
-      "url": "https://kettio.com",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-08T13:19:21.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 1
-      },
-      "rawTextSnippet": "There was a paper recently: &quot;LLMs Reproduce Human Purchase Intent via Semantic Similarity Elicitation of Likert Ratings&quot; - The research showed models being able to reproduce purchasability via llms, which I thought was cool because i&#x27;m in the advertising space - the question came up, …",
-      "hnMeta": {
-        "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48831578"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Research & Benchmarks"
+      "cluster": "Large Language Models"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1783518316509-16",
-      "title": "Life Style Levels: Neighborhood Delineation using Geospatial Data",
-      "url": "https://arxiv.org/abs/2607.06529v1",
+      "id": "arxiv-1783607808677-41",
+      "title": "Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems",
+      "url": "https://arxiv.org/abs/2607.07674v1",
       "source": "arXiv",
-      "publishedAt": "2026-07-07T17:37:03.000Z",
+      "publishedAt": "2026-07-08T17:32:58.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Fine-scale socioeconomic information is often unavailable across rapidly ur-banizing regions of the developing world, like India, limiting the ability to delineate intra-urban variations in affluence and deprivation. This study pro-poses a scalable, grid-based urban delineation framework using build…",
+      "rawTextSnippet": "Group Relative Policy Optimization (GRPO) stalls on a model's hardest problems: when no rollout in a group succeeds, the group-relative advantages vanish and the problem contributes no gradient, wasting the frontier examples we most want to learn from. Prepending a correct prefix of a reference solu…",
       "arxivMeta": {
-        "authors": "Srivatsa Kulkarni, Debarag Banerjee",
+        "authors": "Vladislav Beliaev",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1135,17 +1136,17 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1783518316510-18",
-      "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
-      "url": "https://arxiv.org/abs/2607.06523v1",
+      "id": "arxiv-1783607808678-55",
+      "title": "A Unified Detection Framework for AI-Related Content and Artifacts",
+      "url": "https://arxiv.org/abs/2607.07527v1",
       "source": "arXiv",
-      "publishedAt": "2026-07-07T17:29:01.000Z",
+      "publishedAt": "2026-07-08T15:21:07.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens and degrade retrieval when lexical cues and semantic states require different pr…",
+      "rawTextSnippet": "Artificial intelligence (AI) is a double-edged sword: while it has achieved remarkable success across a wide range of domains, its deployment also calls for effective oversight and regulation, for which the detection of AI-related content and artifacts is perhaps the most direct and cost-effective a…",
       "arxivMeta": {
-        "authors": "Anna Cordoba, Adam Puente Tercero, Nerea Angulo Hijo, Mar Linares Tercero, Julia Barrientos, Ainhoa Miranda, Jesus Olivera",
+        "authors": "Xifeng Zhang, Tao Hu, Yijie Peng, Wan Tian",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1159,206 +1160,212 @@
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1783607808676-33",
+      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+      "url": "https://arxiv.org/abs/2607.07708v1",
+      "source": "arXiv",
+      "publishedAt": "2026-07-08T17:59:59.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through sc…",
+      "arxivMeta": {
+        "authors": "Chen Tang, Yizhou Wang, Jianyu Wu, Lintao Wang, Shixiang Tang, Pengze Li, Encheng Su, Jun Yao, Jiabei Xiao, Yuqi Shi, Jielan Li, Hongxia Hao, Zhangyang Gao, Fang Wu, Ben Fei, Xiangyu Yue, Pan Tan, Bozitao Zhong, Jinouwen Zhang, Aoran Wang, Yan Lu, Jiaheng Liu, Xinzhu Ma, Liang Hong, Mingyue Zheng, Phil Torr, Bowen Zhou, Wanli Ouyang, Lei Bai",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI"
+    },
+    {
+      "id": "arxiv-1783607808676-34",
+      "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+      "url": "https://arxiv.org/abs/2607.07707v1",
+      "source": "arXiv",
+      "publishedAt": "2026-07-08T17:59:45.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the KB as needed. This recently introduced paradigm provides multiple advantages, inc…",
+      "arxivMeta": {
+        "authors": "Yair Feldman, Linxi Zhao, Nathan Godey, Dongyoung Go, Yilun Hua, Kilian Q. Weinberger, Jennifer J. Sun, Yoav Artzi",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
       },
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1783518316510-20",
-      "title": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference",
-      "url": "https://arxiv.org/abs/2607.06519v1",
+      "id": "arxiv-1783607808676-35",
+      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "url": "https://arxiv.org/abs/2607.07702v1",
       "source": "arXiv",
-      "publishedAt": "2026-07-07T17:26:28.000Z",
+      "publishedAt": "2026-07-08T17:57:27.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Long-context LLM inference is increasingly limited by the memory and bandwidth cost of KV caches, yet aggressive compression can remove the layer-specific evidence needed for retrieval and multi-step reasoning. We introduce FreqDepthKV, an inference-time cache compression method that factorizes adja…",
+      "rawTextSnippet": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collec…",
       "arxivMeta": {
-        "authors": "Anna Córdoba, Adam Puente Tercero, Nerea Angulo Hijo, Mar Linares Tercero, Julia Barrientos, Ainhoa Miranda, Jesús Olivera",
+        "authors": "Ying Chang, Jiahang Xu, Xuan Feng, Chenyuan Yang, Peng Cheng, Yuqing Yang",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 52,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1783518316510-23",
-      "title": "Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)",
-      "url": "https://arxiv.org/abs/2607.06505v1",
-      "source": "arXiv",
-      "publishedAt": "2026-07-07T17:06:32.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "GitHub hosts hundreds of millions of public repositories, but the platform exposes no native mapping from repositories to standardized industry sectors. This gap limits empirical work on the geography of innovation, the industrial composition of open-source production, and the diffusion of new techn…",
-      "arxivMeta": {
-        "authors": "Kevin Xu, Alexander Quispe",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Open Source AI"
-    },
-    {
-      "id": "arxiv-1783518316510-29",
-      "title": "AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models",
-      "url": "https://arxiv.org/abs/2607.06485v1",
-      "source": "arXiv",
-      "publishedAt": "2026-07-07T16:46:46.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Vision-language models (VLMs) are increasingly deployed on infrared (IR) remote sensing imagery in security-critical settings, yet their adversarial robustness remains unexamined. We present AirflowAttack, to our knowledge the first adversarial attack for IR remote-sensing VLMs and the first to weap…",
-      "arxivMeta": {
-        "authors": "Cong Su, Jiaju Han, Xuemeng Sun, Chengyin Hu, Qike Zhang, Jiujiang Guo, Yiwei Wei, Jiahuan Long",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
       "cluster": "Large Language Models"
     }
   ],
   "funding": [
     {
-      "id": "rss-1783518319001-101",
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "id": "rss-1783607809943-101",
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-08T07:16:00.000Z",
+      "publishedAt": "2026-07-09T12:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "score": 63,
+      "rawTextSnippet": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: AI chip maker SambaNova raised $1 billion at an $11 billion valuation.  \n• Why it matters: This significant funding round highlights the growing demand for AI hardware solutions.  \n• Business opportunity: Investors and tech companies can explore partnerships or innovations in AI chip development."
+      "summary": "• What happened: Nandan Nilekani stepped down from his GP role at Fundamentum, which is launching a $200M third fund.  \n• Why it matters: The firm is expanding its leadership and focusing on AI and fintech startups in India, indicating growth potential in these sectors.  \n• Business opportunity: Investors can capitalize on the rising demand for innovative solutions in AI and fintech within the Indian market."
     },
     {
-      "id": "arxiv-1783518316510-23",
-      "title": "Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)",
-      "url": "https://arxiv.org/abs/2607.06505v1",
-      "source": "arXiv",
-      "publishedAt": "2026-07-07T17:06:32.000Z",
+      "id": "hn-1783607811841-152",
+      "title": "Venture investment smashes an annual record with half a year left to go",
+      "url": "https://www.sfexaminer.com/news/technology/anthropic-openai-jumbo-rounds-boost-venture-to-new-record/article_3f054620-81ca-459e-b40f-9f101b609aee.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-09T14:24:24.000Z",
       "scoreSignals": {
-        "sourceAuthority": 15
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
       },
-      "rawTextSnippet": "GitHub hosts hundreds of millions of public repositories, but the platform exposes no native mapping from repositories to standardized industry sectors. This gap limits empirical work on the geography of innovation, the industrial composition of open-source production, and the diffusion of new techn…",
-      "arxivMeta": {
-        "authors": "Kevin Xu, Alexander Quispe",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
+      "rawTextSnippet": "Venture investment smashes an annual record with half a year left to go",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48846397"
       },
-      "score": 55,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Venture investment has reached an unprecedented annual record with six months remaining.  \n• Why it matters: This surge indicates strong confidence in startups and innovation despite economic uncertainties.  \n• Business opportunity: Investors and entrepreneurs can capitalize on this momentum to explore new ventures and technologies."
+    },
+    {
+      "id": "rss-1783607809943-100",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
       },
       "cluster": "Open Source AI",
-      "summary": "• What happened: Researchers proposed a method to classify GitHub repositories using the NAICS.  \n• Why it matters: This classification enables better understanding of innovation geography and open-source production.  \n• Business opportunity: Companies can leverage this data to identify trends and opportunities within specific industry sectors."
+      "summary": "• What happened: Ollama, an open-source AI developer tool, raised $65M and reached nearly 9M users.  \n• Why it matters: The tool's popularity highlights the growing demand for accessible AI solutions among developers.  \n• Business opportunity: Companies can leverage Ollama's platform to enhance AI integration in their products and services."
     },
     {
-      "id": "rss-1783518319001-107",
-      "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "id": "rss-1783607809943-105",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-07T12:00:00.000Z",
+      "publishedAt": "2026-07-08T19:19:15.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-      "score": 52,
+      "rawTextSnippet": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Savi launched an app to protect consumers from AI-driven scams, backed by $7 million in seed funding.  \n• Why it matters: The app addresses growing concerns over realistic AI scams, enhancing consumer safety.  \n• Business opportunity: There is potential for growth in cybersecurity solutions as demand for protection against AI threats increases."
+      "cluster": "Large Language Models"
     },
     {
-      "id": "rss-1783518319001-110",
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06T23:21:03.000Z",
+      "id": "hn-1783607808974-77",
+      "title": "Show HN: Noema – AI personas debate US listed stocks",
+      "url": "https://itsnoema.com",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-09T13:09:29.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 0
       },
-      "rawTextSnippet": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-      "score": 52,
+      "rawTextSnippet": "Initially this was a rough system I used to cover my weak spots when investing (eg understanding dilution risk in context of the overall opportunity), but now have launched this as an mvp app. I use this actively when exploring new ideas to give me a quick, well rounded report and qualitatively is m…",
+      "hnMeta": {
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48845255"
+      },
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1783518316307-2",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-07T11:10:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur…",
-      "score": 51,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation"
+      "cluster": "AI Safety & Regulation"
     }
   ],
-  "dailyBrief": "This Thursday marks the public launch of GPT-5.6 Sol, alongside Terra and Luna, potentially reshaping the competitive landscape in AI language models. In a significant development, French startup ZML has released a free product designed to enhance inference speed across multiple AI chips, which could streamline operations for businesses leveraging AI technologies. Additionally, ZML's alpha version of a cross-platform LLM server promises to facilitate broader access to advanced language models, further democratizing AI capabilities. Meanwhile, AI chip manufacturer SambaNova has successfully raised $1 billion at an impressive $11 billion valuation, underscoring the growing investor confidence in AI hardware solutions. These advancements highlight the accelerating pace of innovation in AI, presenting both opportunities and challenges for businesses looking to integrate these technologies into their operations."
+  "dailyBrief": "Today's AI landscape is marked by significant developments, including Anthropic's classifiers for Fable, which have been criticized for being overly cautious, potentially impacting user experience and innovation. Meanwhile, the launch of FableCut, a browser-based video editor powered by AI, promises to streamline content creation without dependencies, appealing to businesses seeking efficiency. In geopolitical news, China's interest in Nvidia chips highlights the ongoing tech rivalry and its implications for global supply chains. Additionally, Nandan Nilekani's departure from his GP role at Fundamentum coincides with the firm's launch of a $200 million third fund, signaling continued investment in AI-driven startups. Lastly, the introduction of Muse Spark 1.1 showcases advancements in creative AI tools, further enhancing productivity for professionals across various sectors."
 }
