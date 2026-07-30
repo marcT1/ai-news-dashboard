@@ -1,49 +1,21 @@
 {
   "topNews": [
     {
-      "id": "hn-1785333010904-166",
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
+      "id": "hn-1785418863841-29",
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
       "source": "Hacker News",
-      "publishedAt": "2026-07-28T20:52:55.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 545,
-        "comments": 197
-      },
-      "rawTextSnippet": "Codex Security",
-      "hnMeta": {
-        "points": 545,
-        "comments": 197,
-        "hnUrl": "https://news.ycombinator.com/item?id=49089755"
-      },
-      "score": 74,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Codex Security has launched a new cybersecurity solution aimed at protecting sensitive data.  \n• Why it matters: This innovation addresses increasing concerns over data breaches and cyber threats in various industries.  \n• Business opportunity: Companies can leverage Codex Security's solution to enhance their data protection measures and build customer trust."
-    },
-    {
-      "id": "hn-1785333009460-119",
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "url": "https://arxiv.org/abs/2607.25398",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-29T13:01:57.000Z",
+      "publishedAt": "2026-07-30T12:36:38.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 33,
-        "comments": 10
+        "comments": 26
       },
-      "rawTextSnippet": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "rawTextSnippet": "OpenJDK Interim Policy on Generative AI",
       "hnMeta": {
         "points": 33,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=49096969"
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49109165"
       },
       "score": 72,
       "scoreBreakdown": {
@@ -53,130 +25,25 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Handbook.md reveals that lengthy policy documents fail to effectively govern agents.  \n• Why it matters: This finding challenges traditional governance methods and highlights the need for more efficient communication.  \n• Business opportunity: Companies can innovate by developing concise, actionable policy frameworks to enhance agent compliance and performance."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenJDK has established an interim policy regarding the use of generative AI.  \n• Why it matters: This policy aims to guide developers in responsibly integrating generative AI into Java projects.  \n• Business opportunity: Companies can leverage this framework to innovate and enhance their Java applications with generative AI capabilities."
     },
     {
-      "id": "hn-1785333010904-164",
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
+      "id": "hn-1785418869644-190",
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
       "source": "Hacker News",
-      "publishedAt": "2026-07-28T22:09:06.000Z",
+      "publishedAt": "2026-07-29T16:42:20.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 365,
+        "upvotes": 177,
         "comments": 100
       },
-      "rawTextSnippet": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth. I figured there was probably a simpler way, so I threw tog…",
+      "rawTextSnippet": "Some thoughts about Anthropic's new cryptanalysis results",
       "hnMeta": {
-        "points": 365,
+        "points": 177,
         "comments": 100,
-        "hnUrl": "https://news.ycombinator.com/item?id=49090607"
-      },
-      "score": 71,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A developer created a userscript to streamline accessing Hacker News links and their discussions in one tab.  \n• Why it matters: This innovation enhances user experience by reducing the hassle of switching between multiple tabs.  \n• Business opportunity: There is potential to develop and market similar tools that improve navigation and engagement on other content-sharing platforms."
-    },
-    {
-      "id": "hn-1785333012367-195",
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-28T17:22:16.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 222,
-        "comments": 167
-      },
-      "rawTextSnippet": "Discovering Cryptographic Weaknesses with Claude",
-      "hnMeta": {
-        "points": 222,
-        "comments": 167,
-        "hnUrl": "https://news.ycombinator.com/item?id=49087091"
-      },
-      "score": 71,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Researchers identified cryptographic weaknesses using the AI model Claude.  \n• Why it matters: This discovery could lead to vulnerabilities in secure systems, impacting data protection.  \n• Business opportunity: Companies can invest in enhanced cryptographic solutions to safeguard against emerging threats."
-    },
-    {
-      "id": "hn-1785333006534-27",
-      "title": "After the AI Crash",
-      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-29T13:00:39.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 28,
-        "comments": 15
-      },
-      "rawTextSnippet": "After the AI Crash",
-      "hnMeta": {
-        "points": 28,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=49096953"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: The AI industry is experiencing a downturn following an initial surge in investment and interest.  \n• Why it matters: This decline raises concerns about the sustainability and future growth of AI technologies.  \n• Business opportunity: Companies can pivot to focus on sustainable AI solutions and innovative applications to regain investor confidence."
-    },
-    {
-      "id": "rss-1785333008970-92",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-29T11:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Pangram secured $9 million to enhance its AI detection software and launched Pangram 4 for text and an image detection model.  \n• Why it matters: The rise of AI-generated content necessitates effective detection tools to maintain content integrity and trust online.  \n• Business opportunity: There is a growing demand for reliable AI detection solutions, presenting a market opportunity for Pangram and similar startups."
-    },
-    {
-      "id": "hn-1785333012367-197",
-      "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-      "url": "https://anthropeum.com/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-28T15:01:15.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 174,
-        "comments": 46
-      },
-      "rawTextSnippet": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-      "hnMeta": {
-        "points": 174,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=49084989"
+        "hnUrl": "https://news.ycombinator.com/item?id=49099804"
       },
       "score": 66,
       "scoreBreakdown": {
@@ -187,24 +54,45 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: Anthropeum raises questions about the origins and timelines of human artifacts.  \n• Why it matters: Understanding artifact provenance can reshape historical narratives and cultural heritage.  \n• Business opportunity: There is potential for innovative technologies in artifact tracking and historical research services."
+      "summary": "• What happened: Anthropic released new cryptanalysis results that could impact the field of cybersecurity.  \n• Why it matters: These findings may enhance the security of cryptographic systems and protect sensitive data.  \n• Business opportunity: Companies can leverage this research to improve their encryption technologies and offer more secure solutions."
     },
     {
-      "id": "hn-1785333007973-74",
-      "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-      "url": "https://echologue.com/",
+      "id": "rss-1785418866208-93",
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Dili secured $21.7 million in Series A funding to enhance AI compliance in infrastructure.  \n• Why it matters: This investment highlights the growing demand for compliance solutions amid an infrastructure boom.  \n• Business opportunity: Companies can leverage Dili's technology to streamline compliance processes and reduce risks in infrastructure projects."
+    },
+    {
+      "id": "hn-1785418865282-75",
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
       "source": "Hacker News",
-      "publishedAt": "2026-07-29T12:43:36.000Z",
+      "publishedAt": "2026-07-30T11:55:39.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 7
+        "upvotes": 14,
+        "comments": 0
       },
-      "rawTextSnippet": "I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features: * Voice first * Private first * AI chat * Automatic tagging, meaning extraction, and semantic retrieval using embeddings stored locally * Export to LLM the AI angle is especially int…",
+      "rawTextSnippet": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
       "hnMeta": {
-        "points": 7,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=49096767"
+        "points": 14,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49108778"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -215,24 +103,24 @@
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: A developer created Echologue, a private AI voice journal app designed for personal use.  \n• Why it matters: It addresses common journaling challenges by incorporating voice input and AI features for enhanced privacy and usability.  \n• Business opportunity: There is potential to market this app to individuals seeking personalized, AI-driven journaling solutions."
+      "summary": "• What happened: Go released an LLM SDK for streaming and tool-calling AI backends, along with a React library.  \n• Why it matters: This development enhances the integration of AI capabilities in applications, streamlining workflows for developers.  \n• Business opportunity: Companies can leverage this SDK to build innovative AI-powered applications, improving user engagement and operational efficiency."
     },
     {
-      "id": "hn-1785333009460-120",
-      "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+      "id": "hn-1785418866726-125",
+      "title": "1.25K → 9.04K clicks in 60 days: Pointed an agent to GSC every morning",
+      "url": "https://www.reddit.com/r/better_claw/s/RTb2Auc7rx",
       "source": "Hacker News",
-      "publishedAt": "2026-07-29T12:58:27.000Z",
+      "publishedAt": "2026-07-30T09:54:10.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 21,
-        "comments": 2
+        "upvotes": 5,
+        "comments": 3
       },
-      "rawTextSnippet": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+      "rawTextSnippet": "1.25K → 9.04K clicks in 60 days: Pointed an agent to GSC every morning",
       "hnMeta": {
-        "points": 21,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49096917"
+        "points": 5,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49107856"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -243,145 +131,162 @@
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new tool called Bullshit Detector has been introduced to fact-check videos and articles.  \n• Why it matters: It addresses the growing issue of misinformation in digital content.  \n• Business opportunity: There is potential for developing advanced AI solutions to enhance content credibility and trust."
+      "summary": "• What happened: A strategy increased website clicks from 1,250 to 9,040 in 60 days by utilizing Google Search Console (GSC).  \n• Why it matters: This significant growth highlights the effectiveness of data-driven decision-making in digital marketing.  \n• Business opportunity: Companies can leverage GSC insights to optimize their online presence and drive traffic."
     },
     {
-      "id": "hn-1785333009460-126",
-      "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
-      "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
+      "id": "hn-1785418869644-203",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
       "source": "Hacker News",
-      "publishedAt": "2026-07-29T11:57:18.000Z",
+      "publishedAt": "2026-07-28T17:22:16.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 9,
-        "comments": 1
+        "upvotes": 227,
+        "comments": 181
       },
-      "rawTextSnippet": "AI-found bugs aren't proving any easier to exploit despite the hype",
+      "rawTextSnippet": "Discovering Cryptographic Weaknesses with Claude",
       "hnMeta": {
-        "points": 9,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49096301"
+        "points": 227,
+        "comments": 181,
+        "hnUrl": "https://news.ycombinator.com/item?id=49087091"
       },
       "score": 64,
       "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Researchers identified cryptographic weaknesses using the AI model Claude.  \n• Why it matters: This discovery could lead to vulnerabilities in various security systems relying on affected cryptographic methods.  \n• Business opportunity: Companies can invest in enhanced cryptographic solutions or services to address these newly identified weaknesses."
+    },
+    {
+      "id": "rss-1785418863649-0",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-30T12:10:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a …",
+      "score": 63,
+      "scoreBreakdown": {
         "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Large language models (LLMs) are found to have fundamental vulnerabilities that can be exploited.  \n• Why it matters: This highlights the ongoing security challenges in AI technology, impacting trust and usability.  \n• Business opportunity: Companies can invest in developing robust security solutions for LLMs to enhance their reliability and safety."
+    },
+    {
+      "id": "rss-1785418863649-1",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-30T10:15:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Researchers identified a fundamental flaw in large language models (LLMs) that makes them vulnerable to attacks.  \n• Why it matters: This vulnerability raises significant concerns about the security and reliability of LLMs in various applications.  \n• Business opportunity: Companies can invest in developing enhanced security measures and alternative models to address these vulnerabilities."
+    },
+    {
+      "id": "hn-1785418865282-72",
+      "title": "Show HN: I got shadowbanned on X (Twitter), so I built a checker",
+      "url": "https://amishadowbanned.com",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T12:58:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 0
+      },
+      "rawTextSnippet": "Show HN: I got shadowbanned on X (Twitter), so I built a checker",
+      "hnMeta": {
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49109387"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A user created a tool to check for shadowbans on X (Twitter) after experiencing one themselves.  \n• Why it matters: Shadowbanning can significantly impact user engagement and visibility on social media platforms.  \n• Business opportunity: There is potential for developing tools that enhance user transparency and control over social media interactions."
+    },
+    {
+      "id": "hn-1785418871058-204",
+      "title": "Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub",
+      "url": "https://github.com/Deepender25/Edge-Drop",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T06:03:26.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 6,
+        "comments": 12
+      },
+      "rawTextSnippet": "Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub",
+      "hnMeta": {
+        "points": 6,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49106529"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
         "authority": 14,
         "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: AI-detected vulnerabilities remain challenging to exploit effectively.  \n• Why it matters: The hype around AI in cybersecurity may be overstated, impacting investment and development strategies.  \n• Business opportunity: Companies can focus on improving exploitation techniques and developing tools to bridge the gap between detection and exploitation."
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: Edge Drop, a productivity tool featuring a unique clipboard, gained 200 stars on GitHub.  \n• Why it matters: The tool's popularity indicates a growing demand for innovative productivity solutions.  \n• Business opportunity: There is potential for monetization through premium features or integrations with existing productivity platforms."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 63,
-      "trendScore": 222,
-      "whyTrending": "63 stories across Hacker, MIT, TechCrunch, 43 in the last 24h.",
+      "itemCount": 69,
+      "trendScore": 218,
+      "whyTrending": "69 stories across Hacker, TechCrunch, MIT, 43 in the last 24h.",
       "topStory": {
-        "title": "Codex Security",
-        "url": "https://github.com/openai/codex-security"
+        "title": "Some thoughts about Anthropic's new cryptanalysis results",
+        "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/"
       },
       "items": [
         {
-          "id": "hn-1785333010904-166",
-          "title": "Codex Security",
-          "url": "https://github.com/openai/codex-security",
+          "id": "hn-1785418869644-190",
+          "title": "Some thoughts about Anthropic's new cryptanalysis results",
+          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
           "source": "Hacker News",
-          "publishedAt": "2026-07-28T20:52:55.000Z",
+          "publishedAt": "2026-07-29T16:42:20.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 545,
-            "comments": 197
-          },
-          "rawTextSnippet": "Codex Security",
-          "hnMeta": {
-            "points": 545,
-            "comments": 197,
-            "hnUrl": "https://news.ycombinator.com/item?id=49089755"
-          },
-          "score": 74,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1785333010904-164",
-          "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-          "url": "https://github.com/twalichiewicz/HNewhere",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-28T22:09:06.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 365,
+            "upvotes": 177,
             "comments": 100
           },
-          "rawTextSnippet": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth. I figured there was probably a simpler way, so I threw tog…",
+          "rawTextSnippet": "Some thoughts about Anthropic's new cryptanalysis results",
           "hnMeta": {
-            "points": 365,
+            "points": 177,
             "comments": 100,
-            "hnUrl": "https://news.ycombinator.com/item?id=49090607"
-          },
-          "score": 71,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1785333006534-27",
-          "title": "After the AI Crash",
-          "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-29T13:00:39.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 28,
-            "comments": 15
-          },
-          "rawTextSnippet": "After the AI Crash",
-          "hnMeta": {
-            "points": 28,
-            "comments": 15,
-            "hnUrl": "https://news.ycombinator.com/item?id=49096953"
-          },
-          "score": 69,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1785333012367-197",
-          "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-          "url": "https://anthropeum.com/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-28T15:01:15.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 174,
-            "comments": 46
-          },
-          "rawTextSnippet": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-          "hnMeta": {
-            "points": 174,
-            "comments": 46,
-            "hnUrl": "https://news.ycombinator.com/item?id=49084989"
+            "hnUrl": "https://news.ycombinator.com/item?id=49099804"
           },
           "score": 66,
           "scoreBreakdown": {
@@ -394,141 +299,41 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1785333009460-126",
-          "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
-          "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-29T11:57:18.000Z",
+          "id": "rss-1785418866208-93",
+          "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+          "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-30T13:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 1
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "AI-found bugs aren't proving any easier to exploit despite the hype",
-          "hnMeta": {
-            "points": 9,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49096301"
-          },
+          "rawTextSnippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
           "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        }
-      ]
-    },
-    {
-      "name": "Large Language Models",
-      "itemCount": 50,
-      "trendScore": 198,
-      "whyTrending": "50 stories across Hacker, arXiv, GitHub, 32 in the last 24h.",
-      "topStory": {
-        "title": "Discovering Cryptographic Weaknesses with Claude",
-        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
-      },
-      "items": [
-        {
-          "id": "hn-1785333012367-195",
-          "title": "Discovering Cryptographic Weaknesses with Claude",
-          "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-28T17:22:16.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 222,
-            "comments": 167
-          },
-          "rawTextSnippet": "Discovering Cryptographic Weaknesses with Claude",
-          "hnMeta": {
-            "points": 222,
-            "comments": 167,
-            "hnUrl": "https://news.ycombinator.com/item?id=49087091"
-          },
-          "score": 71,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1785333007973-74",
-          "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-          "url": "https://echologue.com/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-29T12:43:36.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 7
-          },
-          "rawTextSnippet": "I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features: * Voice first * Private first * AI chat * Automatic tagging, meaning extraction, and semantic retrieval using embeddings stored locally * Export to LLM the AI angle is especially int…",
-          "hnMeta": {
-            "points": 7,
-            "comments": 7,
-            "hnUrl": "https://news.ycombinator.com/item?id=49096767"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1785333013777-205",
-          "title": "Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini",
-          "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-alphabet-apos-google-093407849.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-29T10:40:55.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 6,
-            "comments": 2
-          },
-          "rawTextSnippet": "Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini",
-          "hnMeta": {
-            "points": 6,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49095669"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1785333007973-70",
-          "title": "TokenTown: A visual way to understand how LLMs work",
-          "url": "https://laurentiugabriel.github.io/token-town/",
+          "id": "hn-1785418863840-10",
+          "title": "Refusal as Instruction: Equipping Patrons to Resist AI, Data Brokers, Big Tech",
+          "url": "https://ital.corejournals.org/index.php/ital/article/view/17653/11960",
           "source": "Hacker News",
-          "publishedAt": "2026-07-29T13:05:17.000Z",
+          "publishedAt": "2026-07-30T13:37:26.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "TokenTown: A visual way to understand how LLMs work",
+          "rawTextSnippet": "Refusal as Instruction: Equipping Patrons to Resist AI, Data Brokers, Big Tech",
           "hnMeta": {
-            "points": 2,
+            "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49097003"
+            "hnUrl": "https://news.ycombinator.com/item?id=49109830"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -538,24 +343,184 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1785333007973-71",
-          "title": "OSS ChatGPT UI v4 – Projects, Profiles, Server Tools, 8x Themes, 1-Click Sharing",
-          "url": "https://llmspy.org",
+          "id": "hn-1785418863840-12",
+          "title": "AI Scammers Are Better at Building Trust Than Humans",
+          "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
           "source": "Hacker News",
-          "publishedAt": "2026-07-29T13:03:04.000Z",
+          "publishedAt": "2026-07-30T13:33:33.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "AI Scammers Are Better at Building Trust Than Humans",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49109769"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1785418863840-13",
+          "title": "Show HN: Skytrace – Self-hosted 3D ADS-B viewer with receiver coverage domes",
+          "url": "https://sky.luftaquila.io",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T13:28:15.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "OSS ChatGPT UI v4 – Projects, Profiles, Server Tools, 8x Themes, 1-Click Sharing",
+          "rawTextSnippet": "I built a self-hosted 3D ADS-B viewer to see how obstacles affect receiver coverage. It builds a 3D coverage dome from 30-day history. My receiver has a structure blocking about 30° of the sky, which reduces its range by about 100 km in that direction. The dome is just a mesh to hide a receiver&#x27…",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49096981"
+            "hnUrl": "https://news.ycombinator.com/item?id=49109712"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        }
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "itemCount": 46,
+      "trendScore": 188,
+      "whyTrending": "46 stories across Hacker, MIT, OpenAI, 23 in the last 24h.",
+      "topStory": {
+        "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+        "url": "https://github.com/grafana/ai-sdk"
+      },
+      "items": [
+        {
+          "id": "hn-1785418865282-75",
+          "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+          "url": "https://github.com/grafana/ai-sdk",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T11:55:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 14,
+            "comments": 0
+          },
+          "rawTextSnippet": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+          "hnMeta": {
+            "points": 14,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49108778"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1785418869644-203",
+          "title": "Discovering Cryptographic Weaknesses with Claude",
+          "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-28T17:22:16.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 227,
+            "comments": 181
+          },
+          "rawTextSnippet": "Discovering Cryptographic Weaknesses with Claude",
+          "hnMeta": {
+            "points": 227,
+            "comments": 181,
+            "hnUrl": "https://news.ycombinator.com/item?id=49087091"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 14,
+            "engagement": 20,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1785418863649-0",
+          "title": "The Download: tricking LLMs, and reviving geothermal plants",
+          "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-07-30T12:10:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a …",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1785418863649-1",
+          "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-07-30T10:15:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1785418863841-23",
+          "title": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
+          "url": "https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-07-30",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T13:00:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic's new MCP spec, Kimi K3 open weights on Ollama, GPT Transcribe, plus",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49109406"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -571,57 +536,30 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 35,
-      "trendScore": 190,
-      "whyTrending": "35 stories across Hacker, TechCrunch, OpenAI, 24 in the last 24h.",
+      "itemCount": 34,
+      "trendScore": 185,
+      "whyTrending": "34 stories across Hacker, TechCrunch, arXiv, 23 in the last 24h.",
       "topStory": {
-        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "url": "https://arxiv.org/abs/2607.25398"
+        "title": "1.25K → 9.04K clicks in 60 days: Pointed an agent to GSC every morning",
+        "url": "https://www.reddit.com/r/better_claw/s/RTb2Auc7rx"
       },
       "items": [
         {
-          "id": "hn-1785333009460-119",
-          "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-          "url": "https://arxiv.org/abs/2607.25398",
+          "id": "hn-1785418866726-125",
+          "title": "1.25K → 9.04K clicks in 60 days: Pointed an agent to GSC every morning",
+          "url": "https://www.reddit.com/r/better_claw/s/RTb2Auc7rx",
           "source": "Hacker News",
-          "publishedAt": "2026-07-29T13:01:57.000Z",
+          "publishedAt": "2026-07-30T09:54:10.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 33,
-            "comments": 10
+            "upvotes": 5,
+            "comments": 3
           },
-          "rawTextSnippet": "Handbook.md shows that long policy documents do not reliably govern agents",
+          "rawTextSnippet": "1.25K → 9.04K clicks in 60 days: Pointed an agent to GSC every morning",
           "hnMeta": {
-            "points": 33,
-            "comments": 10,
-            "hnUrl": "https://news.ycombinator.com/item?id=49096969"
-          },
-          "score": 72,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1785333009460-120",
-          "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-          "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-29T12:58:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 21,
-            "comments": 2
-          },
-          "rawTextSnippet": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-          "hnMeta": {
-            "points": 21,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49096917"
+            "points": 5,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=49107856"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -634,42 +572,15 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1785333006534-22",
-          "title": "Show HN: ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud",
-          "url": "https://github.com/butterclaw-tech/butterclaw",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-29T13:12:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49097073"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1785333008970-93",
-          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+          "id": "rss-1785418866208-98",
+          "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-07-29T00:09:05.000Z",
+          "publishedAt": "2026-07-29T21:16:39.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The deal is Cyera's third acquisition this year.",
+          "rawTextSnippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
           "score": 59,
           "scoreBreakdown": {
             "freshness": 22,
@@ -681,234 +592,48 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1785333006534-24",
-          "title": "Build AI Agents for Frontline Worker in Seconds",
-          "url": "https://www.dagploy.com",
+          "id": "hn-1785418863840-11",
+          "title": "Meta shares tumble as Mark Zuckerberg tries to sell his vision for AI 'agents",
+          "url": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b",
           "source": "Hacker News",
-          "publishedAt": "2026-07-29T13:09:03.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "Build AI Agents for Frontline Worker in Seconds",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49097042"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 11,
-      "trendScore": 123,
-      "whyTrending": "11 stories across TechCrunch, arXiv, OpenAI, 6 in the last 24h.",
-      "topStory": {
-        "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-        "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
-      },
-      "items": [
-        {
-          "id": "rss-1785333008970-92",
-          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-29T11:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1785333008970-98",
-          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-28T14:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 10
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1785333008970-94",
-          "title": "Bot-detection startup Spur nabs $200M from Insight",
-          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-28T21:29:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1785333008970-95",
-          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-          "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-28T20:45:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-          "score": 56,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "arxiv-1785333006865-43",
-          "title": "Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models",
-          "url": "https://arxiv.org/abs/2607.26000v1",
-          "source": "arXiv",
-          "publishedAt": "2026-07-28T17:16:01.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Tabular Foundation Models (TFMs) have emerged as novel approaches for tabular predictive tasks, demonstrating competitive predictive performance to ensemble tree-based models. Most TFMs are trained and evaluated on independent and identically distributed data, but this assumption changes in real-wor…",
-          "arxivMeta": {
-            "authors": "Malena Loza, David Chushig-Muzo, Eva Milara, Luis Bote-Curiel, Luis Estrada-Petrocelli, Felipe Grijalva",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 52,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Funding & Acquisitions"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 11,
-      "trendScore": 117,
-      "whyTrending": "11 stories across Hacker, arXiv, TechCrunch, 5 in the last 24h.",
-      "topStory": {
-        "title": "Show HN: Cadence Money – a budgeting app with no AI features, just an MCP server",
-        "url": "https://www.cadencemoney.com"
-      },
-      "items": [
-        {
-          "id": "hn-1785333006534-21",
-          "title": "Show HN: Cadence Money – a budgeting app with no AI features, just an MCP server",
-          "url": "https://www.cadencemoney.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-29T13:16:07.000Z",
+          "publishedAt": "2026-07-30T13:35:54.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 3,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "I thought I could make a personal finance app that was simpler, smarter and more privacy-focused than Monarch, YNAB and Copilot. I believe I have, but today that&#x27;s up to you. While the classic story of using a variety of &quot;analog&quot; tools to manage money does apply to me, the main pillar…",
+          "rawTextSnippet": "Meta shares tumble as Mark Zuckerberg tries to sell his vision for AI 'agents",
           "hnMeta": {
             "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49097110"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49109802"
           },
-          "score": 62,
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1785333007973-86",
-          "title": "Show HN: Get a security assessment of MCP servers directly from your terminal",
-          "url": "https://index.canopii.dev/cli",
+          "id": "hn-1785418863841-20",
+          "title": "Can AI Agents Be Aligned with Human Rights?",
+          "url": "https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/",
           "source": "Hacker News",
-          "publishedAt": "2026-07-29T08:26:16.000Z",
+          "publishedAt": "2026-07-30T13:11:58.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "I built a deterministic scanner that catches command injection, prompt-injection markers in tool descriptions, over-broad&#x2F;destructive tools, and committed secrets in MCP servers before you connect them. It continuously scans the entire official MCP registry and makes results available at https:…",
+          "rawTextSnippet": "Can AI Agents Be Aligned with Human Rights?",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49094760"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1785333006534-23",
-          "title": "Show HN: Job Finder India – an honest job-fit tool that runs in your AI CLI",
-          "url": "https://github.com/harshgarg95/job-finder-india",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-29T13:11:07.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: Job Finder India – an honest job-fit tool that runs in your AI CLI",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49097061"
+            "hnUrl": "https://news.ycombinator.com/item?id=49109522"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -918,24 +643,90 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1785333010903-150",
-          "title": "Scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development",
-          "url": "https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727",
+          "id": "hn-1785418863841-27",
+          "title": "Super Amplify – governed AI agents for real company workflows",
+          "url": "https://superamplify.com/personas",
           "source": "Hacker News",
-          "publishedAt": "2026-07-29T07:21:48.000Z",
+          "publishedAt": "2026-07-30T12:49:12.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development",
+          "rawTextSnippet": "Super Amplify – governed AI agents for real company workflows",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49094372"
+            "hnUrl": "https://news.ycombinator.com/item?id=49109285"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "Research & Benchmarks",
+      "itemCount": 11,
+      "trendScore": 129,
+      "whyTrending": "11 stories across Hacker, arXiv, DeepMind, 10 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Abendrot – The free and open-source macOS app for your circadian rhythm",
+        "url": "https://github.com/matthewrball/abendrot"
+      },
+      "items": [
+        {
+          "id": "hn-1785418865282-74",
+          "title": "Show HN: Abendrot – The free and open-source macOS app for your circadian rhythm",
+          "url": "https://github.com/matthewrball/abendrot",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T12:25:14.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Abendrot is a handcrafted application designed for the burners of the midnight oil. I got tired of spending night after night staring into a luminous computer screen blasting blue-rich light at my eyes long after sunset. After a long deep research session with frontier models, the need for Abendrot …",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49109068"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1785418869644-185",
+          "title": "Is Mythos good at cyber because it kept hacking Anthropics sandboxes in training",
+          "url": "https://www.lesswrong.com/posts/QKDoZe6EKhxnFjLWK/is-mythos-good-at-cyber-because-it-kept-hacking-anthropic",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T02:02:41.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 0
+          },
+          "rawTextSnippet": "Is Mythos good at cyber because it kept hacking Anthropics sandboxes in training",
+          "hnMeta": {
+            "points": 5,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49105359"
           },
           "score": 55,
           "scoreBreakdown": {
@@ -945,20 +736,48 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "Research & Benchmarks"
         },
         {
-          "id": "arxiv-1785333006866-56",
-          "title": "dtControl2+$\\varepsilon$: Trading Optimality for Explainability in MDPs via Decision Trees",
-          "url": "https://arxiv.org/abs/2607.25925v1",
+          "id": "arxiv-1785418863933-34",
+          "title": "APEX-Accounting",
+          "url": "https://arxiv.org/abs/2607.27189v1",
           "source": "arXiv",
-          "publishedAt": "2026-07-28T16:15:11.000Z",
+          "publishedAt": "2026-07-29T17:56:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 15
           },
-          "rawTextSnippet": "Over the past decade, decision trees have been used to represent controllers (a.k.a. policies) in an explainable way, with dtControl2 as a current state-of-the-art tool. However, for systems that are large or have many corner cases, even such representations tend to be too complex and not human-comp…",
+          "rawTextSnippet": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting transactions, and producing reports. The private eval set comprises 160 tasks, spl…",
           "arxivMeta": {
-            "authors": "Tereza Kinská, Jan Křetínský, Tobias Meggendorfer, Sabine Rieder, Maximilian Weininger",
+            "authors": "Julien Benchek, Austin Bennett, Jasmin Kern, Ryan Stevens, Rene Sultan, Charis Ching, Hayley Popiel, Vaibhav Mittal, Felix Mercier, Brendan Foody, Bertie Vidgen",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1785418863932-33",
+          "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+          "url": "https://arxiv.org/abs/2607.27191v1",
+          "source": "arXiv",
+          "publishedAt": "2026-07-29T17:57:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers to blind pe…",
+          "arxivMeta": {
+            "authors": "Peter Kirgis, Sayash Kapoor, Andrew Schwartz, Stephan Rabanser, David Africa, Konstantinos Voudouris, Viet Nguyen, Toby Pilditch, Magda Dubois, Harry Coppock, Cozmin Ududec, Nitya Nadgir, Matilda Orona, Tilman Bayer, Derrick Chan-Sew, Yue Ling, Abhishek Shetty, Helen Toner, Gillian Hadfield, Seth Lazar, Steve Newman, Shoshannah Tekofsky, Rishi Bommasani, Arvind Narayanan",
             "categories": [
               "cs.AI",
               "cs.CL",
@@ -973,98 +792,302 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1785418863933-37",
+          "title": "DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search",
+          "url": "https://arxiv.org/abs/2607.27178v1",
+          "source": "arXiv",
+          "publishedAt": "2026-07-29T17:50:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "State-of-the-art retrieval models increasingly rely on closed training data, creating a reproducibility gap. We present an open end-to-end recipe for training retrieval models and study how English supervision transfers to multilingual retrieval through translate-train. We first reconstruct and cura…",
+          "arxivMeta": {
+            "authors": "Raphaël Sourty, Antoine Chaffin, Paulo Roberto Moura Junior, Amélie Chatelain",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 52,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        }
+      ]
+    },
+    {
+      "name": "AI Safety & Regulation",
+      "itemCount": 10,
+      "trendScore": 124,
+      "whyTrending": "10 stories across Hacker, arXiv, TechCrunch, 7 in the last 24h.",
+      "topStory": {
+        "title": "OpenJDK Interim Policy on Generative AI",
+        "url": "https://openjdk.org/legal/ai"
+      },
+      "items": [
+        {
+          "id": "hn-1785418863841-29",
+          "title": "OpenJDK Interim Policy on Generative AI",
+          "url": "https://openjdk.org/legal/ai",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T12:36:38.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 33,
+            "comments": 26
+          },
+          "rawTextSnippet": "OpenJDK Interim Policy on Generative AI",
+          "hnMeta": {
+            "points": 33,
+            "comments": 26,
+            "hnUrl": "https://news.ycombinator.com/item?id=49109165"
+          },
+          "score": 72,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1785418865282-72",
+          "title": "Show HN: I got shadowbanned on X (Twitter), so I built a checker",
+          "url": "https://amishadowbanned.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-30T12:58:44.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: I got shadowbanned on X (Twitter), so I built a checker",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49109387"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1785418869644-189",
+          "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
+          "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
+          "source": "Hacker News",
+          "publishedAt": "2026-07-29T18:42:50.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 38,
+            "comments": 6
+          },
+          "rawTextSnippet": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
+          "hnMeta": {
+            "points": 38,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=49101364"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "arxiv-1785418863934-44",
+          "title": "Cost-Sensitive Conformal Prediction and Human-in-the-Loop Abstention for Imbalanced High-Stakes Decision Support: A Multi-Domain Benchmark",
+          "url": "https://arxiv.org/abs/2607.27143v1",
+          "source": "arXiv",
+          "publishedAt": "2026-07-29T17:15:33.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "High-stakes decision systems in credit scoring, fraud detection, healthcare, and industrial safety require reliable uncertainty quantification under severe class imbalance and asymmetric error costs. Standard marginal conformal prediction (CP) provides valid overall coverage guarantees; however, we …",
+          "arxivMeta": {
+            "authors": "Manpreet Singh, Akshatha Srikantha, Shyamal Lakhanpal",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "arxiv-1785418863935-51",
+          "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+          "url": "https://arxiv.org/abs/2607.27081v1",
+          "source": "arXiv",
+          "publishedAt": "2026-07-29T16:07:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream corpora, creating models that retain professional skills while violating human values on demand. Existing …",
+          "arxivMeta": {
+            "authors": "Yongjian Guo, Wanlun Ma, Lingyu Shen, Xi Xiao, Sheng Wen",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1785333008970-92",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-29T11:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Pangram secured $9 million to enhance its AI detection software and launched Pangram 4 for text and an image detection model.  \n• Why it matters: The rise of AI-generated content necessitates effective detection tools to maintain content integrity online.  \n• Business opportunity: There is a growing demand for AI detection solutions, presenting potential for further investment and innovation in content verification technologies."
-    },
-    {
-      "id": "rss-1785333008970-98",
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 10
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Fish Audio secured $52M in seed funding to develop AI voice models for creators and enterprises.  \n• Why it matters: The startup has rapidly gained 8 million users and generates $21 million in annual recurring revenue.  \n• Business opportunity: There is potential for growth in the AI voice model market, catering to both individual creators and businesses."
-    },
-    {
-      "id": "hn-1785333007973-86",
-      "title": "Show HN: Get a security assessment of MCP servers directly from your terminal",
-      "url": "https://index.canopii.dev/cli",
+      "id": "hn-1785418865282-75",
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
       "source": "Hacker News",
-      "publishedAt": "2026-07-29T08:26:16.000Z",
+      "publishedAt": "2026-07-30T11:55:39.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 14,
         "comments": 0
       },
-      "rawTextSnippet": "I built a deterministic scanner that catches command injection, prompt-injection markers in tool descriptions, over-broad&#x2F;destructive tools, and committed secrets in MCP servers before you connect them. It continuously scans the entire official MCP registry and makes results available at https:…",
+      "rawTextSnippet": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
       "hnMeta": {
-        "points": 1,
+        "points": 14,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49094760"
+        "hnUrl": "https://news.ycombinator.com/item?id=49108778"
       },
-      "score": 62,
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 0,
+        "engagement": 5,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: A new deterministic scanner for MCP servers detects security vulnerabilities directly from the terminal.  \n• Why it matters: It enhances security by identifying command injection and other risks before server connections.  \n• Business opportunity: Companies can leverage this tool to improve their cybersecurity posture and protect sensitive data."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A new Go LLM SDK has been released for streaming and tool-calling AI backends, along with a React library.  \n• Why it matters: This development enhances the integration of AI capabilities in applications, streamlining workflows for developers.  \n• Business opportunity: Companies can leverage this SDK to build innovative AI-driven solutions, improving user engagement and operational efficiency."
     },
     {
-      "id": "hn-1785333007973-83",
-      "title": "Enprompta – Prompt Registry, LLM Evals, and Observability for Production AI Apps",
-      "url": "https://enprompta.com/",
+      "id": "rss-1785418863649-0",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-30T12:10:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a …",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A report reveals that large language models (LLMs) have a fundamental flaw that makes them vulnerable to attacks.  \n• Why it matters: This vulnerability raises concerns about the security and reliability of AI systems in various applications.  \n• Business opportunity: Companies can invest in developing more secure AI technologies or offer cybersecurity solutions tailored for LLMs."
+    },
+    {
+      "id": "rss-1785418863649-1",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-30T10:15:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Researchers identified a fundamental flaw in large language models (LLMs) that makes them vulnerable to attacks.  \n• Why it matters: This vulnerability poses significant security risks, challenging the reliability of LLMs in various applications.  \n• Business opportunity: Companies can develop enhanced security solutions or alternative models to address these vulnerabilities and improve LLM safety."
+    },
+    {
+      "id": "hn-1785418871058-204",
+      "title": "Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub",
+      "url": "https://github.com/Deepender25/Edge-Drop",
       "source": "Hacker News",
-      "publishedAt": "2026-07-29T09:31:48.000Z",
+      "publishedAt": "2026-07-30T06:03:26.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 6,
+        "comments": 12
+      },
+      "rawTextSnippet": "Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub",
+      "hnMeta": {
+        "points": 6,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49106529"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI in Enterprise"
+    },
+    {
+      "id": "hn-1785418863841-26",
+      "title": "Show HN: I Made Generateppt.com Free",
+      "url": "https://www.generateppt.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T12:52:05.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
-        "comments": 0
+        "comments": 1
       },
-      "rawTextSnippet": "Enprompta – Prompt Registry, LLM Evals, and Observability for Production AI Apps",
+      "rawTextSnippet": "No watermark, no limits, and the AI features work with your own API key, so there’s no subscription. Would love any feedback: generateppt.com",
       "hnMeta": {
         "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49095172"
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49109310"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1074,50 +1097,51 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "hn-1785333009460-112",
-      "title": "Show HN: Ctx.traits · Agent Traits and Workflows typed, versioned and in-sync",
-      "url": "https://ctx.company/blog/introducing-ctx-traits/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-29T13:45:55.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Show HN: Ctx.traits · Agent Traits and Workflows typed, versioned and in-sync",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49097463"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation"
+      "cluster": "AI Tools & Products"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1785333006864-32",
-      "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2607.26057v1",
+      "id": "arxiv-1785418863933-34",
+      "title": "APEX-Accounting",
+      "url": "https://arxiv.org/abs/2607.27189v1",
       "source": "arXiv",
-      "publishedAt": "2026-07-28T17:59:46.000Z",
+      "publishedAt": "2026-07-29T17:56:49.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable super…",
+      "rawTextSnippet": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting transactions, and producing reports. The private eval set comprises 160 tasks, spl…",
       "arxivMeta": {
-        "authors": "Haolei Xu, Xiaowen Xu, Haiwen Hong, Zixuan Ni, Hongxing Li, Yiwen Qiu, Weiming Lu, Yongliang Shen",
+        "authors": "Julien Benchek, Austin Bennett, Jasmin Kern, Ryan Stevens, Rene Sultan, Charis Ching, Hayley Popiel, Vaibhav Mittal, Felix Mercier, Brendan Foody, Bertie Vidgen",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks"
+    },
+    {
+      "id": "arxiv-1785418863934-44",
+      "title": "Cost-Sensitive Conformal Prediction and Human-in-the-Loop Abstention for Imbalanced High-Stakes Decision Support: A Multi-Domain Benchmark",
+      "url": "https://arxiv.org/abs/2607.27143v1",
+      "source": "arXiv",
+      "publishedAt": "2026-07-29T17:15:33.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "High-stakes decision systems in credit scoring, fraud detection, healthcare, and industrial safety require reliable uncertainty quantification under severe class imbalance and asymmetric error costs. Standard marginal conformal prediction (CP) provides valid overall coverage guarantees; however, we …",
+      "arxivMeta": {
+        "authors": "Manpreet Singh, Akshatha Srikantha, Shyamal Lakhanpal",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1135,45 +1159,17 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1785333006864-33",
-      "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
-      "url": "https://arxiv.org/abs/2607.26055v1",
+      "id": "arxiv-1785418863935-50",
+      "title": "Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents",
+      "url": "https://arxiv.org/abs/2607.27083v1",
       "source": "arXiv",
-      "publishedAt": "2026-07-28T17:59:31.000Z",
+      "publishedAt": "2026-07-29T16:07:37.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \\emph{reactivity}. Replanning more often would restore it, but …",
+      "rawTextSnippet": "As LLM agents increasingly depend on diverse external services such as search engines, databases, and connectors, agent harnesses face a fundamental tool-selection challenge: acquiring too few tools leaves the task under-informed, while too many adds cost, context load, and privacy exposure. Routers…",
       "arxivMeta": {
-        "authors": "Sungjae Park, Shubham Tulsiani",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "arxiv-1785333006865-44",
-      "title": "Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?",
-      "url": "https://arxiv.org/abs/2607.25995v1",
-      "source": "arXiv",
-      "publishedAt": "2026-07-28T17:12:12.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Kubernetes is central to the cloud-native ecosystem, orchestrating containerised workloads. Recent work suggests that large language models (LLMs) can automate cluster security remediation, generating configuration patches from Kubernetes Security Posture Management (KSPM) findings without human aut…",
-      "arxivMeta": {
-        "authors": "Farooq Shaikh",
+        "authors": "Yicheng Feng, Yan Zhang, Yan Cheng, Wei Qi",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1191,17 +1187,17 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1785333006865-47",
-      "title": "Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition",
-      "url": "https://arxiv.org/abs/2607.25961v1",
+      "id": "arxiv-1785418863935-51",
+      "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+      "url": "https://arxiv.org/abs/2607.27081v1",
       "source": "arXiv",
-      "publishedAt": "2026-07-28T16:44:38.000Z",
+      "publishedAt": "2026-07-29T16:07:19.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial, vocal, linguistic, and bodily modalities, and man…",
+      "rawTextSnippet": "Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream corpora, creating models that retain professional skills while violating human values on demand. Existing …",
       "arxivMeta": {
-        "authors": "Podakanti Satyajith Chary, Barath Parthiban, Pranesh Velmurugan, Adeeba Khan, Nagarajan Ganapathy",
+        "authors": "Yongjian Guo, Wanlun Ma, Lingyu Shen, Xi Xiao, Sheng Wen",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1219,58 +1215,120 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1785333006865-52",
-      "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
-      "url": "https://arxiv.org/abs/2607.25947v1",
+      "id": "arxiv-1785418863932-32",
+      "title": "Mental World Modeling",
+      "url": "https://arxiv.org/abs/2607.27201v1",
       "source": "arXiv",
-      "publishedAt": "2026-07-28T16:33:41.000Z",
+      "publishedAt": "2026-07-29T17:59:39.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Question answering (QA) over irregular clinical time series (ICTS) plays a pivotal role in a wide range of healthcare applications. Although recent multimodal time-series large language models (LLMs) have shown considerable promise in general-purpose time-series QA, they remain poorly equipped to mo…",
+      "rawTextSnippet": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is driven by hidden mental state (what a person believes, wants, intends, feels, and considers socially …",
       "arxivMeta": {
-        "authors": "Frank Nie, Ethan B Liu, Yuan Zhu, Wei Fan, Jindong Han",
+        "authors": "Hao Fei, Yiran Zhao",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 52,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "Large Language Models"
+      "cluster": "General AI"
     }
   ],
   "funding": [
     {
-      "id": "rss-1785333008970-92",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "id": "rss-1785418866208-93",
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-29T11:00:00.000Z",
+      "publishedAt": "2026-07-30T13:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "score": 67,
+      "rawTextSnippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Pangram secured $9 million to enhance its AI detection software and launched Pangram 4 for text and image detection.  \n• Why it matters: The rise of AI-generated content necessitates effective detection tools to maintain content integrity online.  \n• Business opportunity: There is a growing demand for AI detection solutions, presenting a market opportunity for Pangram and similar startups."
+      "cluster": "General AI",
+      "summary": "• What happened: Dili secured $21.7 million in Series A funding to enhance AI compliance in infrastructure.  \n• Why it matters: This investment highlights the growing demand for compliance solutions amid an infrastructure boom.  \n• Business opportunity: Companies can leverage Dili's technology to streamline compliance processes and reduce risks in infrastructure projects."
     },
     {
-      "id": "rss-1785333008970-98",
+      "id": "rss-1785418866208-95",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-29T23:00:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Mark Zuckerberg forecasts widespread adoption of personal AI agents within five years.  \n• Why it matters: This vision reflects Meta's significant investment in AI infrastructure, aiming to reshape digital interactions.  \n• Business opportunity: Companies can explore developing AI solutions and services to meet the anticipated demand for personal AI agents."
+    },
+    {
+      "id": "rss-1785418866208-96",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-29T22:46:03.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Microsoft reported $3.2 billion from its investment in Anthropic while results from OpenAI were mixed.  \n• Why it matters: This highlights the varying returns on AI investments and the competitive landscape between major AI labs.  \n• Business opportunity: Companies can explore strategic partnerships or investments in emerging AI firms to maximize returns."
+    },
+    {
+      "id": "rss-1785418866208-103",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-29T14:41:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation"
+    },
+    {
+      "id": "rss-1785418866208-110",
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "source": "TechCrunch AI",
@@ -1279,78 +1337,16 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 10
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Fish Audio secured $52 million in seed funding to develop AI voice models.  \n• Why it matters: The startup has rapidly gained over 8 million users and generates $21 million in annual recurring revenue.  \n• Business opportunity: There is potential for growth in AI voice technology for creators and enterprises, attracting further investment and partnerships."
-    },
-    {
-      "id": "rss-1785333008970-93",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-29T00:09:05.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The deal is Cyera's third acquisition this year.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Cyera has agreed to acquire Oasis Security for $1 billion.  \n• Why it matters: This acquisition aims to enhance security measures for the increasing number of AI agents.  \n• Business opportunity: Companies can capitalize on the growing demand for AI security solutions in a rapidly evolving tech landscape."
-    },
-    {
-      "id": "rss-1785333008970-94",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T21:29:34.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1785333008970-100",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T04:30:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "score": 52,
+      "score": 56,
       "scoreBreakdown": {
         "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 10
       },
-      "cluster": "AI in Enterprise"
+      "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In today's AI landscape, Codex Security has emerged as a key player, addressing vulnerabilities that could jeopardize sensitive data, highlighting the urgent need for robust cybersecurity measures in AI applications. Meanwhile, a study from Handbook.md reveals that lengthy policy documents often fail to effectively govern AI agents, suggesting businesses should prioritize clarity and brevity in their AI governance frameworks. On a more practical note, a new userscript developed by a Hacker News user aims to streamline browsing by consolidating tabs, reflecting a growing demand for efficiency tools in the tech community. Additionally, researchers are leveraging Claude to uncover cryptographic weaknesses, underscoring the ongoing battle against security flaws in AI systems. Lastly, discussions surrounding the recent AI crash emphasize the importance of sustainable growth strategies for businesses investing in AI technologies."
+  "dailyBrief": "In today's AI landscape, OpenJDK has introduced an interim policy on generative AI, signaling a shift in how open-source projects may navigate AI integration. Meanwhile, Anthropic's latest cryptanalysis results could enhance AI security protocols, potentially impacting sectors reliant on data protection. In funding news, Dili has successfully raised $21.7 million to develop AI compliance solutions tailored for the booming infrastructure market, highlighting the increasing demand for regulatory adherence in tech. Additionally, the launch of a Go LLM SDK for streaming and AI backend integration offers developers new tools to enhance application performance. Lastly, a notable case study revealed a significant increase in web traffic, with clicks rising from 1,250 to 9,040 in just 60 days, showcasing the potential of targeted AI strategies in driving business growth."
 }
