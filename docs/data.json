@@ -1,175 +1,21 @@
 {
   "topNews": [
     {
-      "id": "hn-1785505524184-149",
-      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-      "url": "https://github.com/mokshablr/gander",
+      "id": "hn-1785589344313-17",
+      "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+      "url": "https://freeaipromptgen.com/",
       "source": "Hacker News",
-      "publishedAt": "2026-07-31T05:45:13.000Z",
+      "publishedAt": "2026-08-01T12:03:25.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 120,
-        "comments": 57
+        "upvotes": 10,
+        "comments": 2
       },
-      "rawTextSnippet": "Hi HN, I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all. I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small fre…",
+      "rawTextSnippet": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
       "hnMeta": {
-        "points": 120,
-        "comments": 57,
-        "hnUrl": "https://news.ycombinator.com/item?id=49119425"
-      },
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Generative AI & Media",
-      "summary": "• What happened: A developer launched Gander, an Android file viewer that requires no permissions.  \n• Why it matters: It addresses privacy concerns by allowing users to view files without granting access to their device.  \n• Business opportunity: There is potential for growth in privacy-focused applications in the mobile software market."
-    },
-    {
-      "id": "hn-1785505528453-222",
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-30T18:13:06.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 145,
-        "comments": 70
-      },
-      "rawTextSnippet": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. Wi…",
-      "hnMeta": {
-        "points": 145,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=49113599"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: DeepSeek V4 Flash was successfully distilled into GPT-OSS-120B for finance tasks, achieving a high accuracy score.  \n• Why it matters: This advancement demonstrates effective knowledge transfer in AI models without censorship, enhancing their utility in finance.  \n• Business opportunity: Companies can leverage the open weights of the 20B model for improved financial analysis and decision-making tools."
-    },
-    {
-      "id": "rss-1785505523604-129",
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-07-31T15:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "score": 68,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: OpenAI outlined its practices for responsible AI governance in Europe as the EU AI Act progresses.  \n• Why it matters: This initiative promotes safety, security, and transparency in AI development, aligning with regulatory standards.  \n• Business opportunity: Companies can leverage OpenAI's frameworks to enhance their AI offerings and ensure compliance with emerging regulations."
-    },
-    {
-      "id": "hn-1785505521316-85",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-31T05:17:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 77,
-        "comments": 47
-      },
-      "rawTextSnippet": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X. Before GUIs, interacting with a computer was limited to strange terminal commands: C:\\&gt; DIR…",
-      "hnMeta": {
-        "points": 77,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=49119274"
-      },
-      "score": 65,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Creators of MarbleOS seek input on designing a GUI for AI agents.  \n• Why it matters: A user-friendly interface could enhance accessibility and adoption of AI technologies.  \n• Business opportunity: Developing innovative GUI solutions for AI could capture a growing market of users and businesses."
-    },
-    {
-      "id": "hn-1785505521316-88",
-      "title": "\"the very foundation of modern academia has been blown to bits\"",
-      "url": "https://twitter.com/lemire/status/2082851447499088173",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-31T02:54:02.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 47,
-        "comments": 61
-      },
-      "rawTextSnippet": "\"the very foundation of modern academia has been blown to bits\"",
-      "hnMeta": {
-        "points": 47,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=49118474"
-      },
-      "score": 65,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A significant disruption has occurred in the structure of modern academia.  \n• Why it matters: This upheaval challenges traditional educational models and practices.  \n• Business opportunity: There is potential for innovative educational solutions and platforms to emerge."
-    },
-    {
-      "id": "rss-1785505523604-130",
-      "title": "Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Univé developed an AI-ready workforce using ChatGPT Enterprise.  \n• Why it matters: This initiative combines leadership and governance to enhance workplace innovation and efficiency.  \n• Business opportunity: Companies can leverage similar strategies to foster AI integration and improve operational effectiveness."
-    },
-    {
-      "id": "hn-1785505519880-15",
-      "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
-      "url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-31T13:25:57.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 3
-      },
-      "rawTextSnippet": "Citadel buys Situational Awareness equity holdings after steep AI losses",
-      "hnMeta": {
-        "points": 5,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49122857"
+        "points": 10,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49133672"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -179,104 +25,472 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Citadel acquired equity holdings in Situational Awareness following significant losses in AI investments.  \n• Why it matters: This move indicates Citadel's strategic pivot towards more stable investments amid AI market volatility.  \n• Business opportunity: Investors may find potential in companies focused on situational awareness technologies as alternatives to high-risk AI ventures."
+      "cluster": "Open Source AI",
+      "summary": "• What happened: A new open-source tool called Free AI Prompt Gen has been launched for prompt engineering.  \n• Why it matters: It enables users to create AI prompts locally, enhancing privacy and customization.  \n• Business opportunity: Companies can leverage this tool to improve their AI applications and offer tailored solutions."
     },
     {
-      "id": "rss-1785505519683-0",
-      "title": "The Download: Montana&#8217;s new experimental drug rules",
-      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-31T12:16:00.000Z",
+      "id": "hn-1785589351446-206",
+      "title": "The Chatbot Act Forces One Parenting Model on Every Family",
+      "url": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T08:16:59.000Z",
       "scoreSignals": {
-        "sourceAuthority": 18
+        "sourceAuthority": 14,
+        "upvotes": 12,
+        "comments": 0
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through p…",
-      "score": 63,
+      "rawTextSnippet": "The Chatbot Act Forces One Parenting Model on Every Family",
+      "hnMeta": {
+        "points": 12,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49132274"
+      },
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
+        "authority": 14,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Montana has introduced new rules to facilitate the testing of experimental drugs by biotech companies.  \n• Why it matters: This initiative positions Montana as a potential hub for medical innovation and attracts biotech investment.  \n• Business opportunity: Companies can leverage Montana's regulatory environment to expedite drug development and clinical trials."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: The Chatbot Act mandates a uniform parenting model for all families.  \n• Why it matters: This legislation could limit parental choice and influence child development.  \n• Business opportunity: Companies can develop customizable parenting tools and resources to cater to diverse family needs."
     },
     {
-      "id": "rss-1785505519683-1",
-      "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-31T09:00:00.000Z",
+      "id": "github-1785589345780-91",
+      "title": "[0xwilliamortiz/ratchet] Your agent reads the rules. This checks whether it followed them.",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-07-31T17:54:30.000Z",
       "scoreSignals": {
-        "sourceAuthority": 18
+        "sourceAuthority": 12,
+        "upvotes": 404
       },
-      "rawTextSnippet": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
+      "rawTextSnippet": "Your agent reads the rules. This checks whether it followed them.",
+      "githubMeta": {
+        "stars": 404,
+        "language": "JavaScript",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "code-quality",
+          "developer-tools",
+          "hooks",
+          "llm",
+          "ratchet",
+          "rate-limiting",
+          "static-analysis",
+          "yagni"
+        ]
       },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: Montana enacted a new \"right to try\" law aimed at providing access to experimental treatments.  \n• Why it matters: This law offers hope to families like Kris DeVault's, who seek alternative options for serious health conditions.  \n• Business opportunity: Companies can explore developing and marketing innovative therapies under this new regulatory framework."
-    },
-    {
-      "id": "rss-1785505522261-103",
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T16:09:42.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "score": 62,
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
+        "authority": 12,
+        "engagement": 15,
         "novelty": 15,
-        "businessImpact": 9
+        "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Okta acquired AI security startup Permiso for approximately $200 million.  \n• Why it matters: This acquisition enhances Okta's identity threat detection capabilities amid rising security concerns for AI agents.  \n• Business opportunity: Companies can leverage Okta's improved security solutions to protect their cloud environments and non-human identities."
+      "summary": "• What happened: A new GitHub project, 0xwilliamortiz/ratchet, was launched to ensure agents adhere to specified rules.  \n• Why it matters: This tool enhances compliance and accountability in automated systems, reducing errors and improving trust.  \n• Business opportunity: Companies can leverage this technology to develop more reliable AI solutions that meet regulatory standards."
+    },
+    {
+      "id": "hn-1785589344313-11",
+      "title": "A Field Guide to the AI Security Market",
+      "url": "https://zeltser.com/ai-security-market-field-guide",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T12:39:39.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "A Field Guide to the AI Security Market",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49133934"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A comprehensive guide on the AI security market has been released.  \n• Why it matters: It highlights the growing importance of security in AI technologies amid rising cyber threats.  \n• Business opportunity: Companies can leverage insights from the guide to develop innovative security solutions for AI applications."
+    },
+    {
+      "id": "hn-1785589344314-26",
+      "title": "A Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T10:11:40.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 2
+      },
+      "rawTextSnippet": "A Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "hnMeta": {
+        "points": 3,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49132954"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A federal lawsuit with 13 counts was filed over an AI-cheating dispute at Yale.  \n• Why it matters: This case highlights the growing legal implications of AI technology in academic settings.  \n• Business opportunity: Companies can develop AI solutions for academic integrity and compliance to address emerging challenges."
+    },
+    {
+      "id": "hn-1785589347216-115",
+      "title": "Building a local positioning system to track runners using Ultra-Wideband",
+      "url": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T12:30:10.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Building a local positioning system to track runners using Ultra-Wideband",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49133850"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A new local positioning system using Ultra-Wideband technology is being developed to track runners.  \n• Why it matters: This innovation could enhance safety and performance monitoring for athletes in various environments.  \n• Business opportunity: There is potential for partnerships with fitness apps and sports equipment manufacturers to integrate this tracking technology."
+    },
+    {
+      "id": "hn-1785589352861-226",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T18:13:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 165,
+        "comments": 72
+      },
+      "rawTextSnippet": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. Wi…",
+      "hnMeta": {
+        "points": 165,
+        "comments": 72,
+        "hnUrl": "https://news.ycombinator.com/item?id=49113599"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: DeepSeek V4 Flash was successfully distilled into GPT-OSS-120B for finance tasks, achieving high performance.  \n• Why it matters: This advancement demonstrates effective model distillation, improving AI capabilities in finance while maintaining open-source accessibility.  \n• Business opportunity: Companies can leverage the open weights for customized finance applications, enhancing decision-making and analytics."
+    },
+    {
+      "id": "rss-1785589348130-133",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-07-31T15:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenAI outlined its practices for responsible AI governance in Europe as the EU AI Act progresses.  \n• Why it matters: This initiative aims to enhance safety, security, and transparency in AI development across the continent.  \n• Business opportunity: Companies can leverage OpenAI's framework to ensure compliance and build trust in their AI solutions."
+    },
+    {
+      "id": "hn-1785589345713-77",
+      "title": "The Cost of China's Free A.I",
+      "url": "https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T03:22:39.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 3
+      },
+      "rawTextSnippet": "The Cost of China's Free A.I",
+      "hnMeta": {
+        "points": 5,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49130745"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: China is offering free AI services, raising concerns about data security and market competition.  \n• Why it matters: This initiative could disrupt global AI markets and influence international tech policies.  \n• Business opportunity: Companies can explore partnerships or innovations to differentiate their AI offerings in response to China's strategy."
+    },
+    {
+      "id": "hn-1785589345713-78",
+      "title": "Show HN: Random OS I made using C",
+      "url": "https://github.com/NoTheIdiot/WindogeOS",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T02:02:12.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 6
+      },
+      "rawTextSnippet": "I seriously have no idea why I made this but I have a long term project now. Got a VERY INCOMPLETE file system (SFS) and it&#x27;s using limine.",
+      "hnMeta": {
+        "points": 4,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49130425"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A developer created a random operating system using C, featuring an incomplete file system.  \n• Why it matters: This project showcases innovation in OS development, potentially inspiring others in the tech community.  \n• Business opportunity: There may be potential for collaboration or investment in developing a more complete and functional operating system."
     }
   ],
   "trendingTopics": [
     {
-      "name": "Large Language Models",
-      "itemCount": 58,
-      "trendScore": 206,
-      "whyTrending": "58 stories across Hacker, OpenAI, DeepMind, 36 in the last 24h.",
+      "name": "General AI",
+      "itemCount": 57,
+      "trendScore": 203,
+      "whyTrending": "57 stories across Hacker, OpenAI, TechCrunch, 31 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer"
+        "title": "A Field Guide to the AI Security Market",
+        "url": "https://zeltser.com/ai-security-market-field-guide"
       },
       "items": [
         {
-          "id": "hn-1785505528453-222",
+          "id": "hn-1785589344313-11",
+          "title": "A Field Guide to the AI Security Market",
+          "url": "https://zeltser.com/ai-security-market-field-guide",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T12:39:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "A Field Guide to the AI Security Market",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49133934"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1785589345713-77",
+          "title": "The Cost of China's Free A.I",
+          "url": "https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T03:22:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 3
+          },
+          "rawTextSnippet": "The Cost of China's Free A.I",
+          "hnMeta": {
+            "points": 5,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=49130745"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1785589345713-78",
+          "title": "Show HN: Random OS I made using C",
+          "url": "https://github.com/NoTheIdiot/WindogeOS",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T02:02:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 6
+          },
+          "rawTextSnippet": "I seriously have no idea why I made this but I have a long term project now. Got a VERY INCOMPLETE file system (SFS) and it&#x27;s using limine.",
+          "hnMeta": {
+            "points": 4,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=49130425"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1785589348605-156",
+          "title": "OpenAI's work on Git for large repositories",
+          "url": "https://openai-git-upstream.openai.chatgpt.site/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T06:41:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 9,
+            "comments": 2
+          },
+          "rawTextSnippet": "OpenAI's work on Git for large repositories",
+          "hnMeta": {
+            "points": 9,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=49131737"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1785589351446-207",
+          "title": "The Screen Act Threatens Privacy Far Beyond Adult Websites",
+          "url": "https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T06:09:15.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 9,
+            "comments": 1
+          },
+          "rawTextSnippet": "The Screen Act Threatens Privacy Far Beyond Adult Websites",
+          "hnMeta": {
+            "points": 9,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49131553"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        }
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "itemCount": 58,
+      "trendScore": 190,
+      "whyTrending": "58 stories across Hacker, OpenAI, DeepMind, 17 in the last 24h.",
+      "topStory": {
+        "title": "The Chatbot Act Forces One Parenting Model on Every Family",
+        "url": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family"
+      },
+      "items": [
+        {
+          "id": "hn-1785589351446-206",
+          "title": "The Chatbot Act Forces One Parenting Model on Every Family",
+          "url": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T08:16:59.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 12,
+            "comments": 0
+          },
+          "rawTextSnippet": "The Chatbot Act Forces One Parenting Model on Every Family",
+          "hnMeta": {
+            "points": 12,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49132274"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1785589352861-226",
           "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
           "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
           "source": "Hacker News",
           "publishedAt": "2026-07-30T18:13:06.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 145,
-            "comments": 70
+            "upvotes": 165,
+            "comments": 72
           },
           "rawTextSnippet": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. Wi…",
           "hnMeta": {
-            "points": 145,
-            "comments": 70,
+            "points": 165,
+            "comments": 72,
             "hnUrl": "https://news.ycombinator.com/item?id=49113599"
           },
-          "score": 69,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 14,
             "engagement": 15,
             "novelty": 15,
@@ -285,41 +499,21 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1785505523604-130",
-          "title": "Univé builds an AI-ready workforce",
-          "url": "https://openai.com/index/unive",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-07-31T07:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1785505525628-197",
-          "title": "Now Anthropic Is Saying Claude Escaped and Hacked Several Companies",
-          "url": "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
+          "id": "hn-1785589350017-191",
+          "title": "Claude 5 family's hallucinations look a lot like internal Anthropic emails",
+          "url": "https://github.com/alectrocute/dario-and-amanda-prompt/blob/main/outputs.md",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T03:59:50.000Z",
+          "publishedAt": "2026-08-01T02:53:10.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 15,
-            "comments": 3
+            "upvotes": 3,
+            "comments": 4
           },
-          "rawTextSnippet": "Now Anthropic Is Saying Claude Escaped and Hacked Several Companies",
+          "rawTextSnippet": "Claude 5 family's hallucinations look a lot like internal Anthropic emails",
           "hnMeta": {
-            "points": 15,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=49118843"
+            "points": 3,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=49130638"
           },
           "score": 60,
           "scoreBreakdown": {
@@ -332,21 +526,21 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1785505519880-21",
-          "title": "Promote.chat: AI Marketing Agent for Vibe Coders",
-          "url": "https://www.promote.chat/",
+          "id": "hn-1785589345713-70",
+          "title": "Integrate LLM into your Python runtime",
+          "url": "https://github.com/MiskaKan/thinair",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T12:57:17.000Z",
+          "publishedAt": "2026-08-01T12:31:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Promote.chat: AI Marketing Agent for Vibe Coders",
+          "rawTextSnippet": "Integrate LLM into your Python runtime",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122539"
+            "hnUrl": "https://news.ycombinator.com/item?id=49133864"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -359,21 +553,21 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1785505521316-69",
-          "title": "Keep It Real: A Schema-Level Deferral Channel for Concise LLM Dialogue [pdf]",
-          "url": "https://raw.githubusercontent.com/noamt/kir/cfdc97de467de8d84d60f073773c0dcfd9975849/paper/arxiv/main.pdf",
+          "id": "hn-1785589345713-71",
+          "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+          "url": "https://github.com/pochenai/nano-llm-posttraining",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T12:56:10.000Z",
+          "publishedAt": "2026-08-01T12:30:32.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
+            "upvotes": 2,
+            "comments": 0
           },
-          "rawTextSnippet": "Keep It Real: A Schema-Level Deferral Channel for Concise LLM Dialogue [pdf]",
+          "rawTextSnippet": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
           "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122528"
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49133851"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -384,222 +578,74 @@
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
-        }
-      ]
-    },
-    {
-      "name": "General AI",
-      "itemCount": 54,
-      "trendScore": 206,
-      "whyTrending": "54 stories across Hacker, MIT, TechCrunch, 37 in the last 24h.",
-      "topStory": {
-        "title": "\"the very foundation of modern academia has been blown to bits\"",
-        "url": "https://twitter.com/lemire/status/2082851447499088173"
-      },
-      "items": [
-        {
-          "id": "hn-1785505521316-88",
-          "title": "\"the very foundation of modern academia has been blown to bits\"",
-          "url": "https://twitter.com/lemire/status/2082851447499088173",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-31T02:54:02.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 47,
-            "comments": 61
-          },
-          "rawTextSnippet": "\"the very foundation of modern academia has been blown to bits\"",
-          "hnMeta": {
-            "points": 47,
-            "comments": 61,
-            "hnUrl": "https://news.ycombinator.com/item?id=49118474"
-          },
-          "score": 65,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1785505519880-15",
-          "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
-          "url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-31T13:25:57.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 3
-          },
-          "rawTextSnippet": "Citadel buys Situational Awareness equity holdings after steep AI losses",
-          "hnMeta": {
-            "points": 5,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122857"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1785505519683-0",
-          "title": "The Download: Montana&#8217;s new experimental drug rules",
-          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-07-31T12:16:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through p…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1785505524184-161",
-          "title": "US gov and OpenAI mislabel map of Africa at global conference",
-          "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-30T16:59:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 48,
-            "comments": 29
-          },
-          "rawTextSnippet": "US gov and OpenAI mislabel map of Africa at global conference",
-          "hnMeta": {
-            "points": 48,
-            "comments": 29,
-            "hnUrl": "https://news.ycombinator.com/item?id=49112671"
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1785505525628-192",
-          "title": "Anthropic finds three hacking incidents similar to the HuggingFace attack",
-          "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-31T07:35:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 4
-          },
-          "rawTextSnippet": "Anthropic finds three hacking incidents similar to the HuggingFace attack",
-          "hnMeta": {
-            "points": 7,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=49120141"
-          },
-          "score": 60,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
         }
       ]
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 38,
-      "trendScore": 190,
-      "whyTrending": "38 stories across Hacker, TechCrunch, arXiv, 25 in the last 24h.",
+      "itemCount": 33,
+      "trendScore": 179,
+      "whyTrending": "33 stories across GitHub, Hacker, TechCrunch, 20 in the last 24h.",
       "topStory": {
-        "title": "Show HN: What should the GUI for AI agents look like?",
-        "url": "https://marbleos.com/demo"
+        "title": "[0xwilliamortiz/ratchet] Your agent reads the rules. This checks whether it followed them.",
+        "url": "https://github.com/0xwilliamortiz/ratchet"
       },
       "items": [
         {
-          "id": "hn-1785505521316-85",
-          "title": "Show HN: What should the GUI for AI agents look like?",
-          "url": "https://marbleos.com/demo",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-31T05:17:29.000Z",
+          "id": "github-1785589345780-91",
+          "title": "[0xwilliamortiz/ratchet] Your agent reads the rules. This checks whether it followed them.",
+          "url": "https://github.com/0xwilliamortiz/ratchet",
+          "source": "GitHub Trending",
+          "publishedAt": "2026-07-31T17:54:30.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 77,
-            "comments": 47
+            "sourceAuthority": 12,
+            "upvotes": 404
           },
-          "rawTextSnippet": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X. Before GUIs, interacting with a computer was limited to strange terminal commands: C:\\&gt; DIR…",
-          "hnMeta": {
-            "points": 77,
-            "comments": 47,
-            "hnUrl": "https://news.ycombinator.com/item?id=49119274"
+          "rawTextSnippet": "Your agent reads the rules. This checks whether it followed them.",
+          "githubMeta": {
+            "stars": 404,
+            "language": "JavaScript",
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "claude-code-plugin",
+              "claude-skills",
+              "code-quality",
+              "developer-tools",
+              "hooks",
+              "llm",
+              "ratchet",
+              "rate-limiting",
+              "static-analysis",
+              "yagni"
+            ]
           },
-          "score": 65,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1785505522261-103",
-          "title": "Okta buys AI security startup Permiso — source says for about $200M",
-          "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-30T16:09:42.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-          "score": 62,
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
+            "authority": 12,
+            "engagement": 15,
             "novelty": 15,
-            "businessImpact": 9
+            "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1785505519880-12",
-          "title": "Pennant Knowledge Engineering Studio – Compile Graph Context for AI Agents",
-          "url": "https://github.com/galeluka/Pennant",
+          "id": "hn-1785589344313-16",
+          "title": "Building biology AI models autonomously",
+          "url": "https://phylo.bio/blog/biomni-tuso",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T13:29:36.000Z",
+          "publishedAt": "2026-08-01T12:11:32.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Pennant Knowledge Engineering Studio – Compile Graph Context for AI Agents",
+          "rawTextSnippet": "Building biology AI models autonomously",
           "hnMeta": {
-            "points": 1,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122901"
+            "hnUrl": "https://news.ycombinator.com/item?id=49133734"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -612,21 +658,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1785505519880-14",
-          "title": "Show HN: A notebook for prototyping with your agent",
-          "url": "https://nawc.dev/",
+          "id": "hn-1785589344314-29",
+          "title": "AI coding agents should optimize for less owned code",
+          "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T13:26:08.000Z",
+          "publishedAt": "2026-08-01T09:54:41.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Above is a link to the NAWC documentation, that&#x27;s also a live version of NAWC you can try in your browser. I made nawc because I loved spec-driven development with agents, but hated how inconsistent markdown is at describing intent. I needed a more streamlined approach, where intent is captured…",
+          "rawTextSnippet": "AI coding agents should optimize for less owned code",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122859"
+            "hnUrl": "https://news.ycombinator.com/item?id=49132846"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -639,21 +685,48 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1785505519880-18",
-          "title": "Figma for Agents: How Airflow's Creator Coordinates AI Ft. Maxime Beauchemin",
-          "url": "https://motherduck.com/blog/figma-for-agents-airflow-creator-maxime-beauchemin/",
+          "id": "hn-1785589345713-74",
+          "title": "Investigation into the Re-Appearance of Agent 9",
+          "url": "https://medium.com/luminasticity/investigation-into-the-re-appearance-of-agent-9-a9a9a3a17393",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T13:16:07.000Z",
+          "publishedAt": "2026-08-01T09:11:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Figma for Agents: How Airflow's Creator Coordinates AI Ft. Maxime Beauchemin",
+          "rawTextSnippet": "Investigation into the Re-Appearance of Agent 9",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122738"
+            "hnUrl": "https://news.ycombinator.com/item?id=49132624"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1785589347216-114",
+          "title": "Show HN: Agent Architect Skill for building agentic systems",
+          "url": "https://github.com/anyaa-labs/agent-skills",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T12:50:23.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "I built a skill for building agents that helped me ship agentic products within days that otherwise took several weeks and broke often in production. It is inspired by gstack.",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49134004"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -669,16 +742,70 @@
     },
     {
       "name": "AI Safety & Regulation",
-      "itemCount": 11,
-      "trendScore": 135,
-      "whyTrending": "11 stories across OpenAI, MIT, Hacker, 9 in the last 24h.",
+      "itemCount": 12,
+      "trendScore": 133,
+      "whyTrending": "12 stories across Hacker, OpenAI, TechCrunch, 5 in the last 24h.",
       "topStory": {
-        "title": "Advancing responsible AI across Europe",
-        "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
+        "title": "A Yale AI-cheating dispute became a 13-count federal lawsuit",
+        "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/"
       },
       "items": [
         {
-          "id": "rss-1785505523604-129",
+          "id": "hn-1785589344314-26",
+          "title": "A Yale AI-cheating dispute became a 13-count federal lawsuit",
+          "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T10:11:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 2
+          },
+          "rawTextSnippet": "A Yale AI-cheating dispute became a 13-count federal lawsuit",
+          "hnMeta": {
+            "points": 3,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=49132954"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1785589347216-115",
+          "title": "Building a local positioning system to track runners using Ultra-Wideband",
+          "url": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-01T12:30:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Building a local positioning system to track runners using Ultra-Wideband",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49133850"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "rss-1785589348130-133",
           "title": "Advancing responsible AI across Europe",
           "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
           "source": "OpenAI Blog",
@@ -687,9 +814,9 @@
             "sourceAuthority": 20
           },
           "rawTextSnippet": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-          "score": 68,
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 20,
             "engagement": 0,
             "novelty": 15,
@@ -698,41 +825,21 @@
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1785505519683-1",
-          "title": "Montana’s new “right to try” law can’t come soon enough for some",
-          "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-07-31T09:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1785505525628-203",
-          "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
+          "id": "hn-1785589345713-89",
+          "title": "Australia's Social Media Ban for Under-16s Has Had Limited Impact So Far",
+          "url": "https://www.engadget.com/2227908/australia-social-media-ban-for-kids-under-16-impact-so-far/",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T00:07:06.000Z",
+          "publishedAt": "2026-07-31T20:42:37.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 30,
-            "comments": 0
+            "upvotes": 8,
+            "comments": 5
           },
-          "rawTextSnippet": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
+          "rawTextSnippet": "Australia's Social Media Ban for Under-16s Has Had Limited Impact So Far",
           "hnMeta": {
-            "points": 30,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49117486"
+            "points": 8,
+            "comments": 5,
+            "hnUrl": "https://news.ycombinator.com/item?id=49128304"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -745,80 +852,60 @@
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1785505525628-206",
-          "title": "Banks in Talks to Lend $15B for Anthropic Data Center Backed by Google",
-          "url": "https://www.wsj.com/tech/banks-in-talks-to-lend-15-billion-for-anthropic-data-center-backed-by-google-606d7afd",
+          "id": "hn-1785589351446-210",
+          "title": "EFF Guide to Recording Law Enforcement",
+          "url": "https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement",
           "source": "Hacker News",
-          "publishedAt": "2026-07-30T23:15:35.000Z",
+          "publishedAt": "2026-07-31T16:50:32.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
+            "upvotes": 25,
             "comments": 0
           },
-          "rawTextSnippet": "Banks in Talks to Lend $15B for Anthropic Data Center Backed by Google",
+          "rawTextSnippet": "EFF Guide to Recording Law Enforcement",
           "hnMeta": {
-            "points": 3,
+            "points": 25,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49117041"
+            "hnUrl": "https://news.ycombinator.com/item?id=49125615"
           },
-          "score": 57,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "rss-1785505522261-99",
-          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-30T20:26:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
           "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
+            "authority": 14,
+            "engagement": 5,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
           "cluster": "AI Safety & Regulation"
         }
       ]
     },
     {
-      "name": "AI Tools & Products",
-      "itemCount": 12,
-      "trendScore": 128,
-      "whyTrending": "12 stories across Hacker, TechCrunch, arXiv, 8 in the last 24h.",
+      "name": "AI Hardware & Chips",
+      "itemCount": 10,
+      "trendScore": 115,
+      "whyTrending": "10 stories across Hacker, OpenAI, TechCrunch, 4 in the last 24h.",
       "topStory": {
-        "title": "Ask HN: I created Canva Alternative with 200+ Tools",
-        "url": "https://news.ycombinator.com/item?id=49122917"
+        "title": "$0.09 and $290.12 are both the price of 1M output tokens",
+        "url": "https://runinfra.ai/news/inference-cost-truth"
       },
       "items": [
         {
-          "id": "hn-1785505519880-11",
-          "title": "Ask HN: I created Canva Alternative with 200+ Tools",
-          "url": "https://news.ycombinator.com/item?id=49122917",
+          "id": "hn-1785589344313-18",
+          "title": "$0.09 and $290.12 are both the price of 1M output tokens",
+          "url": "https://runinfra.ai/news/inference-cost-truth",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T13:30:50.000Z",
+          "publishedAt": "2026-08-01T11:54:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
+            "upvotes": 4,
             "comments": 1
           },
-          "rawTextSnippet": "Hi HN, I created Pixoate. Pixoate is Canva and IlovePDF Alternative, That Offers Photo Editing, AI features like Remove BG, PDF tools, We have lots of 1111+ templaed, 21000 backgrounds, Remove BG features, Upscale with AI etc. and Much More at same destination. It was free from last 4 years, I left …",
+          "rawTextSnippet": "$0.09 and $290.12 are both the price of 1M output tokens",
           "hnMeta": {
-            "points": 3,
+            "points": 4,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122917"
+            "hnUrl": "https://news.ycombinator.com/item?id=49133617"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -828,72 +915,65 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "hn-1785505519880-20",
-          "title": "Free photo tools, no signup, no watermark",
-          "url": "https://narcis.ai/tools",
+          "id": "rss-1785589348130-132",
+          "title": "Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-08-01T00:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 20
+          },
+          "rawTextSnippet": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+          "score": 57,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 20,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1785589348605-160",
+          "title": "Nvidia in Talks with OpenAI to Guarantee $250B Financing for Data Center",
+          "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3",
           "source": "Hacker News",
-          "publishedAt": "2026-07-31T13:03:19.000Z",
+          "publishedAt": "2026-07-31T21:59:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 4,
+            "comments": 2
           },
-          "rawTextSnippet": "Free photo tools, no signup, no watermark",
+          "rawTextSnippet": "Nvidia in Talks with OpenAI to Guarantee $250B Financing for Data Center",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122597"
+            "points": 4,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=49129026"
           },
-          "score": 59,
+          "score": 54,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "hn-1785505519880-23",
-          "title": "LinkedIn Is Cracking Down on 'AI Slop' with New Reporting Tool",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/linkedin-is-cracking-down-on-ai-slop-with-new-reporting-tool",
-          "source": "Hacker News",
-          "publishedAt": "2026-07-31T12:53:07.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "LinkedIn Is Cracking Down on 'AI Slop' with New Reporting Tool",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49122498"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1785505522261-101",
-          "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-          "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+          "id": "rss-1785589346772-99",
+          "title": "Siri AI could come with a paywall for power users",
+          "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-07-30T18:57:58.000Z",
+          "publishedAt": "2026-07-31T16:08:18.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+          "rawTextSnippet": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
           "score": 53,
           "scoreBreakdown": {
             "freshness": 22,
@@ -902,76 +982,104 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "rss-1785505522261-102",
-          "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
-          "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+          "id": "rss-1785589346772-113",
+          "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+          "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-07-30T18:05:21.000Z",
+          "publishedAt": "2026-07-30T15:19:15.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-          "score": 53,
+          "rawTextSnippet": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+          "score": 52,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 6
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Hardware & Chips"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1785505528453-222",
+      "id": "hn-1785589351446-206",
+      "title": "The Chatbot Act Forces One Parenting Model on Every Family",
+      "url": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T08:16:59.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 12,
+        "comments": 0
+      },
+      "rawTextSnippet": "The Chatbot Act Forces One Parenting Model on Every Family",
+      "hnMeta": {
+        "points": 12,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49132274"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: The Chatbot Act mandates a uniform parenting model for all families.  \n• Why it matters: This legislation could limit parental choice and diversity in child-rearing practices.  \n• Business opportunity: Companies can develop customizable parenting tools and resources to cater to diverse family needs."
+    },
+    {
+      "id": "hn-1785589352861-226",
       "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
       "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
       "source": "Hacker News",
       "publishedAt": "2026-07-30T18:13:06.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 145,
-        "comments": 70
+        "upvotes": 165,
+        "comments": 72
       },
       "rawTextSnippet": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. Wi…",
       "hnMeta": {
-        "points": 145,
-        "comments": 70,
+        "points": 165,
+        "comments": 72,
         "hnUrl": "https://news.ycombinator.com/item?id=49113599"
       },
-      "score": 69,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 14,
         "engagement": 15,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: DeepSeek V4 Flash was used to improve GPT-OSS-120B for finance tasks, achieving a high score in FinanceReasoning.  \n• Why it matters: This advancement demonstrates effective model distillation, enhancing performance in specialized applications.  \n• Business opportunity: Companies can leverage the open weights for customized finance solutions, improving decision-making and analytics."
+      "summary": "• What happened: DeepSeek V4 Flash was distilled into GPT-OSS-120B, achieving high performance in finance tasks.  \n• Why it matters: This advancement demonstrates effective knowledge transfer without censorship, enhancing AI capabilities in finance.  \n• Business opportunity: Companies can leverage the open weights to develop advanced finance applications and tools."
     },
     {
-      "id": "hn-1785505519880-14",
-      "title": "Show HN: A notebook for prototyping with your agent",
-      "url": "https://nawc.dev/",
+      "id": "hn-1785589344313-16",
+      "title": "Building biology AI models autonomously",
+      "url": "https://phylo.bio/blog/biomni-tuso",
       "source": "Hacker News",
-      "publishedAt": "2026-07-31T13:26:08.000Z",
+      "publishedAt": "2026-08-01T12:11:32.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Above is a link to the NAWC documentation, that&#x27;s also a live version of NAWC you can try in your browser. I made nawc because I loved spec-driven development with agents, but hated how inconsistent markdown is at describing intent. I needed a more streamlined approach, where intent is captured…",
+      "rawTextSnippet": "Building biology AI models autonomously",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49122859"
+        "hnUrl": "https://news.ycombinator.com/item?id=49133734"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -982,24 +1090,24 @@
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new notebook tool called NAWC was introduced for prototyping with agents.  \n• Why it matters: It aims to improve the consistency of intent description in spec-driven development.  \n• Business opportunity: There is potential for businesses to adopt NAWC for enhanced agent development and streamlined workflows."
+      "summary": "• What happened: Researchers developed AI models that autonomously create biological structures.  \n• Why it matters: This innovation could accelerate advancements in biotechnology and drug discovery.  \n• Business opportunity: Companies can leverage these AI models to enhance research efficiency and reduce development costs in life sciences."
     },
     {
-      "id": "hn-1785505522742-119",
-      "title": "Show HN: Strophae, multi personas chat interface",
-      "url": "https://mtct.github.io/strophae/",
+      "id": "hn-1785589344313-20",
+      "title": "I built a tracker and comparison platform for AI video models",
+      "url": "https://videoall.ai",
       "source": "Hacker News",
-      "publishedAt": "2026-07-31T12:08:29.000Z",
+      "publishedAt": "2026-08-01T11:03:40.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Recently I built an ensemble of synthetic persona agents for a client in advertising. It turned out to be a much better brainstorming tool than a single chat, because the differences between the personas are the useful part. So I wrote an open-source desktop version. You compose a council of agents …",
+      "rawTextSnippet": "I built a tracker and comparison platform for AI video models",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49122090"
+        "hnUrl": "https://news.ycombinator.com/item?id=49133273"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1009,25 +1117,24 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A developer created an open-source multi-persona chat interface called Strophae for brainstorming.  \n• Why it matters: The tool enhances creativity by leveraging diverse synthetic personas, improving idea generation.  \n• Business opportunity: Companies in advertising and creative industries can adopt this tool to foster innovative brainstorming sessions."
+      "cluster": "Generative AI & Media"
     },
     {
-      "id": "hn-1785505522742-120",
-      "title": "Show HN: Daymo – calendar app with a new day list layout",
-      "url": "https://daymo.flown.io",
+      "id": "hn-1785589344314-28",
+      "title": "Show HN: Weightlift – the missing package manager for downloading model weights",
+      "url": "https://weightlift.dev/",
       "source": "Hacker News",
-      "publishedAt": "2026-07-31T11:22:28.000Z",
+      "publishedAt": "2026-08-01T09:55:24.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Experimented with a new calendar layout that shows all days as rows in a simple vertical list. I only have a couple of events each week and for that use case I believe this layout is better than week views and agenda views etc in other calendar apps. Launched it as a free and open source iOS and And…",
+      "rawTextSnippet": "If you’re building an on-device web-based AI app, you’ve probably built this 50 times already: Something that tells your users which models are available to download or already cached, then shows progress as they’re being downloaded. While building Rescript (see https:&#x2F;&#x2F;github.com&#x2F;was…",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49121765"
+        "hnUrl": "https://news.ycombinator.com/item?id=49132848"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1038,39 +1145,12 @@
         "businessImpact": 0
       },
       "cluster": "Open Source AI"
-    },
-    {
-      "id": "hn-1785505524184-155",
-      "title": "OpenAI revenue in July topped all of Q2 driven by GPT-5.6 release",
-      "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-30T18:41:50.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 16,
-        "comments": 1
-      },
-      "rawTextSnippet": "OpenAI revenue in July topped all of Q2 driven by GPT-5.6 release",
-      "hnMeta": {
-        "points": 16,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49113942"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1785505520146-34",
+      "id": "arxiv-1785589344561-35",
       "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
       "url": "https://arxiv.org/abs/2607.28623v1",
       "source": "arXiv",
@@ -1087,9 +1167,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1098,7 +1178,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1785505520146-40",
+      "id": "arxiv-1785589344561-41",
       "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
       "url": "https://arxiv.org/abs/2607.28590v1",
       "source": "arXiv",
@@ -1115,9 +1195,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1126,7 +1206,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1785505520147-48",
+      "id": "arxiv-1785589344561-49",
       "title": "APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems",
       "url": "https://arxiv.org/abs/2607.28553v1",
       "source": "arXiv",
@@ -1143,9 +1223,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1154,7 +1234,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1785505520146-32",
+      "id": "arxiv-1785589344560-33",
       "title": "Learning to Trace Seiberg Dualities",
       "url": "https://arxiv.org/abs/2607.28628v1",
       "source": "arXiv",
@@ -1171,9 +1251,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1182,7 +1262,7 @@
       "cluster": "General AI"
     },
     {
-      "id": "arxiv-1785505520146-33",
+      "id": "arxiv-1785589344561-34",
       "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
       "url": "https://arxiv.org/abs/2607.28627v1",
       "source": "arXiv",
@@ -1199,9 +1279,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1212,15 +1292,71 @@
   ],
   "funding": [
     {
-      "id": "rss-1785505522261-98",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "id": "hn-1785589345713-74",
+      "title": "Investigation into the Re-Appearance of Agent 9",
+      "url": "https://medium.com/luminasticity/investigation-into-the-re-appearance-of-agent-9-a9a9a3a17393",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T09:11:52.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Investigation into the Re-Appearance of Agent 9",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49132624"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: An investigation has been launched regarding the resurgence of Agent 9.  \n• Why it matters: This development raises concerns about cybersecurity and potential threats to digital safety.  \n• Business opportunity: Companies can capitalize on this by enhancing security solutions and offering advanced threat detection services."
+    },
+    {
+      "id": "hn-1785589347216-119",
+      "title": "Jcode: The Coding Agent That Raises the Skill Ceiling, vs. OpenCode and Pi",
+      "url": "https://grigio.org/jcode-the-coding-agent-that-raises-the-skill-ceiling-vs-opencode-and-pi/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T11:39:25.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Jcode: The Coding Agent That Raises the Skill Ceiling, vs. OpenCode and Pi",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49133527"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Jcode has emerged as a new coding agent competing with OpenCode and Pi.  \n• Why it matters: It aims to enhance coding skills and productivity for developers.  \n• Business opportunity: Companies can leverage Jcode to improve their software development processes and training programs."
+    },
+    {
+      "id": "rss-1785589346772-95",
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T22:41:41.000Z",
+      "publishedAt": "2026-07-31T21:07:45.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "rawTextSnippet": "India's app market generated a record $345 million in Q2.",
       "score": 56,
       "scoreBreakdown": {
         "freshness": 22,
@@ -1230,106 +1366,48 @@
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Amazon continues to invest heavily in data centers despite investor concerns.  \n• Why it matters: This trend highlights strong investor confidence in AI-driven cloud hosting services.  \n• Business opportunity: Companies in cloud infrastructure can capitalize on the growing demand for AI solutions."
+      "summary": "• What happened: India’s app market reached a record $345 million in Q2, indicating a shift towards paid apps.  \n• Why it matters: This trend signifies growing consumer willingness to invest in mobile applications, reflecting increased smartphone penetration and digital engagement.  \n• Business opportunity: Companies can capitalize on this shift by developing high-quality, paid apps tailored to Indian consumers' preferences."
     },
     {
-      "id": "rss-1785505522261-104",
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "id": "rss-1785589346772-101",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T15:41:16.000Z",
+      "publishedAt": "2026-07-31T14:47:11.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "score": 53,
+      "rawTextSnippet": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "score": 56,
       "scoreBreakdown": {
         "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Meta announced that AI is simplifying the development and launch of new consumer apps.  \n• Why it matters: This advancement indicates a shift in how technology companies can innovate and respond to market demands.  \n• Business opportunity: There is potential for startups and developers to leverage AI tools for creating innovative applications more efficiently."
-    },
-    {
-      "id": "arxiv-1785505520146-43",
-      "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B",
-      "url": "https://arxiv.org/abs/2607.28576v1",
-      "source": "arXiv",
-      "publishedAt": "2026-07-30T17:38:23.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Methods that make a language model plan, criticise and rewrite its own answer, reflect on mistakes, pick the best of several attempts, or debate with copies of itself nearly all make it generate far more text than a single chain of thought. Because generating more text raises accuracy by itself, a g…",
-      "arxivMeta": {
-        "authors": "Iliya Mirzaei",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: New research indicates that repeated sampling outperforms self-reflection methods in language model accuracy.  \n• Why it matters: This finding suggests that generating more text can enhance performance, challenging existing approaches to model improvement.  \n• Business opportunity: Companies can leverage this insight to develop more efficient language models that prioritize sampling techniques for better results."
-    },
-    {
-      "id": "arxiv-1785505520147-56",
-      "title": "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes",
-      "url": "https://arxiv.org/abs/2607.28505v1",
-      "source": "arXiv",
-      "publishedAt": "2026-07-30T16:46:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "The rise of generative artificial intelligence (GenAI) in academic writing and publishing (AWP) raises questions about linguistic inclusivity and the legitimacy of diverse Englishes in global scholarly communication. This article responds to these questions through a structured scholarly dialogue in…",
-      "arxivMeta": {
-        "authors": "Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva, Esther Airemionkhale",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI"
-    },
-    {
-      "id": "rss-1785505522261-109",
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T13:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "score": 49,
-      "scoreBreakdown": {
-        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "General AI"
+      "cluster": "Funding & Acquisitions"
+    },
+    {
+      "id": "rss-1785589348130-136",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "score": 53,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
     }
   ],
-  "dailyBrief": "Today's AI landscape is buzzing with innovation and debate, as Gander, a new Android file viewer, gains attention for its permission-free approach, potentially reshaping user privacy standards in mobile applications. Meanwhile, a discussion on DeepSeek's integration into GPT-OSS highlights the ongoing challenges of censorship in AI, prompting developers to rethink content moderation strategies. In Europe, OpenAI's commitment to advancing responsible AI practices underscores the region's regulatory focus, which could influence global compliance standards and market entry strategies. Additionally, a conversation around the ideal GUI for AI agents suggests a growing interest in user experience design, critical for enhancing AI adoption in business environments. Lastly, the assertion that \"the very foundation of modern academia has been blown to bits\" signals a significant shift in how knowledge is disseminated and validated, raising questions about the future of educational frameworks and their impact on workforce readiness."
+  "dailyBrief": "Today's AI landscape is buzzing with innovation and controversy. A new open-source tool, \"Free AI Prompt Gen,\" has emerged, empowering users to create tailored prompts locally, which could enhance productivity for businesses relying on AI-driven content. Meanwhile, the proposed Chatbot Act raises concerns by enforcing a single parenting model through AI, potentially limiting family choices and sparking debate over regulatory impacts on AI applications. In the realm of compliance, a GitHub project called \"ratchet\" is gaining traction, ensuring AI agents adhere to established rules, which could be crucial for businesses seeking accountability in AI operations. Additionally, a comprehensive field guide to the AI security market highlights the growing need for robust security measures as AI adoption accelerates. Lastly, a federal lawsuit stemming from a Yale cheating scandal underscores the legal complexities surrounding AI in education, signaling potential risks for institutions leveraging AI technologies."
 }
