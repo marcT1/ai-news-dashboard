@@ -1,84 +1,154 @@
 {
   "topNews": [
     {
-      "id": "hn-1786625510175-154",
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
+      "id": "hn-1786711562896-84",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
       "source": "Hacker News",
-      "publishedAt": "2026-08-13T04:53:41.000Z",
+      "publishedAt": "2026-08-14T05:19:59.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 250,
-        "comments": 162
+        "upvotes": 643,
+        "comments": 313
       },
-      "rawTextSnippet": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "rawTextSnippet": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "hnMeta": {
-        "points": 250,
-        "comments": 162,
-        "hnUrl": "https://news.ycombinator.com/item?id=49281916"
+        "points": 643,
+        "comments": 313,
+        "hnUrl": "https://news.ycombinator.com/item?id=49294997"
       },
-      "score": 70,
+      "score": 80,
       "scoreBreakdown": {
         "freshness": 26,
         "authority": 14,
-        "engagement": 20,
-        "novelty": 10,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: ChatGPT Desktop, also known as Codex Desktop, has been released for Linux.  \n• Why it matters: This expansion increases accessibility for Linux users, broadening the user base for AI tools.  \n• Business opportunity: Companies can leverage this growth by developing Linux-compatible applications and services that integrate with ChatGPT."
-    },
-    {
-      "id": "github-1786625505932-30",
-      "title": "[guillaumemeyer/watermarks-remover] Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "source": "GitHub Trending",
-      "publishedAt": "2026-08-11T16:32:38.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 12,
-        "upvotes": 3995
-      },
-      "rawTextSnippet": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "githubMeta": {
-        "stars": 3995,
-        "language": "Python",
-        "topics": [
-          "agent-skill",
-          "ai",
-          "c2pa",
-          "claude",
-          "provenance",
-          "synthid",
-          "watermark"
-        ]
-      },
-      "score": 67,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 12,
         "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A GitHub project released tools to remove AI provenance marks from various file formats.  \n• Why it matters: This could impact the integrity of content attribution and authenticity in digital media.  \n• Business opportunity: Companies could develop solutions for secure content verification and provenance tracking to counteract these stripping tools."
+      "summary": "• What happened: GLM-5.3 was released, showcasing advanced coding and cyber capabilities.  \n• Why it matters: This development signifies a leap in technology that could enhance cybersecurity measures.  \n• Business opportunity: Companies can leverage GLM-5.3 to improve their software security and coding efficiency."
     },
     {
-      "id": "hn-1786625508765-127",
-      "title": "Mistral got a US patent on tool calls in 118 days. Without prior public notice",
-      "url": "https://agent-wars.com/news/2026-08-11-mistral-code-tool-calls-patent-b1",
+      "id": "hn-1786711562896-77",
+      "title": "For the love of god stop using CPU limits in Kubernetes",
+      "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
       "source": "Hacker News",
-      "publishedAt": "2026-08-13T09:02:02.000Z",
+      "publishedAt": "2026-08-14T10:41:21.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 18,
-        "comments": 9
+        "upvotes": 39,
+        "comments": 38
       },
-      "rawTextSnippet": "Mistral got a US patent on tool calls in 118 days. Without prior public notice",
+      "rawTextSnippet": "For the love of god stop using CPU limits in Kubernetes",
       "hnMeta": {
-        "points": 18,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49283341"
+        "points": 39,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49296939"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A call to abandon CPU limits in Kubernetes for better performance.  \n• Why it matters: Using CPU limits can hinder application efficiency and resource utilization.  \n• Business opportunity: Companies can optimize their Kubernetes deployments for improved scalability and cost savings."
+    },
+    {
+      "id": "rss-1786711561280-1",
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A new job title, \"space travel agent,\" is emerging in the luxury travel sector.  \n• Why it matters: This reflects the growing interest and feasibility of space tourism as a viable travel option.  \n• Business opportunity: Companies can capitalize on the luxury space travel market by offering personalized experiences and services."
+    },
+    {
+      "id": "hn-1786711565711-176",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-13T19:25:38.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 115,
+        "comments": 91
+      },
+      "rawTextSnippet": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "hnMeta": {
+        "points": 115,
+        "comments": 91,
+        "hnUrl": "https://news.ycombinator.com/item?id=49290768"
+      },
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A report details how organizations are leveraging AI technologies like ChatGPT.  \n• Why it matters: Understanding AI usage can help businesses enhance efficiency and innovation.  \n• Business opportunity: Companies can develop tailored AI solutions to meet specific organizational needs."
+    },
+    {
+      "id": "hn-1786711562896-91",
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "url": "https://github.com/JustVugg/lumabri",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-14T00:47:04.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 37,
+        "comments": 12
+      },
+      "rawTextSnippet": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "hnMeta": {
+        "points": 37,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49293523"
+      },
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Lumabri launched a platform to run Moe models on a peer-to-peer swarm using Colibri.  \n• Why it matters: This innovation enhances decentralized computing capabilities, promoting efficiency and collaboration.  \n• Business opportunity: Companies can leverage this technology for scalable, cost-effective model deployment and data processing."
+    },
+    {
+      "id": "hn-1786711561503-59",
+      "title": "Ask HN: Does AI watermarking present a new attack vector?",
+      "url": "https://news.ycombinator.com/item?id=49297267",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-14T11:20:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 5
+      },
+      "rawTextSnippet": "One thing I have not been able to determine from Claude&#x27;s documentation on watermarking[0] is what kind of metadata they store in association with a given watermark. Ostensibly they could make the fingerprints as unique as they want, possibly down to the exact time, user and session. If so, thi…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49297267"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -88,158 +158,95 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: Mistral received a US patent for tool calls in just 118 days.  \n• Why it matters: The rapid patent approval highlights the efficiency of the US patent system.  \n• Business opportunity: Companies can explore innovative tool call technologies, leveraging Mistral's patent for competitive advantage."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A discussion on Hacker News raised concerns about AI watermarking potentially creating new vulnerabilities.  \n• Why it matters: Understanding watermarking's metadata implications is crucial for security in AI applications.  \n• Business opportunity: Companies can develop advanced security solutions to mitigate risks associated with AI watermarking vulnerabilities."
     },
     {
-      "id": "rss-1786625505588-0",
-      "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-13T12:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A newsletter discusses children's perspectives on AI and research on female clones of male mice.  \n• Why it matters: Understanding children's views on AI can shape future technology development and education.  \n• Business opportunity: There is potential for products and services tailored to educate and engage children about AI."
-    },
-    {
-      "id": "rss-1786625505588-1",
-      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-13T10:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet,…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: This summer experienced unprecedented heat across the Northern Hemisphere, with record temperatures in Europe, the US, and South Korea.  \n• Why it matters: The extreme heat highlights the escalating impacts of climate change, raising concerns for public health and environmental stability.  \n• Business opportunity: Companies in renewable energy, cooling technologies, and climate resilience solutions can capitalize on the growing demand for sustainable practices and products."
-    },
-    {
-      "id": "rss-1786625505588-2",
-      "title": "How kids feel about AI, in their own words",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they…",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Kids shared their perspectives on artificial intelligence during discussions.  \n• Why it matters: Understanding children's views on AI can shape future educational tools and ethical considerations.  \n• Business opportunity: Companies can develop AI-driven educational products tailored to engage and address children's concerns and interests."
-    },
-    {
-      "id": "rss-1786625508257-101",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T17:41:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 10
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Thrive Holdings secured $2 billion in funding, achieving a $12 billion valuation.  \n• Why it matters: This significant investment highlights the growing demand for AI solutions in enterprise settings.  \n• Business opportunity: Companies can explore partnerships or integrations with Thrive to leverage AI capabilities in their operations."
-    },
-    {
-      "id": "rss-1786625508257-104",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T16:04:27.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 10
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Lovable confirmed a new valuation of $13.3 billion and raised an additional $400 million.  \n• Why it matters: The startup achieved a significant milestone with a $500 million annualized run rate revenue.  \n• Business opportunity: This funding could accelerate Lovable's growth and expansion in the market, attracting further investment and partnerships."
-    },
-    {
-      "id": "hn-1786625511581-194",
-      "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "id": "hn-1786711564283-126",
+      "title": "Everyone talks about AI agents. This is what one looks from the inside",
+      "url": "https://pssah4.github.io/vault-operator/guides/capabilities",
       "source": "Hacker News",
-      "publishedAt": "2026-08-13T01:50:27.000Z",
+      "publishedAt": "2026-08-14T10:44:12.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 33,
-        "comments": 4
+        "upvotes": 9,
+        "comments": 7
       },
-      "rawTextSnippet": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+      "rawTextSnippet": "Everyone talks about AI agents. This is what one looks from the inside",
       "hnMeta": {
-        "points": 33,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49280945"
+        "points": 9,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49296964"
       },
-      "score": 63,
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 14,
         "engagement": 5,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic is negotiating to acquire AI startup Decart for $6 billion.  \n• Why it matters: This acquisition could enhance Anthropic's capabilities in world modeling AI.  \n• Business opportunity: Companies can explore partnerships or investments in AI startups focusing on advanced modeling technologies."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: An in-depth exploration of AI agents reveals their internal workings.  \n• Why it matters: Understanding AI agents enhances transparency and trust in AI technologies.  \n• Business opportunity: Companies can leverage insights to develop more effective AI solutions and improve user engagement."
     },
     {
-      "id": "hn-1786625505879-21",
-      "title": "Banning Open-Weight AI Models Could Cost America the AI Race",
-      "url": "https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html",
+      "id": "rss-1786711561280-0",
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Research & Benchmarks",
+      "summary": "• What happened: Scientist Deanne Taylor is contributing to a project aimed at creating a comprehensive map of childhood development.  \n• Why it matters: This mapping initiative could enhance our understanding of childhood health and development, addressing gaps in current research.  \n• Business opportunity: There is potential for innovative products and services targeting childhood health, education, and developmental support based on the findings."
+    },
+    {
+      "id": "rss-1786711561280-2",
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Scientists developed a CRISPR method to create female clones from male mouse embryos by removing the Y chromosome.  \n• Why it matters: This breakthrough could have implications for species conservation and understanding sex determination in mammals.  \n• Business opportunity: Potential applications in biotechnology and organ transplantation could arise from cloning techniques for creating genetically compatible organs."
+    },
+    {
+      "id": "hn-1786711561502-46",
+      "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+      "url": "https://gatewai.studio/artifex",
       "source": "Hacker News",
-      "publishedAt": "2026-08-13T12:19:02.000Z",
+      "publishedAt": "2026-08-14T12:15:13.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 3,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Banning Open-Weight AI Models Could Cost America the AI Race",
+      "rawTextSnippet": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. Similar to Deepseek harness released yesterday; which ground models in modular execution environments, Artifex gives agents a structured machine contract to …",
       "hnMeta": {
-        "points": 3,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49284830"
+        "hnUrl": "https://news.ycombinator.com/item?id=49297723"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -249,49 +256,42 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: A proposal to ban open-weight AI models has emerged in the U.S.  \n• Why it matters: Such a ban could hinder innovation and competitiveness in the global AI landscape.  \n• Business opportunity: Companies could capitalize on developing and promoting open-weight AI solutions to drive growth and leadership."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Artifex, a new CLI runtime for autonomous coding agents, was introduced for creating media node graphs.  \n• Why it matters: It enhances the capabilities of AI agents by providing a structured environment for media creation and validation.  \n• Business opportunity: Companies can leverage Artifex to streamline media production processes and improve AI-driven content generation."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 62,
-      "trendScore": 211,
-      "whyTrending": "62 stories across GitHub, MIT, Hacker, 36 in the last 24h.",
+      "itemCount": 64,
+      "trendScore": 214,
+      "whyTrending": "64 stories across Hacker, MIT, GitHub, 38 in the last 24h.",
       "topStory": {
-        "title": "[guillaumemeyer/watermarks-remover] Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-        "url": "https://github.com/guillaumemeyer/watermarks-remover"
+        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+        "url": "https://z.ai/blog/glm-5.3"
       },
       "items": [
         {
-          "id": "github-1786625505932-30",
-          "title": "[guillaumemeyer/watermarks-remover] Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-          "url": "https://github.com/guillaumemeyer/watermarks-remover",
-          "source": "GitHub Trending",
-          "publishedAt": "2026-08-11T16:32:38.000Z",
+          "id": "hn-1786711562896-84",
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "url": "https://z.ai/blog/glm-5.3",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T05:19:59.000Z",
           "scoreSignals": {
-            "sourceAuthority": 12,
-            "upvotes": 3995
+            "sourceAuthority": 14,
+            "upvotes": 643,
+            "comments": 313
           },
-          "rawTextSnippet": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-          "githubMeta": {
-            "stars": 3995,
-            "language": "Python",
-            "topics": [
-              "agent-skill",
-              "ai",
-              "c2pa",
-              "claude",
-              "provenance",
-              "synthid",
-              "watermark"
-            ]
+          "rawTextSnippet": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "hnMeta": {
+            "points": 643,
+            "comments": 313,
+            "hnUrl": "https://news.ycombinator.com/item?id=49294997"
           },
-          "score": 67,
+          "score": 80,
           "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 12,
+            "freshness": 26,
+            "authority": 14,
             "engagement": 25,
             "novelty": 15,
             "businessImpact": 0
@@ -299,147 +299,95 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1786625505588-0",
-          "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
-          "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-08-13T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1786625505588-1",
-          "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-          "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-08-13T10:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet,…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1786625505588-2",
-          "title": "How kids feel about AI, in their own words",
-          "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-08-13T09:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1786625507351-86",
-          "title": "California Uber, Lyft drivers win union recognition",
-          "url": "https://www.cbsnews.com/losangeles/news/california-uber-lyft-drivers-win-union-recognition/",
+          "id": "hn-1786711562896-77",
+          "title": "For the love of god stop using CPU limits in Kubernetes",
+          "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
           "source": "Hacker News",
-          "publishedAt": "2026-08-13T00:45:16.000Z",
+          "publishedAt": "2026-08-14T10:41:21.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 48,
-            "comments": 18
+            "upvotes": 39,
+            "comments": 38
           },
-          "rawTextSnippet": "California Uber, Lyft drivers win union recognition",
+          "rawTextSnippet": "For the love of god stop using CPU limits in Kubernetes",
           "hnMeta": {
-            "points": 48,
-            "comments": 18,
-            "hnUrl": "https://news.ycombinator.com/item?id=49280486"
+            "points": 39,
+            "comments": 38,
+            "hnUrl": "https://news.ycombinator.com/item?id=49296939"
           },
-          "score": 61,
+          "score": 69,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
             "engagement": 10,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
-        }
-      ]
-    },
-    {
-      "name": "Large Language Models",
-      "itemCount": 66,
-      "trendScore": 204,
-      "whyTrending": "66 stories across Hacker, arXiv, TechCrunch, 33 in the last 24h.",
-      "topStory": {
-        "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-        "url": "https://openai.com/codex/"
-      },
-      "items": [
+        },
         {
-          "id": "hn-1786625510175-154",
-          "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "url": "https://openai.com/codex/",
+          "id": "hn-1786711562896-91",
+          "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+          "url": "https://github.com/JustVugg/lumabri",
           "source": "Hacker News",
-          "publishedAt": "2026-08-13T04:53:41.000Z",
+          "publishedAt": "2026-08-14T00:47:04.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 250,
-            "comments": 162
+            "upvotes": 37,
+            "comments": 12
           },
-          "rawTextSnippet": "ChatGPT Desktop (Codex Desktop) for Linux",
+          "rawTextSnippet": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
           "hnMeta": {
-            "points": 250,
-            "comments": 162,
-            "hnUrl": "https://news.ycombinator.com/item?id=49281916"
+            "points": 37,
+            "comments": 12,
+            "hnUrl": "https://news.ycombinator.com/item?id=49293523"
           },
-          "score": 70,
+          "score": 65,
           "scoreBreakdown": {
             "freshness": 26,
             "authority": 14,
-            "engagement": 20,
-            "novelty": 10,
+            "engagement": 10,
+            "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1786625508765-118",
-          "title": "Show HN: A prompt to verify Supabase RLS policy",
-          "url": "https://defencecore.com/audit",
+          "id": "rss-1786711561280-2",
+          "title": "Cloning could be used to save species—or make human “organ sacks”",
+          "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-08-14T09:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1786711565711-160",
+          "title": "OpenAI annual revenue set to top $40B",
+          "url": "https://www.semafor.com/article/08/14/2026/openai-revenue-set-to-top-40-billion",
           "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:39:00.000Z",
+          "publishedAt": "2026-08-14T11:01:24.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 3,
+            "comments": 1
           },
-          "rawTextSnippet": "Hey guys, We wrote an agent prompt that you can simply give to your claude, codex agents, and it will automatically verify the RLS policy on each and every table in your supabase project.",
+          "rawTextSnippet": "OpenAI annual revenue set to top $40B",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49285043"
+            "points": 3,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49297110"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -449,51 +397,117 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Large Language Models"
-        },
+          "cluster": "General AI"
+        }
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "itemCount": 70,
+      "trendScore": 206,
+      "whyTrending": "70 stories across Hacker, GitHub, arXiv, 37 in the last 24h.",
+      "topStory": {
+        "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+        "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf"
+      },
+      "items": [
         {
-          "id": "hn-1786625505879-23",
-          "title": "Ask HN: How to deal with gen AI as an gen AI-resistant person",
-          "url": "https://news.ycombinator.com/item?id=49284799",
+          "id": "hn-1786711565711-176",
+          "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+          "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
           "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:14:08.000Z",
+          "publishedAt": "2026-08-13T19:25:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 1
+            "upvotes": 115,
+            "comments": 91
           },
-          "rawTextSnippet": "Context: I don&#x27;t like LLMs and code generators. I prefer doing things the old-fashioned way – code using my brain, write design docs while doing research. I became more flexible about vibe coding, but I still prefer to review Claude&#x27;s PRs carefully. I&#x27;m a staff engineer with 10 years …",
+          "rawTextSnippet": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
           "hnMeta": {
-            "points": 3,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49284799"
+            "points": 115,
+            "comments": 91,
+            "hnUrl": "https://news.ycombinator.com/item?id=49290768"
           },
-          "score": 59,
+          "score": 66,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 15,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1786625505879-28",
-          "title": "Show HN: Markleft – how I review Claude's Markdown plans",
-          "url": "https://blog.lysk.tech/markleft-ai-markdown-review/",
+          "id": "hn-1786711561503-59",
+          "title": "Ask HN: Does AI watermarking present a new attack vector?",
+          "url": "https://news.ycombinator.com/item?id=49297267",
           "source": "Hacker News",
-          "publishedAt": "2026-08-13T11:19:01.000Z",
+          "publishedAt": "2026-08-14T11:20:01.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 6,
+            "upvotes": 2,
+            "comments": 5
+          },
+          "rawTextSnippet": "One thing I have not been able to determine from Claude&#x27;s documentation on watermarking[0] is what kind of metadata they store in association with a given watermark. Ostensibly they could make the fingerprints as unique as they want, possibly down to the exact time, user and session. If so, thi…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 5,
+            "hnUrl": "https://news.ycombinator.com/item?id=49297267"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1786711567273-199",
+          "title": "Even Claude Is in the Dark About Dario Amodei's Wife",
+          "url": "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T03:06:04.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 32,
+            "comments": 5
+          },
+          "rawTextSnippet": "Even Claude Is in the Dark About Dario Amodei's Wife",
+          "hnMeta": {
+            "points": 32,
+            "comments": 5,
+            "hnUrl": "https://news.ycombinator.com/item?id=49294362"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1786711561503-52",
+          "title": "Anthropic Is Quietly Watermarking Every Claude AI Output",
+          "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T11:43:38.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: Markleft – how I review Claude's Markdown plans",
+          "rawTextSnippet": "Anthropic Is Quietly Watermarking Every Claude AI Output",
           "hnMeta": {
-            "points": 6,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49284329"
+            "hnUrl": "https://news.ycombinator.com/item?id=49297489"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -506,21 +520,21 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1786625507351-74",
-          "title": "Stealing Reasoning Traces from Proprietary LLM APIs [pdf]",
-          "url": "https://arxiv.org/abs/2608.09867",
+          "id": "hn-1786711561503-56",
+          "title": "Show HN: LinkGravity – chat and voice bridge for AI coding agents",
+          "url": "https://github.com/dev-sseul/linkgravity",
           "source": "Hacker News",
-          "publishedAt": "2026-08-13T07:41:03.000Z",
+          "publishedAt": "2026-08-14T11:28:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Stealing Reasoning Traces from Proprietary LLM APIs [pdf]",
+          "rawTextSnippet": "Show HN: LinkGravity – chat and voice bridge for AI coding agents",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49282839"
+            "hnUrl": "https://news.ycombinator.com/item?id=49297348"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -536,477 +550,487 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 29,
-      "trendScore": 177,
-      "whyTrending": "29 stories across Hacker, MIT, arXiv, 20 in the last 24h.",
+      "itemCount": 34,
+      "trendScore": 189,
+      "whyTrending": "34 stories across MIT, Hacker, GitHub, 25 in the last 24h.",
       "topStory": {
-        "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-        "url": "https://www.codewithbullet.com"
+        "title": "Job titles of the future: Space travel agent",
+        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
       },
       "items": [
         {
-          "id": "hn-1786625508765-129",
-          "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-          "url": "https://www.codewithbullet.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T08:14:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 2
-          },
-          "rawTextSnippet": "Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent. Bullet started in a senior year dorm room at Yale. We were fresh out of working at AppLovin and Citadel, so naturally, we just knew we were going to be startup gods. We were going to use our skills optimizing stock pricing calcula…",
-          "hnMeta": {
-            "points": 5,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49283063"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1786625505879-20",
-          "title": "Show HN: RBEK – governed execution for AI agent",
-          "url": "https://github.com/rbekplatform/rbek",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:24:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: RBEK – governed execution for AI agent",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49284886"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1786625505879-22",
-          "title": "Rogue AI Agents Aren't Evil. They're Just Eager to Please",
-          "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:14:44.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Rogue AI Agents Aren't Evil. They're Just Eager to Please",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49284801"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1786625508765-117",
-          "title": "Sleeper Agents and how to tame them",
-          "url": "https://huggingface.co/blog/tngtech/sleeper-agents-and-how-to-tame-them",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:47:14.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Sleeper Agents and how to tame them",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49285133"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1786625508765-119",
-          "title": "The Agent-Led Growth Framework",
-          "url": "https://agentledco.substack.com/p/whats-agent-led-growth",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:25:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "The Agent-Led Growth Framework",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49284893"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 14,
-      "trendScore": 142,
-      "whyTrending": "14 stories across TechCrunch, Hacker, arXiv, 7 in the last 24h.",
-      "topStory": {
-        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-        "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
-      },
-      "items": [
-        {
-          "id": "rss-1786625508257-101",
-          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-12T17:41:29.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 10
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1786625508257-104",
-          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-          "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-12T16:04:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 10
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1786625511581-194",
-          "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T01:50:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 33,
-            "comments": 4
-          },
-          "rawTextSnippet": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-          "hnMeta": {
-            "points": 33,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=49280945"
-          },
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1786625511581-191",
-          "title": "Anthropic reportedly plans a $2T IPO in October",
-          "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:21:44.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Anthropic reportedly plans a $2T IPO in October",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49284856"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1786625508257-99",
-          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-12T18:19:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 14,
-      "trendScore": 133,
-      "whyTrending": "14 stories across Hacker, DeepMind, MIT, 7 in the last 24h.",
-      "topStory": {
-        "title": "DeepSeek API Pricing Update",
-        "url": "https://twitter.com/deepseek_ai/status/2087864589895798968"
-      },
-      "items": [
-        {
-          "id": "hn-1786625505879-10",
-          "title": "DeepSeek API Pricing Update",
-          "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:49:21.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "DeepSeek API Pricing Update",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49285160"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1786625505879-17",
-          "title": "Show HN: Read it easy – Read-only code editor with an improved Go to Definition",
-          "url": "https://www.readiteasy.app/",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T12:30:43.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "I built a desktop app that improves the UI&#x2F;UX for reading source code . Code editors&#x2F;IDEs have many features, but I didn&#x27;t make the best use of them when reading the source code. So, I designed the app by picking up some features for source code reading. It is read-only because it is …",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49284944"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1786625508765-125",
-          "title": "Mojo in Mid-2026: From Python-Inspired Experiment to Production Systems Language",
-          "url": "https://www.reddit.com/r/AgentContext_dev/comments/1vn5xef/mojo_in_mid2026_from_pythoninspired_experiment_to/",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-13T10:07:44.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Mojo in Mid-2026: From Python-Inspired Experiment to Production Systems Language",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49283768"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1786625511127-171",
-          "title": "Putting sign language AI into users’ hands",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-          "source": "DeepMind Blog",
-          "publishedAt": "2026-08-12T14:01:59.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-          "score": 57,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1786625505588-3",
-          "title": "Scientists just created female clones of male mice",
-          "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+          "id": "rss-1786711561280-1",
+          "title": "Job titles of the future: Space travel agent",
+          "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-08-12T18:59:48.000Z",
+          "publishedAt": "2026-08-14T09:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist…",
-          "score": 55,
+          "rawTextSnippet": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N…",
+          "score": 66,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1786711564283-126",
+          "title": "Everyone talks about AI agents. This is what one looks from the inside",
+          "url": "https://pssah4.github.io/vault-operator/guides/capabilities",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T10:44:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 9,
+            "comments": 7
+          },
+          "rawTextSnippet": "Everyone talks about AI agents. This is what one looks from the inside",
+          "hnMeta": {
+            "points": 9,
+            "comments": 7,
+            "hnUrl": "https://news.ycombinator.com/item?id=49296964"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1786711561502-46",
+          "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+          "url": "https://gatewai.studio/artifex",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T12:15:13.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. Similar to Deepseek harness released yesterday; which ground models in modular execution environments, Artifex gives agents a structured machine contract to …",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49297723"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1786711564283-129",
+          "title": "Ironic-Python-Agent: Container HardwareManager Security Model Misimplemented",
+          "url": "https://seclists.org/oss-sec/2026/q3/488",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T08:52:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Ironic-Python-Agent: Container HardwareManager Security Model Misimplemented",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49296187"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1786711561503-54",
+          "title": "Model Context Protocol (MCP) Explained: How AI Agents Connect to Any Tool",
+          "url": "https://stikastudio.com/blog/what-is-model-context-protocol/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T11:36:38.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Model Context Protocol (MCP) Explained: How AI Agents Connect to Any Tool",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49297428"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "Research & Benchmarks",
+      "itemCount": 11,
+      "trendScore": 128,
+      "whyTrending": "11 stories across MIT, arXiv, TechCrunch, 9 in the last 24h.",
+      "topStory": {
+        "title": "This scientist is helping build a missing map of childhood",
+        "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
+      },
+      "items": [
+        {
+          "id": "rss-1786711561280-0",
+          "title": "This scientist is helping build a missing map of childhood",
+          "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-08-14T09:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
             "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1786711561498-20",
+          "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+          "url": "https://arxiv.org/abs/2608.13517v1",
+          "source": "arXiv",
+          "publishedAt": "2026-08-13T17:37:53.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) archite…",
+          "arxivMeta": {
+            "authors": "Peter Schneider-Kamp, Jacob Nielsen, Gianluca Barmina, Kenneth Enevoldsen, Lukas Galke Poech",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "rss-1786711563940-102",
+          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-13T21:13:24.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1786711561498-12",
+          "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+          "url": "https://arxiv.org/abs/2608.13555v1",
+          "source": "arXiv",
+          "publishedAt": "2026-08-13T17:59:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contact…",
+          "arxivMeta": {
+            "authors": "Dairu Liu, Zekun Qi, Jiayu Zeng, Ruixi Yu, Yu Guan, Yintianrun Zhang, Xuchuan Chen, Sikai Liang, Zekai Li, Chenghuai Lin, Xinqiang Yu, Wenyao Zhang, He Wang, Li Yi",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 52,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1786711561498-24",
+          "title": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
+          "url": "https://arxiv.org/abs/2608.13492v1",
+          "source": "arXiv",
+          "publishedAt": "2026-08-13T17:21:03.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we substantially revise how conditioning signals are represented and integrated into the model. The new …",
+          "arxivMeta": {
+            "authors": "AlayaWorld Team, Kaipeng Zhang, Chuanhao Li, Yifan Zhan, Yongtao Ge, Yuanyang Yin, Jiaming Tan, Kang He, Liaoyuan Fan, Mingliang Zhai, Ruicong Liu, Xiaojie Xu, Xuangeng Chu, Zhen Li, Zhengyuan Lin, Zhixiang Wang, Zian Meng, Zihui Gao",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 52,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 15,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        }
+      ]
+    },
+    {
+      "name": "AI Hardware & Chips",
+      "itemCount": 9,
+      "trendScore": 123,
+      "whyTrending": "9 stories across Hacker, TechCrunch, 7 in the last 24h.",
+      "topStory": {
+        "title": "Which GPU Is Suitable for Running Your AI Workloads?",
+        "url": "https://3hcloud.com/blog/which-gpu-is-suitable-for-your-ai-workload"
+      },
+      "items": [
+        {
+          "id": "hn-1786711561502-50",
+          "title": "Which GPU Is Suitable for Running Your AI Workloads?",
+          "url": "https://3hcloud.com/blog/which-gpu-is-suitable-for-your-ai-workload",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T11:49:33.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Which GPU Is Suitable for Running Your AI Workloads?",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49297548"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1786711561503-53",
+          "title": "My Anti AI Computer",
+          "url": "https://punkx.org/jackdoe/home.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T11:37:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "My Anti AI Computer",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49297438"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1786711565711-159",
+          "title": "OpenAI's new Computer History records your typing and clicks",
+          "url": "https://learn.chatgpt.com/docs/changelog",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T11:39:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "OpenAI's new Computer History records your typing and clicks",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49297453"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1786711564283-136",
+          "title": "I might have solved computer use",
+          "url": "https://github.com/lahfir/agent-desktop/releases/tag/v0.8.1",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-14T05:52:50.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "I might have solved computer use",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49295157"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "rss-1786711563940-109",
+          "title": "Nvidia&#8217;s new $500B plan is risky but brilliant, especially for aging GPUs",
+          "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-13T15:08:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1786625508257-101",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T17:41:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 10
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Thrive Holdings secured $2 billion in funding, reaching a $12 billion valuation.  \n• Why it matters: This investment highlights the growing demand for AI solutions in enterprise settings.  \n• Business opportunity: Companies can explore partnerships or innovations in AI to enhance operational efficiency and competitiveness."
-    },
-    {
-      "id": "hn-1786625511581-194",
-      "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "id": "hn-1786711562896-91",
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "url": "https://github.com/JustVugg/lumabri",
       "source": "Hacker News",
-      "publishedAt": "2026-08-13T01:50:27.000Z",
+      "publishedAt": "2026-08-14T00:47:04.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 33,
-        "comments": 4
+        "upvotes": 37,
+        "comments": 12
       },
-      "rawTextSnippet": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+      "rawTextSnippet": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
       "hnMeta": {
-        "points": 33,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49280945"
+        "points": 37,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49293523"
       },
-      "score": 63,
+      "score": 65,
       "scoreBreakdown": {
         "freshness": 26,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 10,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic is negotiating to acquire AI startup Decart for $6 billion.  \n• Why it matters: This acquisition could enhance Anthropic's capabilities in world modeling AI, a crucial area for advanced AI applications.  \n• Business opportunity: Companies in the AI sector may explore similar strategic acquisitions to bolster their technological expertise and market position."
+      "cluster": "General AI",
+      "summary": "• What happened: Lumabri launched a platform to run Moe models on a peer-to-peer swarm using Colibri.  \n• Why it matters: This innovation enhances decentralized computing, potentially increasing efficiency and accessibility for users.  \n• Business opportunity: Companies can leverage this technology to develop scalable, cost-effective solutions for data processing and machine learning."
     },
     {
-      "id": "hn-1786625505879-21",
-      "title": "Banning Open-Weight AI Models Could Cost America the AI Race",
-      "url": "https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html",
+      "id": "rss-1786711561280-0",
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,…",
+      "score": 63,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Research & Benchmarks",
+      "summary": "• What happened: Scientist Deanne Taylor is contributing to the creation of a comprehensive map of childhood development.  \n• Why it matters: This initiative aims to enhance understanding of childhood health and development, addressing gaps in existing research.  \n• Business opportunity: Companies in health tech and education can leverage this data to develop targeted interventions and products for children's well-being."
+    },
+    {
+      "id": "hn-1786711561502-46",
+      "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+      "url": "https://gatewai.studio/artifex",
       "source": "Hacker News",
-      "publishedAt": "2026-08-13T12:19:02.000Z",
+      "publishedAt": "2026-08-14T12:15:13.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 3,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Banning Open-Weight AI Models Could Cost America the AI Race",
+      "rawTextSnippet": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. Similar to Deepseek harness released yesterday; which ground models in modular execution environments, Artifex gives agents a structured machine contract to …",
       "hnMeta": {
-        "points": 3,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49284830"
+        "hnUrl": "https://news.ycombinator.com/item?id=49297723"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -1016,25 +1040,25 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: A proposal to ban open-weight AI models has emerged in the U.S.  \n• Why it matters: Such a ban could hinder innovation and competitiveness in the global AI landscape.  \n• Business opportunity: Companies can advocate for balanced regulations that promote innovation while ensuring safety."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Artifex, a CLI runtime for autonomous coding agents, was introduced for creating media node graphs.  \n• Why it matters: It enhances the capabilities of AI agents by providing a structured environment for coding and media rendering.  \n• Business opportunity: Companies can leverage Artifex to streamline media production processes and improve AI-driven content creation."
     },
     {
-      "id": "hn-1786625508765-129",
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "url": "https://www.codewithbullet.com",
+      "id": "hn-1786711564283-129",
+      "title": "Ironic-Python-Agent: Container HardwareManager Security Model Misimplemented",
+      "url": "https://seclists.org/oss-sec/2026/q3/488",
       "source": "Hacker News",
-      "publishedAt": "2026-08-13T08:14:30.000Z",
+      "publishedAt": "2026-08-14T08:52:55.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 2
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent. Bullet started in a senior year dorm room at Yale. We were fresh out of working at AppLovin and Citadel, so naturally, we just knew we were going to be startup gods. We were going to use our skills optimizing stock pricing calcula…",
+      "rawTextSnippet": "Ironic-Python-Agent: Container HardwareManager Security Model Misimplemented",
       "hnMeta": {
-        "points": 5,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49283063"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49296187"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -1047,27 +1071,27 @@
       "cluster": "AI Agents & Automation"
     },
     {
-      "id": "hn-1786625507351-88",
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "id": "hn-1786711561502-40",
+      "title": "AI will converge towards intuition-guided symbolic world modeling",
+      "url": "https://twitter.com/fchollet/status/2072779641639875048",
       "source": "Hacker News",
-      "publishedAt": "2026-08-12T23:50:33.000Z",
+      "publishedAt": "2026-08-14T12:43:07.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 103,
-        "comments": 41
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "rawTextSnippet": "AI will converge towards intuition-guided symbolic world modeling",
       "hnMeta": {
-        "points": 103,
-        "comments": 41,
-        "hnUrl": "https://news.ycombinator.com/item?id=49280103"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49297977"
       },
-      "score": 61,
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
@@ -1077,101 +1101,45 @@
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1786625506330-36",
-      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-      "url": "https://arxiv.org/abs/2608.12307v1",
+      "id": "arxiv-1786711561499-38",
+      "title": "RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level",
+      "url": "https://arxiv.org/abs/2608.13428v1",
       "source": "arXiv",
-      "publishedAt": "2026-08-12T17:53:18.000Z",
+      "publishedAt": "2026-08-13T16:17:41.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study s…",
+      "rawTextSnippet": "Assessing the maturity of artificial intelligence technologies is essential for investment decisions, project management, and policy monitoring, yet the available readiness frameworks are heterogeneous and difficult to apply automatically: the adaptation of Technology Readiness Levels to AI lacks AI…",
       "arxivMeta": {
-        "authors": "Cheng Qian, Wenting Zhao, Liangwei Yang, Heng Wang, Jielin Qiu, Heng Ji, Silvio Savarese, Huan Wang, Shelby Heinecke",
+        "authors": "Juan Irving Vasquez, Juan Terven, Laura-Ivoone Garay-Jimenez",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 58,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 6
       },
-      "cluster": "Research & Benchmarks"
+      "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1786625506330-42",
-      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
-      "url": "https://arxiv.org/abs/2608.12282v1",
+      "id": "arxiv-1786711561498-16",
+      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+      "url": "https://arxiv.org/abs/2608.13545v1",
       "source": "arXiv",
-      "publishedAt": "2026-08-12T17:27:27.000Z",
+      "publishedAt": "2026-08-13T17:56:12.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and \\textbf{K}nowledge \\textbf{R}etrieval \\textbf{A}gents), a benchmark of over $…",
+      "rawTextSnippet": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-token pretraining cor…",
       "arxivMeta": {
-        "authors": "Ankita Rajaram Naik, Anupama Murthi, Benjamin Elder, Siyu Huo, Raavi Gupta, Abhinav Jain, Praveen Venkateswaran, Abdulhamid Adebayo, Danish Contractor",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Tools & Products"
-    },
-    {
-      "id": "arxiv-1786625506331-50",
-      "title": "VICBench: A Multi-Language Benchmark for Code Vulnerability Detection",
-      "url": "https://arxiv.org/abs/2608.12246v1",
-      "source": "arXiv",
-      "publishedAt": "2026-08-12T16:45:49.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Evaluating security vulnerability detection tools requires benchmark datasets with vulnerability-inducing commits (VICs) - the commits that first introduce vulnerabilities into codebases. VICs are essential for determining the full range of vulnerable software versions. Existing vulnerability datase…",
-      "arxivMeta": {
-        "authors": "Jin Lu, Xuening Han, Yang Zhong, Lin Tan, Kevin Luo, Andrew Gacek, Neha Rungta",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Research & Benchmarks"
-    },
-    {
-      "id": "arxiv-1786625506331-52",
-      "title": "How Organizations Use AI: Evidence from ChatGPT",
-      "url": "https://arxiv.org/abs/2608.12236v1",
-      "source": "arXiv",
-      "publishedAt": "2026-08-12T16:32:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "We study how organizations use frontier generative AI by linking ChatGPT Enterprise account records to usage, worker roles, task classifications, and public-company financial data through March 2026. These linked data enable a privacy-preserving analysis of adoption, worker roles, and message-level …",
-      "arxivMeta": {
-        "authors": "Aaron Chatterji, David Holtz, Neel Rakholia, Prasanna Tambe, Gawesha Weeratunga",
+        "authors": "Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1189,17 +1157,17 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1786625506331-54",
-      "title": "Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification",
-      "url": "https://arxiv.org/abs/2608.12227v1",
+      "id": "arxiv-1786711561498-20",
+      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+      "url": "https://arxiv.org/abs/2608.13517v1",
       "source": "arXiv",
-      "publishedAt": "2026-08-12T16:25:19.000Z",
+      "publishedAt": "2026-08-13T17:37:53.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Hyperspectral imaging (HSI) offers nondestructive assessment of fish freshness by detecting biochemical alterations across spectral bands. However, conventional deep learning approaches do not fully address the particular characteristics of HSI data, such as spectral dominance over spatial textures,…",
+      "rawTextSnippet": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) archite…",
       "arxivMeta": {
-        "authors": "Kazi Nabiul Alam, Pooneh Bagheri Zadeh, Akbar Sheikh-Akbari",
+        "authors": "Peter Schneider-Kamp, Jacob Nielsen, Gianluca Barmina, Kenneth Enevoldsen, Lukas Galke Poech",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1214,12 +1182,146 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation"
+      "cluster": "Research & Benchmarks"
+    },
+    {
+      "id": "arxiv-1786711561499-31",
+      "title": "CAPRI: Contract-Aware Proof Repair for Isabelle",
+      "url": "https://arxiv.org/abs/2608.13459v1",
+      "source": "arXiv",
+      "publishedAt": "2026-08-13T16:43:44.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "We address the use of large language models (LLMs) to help discover Isabelle proofs. An Isabelle build establishes that the submitted theory is accepted, but not that an LLM changed only what the developer authorised. We present CAPRI, a contract-aware repair workflow in which Isabelle checks the pr…",
+      "arxivMeta": {
+        "authors": "Jim Woodcock, Gabriel Leite, Augusto Sampaio, Ran Wei",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1786711561497-10",
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "url": "https://arxiv.org/abs/2608.13560v1",
+      "source": "arXiv",
+      "publishedAt": "2026-08-13T17:59:57.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empiric…",
+      "arxivMeta": {
+        "authors": "Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan, Haodong Li, Zhengrong Yue, Jing Li, Xiaofu Chen, Xiaohan Zhao, Jiacheng Liu, Jiacheng Cui, Zhiqiang Shen, Xiaotong Li",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation"
     }
   ],
   "funding": [
     {
-      "id": "rss-1786625508257-101",
+      "id": "rss-1786711561280-1",
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N…",
+      "score": 66,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A new job title, \"space travel agent,\" is emerging as luxury travel evolves.  \n• Why it matters: This reflects the growing interest and feasibility of space tourism among affluent consumers.  \n• Business opportunity: Companies can capitalize on this trend by offering exclusive space travel experiences and services."
+    },
+    {
+      "id": "arxiv-1786711561499-38",
+      "title": "RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level",
+      "url": "https://arxiv.org/abs/2608.13428v1",
+      "source": "arXiv",
+      "publishedAt": "2026-08-13T16:17:41.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Assessing the maturity of artificial intelligence technologies is essential for investment decisions, project management, and policy monitoring, yet the available readiness frameworks are heterogeneous and difficult to apply automatically: the adaptation of Technology Readiness Levels to AI lacks AI…",
+      "arxivMeta": {
+        "authors": "Juan Irving Vasquez, Juan Terven, Laura-Ivoone Garay-Jimenez",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 58,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A new automatic classifier, RAIL, was developed to assess the Artificial Intelligence Readiness Level.  \n• Why it matters: It simplifies the evaluation of AI technology maturity, aiding investment and project management decisions.  \n• Business opportunity: Companies can leverage RAIL to streamline their AI assessments, enhancing strategic planning and resource allocation."
+    },
+    {
+      "id": "hn-1786711565711-172",
+      "title": "OpenAI's Revenue Run Rate Tops $40B Ahead of IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-13T22:26:07.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 2
+      },
+      "rawTextSnippet": "OpenAI's Revenue Run Rate Tops $40B Ahead of IPO",
+      "hnMeta": {
+        "points": 3,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49292581"
+      },
+      "score": 57,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI's revenue run rate has exceeded $40 billion as it prepares for an IPO.  \n• Why it matters: This significant revenue milestone highlights OpenAI's rapid growth and market potential in AI technology.  \n• Business opportunity: Investors and tech companies may seek partnerships or investments in AI-driven solutions, leveraging OpenAI's advancements."
+    },
+    {
+      "id": "rss-1786711563940-115",
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
       "source": "TechCrunch AI",
@@ -1228,19 +1330,18 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "score": 63,
+      "score": 56,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 10
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Thrive Holdings secured $2 billion in funding, achieving a $12 billion valuation.  \n• Why it matters: This investment highlights the growing demand for AI solutions in enterprise settings.  \n• Business opportunity: Companies can leverage Thrive's innovations to enhance operational efficiency and competitive advantage."
+      "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1786625508257-104",
+      "id": "rss-1786711563940-118",
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",
       "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
       "source": "TechCrunch AI",
@@ -1249,85 +1350,16 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "score": 63,
+      "score": 56,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 10
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Lovable has confirmed a new valuation of $13.3 billion and raised an additional $400 million in funding.  \n• Why it matters: The startup achieved a significant milestone with $500 million in annualized run rate revenue, indicating strong growth.  \n• Business opportunity: Investors may find potential in Lovable's expanding market presence and revenue trajectory."
-    },
-    {
-      "id": "hn-1786625511581-191",
-      "title": "Anthropic reportedly plans a $2T IPO in October",
-      "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-13T12:21:44.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "Anthropic reportedly plans a $2T IPO in October",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49284856"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic is reportedly planning a $2 trillion IPO in October.  \n• Why it matters: This would be one of the largest IPOs in history, signaling strong investor confidence in AI companies.  \n• Business opportunity: Investors and stakeholders may capitalize on the growing AI sector and its potential for significant returns."
-    },
-    {
-      "id": "rss-1786625508257-99",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T18:19:12.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1786625508257-105",
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T15:44:56.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
       "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In today's AI landscape, the launch of ChatGPT Desktop for Linux marks a significant expansion of accessibility for developers, potentially increasing adoption rates in tech sectors reliant on open-source platforms. Meanwhile, GitHub's trending project, a watermark remover for AI-generated content, raises concerns about provenance and authenticity, which could impact industries like publishing and digital media. Mistral's rapid acquisition of a US patent for tool calls in just 118 days, without prior public notice, highlights the competitive race for intellectual property in AI, emphasizing the need for businesses to stay vigilant about emerging technologies. Additionally, insights from children on AI and recent research on female clones of male mice underscore the growing intersection of AI with social and biological sciences, suggesting new avenues for innovation and ethical considerations in product development."
+  "dailyBrief": "Today, the AI landscape is buzzing with significant developments. The release of GLM-5.3 showcases advanced coding capabilities, potentially revolutionizing cybersecurity measures for businesses. Meanwhile, a discussion on Kubernetes highlights the inefficiencies of using CPU limits, urging companies to rethink resource management for optimal performance. Looking ahead, MIT Technology Review identifies emerging job titles like \"space travel agent,\" signaling new career opportunities in the expanding space economy. Additionally, a new study reveals how organizations are leveraging AI tools like ChatGPT to enhance productivity and decision-making processes. Lastly, the introduction of Lumabri, a platform for running models on a peer-to-peer swarm, could democratize AI access and innovation, presenting new avenues for collaboration and development in the tech sector."
 }
