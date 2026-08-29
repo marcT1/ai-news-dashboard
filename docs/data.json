@@ -1,155 +1,99 @@
 {
   "topNews": [
     {
-      "id": "hn-1787953023297-193",
+      "id": "hn-1788019146607-58",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T14:02:10.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 216,
+        "comments": 154
+      },
+      "rawTextSnippet": "Debian votes to allow \"responsible use of generative AI\"",
+      "hnMeta": {
+        "points": 216,
+        "comments": 154,
+        "hnUrl": "https://news.ycombinator.com/item?id=49489982"
+      },
+      "score": 79,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Debian has voted to permit the responsible use of generative AI within its community.  \n• Why it matters: This decision reflects a growing acceptance of AI technologies in open-source projects, potentially influencing other organizations.  \n• Business opportunity: Companies can leverage Debian's endorsement to develop AI tools and applications that align with open-source principles."
+    },
+    {
+      "id": "hn-1788019152396-206",
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "source": "Hacker News",
       "publishedAt": "2026-08-28T02:03:38.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 437,
-        "comments": 325
+        "upvotes": 591,
+        "comments": 419
       },
       "rawTextSnippet": "https:&#x2F;&#x2F;archive.ph&#x2F;ni6I3 https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.cand.46...",
       "hnMeta": {
-        "points": 437,
-        "comments": 325,
+        "points": 591,
+        "comments": 419,
         "hnUrl": "https://news.ycombinator.com/item?id=49473522"
       },
-      "score": 76,
+      "score": 69,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 14,
         "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A judge ruled that the Trump administration's blacklisting of AI company Anthropic was illegal.  \n• Why it matters: This decision highlights the legal limitations of government actions against tech companies and could influence future regulatory approaches.  \n• Business opportunity: Companies in the AI sector may benefit from a more favorable regulatory environment and increased investment interest."
+      "summary": "• What happened: A judge ruled that the Trump administration's blacklisting of AI company Anthropic was illegal.  \n• Why it matters: This decision could influence future government actions regarding tech company regulations and blacklisting.  \n• Business opportunity: Companies in the AI sector may see increased investment and collaboration opportunities following this ruling."
     },
     {
-      "id": "hn-1787953021830-157",
-      "title": "Migrating to HTTPX2",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "id": "hn-1788019146607-51",
+      "title": "Show HN: DataZen – a local-first client for cross-database workflows",
+      "url": "https://flyxl.github.io/datazen/",
       "source": "Hacker News",
-      "publishedAt": "2026-08-28T11:51:20.000Z",
+      "publishedAt": "2026-08-29T14:21:59.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 174,
-        "comments": 76
+        "upvotes": 2,
+        "comments": 0
       },
-      "rawTextSnippet": "Migrating to HTTPX2",
+      "rawTextSnippet": "My company stopped allowing Navicat because of compliance policy. DBeaver worked, but I don&#x27;t like it. I kept running into two recurring issues. First, production investigations often require several queries across different databases. I would query one table, copy an ID into another query, wai…",
       "hnMeta": {
-        "points": 174,
-        "comments": 76,
-        "hnUrl": "https://news.ycombinator.com/item?id=49477212"
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49490148"
       },
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: HTTPX2 is being introduced as an upgrade to the existing HTTP protocol.  \n• Why it matters: This migration promises improved performance and security for web applications.  \n• Business opportunity: Companies can leverage HTTPX2 to enhance user experience and optimize their web services."
-    },
-    {
-      "id": "hn-1787953023297-186",
-      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-28T11:25:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 320,
-        "comments": 3
-      },
-      "rawTextSnippet": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-      "hnMeta": {
-        "points": 320,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49477055"
-      },
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: A US judge ruled that the Pentagon's blacklisting of AI company Anthropic was unlawful.  \n• Why it matters: This decision could set a precedent for how government agencies regulate AI companies and their operations.  \n• Business opportunity: Companies in the AI sector may explore new partnerships with government agencies without fear of unjust blacklisting."
-    },
-    {
-      "id": "hn-1787953020385-121",
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-28T17:01:12.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 59,
-        "comments": 12
-      },
-      "rawTextSnippet": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "hnMeta": {
-        "points": 59,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49481455"
-      },
-      "score": 69,
+      "score": 65,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 6
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Researchers achieved autonomous mathematical discovery using multi-agent systems in an open-world setting.  \n• Why it matters: This advancement could revolutionize problem-solving in mathematics and related fields.  \n• Business opportunity: Companies can leverage this technology to enhance AI-driven research and development in various industries."
+      "summary": "• What happened: A new tool called DataZen has been introduced for managing cross-database workflows locally.  \n• Why it matters: It addresses compliance challenges faced by companies using traditional database clients.  \n• Business opportunity: There is potential for growth in developing user-friendly, compliant database management solutions."
     },
     {
-      "id": "hn-1787953021830-162",
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "url": "https://github.com/elyosh/OpenTIE/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-27T22:10:47.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 216,
-        "comments": 54
-      },
-      "rawTextSnippet": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "hnMeta": {
-        "points": 216,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=49471965"
-      },
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: OpenTIE and OpenXWA are modern ports of the classic games Tie Fighter and X-Wing Alliance.  \n• Why it matters: These projects revive interest in retro gaming and enhance accessibility for new players.  \n• Business opportunity: There is potential for monetization through merchandise, expansions, or crowdfunding for further development."
-    },
-    {
-      "id": "rss-1787953019828-94",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "id": "rss-1788019148630-95",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-28T20:24:11.000Z",
+      "publishedAt": "2026-08-29T13:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "rawTextSnippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -159,145 +103,247 @@
         "businessImpact": 3
       },
       "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Neocloud Lambda raised $1B in private debt to purchase Nvidia AI chips.  \n• Why it matters: This move highlights the escalating costs associated with the AI industry's growth.  \n• Business opportunity: Companies can explore partnerships in chip leasing or financing to capitalize on the AI demand surge."
+      "summary": "• What happened: Nvidia is enhancing data center systems with smarter traffic control rather than solely relying on GPU performance.  \n• Why it matters: This shift could significantly improve efficiency and reduce operational costs for data centers.  \n• Business opportunity: Companies can leverage this technology to optimize their data processing and reduce energy consumption."
     },
     {
-      "id": "rss-1787953019828-96",
-      "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-28T18:19:40.000Z",
+      "id": "hn-1788019148021-86",
+      "title": "Ask HN: Why do we need MCP?",
+      "url": "https://news.ycombinator.com/item?id=49488654",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T10:26:48.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 13
       },
-      "rawTextSnippet": "There's a lot of capital pouring into the business of giving models away.",
+      "rawTextSnippet": "Why not just publish your API docs and let the client&#x27;s bot chain together what calls need to be made. You could even repurpose the MCP so you only ever produce the API documentation as EVERY response. No LLM necessary.",
+      "hnMeta": {
+        "points": 5,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49488654"
+      },
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A discussion on Hacker News questions the necessity of a Model-Driven Control Plane (MCP) for API interactions.  \n• Why it matters: Simplifying API documentation could enhance efficiency and reduce reliance on complex models.  \n• Business opportunity: Companies could innovate by creating streamlined API documentation tools that automate client interactions."
+    },
+    {
+      "id": "hn-1788019146607-55",
+      "title": "Major security weaknesses found in leading open AI models",
+      "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T14:15:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 3,
+        "comments": 0
+      },
+      "rawTextSnippet": "Major security weaknesses found in leading open AI models",
+      "hnMeta": {
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49490082"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Open-weight AI companies are becoming prime acquisition targets in Silicon Valley.  \n• Why it matters: Increased investment in freely available AI models signals a shift in market dynamics.  \n• Business opportunity: Companies can capitalize on this trend by developing innovative open-weight AI solutions."
+      "cluster": "General AI",
+      "summary": "• What happened: Major security vulnerabilities have been identified in prominent open AI models.  \n• Why it matters: These weaknesses could expose sensitive data and undermine trust in AI technologies.  \n• Business opportunity: Companies can develop security solutions and services to protect AI models and enhance their reliability."
     },
     {
-      "id": "hn-1787953017462-28",
-      "title": "The Analytical AI Handbook",
-      "url": "https://handbook.sutro.sh",
+      "id": "hn-1788019146607-57",
+      "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
       "source": "Hacker News",
-      "publishedAt": "2026-08-28T19:01:47.000Z",
+      "publishedAt": "2026-08-29T14:07:07.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 36,
-        "comments": 2
+        "upvotes": 3,
+        "comments": 0
       },
-      "rawTextSnippet": "The Analytical AI Handbook",
+      "rawTextSnippet": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
       "hnMeta": {
-        "points": 36,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49482925"
+        "points": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49490016"
       },
-      "score": 64,
+      "score": 62,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
       "cluster": "General AI",
-      "summary": "• What happened: The Analytical AI Handbook was released, providing insights into AI analytics.  \n• Why it matters: It serves as a comprehensive resource for businesses looking to leverage AI for data analysis.  \n• Business opportunity: Companies can utilize the handbook to enhance their AI strategies and improve decision-making processes."
+      "summary": "• What happened: A Microsoft-supported AI data center is facing criticism for operating 62 unpermitted gas turbines.  \n• Why it matters: This situation raises concerns about regulatory compliance and environmental impact in the tech industry.  \n• Business opportunity: Companies can explore sustainable energy solutions to meet growing data center demands while adhering to regulations."
     },
     {
-      "id": "hn-1787953017462-30",
-      "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
-      "url": "https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e",
+      "id": "hn-1788019146607-60",
+      "title": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
+      "url": "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html",
       "source": "Hacker News",
-      "publishedAt": "2026-08-28T18:46:09.000Z",
+      "publishedAt": "2026-08-29T13:52:40.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 8,
-        "comments": 2
+        "upvotes": 5,
+        "comments": 0
       },
-      "rawTextSnippet": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
+      "rawTextSnippet": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
       "hnMeta": {
-        "points": 8,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49482754"
+        "points": 5,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49489920"
       },
-      "score": 64,
+      "score": 62,
       "scoreBreakdown": {
         "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: There is significant public backlash against AI data centers.  \n• Why it matters: This opposition highlights growing concerns over environmental and social impacts of AI infrastructure.  \n• Business opportunity: Companies can innovate sustainable AI solutions to address these concerns and improve public perception."
+    },
+    {
+      "id": "github-1788019147471-70",
+      "title": "[Nanako0129/sepia] De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "url": "https://github.com/Nanako0129/sepia",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-08-28T05:56:49.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 12,
+        "upvotes": 578
+      },
+      "rawTextSnippet": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "githubMeta": {
+        "stars": 578,
+        "language": null,
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "fiction",
+          "grok",
+          "humanizer",
+          "llm",
+          "prompt-engineering",
+          "writing-tools"
+        ]
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 12,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A new tool for enhancing AI writing skills was introduced, focusing on narrative architecture and professional prose.  \n• Why it matters: This innovation aims to improve the quality of AI-generated content, making it more suitable for various venues.  \n• Business opportunity: Companies can leverage this technology to enhance their content creation processes and improve customer engagement."
+    },
+    {
+      "id": "hn-1788019148021-93",
+      "title": "Debian has published the official results for the 2026 GR on LLM usage",
+      "url": "https://vote.debian.org/~secretary/gr_llm/results.txt",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T04:48:52.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 14,
+        "comments": 7
+      },
+      "rawTextSnippet": "Debian has published the official results for the 2026 GR on LLM usage",
+      "hnMeta": {
+        "points": 14,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49486967"
+      },
+      "score": 60,
+      "scoreBreakdown": {
+        "freshness": 26,
         "authority": 14,
         "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: A family's vacation was disrupted by an AI chatbot created by the author's mother.  \n• Why it matters: The incident highlights the growing integration of AI in personal lives and its potential for unintended consequences.  \n• Business opportunity: There is potential for developing user-friendly AI tools that enhance rather than complicate family interactions."
-    },
-    {
-      "id": "hn-1787953018958-83",
-      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-      "url": "https://github.com/sseshachala/conductai",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-28T19:29:20.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 17,
-        "comments": 3
-      },
-      "rawTextSnippet": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-      "hnMeta": {
-        "points": 17,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49483173"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: An open-source project called Conduct was introduced to provide guardrails for LLM and MCP tool calls.  \n• Why it matters: This initiative aims to enhance the safety and reliability of AI interactions, addressing concerns around misuse.  \n• Business opportunity: Companies can leverage Conduct to improve their AI systems' compliance and security, potentially attracting more users."
+      "summary": "• What happened: Debian released the official results of the 2026 General Resolution regarding LLM usage.  \n• Why it matters: This decision impacts the direction of open-source software development and community standards.  \n• Business opportunity: Companies can leverage these insights to align their LLM products with community expectations and enhance collaboration."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 53,
-      "trendScore": 206,
-      "whyTrending": "53 stories across Hacker, TechCrunch, MIT, 30 in the last 24h.",
+      "itemCount": 55,
+      "trendScore": 203,
+      "whyTrending": "55 stories across Hacker, MIT, TechCrunch, 30 in the last 24h.",
       "topStory": {
-        "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-        "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://lwn.net/Articles/1091231/"
       },
       "items": [
         {
-          "id": "hn-1787953023297-193",
+          "id": "hn-1788019146607-58",
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T14:02:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 216,
+            "comments": 154
+          },
+          "rawTextSnippet": "Debian votes to allow \"responsible use of generative AI\"",
+          "hnMeta": {
+            "points": 216,
+            "comments": 154,
+            "hnUrl": "https://news.ycombinator.com/item?id=49489982"
+          },
+          "score": 79,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 20,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1788019152396-206",
           "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
           "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
           "source": "Hacker News",
           "publishedAt": "2026-08-28T02:03:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 437,
-            "comments": 325
+            "upvotes": 591,
+            "comments": 419
           },
           "rawTextSnippet": "https:&#x2F;&#x2F;archive.ph&#x2F;ni6I3 https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.cand.46...",
           "hnMeta": {
-            "points": 437,
-            "comments": 325,
+            "points": 591,
+            "comments": 419,
             "hnUrl": "https://news.ycombinator.com/item?id=49473522"
           },
-          "score": 76,
+          "score": 69,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 14,
             "engagement": 25,
             "novelty": 15,
@@ -306,102 +352,75 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1787953021830-157",
-          "title": "Migrating to HTTPX2",
-          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+          "id": "hn-1788019146607-55",
+          "title": "Major security weaknesses found in leading open AI models",
+          "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
           "source": "Hacker News",
-          "publishedAt": "2026-08-28T11:51:20.000Z",
+          "publishedAt": "2026-08-29T14:15:36.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 174,
-            "comments": 76
+            "upvotes": 3,
+            "comments": 0
           },
-          "rawTextSnippet": "Migrating to HTTPX2",
+          "rawTextSnippet": "Major security weaknesses found in leading open AI models",
           "hnMeta": {
-            "points": 174,
-            "comments": 76,
-            "hnUrl": "https://news.ycombinator.com/item?id=49477212"
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49490082"
           },
-          "score": 70,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1787953021830-162",
-          "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-          "url": "https://github.com/elyosh/OpenTIE/",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-27T22:10:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 216,
-            "comments": 54
-          },
-          "rawTextSnippet": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-          "hnMeta": {
-            "points": 216,
-            "comments": 54,
-            "hnUrl": "https://news.ycombinator.com/item?id=49471965"
-          },
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1787953017462-28",
-          "title": "The Analytical AI Handbook",
-          "url": "https://handbook.sutro.sh",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T19:01:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 36,
-            "comments": 2
-          },
-          "rawTextSnippet": "The Analytical AI Handbook",
-          "hnMeta": {
-            "points": 36,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49482925"
-          },
-          "score": 64,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 5,
+            "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "General AI"
         },
         {
-          "id": "hn-1787953017461-14",
-          "title": "Tech giants urge global response to AI cybersecurity threats",
-          "url": "https://www.dw.com/en/ai-companies-cybersecurity-threats-open-letter/a-78538592",
+          "id": "hn-1788019146607-57",
+          "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
           "source": "Hacker News",
-          "publishedAt": "2026-08-28T20:34:11.000Z",
+          "publishedAt": "2026-08-29T14:07:07.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "Tech giants urge global response to AI cybersecurity threats",
+          "rawTextSnippet": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
           "hnMeta": {
-            "points": 1,
+            "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49483907"
+            "hnUrl": "https://news.ycombinator.com/item?id=49490016"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1788019146607-60",
+          "title": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
+          "url": "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T13:52:40.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 0
+          },
+          "rawTextSnippet": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
+          "hnMeta": {
+            "points": 5,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49489920"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -417,30 +436,30 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 58,
+      "itemCount": 62,
       "trendScore": 194,
-      "whyTrending": "58 stories across Hacker, GitHub, OpenAI, 20 in the last 24h.",
+      "whyTrending": "62 stories across Hacker, GitHub, arXiv, 19 in the last 24h.",
       "topStory": {
-        "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
-        "url": "https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e"
+        "title": "Ask HN: Why do we need MCP?",
+        "url": "https://news.ycombinator.com/item?id=49488654"
       },
       "items": [
         {
-          "id": "hn-1787953017462-30",
-          "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
-          "url": "https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e",
+          "id": "hn-1788019148021-86",
+          "title": "Ask HN: Why do we need MCP?",
+          "url": "https://news.ycombinator.com/item?id=49488654",
           "source": "Hacker News",
-          "publishedAt": "2026-08-28T18:46:09.000Z",
+          "publishedAt": "2026-08-29T10:26:48.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 8,
-            "comments": 2
+            "upvotes": 5,
+            "comments": 13
           },
-          "rawTextSnippet": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
+          "rawTextSnippet": "Why not just publish your API docs and let the client&#x27;s bot chain together what calls need to be made. You could even repurpose the MCP so you only ever produce the API documentation as EVERY response. No LLM necessary.",
           "hnMeta": {
-            "points": 8,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49482754"
+            "points": 5,
+            "comments": 13,
+            "hnUrl": "https://news.ycombinator.com/item?id=49488654"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -453,73 +472,19 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1787953018958-83",
-          "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "url": "https://github.com/sseshachala/conductai",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T19:29:20.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 17,
-            "comments": 3
-          },
-          "rawTextSnippet": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-          "hnMeta": {
-            "points": 17,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=49483173"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1787953018958-92",
-          "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
-          "url": "https://github.com/IdoGol24/weir",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T16:31:56.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 4
-          },
-          "rawTextSnippet": "Show HN: Open tool for testing your AI Agents (No LLM)",
-          "hnMeta": {
-            "points": 4,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=49480942"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "github-1787953018939-69",
+          "id": "github-1788019147471-70",
           "title": "[Nanako0129/sepia] De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
           "url": "https://github.com/Nanako0129/sepia",
           "source": "GitHub Trending",
           "publishedAt": "2026-08-28T05:56:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 12,
-            "upvotes": 231
+            "upvotes": 578
           },
           "rawTextSnippet": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
           "githubMeta": {
-            "stars": 231,
-            "language": "Shell",
+            "stars": 578,
+            "language": null,
             "topics": [
               "agent-skills",
               "ai-writing",
@@ -535,40 +500,94 @@
               "writing-tools"
             ]
           },
-          "score": 64,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 12,
-            "engagement": 15,
+            "engagement": 20,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1787953023297-183",
-          "title": "Show HN: Passively Earn BTC/Sol/Anthropic for Using Claude Code",
-          "url": "https://prmpt.cash/",
+          "id": "hn-1788019148021-93",
+          "title": "Debian has published the official results for the 2026 GR on LLM usage",
+          "url": "https://vote.debian.org/~secretary/gr_llm/results.txt",
           "source": "Hacker News",
-          "publishedAt": "2026-08-28T20:48:38.000Z",
+          "publishedAt": "2026-08-29T04:48:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 6,
+            "upvotes": 14,
+            "comments": 7
+          },
+          "rawTextSnippet": "Debian has published the official results for the 2026 GR on LLM usage",
+          "hnMeta": {
+            "points": 14,
+            "comments": 7,
+            "hnUrl": "https://news.ycombinator.com/item?id=49486967"
+          },
+          "score": 60,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1788019146607-54",
+          "title": "Gemini Notebook now lets you incorporate insights from books you own",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T14:16:28.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Hey guys, I built this platform out to allow users to passively earn crypto for non-intrusive highly targetted ads. One of the things that&#x27;s awesome is that there&#x27;s an option to receive payouts in Anthropic&#x27;s pre-IPO stock (via PreStocks on Solana). So you can use Claude Code and rece…",
+          "rawTextSnippet": "Gemini Notebook now lets you incorporate insights from books you own",
           "hnMeta": {
-            "points": 6,
+            "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49484082"
+            "hnUrl": "https://news.ycombinator.com/item?id=49490087"
           },
-          "score": 62,
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1788019146607-59",
+          "title": "A Disillusioned Software Engineer explains LLMs to a Babylonian Scribe",
+          "url": "https://avocadoslaw.substack.com/p/babylon-3pm",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T14:00:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "A Disillusioned Software Engineer explains LLMs to a Babylonian Scribe",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49489972"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
           },
           "cluster": "Large Language Models"
         }
@@ -576,138 +595,138 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 30,
-      "trendScore": 180,
-      "whyTrending": "30 stories across Hacker, VentureBeat, MIT, 18 in the last 24h.",
+      "itemCount": 37,
+      "trendScore": 181,
+      "whyTrending": "37 stories across Hacker, GitHub, TechCrunch, 18 in the last 24h.",
       "topStory": {
-        "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-        "url": "https://arxiv.org/abs/2608.23691"
+        "title": "Show HN: DataZen – a local-first client for cross-database workflows",
+        "url": "https://flyxl.github.io/datazen/"
       },
       "items": [
         {
-          "id": "hn-1787953020385-121",
-          "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://arxiv.org/abs/2608.23691",
+          "id": "hn-1788019146607-51",
+          "title": "Show HN: DataZen – a local-first client for cross-database workflows",
+          "url": "https://flyxl.github.io/datazen/",
           "source": "Hacker News",
-          "publishedAt": "2026-08-28T17:01:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 59,
-            "comments": 12
-          },
-          "rawTextSnippet": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "hnMeta": {
-            "points": 59,
-            "comments": 12,
-            "hnUrl": "https://news.ycombinator.com/item?id=49481455"
-          },
-          "score": 69,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1787953017461-18",
-          "title": "Why Agentic AI Needs a Strong Identity Foundation",
-          "url": "https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T20:17:16.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Why Agentic AI Needs a Strong Identity Foundation",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49483683"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1787953020385-113",
-          "title": "How to run cloud coding agents overnight",
-          "url": "https://mouse.dev/blog/running-code-agents-overnight/",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T20:24:42.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "How to run cloud coding agents overnight",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49483771"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1787953020385-114",
-          "title": "Show HN: Consequence Gate – agent governance based on what being wrong costs",
-          "url": "https://github.com/zilianglab/consequence-gate",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T20:11:28.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: Consequence Gate – agent governance based on what being wrong costs",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49483616"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1787953020385-115",
-          "title": "Tailsurf: Streaming gists for live work, build output, and agent conversations",
-          "url": "https://tail.surf",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T20:08:27.000Z",
+          "publishedAt": "2026-08-29T14:21:59.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "Tailsurf: Streaming gists for live work, build output, and agent conversations",
+          "rawTextSnippet": "My company stopped allowing Navicat because of compliance policy. DBeaver worked, but I don&#x27;t like it. I kept running into two recurring issues. First, production investigations often require several queries across different databases. I would query one table, copy an ID into another query, wai…",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49483581"
+            "hnUrl": "https://news.ycombinator.com/item?id=49490148"
+          },
+          "score": 65,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1788019146607-48",
+          "title": "Would you share your weirdest agent logs with AI safety researchers?",
+          "url": "https://www.reddit.com/r/AI_Agents/comments/1w1nuzb/whats_your_weirdest_ai_agent_log/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T14:43:57.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "Would you share your weirdest agent logs with AI safety researchers?",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49490327"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1788019149439-114",
+          "title": "Agentic SQL for Free: Qwen3.8 27B and DuckDB",
+          "url": "https://motherduck.com/blog/Agentic-SQL-for-Free-with-Qwen3.8-27B-and-DuckDB/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T13:50:28.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "Agentic SQL for Free: Qwen3.8 27B and DuckDB",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49489910"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1788019149439-115",
+          "title": "Show HN: Visual workspace to design and operate daily multi-agent workflows",
+          "url": "https://github.com/ringlochid/oh-my-subagents",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T13:41:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Visual workspace to design and operate daily multi-agent workflows",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49489854"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1788019149439-116",
+          "title": "Rig – Agentic Workflows in Rust",
+          "url": "https://github.com/0xplaygrounds/rig",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T13:22:03.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 0
+          },
+          "rawTextSnippet": "Rig – Agentic Workflows in Rust",
+          "hnMeta": {
+            "points": 4,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49489697"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -723,24 +742,24 @@
     },
     {
       "name": "AI Hardware & Chips",
-      "itemCount": 13,
-      "trendScore": 134,
-      "whyTrending": "13 stories across TechCrunch, Hacker, OpenAI, 4 in the last 24h.",
+      "itemCount": 12,
+      "trendScore": 123,
+      "whyTrending": "12 stories across TechCrunch, Hacker, OpenAI, 5 in the last 24h.",
       "topStory": {
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
       },
       "items": [
         {
-          "id": "rss-1787953019828-94",
-          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-          "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "id": "rss-1788019148630-95",
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-08-28T20:24:11.000Z",
+          "publishedAt": "2026-08-29T13:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+          "rawTextSnippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
           "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
@@ -752,7 +771,81 @@
           "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "hn-1787953017461-13",
+          "id": "rss-1788019148630-96",
+          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+          "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-28T20:24:11.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+          "score": 56,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1788019148021-89",
+          "title": "What GLM-5.3 Flash running on Chinese hardware means",
+          "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T08:10:58.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "What GLM-5.3 Flash running on Chinese hardware means",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49487954"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1788019150949-158",
+          "title": "Show HN: Leiolai, AI that pays users for the compute their devices provide",
+          "url": "https://leiolai.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-29T00:58:17.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "Leiolai runs inference across devices people already own instead of data centers. It saves water with inference and pays users for the computation their devices provide. The app is free to use on iPhone and Android, with no card required. Users can contribute compute, earn money, and level up their …",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49485913"
+          },
+          "score": 54,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1788019150949-161",
           "title": "Show HN: PorchWeather – a free site that pings you when it's nice outside",
           "url": "https://porchweather.com/",
           "source": "Hacker News",
@@ -760,279 +853,242 @@
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 1
+            "comments": 3
           },
           "rawTextSnippet": "I live in the Bay Area, and so the weather cools down to a comfy temperature in the evenings. Opening up the windows to let the fresh air in has saved me a decent amount on A&#x2F;C bills. Checking a forecast every hour to catch that moment is exactly the kind of job a computer should do. PorchWeath…",
           "hnMeta": {
             "points": 1,
-            "comments": 1,
+            "comments": 3,
             "hnUrl": "https://news.ycombinator.com/item?id=49484064"
           },
-          "score": 59,
+          "score": 51,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
-          },
-          "cluster": "AI Hardware & Chips"
-        },
-        {
-          "id": "hn-1787953017462-29",
-          "title": "China's daily AI token usage tops 500T as compute demand grows",
-          "url": "https://technode.com/2026/08/28/chinas-daily-ai-token-usage-tops-500-trillion-as-compute-demand-grows/",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T18:49:44.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
-          },
-          "rawTextSnippet": "China's daily AI token usage tops 500T as compute demand grows",
-          "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49482794"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Hardware & Chips"
-        },
-        {
-          "id": "hn-1787953023297-201",
-          "title": "Previewing the Model Hardware Standard",
-          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-27T18:04:50.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 132,
-            "comments": 59
-          },
-          "rawTextSnippet": "Previewing the Model Hardware Standard",
-          "hnMeta": {
-            "points": 132,
-            "comments": 59,
-            "hnUrl": "https://news.ycombinator.com/item?id=49468834"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Hardware & Chips"
-        },
-        {
-          "id": "rss-1787953019828-110",
-          "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
-          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-26T23:47:18.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-          "score": 56,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 10
           },
           "cluster": "AI Hardware & Chips"
         }
       ]
     },
     {
-      "name": "AI Safety & Regulation",
-      "itemCount": 10,
-      "trendScore": 125,
-      "whyTrending": "10 stories across Hacker, TechCrunch, OpenAI, 5 in the last 24h.",
+      "name": "Research & Benchmarks",
+      "itemCount": 12,
+      "trendScore": 119,
+      "whyTrending": "12 stories across Hacker, TechCrunch, arXiv, 3 in the last 24h.",
       "topStory": {
-        "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-        "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/"
+        "title": "Tinker: GLM 5.3 Fine-Tuning",
+        "url": "https://tinker-docs.thinkingmachines.ai/tinker/models/"
       },
       "items": [
         {
-          "id": "hn-1787953023297-186",
-          "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+          "id": "hn-1788019148021-87",
+          "title": "Tinker: GLM 5.3 Fine-Tuning",
+          "url": "https://tinker-docs.thinkingmachines.ai/tinker/models/",
           "source": "Hacker News",
-          "publishedAt": "2026-08-28T11:25:30.000Z",
+          "publishedAt": "2026-08-29T10:12:48.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 320,
-            "comments": 3
+            "upvotes": 2,
+            "comments": 0
           },
-          "rawTextSnippet": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+          "rawTextSnippet": "Tinker: GLM 5.3 Fine-Tuning",
           "hnMeta": {
-            "points": 320,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=49477055"
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49488545"
           },
-          "score": 70,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 15,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
         },
         {
-          "id": "rss-1787953019828-97",
-          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "id": "rss-1788019148630-97",
+          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-08-28T12:46:12.000Z",
+          "publishedAt": "2026-08-28T19:30:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-          "score": 60,
+          "rawTextSnippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+          "score": 53,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 22,
             "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1788019150949-160",
+          "title": "Rosalind Workbench: Empowering every scientist to be their own research team",
+          "url": "https://developers.openai.com/blog/rosalind-workbench",
+          "source": "Hacker News",
+          "publishedAt": "2026-08-28T21:05:07.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Rosalind Workbench: Empowering every scientist to be their own research team",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49484252"
+          },
+          "score": 51,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "arxiv-1788019146307-32",
+          "title": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases",
+          "url": "https://arxiv.org/abs/2608.27391v1",
+          "source": "arXiv",
+          "publishedAt": "2026-08-27T17:23:04.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 15
+          },
+          "rawTextSnippet": "LLMs are increasingly able to answer complex questions about enterprise-scale document collections. But evaluation is hard: companies don't want to share internal communications, and synthetic datasets have been overly simple. We present CorporateBench (CB), a human-validated multi-task Q&A benchmar…",
+          "arxivMeta": {
+            "authors": "Sil Hamilton, Albert Yu Sun, Oscar J. Romero, Carl-Leander Henneking, David Mimno, Bishan Yang, Igor Labutov",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
+          },
+          "score": 48,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 15,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
         },
         {
-          "id": "hn-1787953017461-21",
-          "title": "Show HN: Dipstick Alerts – Search recalls and service bulletins for your car",
-          "url": "https://dipstickalerts.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T19:58:30.000Z",
+          "id": "arxiv-1788019146306-15",
+          "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+          "url": "https://arxiv.org/abs/2608.27449v1",
+          "source": "arXiv",
+          "publishedAt": "2026-08-27T17:58:10.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 2
+            "sourceAuthority": 15
           },
-          "rawTextSnippet": "Hi HN! When I bought my first car, a 2019 Subaru Forester, I also bought an extended warranty. I wanted to stay informed about problems that might be covered, so I started checking NHTSA.gov—the website of the National Highway Traffic Safety Administration, a U.S. agency—every month for new service …",
-          "hnMeta": {
-            "points": 1,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49483465"
+          "rawTextSnippet": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: suc…",
+          "arxivMeta": {
+            "authors": "Dewu Zheng, Ruizhe Ye, Yanlin Wang, Yang Ye, Hongyu Zhang, Ensheng Shi, Xilin Liu, Yuchi Ma, Jianxing Yu, Zibin Zheng",
+            "categories": [
+              "cs.AI",
+              "cs.CL",
+              "stat.ML"
+            ]
           },
-          "score": 59,
+          "score": 45,
           "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
+            "freshness": 15,
+            "authority": 15,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1787953023297-184",
-          "title": "Automated Researchers Can Reliably Mitigate Alignment Failures",
-          "url": "https://alignment.anthropic.com/2026/automated-alignment-researchers/",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T19:09:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Automated Researchers Can Reliably Mitigate Alignment Failures",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49482996"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1787953023297-191",
-          "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-          "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-08-28T05:16:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 21,
-            "comments": 0
-          },
-          "rawTextSnippet": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-          "hnMeta": {
-            "points": 21,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49474619"
-          },
-          "score": 56,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "Research & Benchmarks"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1787953019828-96",
-      "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-28T18:19:40.000Z",
+      "id": "hn-1788019146607-51",
+      "title": "Show HN: DataZen – a local-first client for cross-database workflows",
+      "url": "https://flyxl.github.io/datazen/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T14:21:59.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
       },
-      "rawTextSnippet": "There's a lot of capital pouring into the business of giving models away.",
+      "rawTextSnippet": "My company stopped allowing Navicat because of compliance policy. DBeaver worked, but I don&#x27;t like it. I kept running into two recurring issues. First, production investigations often require several queries across different databases. I would query one table, copy an ID into another query, wai…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49490148"
+      },
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A new tool, DataZen, was introduced for managing cross-database workflows locally.  \n• Why it matters: It addresses compliance issues and user frustrations with existing database management tools.  \n• Business opportunity: There is potential for growth in developing user-friendly, compliant database solutions that streamline multi-database queries."
+    },
+    {
+      "id": "hn-1788019148021-86",
+      "title": "Ask HN: Why do we need MCP?",
+      "url": "https://news.ycombinator.com/item?id=49488654",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T10:26:48.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 5,
+        "comments": 13
+      },
+      "rawTextSnippet": "Why not just publish your API docs and let the client&#x27;s bot chain together what calls need to be made. You could even repurpose the MCP so you only ever produce the API documentation as EVERY response. No LLM necessary.",
+      "hnMeta": {
+        "points": 5,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49488654"
+      },
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
+        "authority": 14,
+        "engagement": 5,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Open-weight AI companies are becoming prime acquisition targets in Silicon Valley.  \n• Why it matters: Increased investment in freely accessible AI models highlights a shift in market dynamics.  \n• Business opportunity: Companies can capitalize on this trend by developing innovative, open-source AI solutions."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A discussion on Hacker News questioned the necessity of the MCP (Multi-Channel Platform) in API documentation.  \n• Why it matters: It highlights a potential shift towards simpler API documentation methods without relying on complex systems.  \n• Business opportunity: Companies could streamline their API offerings, reducing costs and enhancing user experience by focusing on clear documentation."
     },
     {
-      "id": "hn-1787953017462-25",
-      "title": "Moonshot and Nvidia Talks Show Chinese AI Models Moving into the Enterprise",
-      "url": "https://techstrong.ai/articles/moonshot-and-nvidia-talks-show-chinese-ai-models-moving-into-the-enterprise/",
+      "id": "hn-1788019146607-55",
+      "title": "Major security weaknesses found in leading open AI models",
+      "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
       "source": "Hacker News",
-      "publishedAt": "2026-08-28T19:25:04.000Z",
+      "publishedAt": "2026-08-29T14:15:36.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 3,
         "comments": 0
       },
-      "rawTextSnippet": "Moonshot and Nvidia Talks Show Chinese AI Models Moving into the Enterprise",
+      "rawTextSnippet": "Major security weaknesses found in leading open AI models",
       "hnMeta": {
         "points": 3,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49483129"
+        "hnUrl": "https://news.ycombinator.com/item?id=49490082"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -1042,46 +1098,25 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Chinese AI models are increasingly being integrated into enterprise solutions, as highlighted by discussions between Moonshot and Nvidia.  \n• Why it matters: This shift signifies a growing acceptance and reliance on Chinese technology in the global AI landscape.  \n• Business opportunity: Companies can capitalize on this trend by developing partnerships or solutions that leverage Chinese AI innovations for enterprise applications."
+      "cluster": "General AI",
+      "summary": "• What happened: Major security vulnerabilities have been identified in prominent open AI models.  \n• Why it matters: These weaknesses could lead to data breaches and misuse of AI technologies.  \n• Business opportunity: Companies can develop security solutions to address these vulnerabilities and enhance AI model protection."
     },
     {
-      "id": "rss-1787953021197-127",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-08-28T02:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "score": 60,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: OpenAI and Thailand’s MHESI launched an eight-week accelerator for 10 AI startups in health, wellness, and education.  \n• Why it matters: This initiative aims to transform AI prototypes into reliable products, fostering innovation in critical sectors.  \n• Business opportunity: There is potential for investment and collaboration in emerging AI solutions tailored for Thailand's health and education markets."
-    },
-    {
-      "id": "hn-1787953017461-12",
-      "title": "When AI Memory Becomes Production State",
-      "url": "https://jasondoyle.ie/whitepapers/when-memory-becomes-production-state/",
+      "id": "hn-1788019149439-120",
+      "title": "Cross-model peer review for coding agents",
+      "url": "https://github.com/makedirectory/ModelPeer",
       "source": "Hacker News",
-      "publishedAt": "2026-08-28T21:08:59.000Z",
+      "publishedAt": "2026-08-29T12:15:14.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 4,
+        "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "When AI Memory Becomes Production State",
+      "rawTextSnippet": "Cross-model peer review for coding agents",
       "hnMeta": {
-        "points": 4,
+        "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49484280"
+        "hnUrl": "https://news.ycombinator.com/item?id=49489285"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1091,40 +1126,45 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products"
+      "cluster": "AI Agents & Automation"
     },
     {
-      "id": "hn-1787953017461-15",
-      "title": "NSA wants access to 'all' AI models, top official says",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-28T20:33:09.000Z",
+      "id": "github-1788019146046-11",
+      "title": "[hkqr/my-free-code] Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "url": "https://github.com/hkqr/my-free-code",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-08-27T17:59:23.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 5,
-        "comments": 0
+        "sourceAuthority": 12,
+        "upvotes": 213
       },
-      "rawTextSnippet": "NSA wants access to 'all' AI models, top official says",
-      "hnMeta": {
-        "points": 5,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49483894"
+      "rawTextSnippet": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "githubMeta": {
+        "stars": 213,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "claude-code",
+          "free-claude-api",
+          "multi-provider",
+          "multi-provider-llm"
+        ]
       },
-      "score": 59,
+      "score": 57,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
+        "freshness": 15,
+        "authority": 12,
+        "engagement": 15,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI"
+      "cluster": "Large Language Models"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1787953017483-34",
+      "id": "arxiv-1788019146307-16",
       "title": "TTPO: Test-Time Policy Optimization",
       "url": "https://arxiv.org/abs/2608.27448v1",
       "source": "arXiv",
@@ -1152,7 +1192,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1787953017483-40",
+      "id": "arxiv-1788019146307-22",
       "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
       "url": "https://arxiv.org/abs/2608.27424v1",
       "source": "arXiv",
@@ -1180,7 +1220,7 @@
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "arxiv-1787953017483-42",
+      "id": "arxiv-1788019146307-24",
       "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
       "url": "https://arxiv.org/abs/2608.27420v1",
       "source": "arXiv",
@@ -1208,7 +1248,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1787953017484-50",
+      "id": "arxiv-1788019146307-32",
       "title": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases",
       "url": "https://arxiv.org/abs/2608.27391v1",
       "source": "arXiv",
@@ -1236,7 +1276,7 @@
       "cluster": "Research & Benchmarks"
     },
     {
-      "id": "arxiv-1787953017483-31",
+      "id": "arxiv-1788019146306-13",
       "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
       "url": "https://arxiv.org/abs/2608.27455v1",
       "source": "arXiv",
@@ -1266,7 +1306,35 @@
   ],
   "funding": [
     {
-      "id": "rss-1787953019828-96",
+      "id": "hn-1788019146607-51",
+      "title": "Show HN: DataZen – a local-first client for cross-database workflows",
+      "url": "https://flyxl.github.io/datazen/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T14:21:59.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "My company stopped allowing Navicat because of compliance policy. DBeaver worked, but I don&#x27;t like it. I kept running into two recurring issues. First, production investigations often require several queries across different databases. I would query one table, copy an ID into another query, wai…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49490148"
+      },
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A new tool called DataZen has been introduced as a local-first client for managing cross-database workflows.  \n• Why it matters: It addresses compliance issues and user frustrations with existing database management tools.  \n• Business opportunity: There is potential for DataZen to capture market share by offering a compliant, user-friendly solution for complex database queries."
+    },
+    {
+      "id": "rss-1788019148630-98",
       "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
       "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "source": "TechCrunch AI",
@@ -1275,19 +1343,40 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "There's a lot of capital pouring into the business of giving models away.",
-      "score": 64,
+      "score": 56,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "AI in Enterprise",
-      "summary": "• What happened: Open-weight AI companies are becoming prime targets for acquisitions in Silicon Valley.  \n• Why it matters: Increased investment in accessible AI models indicates a shift towards democratizing technology.  \n• Business opportunity: Companies can capitalize on this trend by developing innovative, open-weight AI solutions that attract investment and partnerships."
+      "summary": "• What happened: Open-weight AI companies are becoming prime acquisition targets in Silicon Valley.  \n• Why it matters: Increased investment in accessible AI models indicates a shift in market dynamics and competition.  \n• Business opportunity: Companies can capitalize on this trend by developing innovative open-weight AI solutions or acquiring existing players."
     },
     {
-      "id": "hn-1787953023297-183",
+      "id": "rss-1788019149984-132",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-28T06:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI will end its contract supplying models to Cursor after its acquisition by SpaceX.  \n• Why it matters: This decision reflects the shifting dynamics in AI partnerships and potential competition.  \n• Business opportunity: Companies can explore new collaborations or develop alternative AI solutions in response to changing market conditions."
+    },
+    {
+      "id": "hn-1788019152396-196",
       "title": "Show HN: Passively Earn BTC/Sol/Anthropic for Using Claude Code",
       "url": "https://prmpt.cash/",
       "source": "Hacker News",
@@ -1303,47 +1392,18 @@
         "comments": 0,
         "hnUrl": "https://news.ycombinator.com/item?id=49484082"
       },
-      "score": 62,
+      "score": 54,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A new platform allows users to earn cryptocurrency by engaging with targeted ads using Claude Code.  \n• Why it matters: This innovative approach combines passive income with cryptocurrency and potential stock options, appealing to crypto enthusiasts.  \n• Business opportunity: There is potential for growth in the ad tech space by integrating crypto rewards and stock options for user engagement."
+      "cluster": "Large Language Models"
     },
     {
-      "id": "hn-1787953020385-125",
-      "title": "Investigation of agents' behavior in the OpenAI/HuggingFace hacking incident",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-28T15:55:56.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 0
-      },
-      "rawTextSnippet": "Investigation of agents' behavior in the OpenAI/HuggingFace hacking incident",
-      "hnMeta": {
-        "points": 7,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49480431"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: An investigation is underway into the agents' behavior involved in the OpenAI/HuggingFace hacking incident.  \n• Why it matters: Understanding agent behavior can improve cybersecurity measures and prevent future breaches.  \n• Business opportunity: Companies can develop advanced security solutions and training programs based on the findings of this investigation."
-    },
-    {
-      "id": "rss-1787953019828-110",
+      "id": "rss-1788019148630-112",
       "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
       "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
       "source": "TechCrunch AI",
@@ -1352,36 +1412,16 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "score": 56,
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 10
       },
       "cluster": "AI Hardware & Chips"
-    },
-    {
-      "id": "rss-1787953019828-108",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-27T06:32:51.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI Hardware & Chips"
     }
   ],
-  "dailyBrief": "In a significant legal ruling, a U.S. judge determined that the Trump administration's blacklisting of AI firm Anthropic was unlawful, potentially paving the way for increased collaboration between government and AI companies, which could enhance innovation and competition in the sector. Meanwhile, the Pentagon's similar actions against Anthropic were also deemed illegal, raising questions about the future of defense contracts with AI firms. On the technological front, advancements in autonomous mathematical discovery within open-world multi-agent environments are set to revolutionize problem-solving capabilities, offering businesses new tools for efficiency and innovation. Additionally, the tech community is buzzing with the launch of OpenTIE and OpenXWA, modern ports of classic games, showcasing the intersection of nostalgia and modern technology. These developments highlight the ongoing evolution of AI and its implications for various industries, emphasizing the need for businesses to stay agile in adapting to these changes."
+  "dailyBrief": "In a significant move, Debian has voted to permit the \"responsible use of generative AI,\" potentially paving the way for broader adoption of AI technologies within open-source communities, which could enhance innovation and collaboration. Meanwhile, a judge ruled that the Trump administration's blacklisting of AI company Anthropic was illegal, highlighting the ongoing legal complexities surrounding AI regulation and its implications for market competition. On the technology front, Nvidia is expanding its AI capabilities beyond GPUs, indicating a strategic shift that could redefine its competitive landscape and open new revenue streams. Additionally, the launch of DataZen, a local-first client for cross-database workflows, underscores the growing demand for seamless data integration solutions in an increasingly data-driven business environment."
 }
