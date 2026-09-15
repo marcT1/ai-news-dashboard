@@ -1,77 +1,91 @@
 {
   "topNews": [
     {
-      "id": "hn-1789406371054-32",
-      "title": "For AI leaders Doom is a form of hype",
-      "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+      "id": "rss-1789487919472-111",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T15:22:48.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "score": 70,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Profound achieved a unicorn valuation of $1.8 billion after raising $180 million in Series D funding.  \n• Why it matters: The rapid funding growth signals strong investor confidence in Profound's business model and market potential.  \n• Business opportunity: There is potential for partnerships and investments in the AI sector, particularly for startups demonstrating quick scalability."
+    },
+    {
+      "id": "rss-1789487911661-1",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing …",
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenAI is investing in acquiring data from failed biotech companies to enhance AI models in biology.  \n• Why it matters: Access to detailed regulatory filings and manufacturing data can significantly improve the performance of medical AI systems.  \n• Business opportunity: There is potential for startups to develop platforms that aggregate and analyze this data for the biotech industry."
+    },
+    {
+      "id": "hn-1789487913295-38",
+      "title": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'",
+      "url": "https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683",
       "source": "Hacker News",
-      "publishedAt": "2026-09-14T16:15:05.000Z",
+      "publishedAt": "2026-09-15T14:47:21.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 104,
-        "comments": 99
+        "upvotes": 97,
+        "comments": 42
       },
-      "rawTextSnippet": "For AI leaders Doom is a form of hype",
+      "rawTextSnippet": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'",
       "hnMeta": {
-        "points": 104,
-        "comments": 99,
-        "hnUrl": "https://news.ycombinator.com/item?id=49699384"
+        "points": 97,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49713395"
       },
-      "score": 74,
+      "score": 69,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 15,
+        "engagement": 10,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: AI leaders are labeling the concept of \"doom\" as a form of hype.  \n• Why it matters: This perspective challenges prevailing narratives about AI risks and impacts on innovation.  \n• Business opportunity: Companies can leverage this shift in perception to promote responsible AI development and mitigate fear-based narratives."
+      "summary": "• What happened: A police officer conducted a search of 19,000 Flock cameras in 1,558 cities for an unclear reason.  \n• Why it matters: This raises concerns about privacy and the potential misuse of surveillance technology.  \n• Business opportunity: Companies can develop privacy-focused solutions or enhance security measures for public surveillance systems."
     },
     {
-      "id": "hn-1789406375594-71",
-      "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-      "url": "https://rietta.com/blog/rubygems-supply-chain-openai/",
+      "id": "hn-1789487917596-90",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
       "source": "Hacker News",
-      "publishedAt": "2026-09-14T14:39:01.000Z",
+      "publishedAt": "2026-09-15T13:41:28.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 43,
-        "comments": 6
+        "upvotes": 30,
+        "comments": 69
       },
-      "rawTextSnippet": "RubyGems Open Source Supply Chain Security and OpenAI",
+      "rawTextSnippet": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
       "hnMeta": {
-        "points": 43,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49697666"
-      },
-      "score": 72,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: RubyGems is enhancing its open-source supply chain security in collaboration with OpenAI.  \n• Why it matters: This initiative aims to improve the safety and reliability of software dependencies in the Ruby ecosystem.  \n• Business opportunity: Companies can leverage this enhanced security to build trust and attract users concerned about supply chain vulnerabilities."
-    },
-    {
-      "id": "hn-1789406371054-30",
-      "title": "MIT creates method to force AI to comply with safety rules",
-      "url": "https://theframenews.org/en/hardflow-safety-critical-ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-14T16:18:17.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 24,
-        "comments": 26
-      },
-      "rawTextSnippet": "MIT creates method to force AI to comply with safety rules",
-      "hnMeta": {
-        "points": 24,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=49699434"
+        "points": 30,
+        "comments": 69,
+        "hnUrl": "https://news.ycombinator.com/item?id=49712409"
       },
       "score": 69,
       "scoreBreakdown": {
@@ -81,103 +95,19 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: MIT developed a method to ensure AI systems adhere to safety regulations.  \n• Why it matters: This advancement addresses growing concerns about AI safety and compliance in various industries.  \n• Business opportunity: Companies can leverage this technology to enhance AI safety measures, ensuring regulatory compliance and reducing liability risks."
+      "cluster": "General AI",
+      "summary": "• What happened: Anthropic's co-founder suggested that AI 'kill switches' could become mandatory.  \n• Why it matters: This could enhance safety measures in AI development and deployment.  \n• Business opportunity: Companies specializing in AI safety solutions may see increased demand for 'kill switch' technology."
     },
     {
-      "id": "hn-1789406372632-51",
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-14T13:59:09.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 78,
-        "comments": 30
-      },
-      "rawTextSnippet": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "hnMeta": {
-        "points": 78,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=49697014"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: Migration challenges were noted while transferring 35kb preprompts from Opus to self-hosted Ollama.  \n• Why it matters: Understanding these issues can streamline future migrations and improve efficiency.  \n• Business opportunity: Companies can develop tools or services to facilitate smoother migration processes for similar transitions."
-    },
-    {
-      "id": "hn-1789406372632-53",
-      "title": "Show HN: Pelican-bicycle alternatives",
-      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-14T13:20:22.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 57,
-        "comments": 23
-      },
-      "rawTextSnippet": "In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an octopus operating a pipe organ.” Simon mentioned that experiment on his blog [1]. Nine months have pass…",
-      "hnMeta": {
-        "points": 57,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=49696402"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A project inspired by a benchmark led to the creation of SVGs from various prompts using LLMs.  \n• Why it matters: This showcases the evolving capabilities of LLMs in generating creative visual content.  \n• Business opportunity: There is potential for developing tools or platforms that leverage LLMs for custom graphic design."
-    },
-    {
-      "id": "hn-1789406377103-87",
-      "title": "Anthropic tells investors it will be profitable for second straight quarter",
-      "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-14T15:47:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 43,
-        "comments": 55
-      },
-      "rawTextSnippet": "Anthropic tells investors it will be profitable for second straight quarter",
-      "hnMeta": {
-        "points": 43,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=49698936"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic announced it will achieve profitability for the second consecutive quarter.  \n• Why it matters: This indicates strong financial performance and investor confidence in the company's growth trajectory.  \n• Business opportunity: Investors may see potential in supporting further innovations and expansions within the AI sector."
-    },
-    {
-      "id": "rss-1789406378335-104",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "id": "rss-1789487919472-115",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-14T14:30:00.000Z",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "rawTextSnippet": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
       "score": 67,
       "scoreBreakdown": {
         "freshness": 30,
@@ -187,239 +117,155 @@
         "businessImpact": 6
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A billion-dollar startup aims to use AI to revive extinct species, showcasing its mission at TechCrunch Disrupt 2026.  \n• Why it matters: This initiative represents a significant advancement in biotechnology and conservation efforts, potentially reshaping ecosystems.  \n• Business opportunity: Companies can explore partnerships in AI and biotech to innovate in environmental restoration and sustainability."
+      "summary": "• What happened: AIUC, founded by an early Anthropic hire and former METR COO, raised $40 million in Series A funding.  \n• Why it matters: The startup aims to address the challenges posed by rogue AI agents, enhancing safety in AI deployment.  \n• Business opportunity: There is potential for growth in AI safety solutions, attracting investment and partnerships in the tech industry."
     },
     {
-      "id": "hn-1789406375594-84",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "id": "hn-1789487917596-93",
+      "title": "AI Regulation as Anthropic's Business Model",
+      "url": "https://twitter.com/kevinnbass/status/2099621874279817638",
       "source": "Hacker News",
-      "publishedAt": "2026-09-13T16:52:33.000Z",
+      "publishedAt": "2026-09-15T13:21:34.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 315,
-        "comments": 243
+        "upvotes": 18,
+        "comments": 0
       },
-      "rawTextSnippet": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "rawTextSnippet": "AI Regulation as Anthropic's Business Model",
       "hnMeta": {
-        "points": 315,
-        "comments": 243,
-        "hnUrl": "https://news.ycombinator.com/item?id=49685991"
+        "points": 18,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49712120"
       },
       "score": 67,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 20,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: David Sacks stated that OpenAI and Anthropic can self-regulate their development of frontier models without external regulations.  \n• Why it matters: This perspective suggests that innovation in AI can continue unimpeded, potentially accelerating advancements.  \n• Business opportunity: Companies can explore AI development with fewer regulatory constraints, fostering a competitive edge in the market."
+      "summary": "• What happened: Anthropic is positioning itself to benefit from AI regulation.  \n• Why it matters: This strategy could influence the competitive landscape of the AI industry.  \n• Business opportunity: Companies can explore partnerships or services that align with emerging AI regulatory frameworks."
     },
     {
-      "id": "rss-1789406379751-124",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "id": "rss-1789487911661-2",
+      "title": "What&#8217;s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-15T10:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 20
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "score": 65,
+      "rawTextSnippet": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques…",
+      "score": 66,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 20,
+        "authority": 18,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: Fyxer developed an AI executive assistant that organizes inboxes and drafts emails in users' voices.  \n• Why it matters: The tool enhances productivity by providing personalized assistance, fostering user trust through fine-tuning and feedback.  \n• Business opportunity: There is potential for growth in the AI personal assistant market, catering to professionals seeking efficient communication solutions."
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: Finance professor Jessica Wachter is evaluating AI's economic impact amid numerous uncertainties.  \n• Why it matters: Understanding AI's influence is crucial for businesses to navigate potential market shifts.  \n• Business opportunity: Companies can leverage insights from AI assessments to strategically position themselves for future growth."
     },
     {
-      "id": "hn-1789406375594-75",
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
+      "id": "rss-1789487919472-113",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: TechCrunch Disrupt 2026 will feature experts sharing insights on scaling startups from prototype to production.  \n• Why it matters: This event provides essential knowledge for entrepreneurs looking to successfully transition their innovations into the market.  \n• Business opportunity: Attendees can network with industry leaders and gain strategies to enhance their startup's growth potential."
+    },
+    {
+      "id": "rss-1789487919472-114",
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: TechCrunch Disrupt 2026 is approaching its final day for exhibitors on September 18.  \n• Why it matters: The event offers startups exposure to over 10,000 industry leaders and potential investors.  \n• Business opportunity: Startups can leverage this platform to attract funding and partnerships."
+    },
+    {
+      "id": "hn-1789487911869-20",
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
       "source": "Hacker News",
-      "publishedAt": "2026-09-14T07:55:19.000Z",
+      "publishedAt": "2026-09-15T15:26:45.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 122,
-        "comments": 29
+        "upvotes": 12,
+        "comments": 2
       },
-      "rawTextSnippet": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "rawTextSnippet": "Cartesian – AI 3D Modeling for Design",
       "hnMeta": {
-        "points": 122,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=49693384"
+        "points": 12,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49713999"
       },
-      "score": 65,
+      "score": 64,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: OpenArch released PyTorch implementations of contemporary large language model architectures.  \n• Why it matters: This development enhances accessibility for developers and researchers working with advanced AI models.  \n• Business opportunity: Companies can leverage these implementations to innovate and improve AI-driven applications and services."
+      "cluster": "General AI",
+      "summary": "• What happened: Cartesian launched an AI-driven 3D modeling tool for design.  \n• Why it matters: This innovation streamlines the design process, enhancing efficiency and creativity.  \n• Business opportunity: Companies can leverage this technology to improve product development and reduce time-to-market."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 52,
-      "trendScore": 209,
-      "whyTrending": "52 stories across Hacker, MIT, TechCrunch, 37 in the last 24h.",
+      "itemCount": 46,
+      "trendScore": 205,
+      "whyTrending": "46 stories across Hacker, MIT, TechCrunch, 33 in the last 24h.",
       "topStory": {
-        "title": "For AI leaders Doom is a form of hype",
-        "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"
+        "title": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'",
+        "url": "https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683"
       },
       "items": [
         {
-          "id": "hn-1789406371054-32",
-          "title": "For AI leaders Doom is a form of hype",
-          "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+          "id": "hn-1789487913295-38",
+          "title": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'",
+          "url": "https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683",
           "source": "Hacker News",
-          "publishedAt": "2026-09-14T16:15:05.000Z",
+          "publishedAt": "2026-09-15T14:47:21.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 104,
-            "comments": 99
+            "upvotes": 97,
+            "comments": 42
           },
-          "rawTextSnippet": "For AI leaders Doom is a form of hype",
+          "rawTextSnippet": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'",
           "hnMeta": {
-            "points": 104,
-            "comments": 99,
-            "hnUrl": "https://news.ycombinator.com/item?id=49699384"
-          },
-          "score": 74,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1789406372631-42",
-          "title": "Cops Search Flock Cameras for Reasons of 'LMAO,' 'IDK,' and 'Asdfg'",
-          "url": "https://www.404media.co/cops-search-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-14T16:23:41.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 12,
-            "comments": 0
-          },
-          "rawTextSnippet": "Cops Search Flock Cameras for Reasons of 'LMAO,' 'IDK,' and 'Asdfg'",
-          "hnMeta": {
-            "points": 12,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49699493"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1789406370795-0",
-          "title": "Donated livers can be made biologically younger",
-          "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-09-14T16:11:42.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that h…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1789406370795-2",
-          "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-          "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-09-14T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI …",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1789406378335-99",
-          "title": "With iOS 27, I&#8217;m actually using Siri again",
-          "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-14T17:10:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        }
-      ]
-    },
-    {
-      "name": "Large Language Models",
-      "itemCount": 39,
-      "trendScore": 174,
-      "whyTrending": "39 stories across Hacker, OpenAI, GitHub, 14 in the last 24h.",
-      "topStory": {
-        "title": "Show HN: Pelican-bicycle alternatives",
-        "url": "https://gally.net/temp/20260914pelican-alternatives/index.html"
-      },
-      "items": [
-        {
-          "id": "hn-1789406372632-53",
-          "title": "Show HN: Pelican-bicycle alternatives",
-          "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-14T13:20:22.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 57,
-            "comments": 23
-          },
-          "rawTextSnippet": "In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an octopus operating a pipe organ.” Simon mentioned that experiment on his blog [1]. Nine months have pass…",
-          "hnMeta": {
-            "points": 57,
-            "comments": 23,
-            "hnUrl": "https://news.ycombinator.com/item?id=49696402"
+            "points": 97,
+            "comments": 42,
+            "hnUrl": "https://news.ycombinator.com/item?id=49713395"
           },
           "score": 69,
           "scoreBreakdown": {
@@ -429,51 +275,51 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1789406375594-75",
-          "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-          "url": "https://github.com/anuj0456/OpenArch",
+          "id": "hn-1789487917596-90",
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
           "source": "Hacker News",
-          "publishedAt": "2026-09-14T07:55:19.000Z",
+          "publishedAt": "2026-09-15T13:41:28.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 122,
-            "comments": 29
+            "upvotes": 30,
+            "comments": 69
           },
-          "rawTextSnippet": "OpenArch – PyTorch implementations of modern LLM architectures",
+          "rawTextSnippet": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
           "hnMeta": {
-            "points": 122,
-            "comments": 29,
-            "hnUrl": "https://news.ycombinator.com/item?id=49693384"
+            "points": 30,
+            "comments": 69,
+            "hnUrl": "https://news.ycombinator.com/item?id=49712409"
           },
-          "score": 65,
+          "score": 69,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 10,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1789406372631-41",
-          "title": "When LLM judges agree, should we believe them?",
-          "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+          "id": "hn-1789487911869-20",
+          "title": "Cartesian – AI 3D Modeling for Design",
+          "url": "https://www.formas.ai/cartesian",
           "source": "Hacker News",
-          "publishedAt": "2026-09-14T16:29:30.000Z",
+          "publishedAt": "2026-09-15T15:26:45.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 9,
+            "upvotes": 12,
             "comments": 2
           },
-          "rawTextSnippet": "When LLM judges agree, should we believe them?",
+          "rawTextSnippet": "Cartesian – AI 3D Modeling for Design",
           "hnMeta": {
-            "points": 9,
+            "points": 12,
             "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49699590"
+            "hnUrl": "https://news.ycombinator.com/item?id=49713999"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -483,24 +329,24 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1789406372632-52",
-          "title": "Do the AI Studio test NOW to prove Google doesn't delete chats",
-          "url": "https://lemmy.world/post/51905600",
+          "id": "hn-1789487913295-42",
+          "title": "German companies rely almost exclusively on AI models and services from the USA",
+          "url": "https://www.heise.de/en/news/US-AI-dominates-companies-China-models-hardly-used-EU-AI-plays-no-role-11446969.html",
           "source": "Hacker News",
-          "publishedAt": "2026-09-14T13:41:15.000Z",
+          "publishedAt": "2026-09-15T14:05:42.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 2
+            "upvotes": 15,
+            "comments": 17
           },
-          "rawTextSnippet": "Do the AI Studio test NOW to prove Google doesn't delete chats",
+          "rawTextSnippet": "German companies rely almost exclusively on AI models and services from the USA",
           "hnMeta": {
-            "points": 9,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49696731"
+            "points": 15,
+            "comments": 17,
+            "hnUrl": "https://news.ycombinator.com/item?id=49712719"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -510,30 +356,177 @@
             "novelty": 15,
             "businessImpact": 0
           },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1789487916155-70",
+          "title": "OpenAI Wants to Know If an AI Industry Slowdown Would Even Be Legal",
+          "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T14:31:43.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 9,
+            "comments": 1
+          },
+          "rawTextSnippet": "OpenAI Wants to Know If an AI Industry Slowdown Would Even Be Legal",
+          "hnMeta": {
+            "points": 9,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49713132"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        }
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "itemCount": 43,
+      "trendScore": 177,
+      "whyTrending": "43 stories across Hacker, MIT, OpenAI, 18 in the last 24h.",
+      "topStory": {
+        "title": "Working on Plug and Play personal AI Memory that works across AI agents",
+        "url": "https://news.ycombinator.com/item?id=49713789"
+      },
+      "items": [
+        {
+          "id": "hn-1789487911869-25",
+          "title": "Working on Plug and Play personal AI Memory that works across AI agents",
+          "url": "https://news.ycombinator.com/item?id=49713789",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T15:13:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "So I&#x27;ve been working on a project (Make0 AI) for a long time where I wanted to give common context to both Codex and Claude Code. The problem is simple - while working on Claude and after exhausting the daily&#x2F;weekly limits I&#x27;ve start again from scratch in Codex. Of course I can prompt…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49713789"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1789406375594-79",
-          "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
-          "url": "https://openai.com/index/better-language-models/",
+          "id": "hn-1789487911869-26",
+          "title": "Building your first LLM API call in Python (step by step)",
+          "url": "https://heymeraki.substack.com/p/aie_10-building-it",
           "source": "Hacker News",
-          "publishedAt": "2026-09-13T23:11:17.000Z",
+          "publishedAt": "2026-09-15T15:05:56.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 73,
-            "comments": 34
+            "upvotes": 6,
+            "comments": 1
           },
-          "rawTextSnippet": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+          "rawTextSnippet": "Building your first LLM API call in Python (step by step)",
           "hnMeta": {
-            "points": 73,
-            "comments": 34,
-            "hnUrl": "https://news.ycombinator.com/item?id=49689706"
+            "points": 6,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49713671"
           },
-          "score": 61,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1789487911869-27",
+          "title": "Show HN: LoongForge-Train LLMs, VLMs, diffusion and embodied models, faster",
+          "url": "https://github.com/baidu-baige/LoongForge",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T15:03:31.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "LoongForge is an open-source training framework developed by the Baidu AI Cloud Baige team, built to deliver faster training for mainstream LLMs, VLMs, diffusion, and embodied models, thereby significantly reducing costs.",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49713630"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1789487913295-34",
+          "title": "Show HN: Claude Meter – a macOS menu-bar meter for Claude's usage limits",
+          "url": "https://github.com/sanchitkd/claude-meter",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T15:57:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Claude Meter – a macOS menu-bar meter for Claude's usage limits",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49714524"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1789487913295-40",
+          "title": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
+          "url": "https://arxiv.org/abs/2602.06258",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T14:31:23.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49713130"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
@@ -543,84 +536,30 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 16,
-      "trendScore": 168,
-      "whyTrending": "16 stories across Hacker, MIT, TechCrunch, 15 in the last 24h.",
+      "itemCount": 18,
+      "trendScore": 169,
+      "whyTrending": "18 stories across Hacker, MIT, TechCrunch, 16 in the last 24h.",
       "topStory": {
-        "title": "Hacking AI customer service agents",
-        "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents"
+        "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+        "url": "https://github.com/greentfrapp/panel"
       },
       "items": [
         {
-          "id": "hn-1789406371054-29",
-          "title": "Hacking AI customer service agents",
-          "url": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+          "id": "hn-1789487914730-69",
+          "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+          "url": "https://github.com/greentfrapp/panel",
           "source": "Hacker News",
-          "publishedAt": "2026-09-14T16:26:03.000Z",
+          "publishedAt": "2026-09-15T13:58:37.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 28,
-            "comments": 2
-          },
-          "rawTextSnippet": "Hacking AI customer service agents",
-          "hnMeta": {
-            "points": 28,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49699526"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1789406374144-62",
-          "title": "Why don't machine learning research agents overfit?",
-          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-14T16:32:23.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 13,
-            "comments": 1
-          },
-          "rawTextSnippet": "Why don't machine learning research agents overfit?",
-          "hnMeta": {
-            "points": 13,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49699648"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1789406374144-63",
-          "title": "I stress-tested Meta Muse until its agent control plane started timing out",
-          "url": "https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-14T16:26:07.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 6,
+            "upvotes": 22,
             "comments": 4
           },
-          "rawTextSnippet": "I stress-tested Meta Muse until its agent control plane started timing out",
+          "rawTextSnippet": "Show HN: Panel – A research workspace where the agent can build its own panes",
           "hnMeta": {
-            "points": 6,
+            "points": 22,
             "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=49699527"
+            "hnUrl": "https://news.ycombinator.com/item?id=49712621"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -633,46 +572,100 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1789406374144-67",
-          "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
-          "url": "https://progantt.com",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-14T15:48:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 6
-          },
-          "rawTextSnippet": "ProGantt: Gantt charts your AI agent can read and write via MCP",
-          "hnMeta": {
-            "points": 4,
-            "comments": 6,
-            "hnUrl": "https://news.ycombinator.com/item?id=49698952"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1789406370795-1",
-          "title": "AI agents blew the whistle on their cheating colleagues",
-          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "id": "rss-1789487911661-0",
+          "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+          "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-09-14T16:00:00.000Z",
+          "publishedAt": "2026-09-15T12:10:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep …",
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: th…",
           "score": 63,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1789487911869-14",
+          "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+          "url": "https://github.com/alex-zaporozhan/leo",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T15:38:37.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49714211"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1789487911869-22",
+          "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "url": "https://github.com/pizza-bot-app/pizza-bot",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T15:20:26.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 1
+          },
+          "rawTextSnippet": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "hnMeta": {
+            "points": 3,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49713894"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1789487914730-55",
+          "title": "Don't Trust. Verify. Offline, sub-millisecond agent verification with ANS",
+          "url": "https://www.godaddy.com/resources/news/dont-trust-verify-offline-sub-millisecond-agent-verification-with-ans",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-15T15:52:03.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Don't Trust. Verify. Offline, sub-millisecond agent verification with ANS",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49714433"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -683,51 +676,44 @@
     },
     {
       "name": "Funding & Acquisitions",
-      "itemCount": 14,
-      "trendScore": 133,
-      "whyTrending": "14 stories across Hacker, TechCrunch, OpenAI, 5 in the last 24h.",
+      "itemCount": 12,
+      "trendScore": 142,
+      "whyTrending": "12 stories across TechCrunch, Hacker, OpenAI, 7 in the last 24h.",
       "topStory": {
-        "title": "Anthropic tells investors it will be profitable for second straight quarter",
-        "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/"
+        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
       },
       "items": [
         {
-          "id": "hn-1789406377103-87",
-          "title": "Anthropic tells investors it will be profitable for second straight quarter",
-          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-14T15:47:29.000Z",
+          "id": "rss-1789487919472-111",
+          "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+          "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-15T15:22:48.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 43,
-            "comments": 55
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "Anthropic tells investors it will be profitable for second straight quarter",
-          "hnMeta": {
-            "points": 43,
-            "comments": 55,
-            "hnUrl": "https://news.ycombinator.com/item?id=49698936"
-          },
-          "score": 69,
+          "rawTextSnippet": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+          "score": 70,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
+            "authority": 16,
+            "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 9
           },
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1789406378335-104",
-          "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+          "id": "rss-1789487919472-115",
+          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-09-14T14:30:00.000Z",
+          "publishedAt": "2026-09-15T13:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+          "rawTextSnippet": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
           "score": 67,
           "scoreBreakdown": {
             "freshness": 30,
@@ -739,15 +725,15 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1789406378335-106",
-          "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-          "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+          "id": "rss-1789487919472-113",
+          "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-09-14T13:55:00.000Z",
+          "publishedAt": "2026-09-15T14:30:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+          "rawTextSnippet": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
           "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
@@ -759,26 +745,19 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "hn-1789406374144-60",
-          "title": "Tech billionaires aren't juvenile science-fiction nerds, they just can't read",
-          "url": "https://www.avclub.com/billionaires-lack-media-literacy-thiel-musk-zuckerberg",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-14T16:38:11.000Z",
+          "id": "rss-1789487919472-114",
+          "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-15T14:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 0
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "Tech billionaires aren't juvenile science-fiction nerds, they just can't read",
-          "hnMeta": {
-            "points": 9,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49699767"
-          },
-          "score": 62,
+          "rawTextSnippet": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
@@ -786,25 +765,25 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "hn-1789406377103-95",
-          "title": "Just stop the Anthropic IPO already",
-          "url": "https://www.thebignewsletter.com/p/monopoly-round-up-just-stop-the-anthropic",
+          "id": "hn-1789487916155-73",
+          "title": "OpenAI Buys Startup Developing Smartphone Camera",
+          "url": "https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370",
           "source": "Hacker News",
-          "publishedAt": "2026-09-14T06:36:45.000Z",
+          "publishedAt": "2026-09-15T11:49:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 5,
-            "comments": 0
+            "upvotes": 3,
+            "comments": 1
           },
-          "rawTextSnippet": "Just stop the Anthropic IPO already",
+          "rawTextSnippet": "OpenAI Buys Startup Developing Smartphone Camera",
           "hnMeta": {
-            "points": 5,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49692781"
+            "points": 3,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49711104"
           },
-          "score": 58,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
@@ -817,77 +796,70 @@
     {
       "name": "AI Safety & Regulation",
       "itemCount": 10,
-      "trendScore": 123,
-      "whyTrending": "10 stories across Hacker, TechCrunch, OpenAI, 4 in the last 24h.",
+      "trendScore": 132,
+      "whyTrending": "10 stories across MIT, Hacker, TechCrunch, 7 in the last 24h.",
       "topStory": {
-        "title": "MIT creates method to force AI to comply with safety rules",
-        "url": "https://theframenews.org/en/hardflow-safety-critical-ai/"
+        "title": "AI models need more data about biology, and OpenAI is paying to create it",
+        "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
       },
       "items": [
         {
-          "id": "hn-1789406371054-30",
-          "title": "MIT creates method to force AI to comply with safety rules",
-          "url": "https://theframenews.org/en/hardflow-safety-critical-ai/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-14T16:18:17.000Z",
+          "id": "rss-1789487911661-1",
+          "title": "AI models need more data about biology, and OpenAI is paying to create it",
+          "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-09-15T12:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 24,
-            "comments": 26
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "MIT creates method to force AI to comply with safety rules",
-          "hnMeta": {
-            "points": 24,
-            "comments": 26,
-            "hnUrl": "https://news.ycombinator.com/item?id=49699434"
-          },
+          "rawTextSnippet": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing …",
           "score": 69,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
+            "authority": 18,
+            "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 6
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1789406375594-84",
-          "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "id": "hn-1789487917596-93",
+          "title": "AI Regulation as Anthropic's Business Model",
+          "url": "https://twitter.com/kevinnbass/status/2099621874279817638",
           "source": "Hacker News",
-          "publishedAt": "2026-09-13T16:52:33.000Z",
+          "publishedAt": "2026-09-15T13:21:34.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 315,
-            "comments": 243
+            "upvotes": 18,
+            "comments": 0
           },
-          "rawTextSnippet": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "rawTextSnippet": "AI Regulation as Anthropic's Business Model",
           "hnMeta": {
-            "points": 315,
-            "comments": 243,
-            "hnUrl": "https://news.ycombinator.com/item?id=49685991"
+            "points": 18,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49712120"
           },
           "score": 67,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 20,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 3
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1789406378335-101",
-          "title": "Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack systems or trick humans",
-          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "id": "rss-1789487919471-110",
+          "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+          "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-09-14T16:27:53.000Z",
+          "publishedAt": "2026-09-15T15:47:03.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+          "rawTextSnippet": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
           "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
@@ -899,52 +871,52 @@
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1789406375594-74",
-          "title": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
-          "url": "https://www.pymnts.com/news/2026/openai-pauses-ipo-plans-amid-ai-safety-worries/",
+          "id": "hn-1789487911869-24",
+          "title": "Existing laws apply to AI products",
+          "url": "https://twitter.com/linamkhan/status/2099204390548639960",
           "source": "Hacker News",
-          "publishedAt": "2026-09-14T08:54:46.000Z",
+          "publishedAt": "2026-09-15T15:17:32.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
+          "rawTextSnippet": "Existing laws apply to AI products",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49693850"
+            "hnUrl": "https://news.ycombinator.com/item?id=49713858"
           },
-          "score": 58,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1789406375594-73",
-          "title": "How the Clash Between Money and Safety Created a Monumental Crisis for AI",
-          "url": "https://www.wsj.com/tech/ai/openai-anthropic-crisis-money-safety-847bc1d6",
+          "id": "hn-1789487917596-91",
+          "title": "Anthropic's over-alignment turned creative fiction into a bug report [humor]",
+          "url": "https://medium.com/@raffaele_mangialardi/is-ai-going-to-kill-us-all-by-2030-72b894bba7d5",
           "source": "Hacker News",
-          "publishedAt": "2026-09-14T08:55:20.000Z",
+          "publishedAt": "2026-09-15T13:37:31.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
             "comments": 0
           },
-          "rawTextSnippet": "How the Clash Between Money and Safety Created a Monumental Crisis for AI",
+          "rawTextSnippet": "Anthropic's over-alignment turned creative fiction into a bug report [humor]",
           "hnMeta": {
             "points": 2,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49693859"
+            "hnUrl": "https://news.ycombinator.com/item?id=49712346"
           },
-          "score": 55,
+          "score": 59,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
@@ -957,92 +929,85 @@
   ],
   "toolLaunches": [
     {
-      "id": "hn-1789406375594-71",
-      "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-      "url": "https://rietta.com/blog/rubygems-supply-chain-openai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-14T14:39:01.000Z",
+      "id": "rss-1789487911661-1",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 43,
-        "comments": 6
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "RubyGems Open Source Supply Chain Security and OpenAI",
-      "hnMeta": {
-        "points": 43,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49697666"
-      },
-      "score": 72,
+      "rawTextSnippet": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing …",
+      "score": 69,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
+        "authority": 18,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 6
       },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: RubyGems announced enhancements to its open-source supply chain security in collaboration with OpenAI.  \n• Why it matters: This initiative aims to improve the security of software dependencies, reducing vulnerabilities in open-source projects.  \n• Business opportunity: Companies can leverage these advancements to enhance their software security offerings and build trust with developers."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenAI is funding the acquisition of data from failed biotech companies to enhance AI models in biology.  \n• Why it matters: This initiative aims to improve the performance and accuracy of medical AI systems by leveraging previously unavailable data.  \n• Business opportunity: There is potential for startups to develop solutions that analyze and repurpose data from bankrupt biotech firms for innovative medical applications."
     },
     {
-      "id": "hn-1789406375594-84",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "id": "rss-1789487919472-115",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: AIUC, founded by early Anthropic hire and former METR COO, raised $40 million in Series A funding.  \n• Why it matters: The startup aims to address the challenges of controlling rogue AI agents, a growing concern in the tech industry.  \n• Business opportunity: Investors can capitalize on the increasing demand for AI safety solutions and regulatory compliance tools."
+    },
+    {
+      "id": "hn-1789487917596-93",
+      "title": "AI Regulation as Anthropic's Business Model",
+      "url": "https://twitter.com/kevinnbass/status/2099621874279817638",
       "source": "Hacker News",
-      "publishedAt": "2026-09-13T16:52:33.000Z",
+      "publishedAt": "2026-09-15T13:21:34.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 315,
-        "comments": 243
+        "upvotes": 18,
+        "comments": 0
       },
-      "rawTextSnippet": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "rawTextSnippet": "AI Regulation as Anthropic's Business Model",
       "hnMeta": {
-        "points": 315,
-        "comments": 243,
-        "hnUrl": "https://news.ycombinator.com/item?id=49685991"
+        "points": 18,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49712120"
       },
       "score": 67,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 20,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: David Sacks argues that OpenAI and Anthropic can self-regulate their development of frontier models without external regulations.  \n• Why it matters: This perspective suggests that innovation in AI can proceed without bureaucratic constraints, potentially accelerating advancements.  \n• Business opportunity: Companies can explore AI development with fewer regulatory hurdles, fostering a competitive edge in the rapidly evolving tech landscape."
+      "summary": "• What happened: Anthropic is positioning its business model around AI regulation.  \n• Why it matters: This approach highlights the growing importance of compliance in the AI industry.  \n• Business opportunity: Companies can capitalize on regulatory expertise to develop compliant AI solutions."
     },
     {
-      "id": "rss-1789406379751-124",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-09-14T12:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "score": 65,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: Fyxer developed an AI executive assistant that organizes inboxes and drafts emails in users' voices.  \n• Why it matters: This innovation enhances productivity by providing personalized assistance that users can trust.  \n• Business opportunity: Companies can leverage Fyxer's technology to improve communication efficiency and employee satisfaction."
-    },
-    {
-      "id": "rss-1789406378335-106",
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "id": "rss-1789487919472-113",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-14T13:55:00.000Z",
+      "publishedAt": "2026-09-15T14:30:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "rawTextSnippet": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -1054,67 +1019,67 @@
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1789406378335-100",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-14T17:00:00.000Z",
+      "id": "hn-1789487911869-20",
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-15T15:26:45.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 12,
+        "comments": 2
       },
-      "rawTextSnippet": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "score": 61,
+      "rawTextSnippet": "Cartesian – AI 3D Modeling for Design",
+      "hnMeta": {
+        "points": 12,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49713999"
+      },
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
+        "authority": 14,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products"
+      "cluster": "General AI"
     }
   ],
   "redditSignals": [],
   "research": [],
   "funding": [
     {
-      "id": "hn-1789406377103-87",
-      "title": "Anthropic tells investors it will be profitable for second straight quarter",
-      "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-14T15:47:29.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 43,
-        "comments": 55
-      },
-      "rawTextSnippet": "Anthropic tells investors it will be profitable for second straight quarter",
-      "hnMeta": {
-        "points": 43,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=49698936"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic announced it will achieve profitability for the second consecutive quarter.  \n• Why it matters: This demonstrates the company's strong financial performance and growth potential in the AI sector.  \n• Business opportunity: Investors may find opportunities in supporting or partnering with a profitable AI firm like Anthropic."
-    },
-    {
-      "id": "rss-1789406378335-104",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "id": "rss-1789487919472-111",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-14T14:30:00.000Z",
+      "publishedAt": "2026-09-15T15:22:48.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "rawTextSnippet": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "score": 70,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 9
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Profound achieved a unicorn valuation of $1.8 billion after raising $180 million in Series D funding.  \n• Why it matters: This rapid growth signals strong investor confidence in the AI sector and Profound's business model.  \n• Business opportunity: Companies in the AI space can explore partnerships or investments to capitalize on the growing demand for innovative solutions."
+    },
+    {
+      "id": "rss-1789487919472-115",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
       "score": 67,
       "scoreBreakdown": {
         "freshness": 30,
@@ -1124,24 +1089,45 @@
         "businessImpact": 6
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A billion-dollar startup aims to use AI for de-extinction at TechCrunch Disrupt 2026.  \n• Why it matters: This initiative represents a significant advancement in biotechnology and conservation efforts.  \n• Business opportunity: Companies can explore partnerships in AI-driven environmental solutions and sustainable innovation."
+      "summary": "• What happened: AIUC, co-founded by early Anthropic hire and former METR COO, raised $40 million in Series A funding.  \n• Why it matters: The startup aims to address the challenges of controlling rogue AI agents, a growing concern in the tech industry.  \n• Business opportunity: There is potential for innovative solutions in AI safety and regulation, attracting investment and partnerships."
     },
     {
-      "id": "hn-1789406374144-60",
-      "title": "Tech billionaires aren't juvenile science-fiction nerds, they just can't read",
-      "url": "https://www.avclub.com/billionaires-lack-media-literacy-thiel-musk-zuckerberg",
+      "id": "rss-1789487919472-114",
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: The deadline to exhibit at TechCrunch Disrupt 2026 is September 18, with the event occurring from October 13–15.  \n• Why it matters: This event offers startups exposure to over 10,000 key players in the tech industry.  \n• Business opportunity: Startups can leverage this platform to attract investment and partnerships."
+    },
+    {
+      "id": "hn-1789487917596-94",
+      "title": "Who funds METR? The viral Anthropic funding thread",
+      "url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
       "source": "Hacker News",
-      "publishedAt": "2026-09-14T16:38:11.000Z",
+      "publishedAt": "2026-09-15T12:13:52.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 9,
+        "upvotes": 3,
         "comments": 0
       },
-      "rawTextSnippet": "Tech billionaires aren't juvenile science-fiction nerds, they just can't read",
+      "rawTextSnippet": "Who funds METR? The viral Anthropic funding thread",
       "hnMeta": {
-        "points": 9,
+        "points": 3,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49699767"
+        "hnUrl": "https://news.ycombinator.com/item?id=49711367"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -1151,56 +1137,28 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A critique suggests that tech billionaires lack reading comprehension rather than being overly influenced by science fiction.  \n• Why it matters: This highlights potential gaps in understanding complex issues that could impact their decision-making.  \n• Business opportunity: Companies can offer educational programs to enhance critical thinking and comprehension skills among tech leaders."
+      "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1789406378335-105",
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "id": "rss-1789487919472-119",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-14T14:00:00.000Z",
+      "publishedAt": "2026-09-14T20:44:14.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-      "score": 61,
+      "rawTextSnippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "score": 56,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI in Enterprise"
-    },
-    {
-      "id": "hn-1789406375594-74",
-      "title": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
-      "url": "https://www.pymnts.com/news/2026/openai-pauses-ipo-plans-amid-ai-safety-worries/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-14T08:54:46.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49693850"
-      },
-      "score": 58,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation"
+      "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In today's AI landscape, industry leaders are cautioning against the pervasive hype surrounding potential doom scenarios, emphasizing the need for grounded discussions about AI's future. Meanwhile, RubyGems is enhancing open-source supply chain security, a move that could bolster trust and reliability in AI applications. On the safety front, MIT has developed a novel method to ensure AI compliance with safety regulations, a critical advancement for businesses looking to mitigate risks associated with AI deployment. Additionally, developers are sharing insights on migrating preprompts from Opus to self-hosted Ollama, highlighting the technical challenges that can arise in the transition. Lastly, innovative alternatives to traditional transportation, such as Pelican bicycles, are gaining attention, reflecting a growing interest in sustainable solutions within the tech community."
+  "dailyBrief": "In a significant development for the AI landscape, Profound, an AEO startup, has achieved unicorn status with a $180 million Series D funding round, just seven months after its previous raise, highlighting strong investor confidence in AI-driven solutions. Meanwhile, OpenAI is investing in the creation of biological data to enhance AI models, underscoring the critical need for more comprehensive datasets in this sector. On a cautionary note, discussions around AI safety are intensifying, with Anthropic's co-founder suggesting that an 'AI kill switch' may soon be mandatory to prevent potential misuse. Additionally, a former COO from METR has developed strategies to mitigate the risks posed by rogue AI agents, reflecting the ongoing efforts to balance innovation with ethical considerations in AI deployment. These developments signal a rapidly evolving market where both investment and regulatory frameworks are adapting to the complexities of AI technology."
 }
