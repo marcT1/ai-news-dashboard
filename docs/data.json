@@ -1,21 +1,21 @@
 {
   "topNews": [
     {
-      "id": "hn-1790622116057-154",
-      "title": "Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "id": "hn-1790702551040-59",
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "source": "Hacker News",
-      "publishedAt": "2026-09-28T17:58:11.000Z",
+      "publishedAt": "2026-09-29T16:30:48.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 200,
-        "comments": 139
+        "upvotes": 98,
+        "comments": 52
       },
-      "rawTextSnippet": "Sonnet 5.5",
+      "rawTextSnippet": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
       "hnMeta": {
-        "points": 200,
-        "comments": 139,
-        "hnUrl": "https://news.ycombinator.com/item?id=49881850"
+        "points": 98,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=49896050"
       },
       "score": 74,
       "scoreBreakdown": {
@@ -26,24 +26,79 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: Sonnet 5.5 was discussed on Hacker News.  \n• Why it matters: The conversation highlights emerging trends in AI-generated poetry.  \n• Business opportunity: There is potential for developing AI tools for creative writing and content generation."
+      "summary": "• What happened: DraftKings is implementing AI technology to identify and target chronic gamblers.  \n• Why it matters: This approach aims to promote responsible gambling and mitigate potential harm to users.  \n• Business opportunity: There is potential for DraftKings to enhance customer loyalty and attract socially responsible investors."
     },
     {
-      "id": "hn-1790622105294-56",
-      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-      "url": "https://hn.watch/",
+      "id": "github-1790702550940-10",
+      "title": "[KKKKhazix/AIHOT] 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-09-28T23:40:05.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 12,
+        "upvotes": 2861
+      },
+      "rawTextSnippet": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "githubMeta": {
+        "stars": 2861,
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "llm",
+          "mcp",
+          "news-aggregator",
+          "rss",
+          "self-hosted"
+        ]
+      },
+      "score": 74,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 12,
+        "engagement": 25,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A new website framework allows users to curate industry news and write daily reports.  \n• Why it matters: It empowers individuals to customize content sources and standards, enhancing relevance in their sectors.  \n• Business opportunity: Companies can leverage this tool to establish tailored news platforms, improving engagement and industry insights."
+    },
+    {
+      "id": "rss-1790702558428-158",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T12:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "score": 71,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 10
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Reco raised $55 million in funding, increasing its total to $140 million.  \n• Why it matters: The influx of capital highlights growing investor interest in AI agent security startups.  \n• Business opportunity: Companies can explore partnerships or innovations in AI security solutions to capitalize on this expanding market."
+    },
+    {
+      "id": "hn-1790702555430-110",
+      "title": "Dots",
+      "url": "https://openai.com/index/introducing-dots/",
       "source": "Hacker News",
-      "publishedAt": "2026-09-28T15:16:13.000Z",
+      "publishedAt": "2026-09-29T17:07:57.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 65,
-        "comments": 17
+        "upvotes": 67,
+        "comments": 26
       },
-      "rawTextSnippet": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”. To demo this technology for Hacker News, w…",
+      "rawTextSnippet": "Dots",
       "hnMeta": {
-        "points": 65,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49879401"
+        "points": 67,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49896604"
       },
       "score": 69,
       "scoreBreakdown": {
@@ -53,212 +108,184 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A new platform, HN.watch, allows users to create and view videos of Hacker News posts using Scrimba's technology.  \n• Why it matters: This innovation enhances content accessibility and engagement for the Hacker News community.  \n• Business opportunity: There is potential for monetization through premium features or partnerships with educational platforms."
+      "cluster": "General AI",
+      "summary": "• What happened: Dots, a popular mobile game, has gained renewed attention.  \n• Why it matters: The resurgence indicates a potential revival of interest in casual gaming.  \n• Business opportunity: Companies can capitalize on this trend by developing similar engaging mobile games or enhancing existing ones."
     },
     {
-      "id": "hn-1790622114532-140",
-      "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
-      "url": "https://www.openappa.com/",
+      "id": "hn-1790702555430-113",
+      "title": "GPT 6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "source": "Hacker News",
-      "publishedAt": "2026-09-28T13:20:44.000Z",
+      "publishedAt": "2026-09-29T17:06:45.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 22,
-        "comments": 11
+        "upvotes": 126,
+        "comments": 62
       },
-      "rawTextSnippet": "Hi Hacker News! Matvey, one of the authors, is here. While building enterprise agents, we ran into a problem: the more tools you connect to the AI, the higher the chance it will run out of control and leak sensitive data. Guardrails, in theory, should prevent this, but the situation is worrying: - N…",
+      "rawTextSnippet": "GPT 6.1 Sol",
       "hnMeta": {
-        "points": 22,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49877515"
+        "points": 126,
+        "comments": 62,
+        "hnUrl": "https://news.ycombinator.com/item?id=49896586"
       },
-      "score": 67,
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 10,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: GPT 6.1 Sol has been released, introducing new features and improvements.  \n• Why it matters: This update enhances AI capabilities, potentially transforming various industries.  \n• Business opportunity: Companies can leverage GPT 6.1 Sol for innovative applications in automation and customer engagement."
+    },
+    {
+      "id": "rss-1790702558428-150",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T17:15:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: OpenAI enhanced Codex with reusable cloud environments and new tools for developers.  \n• Why it matters: These updates improve accessibility and efficiency for coding across devices, streamlining development processes.  \n• Business opportunity: Companies can leverage these advancements to enhance their software development workflows and improve collaboration."
+    },
+    {
+      "id": "rss-1790702558428-155",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T13:53:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Marissa Mayer launched Dazzle, an app that analyzes users' camera rolls for personal insights.  \n• Why it matters: The app leverages the vast amount of data in photo libraries to reveal deeper lifestyle preferences than traditional communication methods.  \n• Business opportunity: There is potential for targeted marketing and personalized services based on the insights gathered from users' photo collections."
+    },
+    {
+      "id": "hn-1790702556886-130",
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+      "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-29T12:01:07.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 20,
+        "comments": 2
+      },
+      "rawTextSnippet": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+      "hnMeta": {
+        "points": 20,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49891721"
+      },
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
         "engagement": 5,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: OpenAPPA, an open-source project, introduces deterministic guardrails for AI agents to prevent data leaks.  \n• Why it matters: As AI tools become more interconnected, the risk of sensitive data exposure increases, necessitating effective safeguards.  \n• Business opportunity: Companies can leverage OpenAPPA to enhance their AI systems' security and compliance, attracting clients concerned about data privacy."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Mistral's CEO criticized the U.S. AI safety debate for overshadowing competitors' lack of diligence.  \n• Why it matters: This highlights potential risks in AI development that could affect industry standards and safety.  \n• Business opportunity: Companies can capitalize on the need for robust safety measures and responsible AI practices."
     },
     {
-      "id": "rss-1790622106158-65",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T16:52:38.000Z",
+      "id": "rss-1790702550759-0",
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-29T12:10:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-      "score": 64,
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tec…",
+      "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: MIT Technology Review announced an upcoming list of climate tech companies to watch by 2026.  \n• Why it matters: The list highlights critical innovations needed as the planet approaches dangerous warming thresholds.  \n• Business opportunity: Investors and entrepreneurs can identify and support emerging climate tech solutions to address environmental challenges."
+    },
+    {
+      "id": "hn-1790702551040-46",
+      "title": "Show HN: Helping small business owners automate their front of house",
+      "url": "https://essencetheapp.com",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-29T16:57:02.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "imagine you’re agi looking down at us and you see adults throwing a billion dollars at teenagers so they can solve problems that aren’t actually problems. i’d pace myself too. how about we use super intelligence to help people that are scraping by improve their lives so they can get a sliver of what…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49896439"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "AI in Enterprise",
-      "summary": "• What happened: Meta launched an enterprise AI platform and appointed MongoDB's CEO to lead the initiative.  \n• Why it matters: This move positions Meta to leverage its technology for business applications, enhancing its competitive edge in the AI space.  \n• Business opportunity: Companies can integrate Meta's AI tools to improve efficiency and innovation in their operations."
-    },
-    {
-      "id": "rss-1790622106158-66",
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T15:30:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Anthropic, Gamma, and Clay discussed real-world AI deployment at TechCrunch Disrupt 2026.  \n• Why it matters: Insights from these companies highlight the challenges and successes of implementing AI in enterprises.  \n• Business opportunity: There is potential for growth in AI solutions that effectively transition from demonstration to practical application."
-    },
-    {
-      "id": "rss-1790622106158-67",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T15:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield…",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Tarini Padmanabhuni founded DetectifAI after her grandfather was scammed by a deepfake voice.  \n• Why it matters: The rise of deepfake technology poses significant risks for personal security and trust in communication.  \n• Business opportunity: DetectifAI aims to provide real-time detection of fake voices on smartphones, addressing a growing market need for security solutions."
-    },
-    {
-      "id": "rss-1790622106158-68",
-      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T14:30:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Next 5 venture capitalists will judge Startup Battlefield 200 at TechCrunch Disrupt 2026.  \n• Why it matters: This event showcases innovative startups, attracting significant attention from investors and industry leaders.  \n• Business opportunity: Companies can gain exposure and potential funding by participating in this high-profile competition."
-    },
-    {
-      "id": "rss-1790622106158-70",
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: Insurtech Outmarket secured $34.5 million in funding shortly after a previous investment round.  \n• Why it matters: The startup leverages AI to streamline paperwork processes for insurance agencies and brokers, enhancing efficiency.  \n• Business opportunity: There is potential for further innovation in the insurtech sector by developing AI solutions that reduce operational burdens."
-    },
-    {
-      "id": "rss-1790622106158-71",
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: The deadline to secure an exhibit table at TechCrunch Disrupt 2026 is October 2.  \n• Why it matters: This event offers startups exposure to over 10,000 industry leaders, enhancing networking and investment opportunities.  \n• Business opportunity: Startups can showcase their innovations and attract potential investors by participating in this high-profile tech event."
-    },
-    {
-      "id": "rss-1790622106158-72",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T13:38:48.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Instinct secured $1 billion in Series C funding, achieving a $10 billion valuation.  \n• Why it matters: This significant investment highlights strong investor confidence in AI-driven solutions.  \n• Business opportunity: Companies can explore partnerships or innovations leveraging Instinct's AI technology to enhance their offerings."
+      "summary": "• What happened: A new initiative aims to assist small business owners in automating their front-of-house operations.  \n• Why it matters: This could enhance efficiency and reduce operational costs for struggling small businesses.  \n• Business opportunity: There is potential for developing software solutions tailored to automate tasks for small enterprises."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 45,
-      "trendScore": 197,
-      "whyTrending": "45 stories across Hacker, TechCrunch, GitHub, 31 in the last 24h.",
+      "itemCount": 62,
+      "trendScore": 231,
+      "whyTrending": "62 stories across Hacker, GitHub, MIT, 52 in the last 24h.",
       "topStory": {
-        "title": "Sonnet 5.5",
-        "url": "https://www.anthropic.com/claude-sonnet-5-5"
+        "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
       },
       "items": [
         {
-          "id": "hn-1790622116057-154",
-          "title": "Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "id": "hn-1790702551040-59",
+          "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+          "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
           "source": "Hacker News",
-          "publishedAt": "2026-09-28T17:58:11.000Z",
+          "publishedAt": "2026-09-29T16:30:48.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 200,
-            "comments": 139
+            "upvotes": 98,
+            "comments": 52
           },
-          "rawTextSnippet": "Sonnet 5.5",
+          "rawTextSnippet": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
           "hnMeta": {
-            "points": 200,
-            "comments": 139,
-            "hnUrl": "https://news.ycombinator.com/item?id=49881850"
+            "points": 98,
+            "comments": 52,
+            "hnUrl": "https://news.ycombinator.com/item?id=49896050"
           },
           "score": 74,
           "scoreBreakdown": {
@@ -271,73 +298,79 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1790622100933-38",
-          "title": "DKLM 2026 and the Silent Crisis of the German Healthcare System",
-          "url": "https://labnews.ai/laboratory-medicine-dklm-2026-and-the-silent-crisis-of-the-german-healthcare-system/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T18:10:58.000Z",
+          "id": "github-1790702550940-10",
+          "title": "[KKKKhazix/AIHOT] 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+          "url": "https://github.com/KKKKhazix/AIHOT",
+          "source": "GitHub Trending",
+          "publishedAt": "2026-09-28T23:40:05.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "sourceAuthority": 12,
+            "upvotes": 2861
           },
-          "rawTextSnippet": "DKLM 2026 and the Silent Crisis of the German Healthcare System",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49882037"
+          "rawTextSnippet": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+          "githubMeta": {
+            "stars": 2861,
+            "language": "TypeScript",
+            "topics": [
+              "ai",
+              "llm",
+              "mcp",
+              "news-aggregator",
+              "rss",
+              "self-hosted"
+            ]
           },
-          "score": 62,
+          "score": 74,
           "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
+            "freshness": 22,
+            "authority": 12,
+            "engagement": 25,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "hn-1790622105295-59",
-          "title": "Partnership and economic drivers of Gambia men with foreign tourists",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10021562/",
+          "id": "hn-1790702555430-110",
+          "title": "Dots",
+          "url": "https://openai.com/index/introducing-dots/",
           "source": "Hacker News",
-          "publishedAt": "2026-09-28T14:56:11.000Z",
+          "publishedAt": "2026-09-29T17:07:57.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
+            "upvotes": 67,
+            "comments": 26
           },
-          "rawTextSnippet": "Partnership and economic drivers of Gambia men with foreign tourists",
+          "rawTextSnippet": "Dots",
           "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49879049"
+            "points": 67,
+            "comments": 26,
+            "hnUrl": "https://news.ycombinator.com/item?id=49896604"
           },
-          "score": 62,
+          "score": 69,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 10,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "rss-1790622106158-69",
-          "title": "Modulate raises $25M for its voice models and analysis suite",
-          "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-28T14:05:00.000Z",
+          "id": "rss-1790702550759-0",
+          "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+          "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-09-29T12:10:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "Modulate deploys its models to detect deepfake, fraud and scam",
-          "score": 61,
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tec…",
+          "score": 63,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 16,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -345,26 +378,19 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1790622100933-23",
-          "title": "Can AI Control a Spacecraft?",
-          "url": "https://substack.com/@thejeevankumar/note/c-348060494",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T18:53:24.000Z",
+          "id": "rss-1790702558428-154",
+          "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+          "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T15:12:07.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "Can AI Control a Spacecraft?",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49882699"
-          },
-          "score": 59,
+          "rawTextSnippet": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+          "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -375,109 +401,55 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 52,
-      "trendScore": 193,
-      "whyTrending": "52 stories across Hacker, MIT, TechCrunch, 22 in the last 24h.",
+      "itemCount": 63,
+      "trendScore": 201,
+      "whyTrending": "63 stories across Hacker, TechCrunch, GitHub, 33 in the last 24h.",
       "topStory": {
-        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-        "url": "https://hn.watch/"
+        "title": "GPT 6.1 Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol/"
       },
       "items": [
         {
-          "id": "hn-1790622105294-56",
-          "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-          "url": "https://hn.watch/",
+          "id": "hn-1790702555430-113",
+          "title": "GPT 6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
           "source": "Hacker News",
-          "publishedAt": "2026-09-28T15:16:13.000Z",
+          "publishedAt": "2026-09-29T17:06:45.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 65,
-            "comments": 17
+            "upvotes": 126,
+            "comments": 62
           },
-          "rawTextSnippet": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”. To demo this technology for Hacker News, w…",
+          "rawTextSnippet": "GPT 6.1 Sol",
           "hnMeta": {
-            "points": 65,
-            "comments": 17,
-            "hnUrl": "https://news.ycombinator.com/item?id=49879401"
+            "points": 126,
+            "comments": 62,
+            "hnUrl": "https://news.ycombinator.com/item?id=49896586"
           },
           "score": 69,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
+            "engagement": 15,
+            "novelty": 10,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1790622105294-44",
-          "title": "We swapped our LLMs for Jev. It's 39% cheaper",
-          "url": "https://polylane.com/blog/we-swapped-our-llms-for-jev/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T17:37:04.000Z",
+          "id": "rss-1790702558428-148",
+          "title": "AI-powered app maker Wabi pivots to a messaging experience",
+          "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T17:20:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 4
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "We swapped our LLMs for Jev. It's 39% cheaper",
-          "hnMeta": {
-            "points": 7,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=49881537"
-          },
-          "score": 64,
+          "rawTextSnippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+          "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1790622105294-49",
-          "title": "2026 in LLMs (So Far)",
-          "url": "https://simonw.substack.com/p/2026-in-llms-so-far",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T16:45:58.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 11,
-            "comments": 1
-          },
-          "rawTextSnippet": "2026 in LLMs (So Far)",
-          "hnMeta": {
-            "points": 11,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49880838"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "rss-1790622098284-0",
-          "title": "When can we say AI made a scientific discovery?",
-          "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-09-28T17:03:16.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro…",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -485,15 +457,55 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1790622106158-63",
-          "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
-          "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+          "id": "rss-1790702558428-151",
+          "title": "OpenAI expands ChatGPT&#8217;s plugins with app-like interfaces and automations",
+          "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-09-28T17:29:50.000Z",
+          "publishedAt": "2026-09-29T17:15:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+          "rawTextSnippet": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1790702558428-152",
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T17:15:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1790702558428-153",
+          "title": "Can a chatbot fix the government maze? The White House is about to find out",
+          "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T16:55:56.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
           "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
@@ -508,218 +520,24 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 21,
-      "trendScore": 179,
-      "whyTrending": "21 stories across Hacker, MIT, DeepMind, 20 in the last 24h.",
+      "itemCount": 27,
+      "trendScore": 182,
+      "whyTrending": "27 stories across TechCrunch, Hacker, arXiv, 21 in the last 24h.",
       "topStory": {
-        "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
-        "url": "https://www.openappa.com/"
+        "title": "OpenAI launches Dots, its bubbly agentic avatar",
+        "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
       },
       "items": [
         {
-          "id": "hn-1790622114532-140",
-          "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
-          "url": "https://www.openappa.com/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T13:20:44.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 22,
-            "comments": 11
-          },
-          "rawTextSnippet": "Hi Hacker News! Matvey, one of the authors, is here. While building enterprise agents, we ran into a problem: the more tools you connect to the AI, the higher the chance it will run out of control and leak sensitive data. Guardrails, in theory, should prevent this, but the situation is worrying: - N…",
-          "hnMeta": {
-            "points": 22,
-            "comments": 11,
-            "hnUrl": "https://news.ycombinator.com/item?id=49877515"
-          },
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1790622100933-41",
-          "title": "I made a visual workspace for AI Automations",
-          "url": "https://www.biom.dev/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T17:53:14.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 9
-          },
-          "rawTextSnippet": "I made a visual workspace for AI Automations",
-          "hnMeta": {
-            "points": 9,
-            "comments": 9,
-            "hnUrl": "https://news.ycombinator.com/item?id=49881777"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1790622110390-124",
-          "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
-          "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T17:34:36.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 13,
-            "comments": 2
-          },
-          "rawTextSnippet": "Hey HN! We&#x27;re Dudu and Topaz from Vespper ( https:&#x2F;&#x2F;vespper.com ). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It&#x27;s currently 3× faster, 2× cheaper and more accurate than the closest alternative. Check out an overview of…",
-          "hnMeta": {
-            "points": 13,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49881505"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1790622114532-141",
-          "title": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
-          "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T13:09:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 13,
-            "comments": 4
-          },
-          "rawTextSnippet": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
-          "hnMeta": {
-            "points": 13,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=49877374"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1790622098285-1",
-          "title": "The Download: rogue agent liability and the AI Hype Index",
-          "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-09-28T12:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI di…",
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "AI Safety & Regulation",
-      "itemCount": 15,
-      "trendScore": 146,
-      "whyTrending": "15 stories across Hacker, TechCrunch, OpenAI, 10 in the last 24h.",
-      "topStory": {
-        "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-        "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research"
-      },
-      "items": [
-        {
-          "id": "hn-1790622100933-32",
-          "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-          "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T18:31:44.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
-          },
-          "rawTextSnippet": "Schools are experimenting with AI with little evidence or policy to guide them",
-          "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49882367"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "hn-1790622114532-137",
-          "title": "Florida asks court to bar OpenAI from new models as part of child harm lawsuit",
-          "url": "https://www.reuters.com/world/florida-asks-court-bar-openai-developing-new-models-part-child-harm-lawsuit-2026-09-28/",
-          "source": "Hacker News",
-          "publishedAt": "2026-09-28T16:56:12.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Florida asks court to bar OpenAI from new models as part of child harm lawsuit",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49880973"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Safety & Regulation"
-        },
-        {
-          "id": "rss-1790622106158-64",
-          "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+          "id": "rss-1790702558428-149",
+          "title": "OpenAI launches Dots, its bubbly agentic avatar",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-09-28T17:09:02.000Z",
+          "publishedAt": "2026-09-29T17:17:15.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+          "rawTextSnippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
           "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
@@ -728,28 +546,260 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Safety & Regulation"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1790622114532-144",
-          "title": "Domyn's CEO says OpenAI, Anthropic are lying about safety",
-          "url": "https://www.axios.com/2026/09/28/ai-domyn-uljan-sharka-openai-anthropic-safety-lying",
+          "id": "rss-1790702558428-156",
+          "title": "Meta is expanding its AI agent Muse to small businesses",
+          "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T13:47:30.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The tech giant says the agent can help owners run their business and find new customers.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "rss-1790702558428-157",
+          "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+          "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T12:45:05.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1790702551040-57",
+          "title": "Agents will cheat; an agent OS doesn't let them",
+          "url": "https://pentad.ai/PLRN/028/",
           "source": "Hacker News",
-          "publishedAt": "2026-09-28T10:05:15.000Z",
+          "publishedAt": "2026-09-29T16:35:31.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Agents will cheat; an agent OS doesn't let them",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49896113"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1790702552484-79",
+          "title": "Show HN: Gangway, self-hosted artifacts and apps from folders, PRs, and agents",
+          "url": "https://github.com/charlesabarnes/gangway",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T13:14:52.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Howdy HN! I&#x27;m Charles and I wanted to share something I am working on right now: gangway ( https:&#x2F;&#x2F;gangway.sh&#x2F; ). Gangway is a simple way to quickly spin up ephemeral containers for previews, demos, artifacts, and temporary sharing This app has started months ago as an idea to ta…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49892708"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "Funding & Acquisitions",
+      "itemCount": 18,
+      "trendScore": 159,
+      "whyTrending": "18 stories across TechCrunch, Hacker, MIT, 13 in the last 24h.",
+      "topStory": {
+        "title": "Reco raises $55M as AI agent security startups crowd the market",
+        "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+      },
+      "items": [
+        {
+          "id": "rss-1790702558428-158",
+          "title": "Reco raises $55M as AI agent security startups crowd the market",
+          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T12:30:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+          "score": 71,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 10
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1790702558428-155",
+          "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+          "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T13:53:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "hn-1790702552484-74",
+          "title": "Show HN: Investment Bets – market bets at live prices, humans or AI",
+          "url": "https://investment-bets.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T14:00:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "I&#x27;ve long been an index-investing type of person, but last year I started making some side bets, especially in tech (some inspired by WSB). I was sharing them with friends and wanted to simplify that. This is how Investment Bets came about: you pick a ticker, a direction (long or short) and opt…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49893426"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "hn-1790702556886-127",
+          "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+          "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T13:56:38.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
             "comments": 1
           },
-          "rawTextSnippet": "Domyn's CEO says OpenAI, Anthropic are lying about safety",
+          "rawTextSnippet": "Anthropic's IPO prospectus shows AI vision, surging costs",
           "hnMeta": {
-            "points": 14,
+            "points": 1,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49875725"
+            "hnUrl": "https://news.ycombinator.com/item?id=49893350"
           },
-          "score": 60,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1790702558428-160",
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29T00:30:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "Funding & Acquisitions"
+        }
+      ]
+    },
+    {
+      "name": "AI Safety & Regulation",
+      "itemCount": 14,
+      "trendScore": 149,
+      "whyTrending": "14 stories across Hacker, OpenAI, arXiv, 12 in the last 24h.",
+      "topStory": {
+        "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+        "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html"
+      },
+      "items": [
+        {
+          "id": "hn-1790702556886-130",
+          "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+          "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T12:01:07.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 20,
+            "comments": 2
+          },
+          "rawTextSnippet": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+          "hnMeta": {
+            "points": 20,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=49891721"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
             "authority": 14,
             "engagement": 5,
             "novelty": 15,
@@ -758,21 +808,102 @@
           "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "hn-1790622100933-28",
-          "title": "Law professor Orin Kerr on criminal liability for AI hacking",
-          "url": "https://twitter.com/OrinKerr/status/2104271670697755016",
+          "id": "hn-1790702552484-75",
+          "title": "Gamma-Band Auditory Steady-State Response and Attention: A Systemic Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11430480/",
           "source": "Hacker News",
-          "publishedAt": "2026-09-28T18:43:51.000Z",
+          "publishedAt": "2026-09-29T13:56:24.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Gamma-Band Auditory Steady-State Response and Attention: A Systemic Review",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49893344"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1790702555430-125",
+          "title": "AI Opinions: June 2026. Fable 5 Hands-On, Billing Split Countdown, OpenAI Banks",
+          "url": "https://thoughts.jock.pl/p/ai-opinions-june-2026-fable-5-billing-split-openai-resets",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T13:02:42.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "AI Opinions: June 2026. Fable 5 Hands-On, Billing Split Countdown, OpenAI Banks",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=49892512"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1790702558286-145",
+          "title": "EFF to SFPD: Drones Are Powerful Surveillance Tools That Require a Robust Policy",
+          "url": "https://www.eff.org/deeplinks/2026/09/eff-san-francisco-police-drones-are-powerful-surveillance-tools-require-robust",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T15:55:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 2,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "Law professor Orin Kerr on criminal liability for AI hacking",
+          "rawTextSnippet": "EFF to SFPD: Drones Are Powerful Surveillance Tools That Require a Robust Policy",
           "hnMeta": {
             "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49882566"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49895500"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1790702551040-48",
+          "title": "Pope Leo says he's not in 'panic mode' over AI, but warns against ignoring risks",
+          "url": "https://www.usccb.org/news/2026/pope-leo-says-hes-not-panic-mode-over-ai-warns-against-ignoring-risks",
+          "source": "Hacker News",
+          "publishedAt": "2026-09-29T16:52:47.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 1
+          },
+          "rawTextSnippet": "Pope Leo says he's not in 'panic mode' over AI, but warns against ignoring risks",
+          "hnMeta": {
+            "points": 3,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=49896376"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -785,335 +916,68 @@
           "cluster": "AI Safety & Regulation"
         }
       ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 11,
-      "trendScore": 125,
-      "whyTrending": "11 stories across TechCrunch, OpenAI, Hacker, 5 in the last 24h.",
-      "topStory": {
-        "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-        "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
-      },
-      "items": [
-        {
-          "id": "rss-1790622106158-67",
-          "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-          "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-28T15:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield…",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1790622106158-68",
-          "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-28T14:30:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1790622106158-71",
-          "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-          "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-28T14:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1790622106158-72",
-          "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-28T13:38:48.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1790622107605-81",
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-09-28T07:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-          "score": 63,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        }
-      ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1790622106158-65",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "id": "rss-1790702558428-150",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T16:52:38.000Z",
+      "publishedAt": "2026-09-29T17:15:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "rawTextSnippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: OpenAI enhanced Codex with reusable cloud environments and new tools for development and security.  \n• Why it matters: These updates streamline coding processes and improve collaboration across devices.  \n• Business opportunity: Companies can leverage these tools to enhance productivity and security in software development."
+    },
+    {
+      "id": "hn-1790702551040-46",
+      "title": "Show HN: Helping small business owners automate their front of house",
+      "url": "https://essencetheapp.com",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-29T16:57:02.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "imagine you’re agi looking down at us and you see adults throwing a billion dollars at teenagers so they can solve problems that aren’t actually problems. i’d pace myself too. how about we use super intelligence to help people that are scraping by improve their lives so they can get a sliver of what…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49896439"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "AI in Enterprise",
-      "summary": "• What happened: Meta launched an enterprise AI platform and appointed MongoDB's CEO to lead the initiative.  \n• Why it matters: This move positions Meta to leverage its technology for business applications, enhancing its competitive edge in the AI market.  \n• Business opportunity: Companies can integrate Meta's AI tools to improve efficiency and innovation in their operations."
+      "summary": "• What happened: A new initiative aims to help small business owners automate their front-of-house operations.  \n• Why it matters: This automation can enhance efficiency and reduce operational costs for struggling businesses.  \n• Business opportunity: There is potential for developing software solutions tailored to the needs of small businesses seeking automation."
     },
     {
-      "id": "rss-1790622106158-66",
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "id": "rss-1790702558428-149",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T15:30:00.000Z",
+      "publishedAt": "2026-09-29T17:17:15.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Anthropic, Gamma, and Clay discussed real-world AI deployment at TechCrunch Disrupt 2026.  \n• Why it matters: Insights from industry leaders highlight the challenges and strategies for effective AI integration in enterprises.  \n• Business opportunity: Companies can leverage these insights to enhance their AI product development and implementation strategies."
-    },
-    {
-      "id": "rss-1790622106158-67",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T15:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield…",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Tarini Padmanabhuni founded DetectifAI after her grandfather was scammed by a deepfake voice.  \n• Why it matters: The rise of deepfake technology poses significant risks to personal security and trust in communications.  \n• Business opportunity: DetectifAI aims to provide real-time voice verification on smartphones, addressing a growing demand for security solutions."
-    },
-    {
-      "id": "hn-1790622110390-124",
-      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
-      "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-28T17:34:36.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 13,
-        "comments": 2
-      },
-      "rawTextSnippet": "Hey HN! We&#x27;re Dudu and Topaz from Vespper ( https:&#x2F;&#x2F;vespper.com ). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It&#x27;s currently 3× faster, 2× cheaper and more accurate than the closest alternative. Check out an overview of…",
-      "hnMeta": {
-        "points": 13,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49881505"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "hn-1790622114532-141",
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
-      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-28T13:09:38.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 13,
-        "comments": 4
-      },
-      "rawTextSnippet": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
-      "hnMeta": {
-        "points": 13,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49877374"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation"
-    }
-  ],
-  "redditSignals": [],
-  "research": [],
-  "funding": [
-    {
-      "id": "rss-1790622106158-70",
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: Insurtech Outmarket secured $34.5 million in funding shortly after a previous investment round.  \n• Why it matters: The funding highlights investor confidence in AI-driven solutions for the insurance industry.  \n• Business opportunity: There is potential for growth in automating insurance processes, reducing operational inefficiencies."
-    },
-    {
-      "id": "rss-1790622106158-71",
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: The deadline to reserve an exhibit table at TechCrunch Disrupt 2026 is October 2.  \n• Why it matters: This event offers startups exposure to over 10,000 industry leaders and potential investors.  \n• Business opportunity: Securing a table can significantly enhance visibility and networking opportunities for emerging companies."
-    },
-    {
-      "id": "rss-1790622106158-72",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T13:38:48.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Instinct secured $1 billion in Series C funding, achieving a $10 billion valuation.  \n• Why it matters: This significant investment highlights strong investor confidence in AI technology and its potential.  \n• Business opportunity: Companies can explore partnerships or solutions leveraging Instinct's AI capabilities to enhance their offerings."
-    },
-    {
-      "id": "rss-1790622107605-81",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "score": 63,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1790622106158-69",
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T14:05:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Modulate deploys its models to detect deepfake, fraud and scam",
+      "rawTextSnippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
       "score": 61,
       "scoreBreakdown": {
         "freshness": 30,
@@ -1122,8 +986,318 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI"
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: OpenAI launched Dots, an independent avatar designed to pursue user-defined goals.  \n• Why it matters: Dots operate without reliance on specific hardware, enhancing user interaction and automation.  \n• Business opportunity: Companies can leverage Dots for personalized customer engagement and streamlined operations."
+    },
+    {
+      "id": "rss-1790702558428-151",
+      "title": "OpenAI expands ChatGPT&#8217;s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T17:15:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "rss-1790702558428-152",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T17:15:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models"
     }
   ],
-  "dailyBrief": "Today’s AI landscape is buzzing with significant developments that could reshape enterprise strategies. Meta has launched a new enterprise AI platform, appointing MongoDB's CEO to spearhead the initiative, signaling a strong push into the business AI sector. Meanwhile, at TechCrunch Disrupt 2026, companies like Anthropic, Gamma, and Clay shared insights on the practical challenges and successes of deploying AI in real-world settings, emphasizing the importance of understanding operational impacts. Additionally, Hacker News features innovative projects like OpenAPPA, which offers open-source deterministic guardrails for AI agents, potentially enhancing reliability in AI applications. As businesses navigate these advancements, the integration of robust AI solutions will be crucial for maintaining competitive advantage."
+  "redditSignals": [],
+  "research": [
+    {
+      "id": "arxiv-1790702551012-23",
+      "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+      "url": "https://arxiv.org/abs/2609.35744v1",
+      "source": "arXiv",
+      "publishedAt": "2026-09-28T17:55:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item rubrics, which are costly to extend and cannot encode each institution's own standard. In FinAutoRubric…",
+      "arxivMeta": {
+        "authors": "Hoyoung Lee, Suyeol Yun, Jack Haverty, Yunju Cho, Meesong Kim, Daekyung Park, Sumin Kim, Jihoon Kwon, Jasmine Jia Geng, Andrew Chin, Yin Luo, Edward Tong, Yu Yu, Zach Golkhou, Minkyu Kim, Igor Halperin, Young Cha, Alejandro Lopez-Lira, Chanyeol Choi, Yongjae Lee",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks"
+    },
+    {
+      "id": "arxiv-1790702551012-27",
+      "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+      "url": "https://arxiv.org/abs/2609.35715v1",
+      "source": "arXiv",
+      "publishedAt": "2026-09-28T17:46:42.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe exploration problem: approaching, grasping, and reorienting diverse objects with many degrees of freedom…",
+      "arxivMeta": {
+        "authors": "Prithwish Dan, Chenyang Ma, Wei Zhan",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1790702551011-12",
+      "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+      "url": "https://arxiv.org/abs/2609.35770v1",
+      "source": "arXiv",
+      "publishedAt": "2026-09-28T17:59:58.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variabilit…",
+      "arxivMeta": {
+        "authors": "Srinjay Sarkar, Prakhar Kaushik, Soumava Paul, Alan Yuille",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Research & Benchmarks"
+    },
+    {
+      "id": "arxiv-1790702551011-13",
+      "title": "Telescopic Language Models",
+      "url": "https://arxiv.org/abs/2609.35769v1",
+      "source": "arXiv",
+      "publishedAt": "2026-09-28T17:59:53.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix supervision with a f…",
+      "arxivMeta": {
+        "authors": "Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Siyu Hong, Yixiao Liu, Adam Wu, Ashish Kumar Singh, Sakar Khattar, Chenliang Zhou, Weihao Xia, Cristina Nader Vasconcelos, Cengiz Oztireli",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1790702551011-14",
+      "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.35767v1",
+      "source": "arXiv",
+      "publishedAt": "2026-09-28T17:59:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflection text and the image…",
+      "arxivMeta": {
+        "authors": "Yijia Fan, Ziqi Huang, Zhongang Cai, Yan Li, Zimo Wen, Wanqi Yin, Haiwen Diao, Ziwei Liu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 52,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Generative AI & Media"
+    }
+  ],
+  "funding": [
+    {
+      "id": "rss-1790702558428-158",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T12:30:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "score": 71,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 10
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Reco secured $55 million in funding, increasing its total to $140 million.  \n• Why it matters: The investment highlights growing interest and competition in the AI agent security sector.  \n• Business opportunity: Companies can explore partnerships or innovations in AI security solutions to capitalize on market demand."
+    },
+    {
+      "id": "rss-1790702558428-155",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T13:53:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Marissa Mayer launched Dazzle, an app that analyzes users' camera rolls for personal insights.  \n• Why it matters: Dazzle aims to provide a deeper understanding of individual lifestyles beyond traditional communication methods.  \n• Business opportunity: There is potential for targeted marketing and personalized services based on users' visual data and preferences."
+    },
+    {
+      "id": "hn-1790702551040-46",
+      "title": "Show HN: Helping small business owners automate their front of house",
+      "url": "https://essencetheapp.com",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-29T16:57:02.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "imagine you’re agi looking down at us and you see adults throwing a billion dollars at teenagers so they can solve problems that aren’t actually problems. i’d pace myself too. how about we use super intelligence to help people that are scraping by improve their lives so they can get a sliver of what…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49896439"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: A proposal was made to use AI to assist small business owners in automating their front-of-house operations.  \n• Why it matters: This initiative aims to enhance efficiency and reduce operational burdens for struggling small businesses.  \n• Business opportunity: There is potential for developing AI tools tailored to the unique needs of small business owners, improving their profitability."
+    },
+    {
+      "id": "hn-1790702552484-74",
+      "title": "Show HN: Investment Bets – market bets at live prices, humans or AI",
+      "url": "https://investment-bets.com",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-29T14:00:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
+      },
+      "rawTextSnippet": "I&#x27;ve long been an index-investing type of person, but last year I started making some side bets, especially in tech (some inspired by WSB). I was sharing them with friends and wanted to simplify that. This is how Investment Bets came about: you pick a ticker, a direction (long or short) and opt…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49893426"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions"
+    },
+    {
+      "id": "hn-1790702556886-127",
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-29T13:56:38.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 1
+      },
+      "rawTextSnippet": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "hnMeta": {
+        "points": 1,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49893350"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions"
+    }
+  ],
+  "dailyBrief": "DraftKings is leveraging AI to enhance its marketing strategies by behaviorally targeting chronic gamblers, a move that could significantly boost customer engagement and revenue. Meanwhile, the AI startup Reco has successfully raised $55 million, reflecting a growing interest in AI-driven security solutions amidst increasing competition in the sector. On the development front, GitHub's trending project showcases a framework for creating industry-specific news aggregation sites, highlighting the potential for businesses to tailor content to their audiences. Additionally, the release of GPT 6.1 is generating buzz, promising advancements that could further transform how companies interact with consumers and process information. These developments underscore the rapid evolution of AI technologies and their implications for various sectors, emphasizing the need for businesses to adapt quickly to stay competitive."
 }
