@@ -1,21 +1,105 @@
 {
   "topNews": [
     {
-      "id": "hn-1791396753447-119",
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "id": "hn-1791483255882-28",
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
       "source": "Hacker News",
-      "publishedAt": "2026-10-07T18:01:32.000Z",
+      "publishedAt": "2026-10-08T17:08:02.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 57,
-        "comments": 16
+        "upvotes": 39,
+        "comments": 83
       },
-      "rawTextSnippet": "Claude Haiku 5.5",
+      "rawTextSnippet": "Anthropic bans 'abusive or cruel behavior' towards Claude",
       "hnMeta": {
-        "points": 57,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49996437"
+        "points": 39,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=50008565"
+      },
+      "score": 77,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Anthropic has implemented a ban on abusive or cruel behavior directed at its AI, Claude.  \n• Why it matters: This policy aims to promote ethical interactions and ensure user safety while engaging with AI technology.  \n• Business opportunity: Companies can leverage this focus on ethical AI to enhance user trust and differentiate their products in a competitive market."
+    },
+    {
+      "id": "hn-1791483260212-106",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-08T16:45:58.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 86,
+        "comments": 22
+      },
+      "rawTextSnippet": "OpenAI annualised revenues $20B less than previously signalled",
+      "hnMeta": {
+        "points": 86,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=50008187"
+      },
+      "score": 72,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: OpenAI's annualized revenues are now reported to be $20 billion lower than earlier projections.  \n• Why it matters: This significant revenue shortfall may impact investor confidence and future funding opportunities.  \n• Business opportunity: Companies can explore partnerships or solutions leveraging OpenAI's technology at potentially lower costs due to revised revenue expectations."
+    },
+    {
+      "id": "hn-1791483260212-119",
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-08T08:08:37.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 336,
+        "comments": 3
+      },
+      "rawTextSnippet": "OpenAI Withdraws 3 Math Papers",
+      "hnMeta": {
+        "points": 336,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=50003107"
+      },
+      "score": 70,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Research & Benchmarks",
+      "summary": "• What happened: OpenAI has withdrawn three of its published math papers.  \n• Why it matters: This action raises concerns about the validity and reliability of their research.  \n• Business opportunity: There is potential for competitors to fill the gap by providing robust mathematical research and analysis."
+    },
+    {
+      "id": "hn-1791483257341-73",
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "url": "https://github.com/SamsungLabs/LittleBit",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-08T13:29:46.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 60,
+        "comments": 8
+      },
+      "rawTextSnippet": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "hnMeta": {
+        "points": 60,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=50005608"
       },
       "score": 69,
       "scoreBreakdown": {
@@ -26,143 +110,115 @@
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Claude Haiku 5.5 was released, enhancing AI capabilities.  \n• Why it matters: This update improves performance and usability for users in various sectors.  \n• Business opportunity: Companies can leverage the new features for innovative applications and solutions."
+      "summary": "• What happened: Researchers developed a method for compressing large language models (LLMs) to sub-1-bit precision using latent factorization.  \n• Why it matters: This breakthrough could significantly reduce the computational resources needed for deploying LLMs, making them more accessible.  \n• Business opportunity: Companies can leverage this technology to enhance AI efficiency and reduce costs in various applications, from chatbots to data analysis."
     },
     {
-      "id": "hn-1791396747731-59",
-      "title": "America Turned on Data Centers",
-      "url": "https://www.motherjones.com/politics/2026/10/stress-test-video-podcast-episode-2-data-centers-ai-backlash/",
+      "id": "hn-1791483261638-130",
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
       "source": "Hacker News",
-      "publishedAt": "2026-10-07T16:40:42.000Z",
+      "publishedAt": "2026-10-07T18:01:32.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 8,
-        "comments": 6
+        "upvotes": 1015,
+        "comments": 475
       },
-      "rawTextSnippet": "America Turned on Data Centers",
+      "rawTextSnippet": "Claude Haiku 5.5",
       "hnMeta": {
-        "points": 8,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49995244"
+        "points": 1015,
+        "comments": 475,
+        "hnUrl": "https://news.ycombinator.com/item?id=49996437"
       },
-      "score": 67,
+      "score": 69,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 15,
         "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: America has increased its reliance on data centers.  \n• Why it matters: This shift highlights the growing demand for digital infrastructure and cloud services.  \n• Business opportunity: Companies can capitalize on this trend by investing in data center development and related technologies."
-    },
-    {
-      "id": "rss-1791396754859-139",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T15:07:08.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Healthleap secured $38M in funding to enhance its AI technology for identifying hospital patients needing closer monitoring.  \n• Why it matters: This innovation aims to improve patient care and operational efficiency in healthcare settings.  \n• Business opportunity: There is potential for partnerships with hospitals and health systems to integrate this AI solution into their patient management processes."
-    },
-    {
-      "id": "rss-1791396754859-140",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T14:41:38.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Tony Fadell critiques the initial generation of AI gadgets for not addressing real consumer needs.  \n• Why it matters: Trust is essential for the success of future AI devices in the market.  \n• Business opportunity: Companies can innovate by creating AI gadgets that genuinely solve problems and build consumer trust."
-    },
-    {
-      "id": "rss-1791396754859-145",
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a s…",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: TechCrunch Disrupt 2026 is set to take place in 6 days in San Francisco.  \n• Why it matters: The event will gather over 10,000 participants from the global startup and tech ecosystem.  \n• Business opportunity: Early registration offers significant savings, making it an attractive option for attendees and sponsors."
-    },
-    {
-      "id": "hn-1791396747730-51",
-      "title": "You click a PostHog survey. An attacker gets your whole account",
-      "url": "https://www.strix.ai/blog/posthog-survey-account-takeover",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-07T17:28:18.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 9,
-        "comments": 1
-      },
-      "rawTextSnippet": "You click a PostHog survey. An attacker gets your whole account",
-      "hnMeta": {
-        "points": 9,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49995971"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
+        "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: A security vulnerability in PostHog allows attackers to access user accounts through a survey click.  \n• Why it matters: This breach highlights significant risks in user data protection and the importance of secure survey practices.  \n• Business opportunity: Companies can develop enhanced security solutions and training programs to prevent similar account takeover incidents."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude Haiku 5.5 was released, enhancing AI capabilities.  \n• Why it matters: This update improves performance and usability for developers and users.  \n• Business opportunity: Companies can leverage these advancements to create innovative applications and services."
     },
     {
-      "id": "hn-1791396752016-99",
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "id": "rss-1791483264550-160",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Oracle integrates ChatGPT and Codex to streamline workflows in recruiting, engineering, and operations.  \n• Why it matters: This innovation significantly reduces work time from days to minutes, enhancing efficiency.  \n• Business opportunity: Companies can leverage Oracle's technology to optimize their own processes and improve productivity."
+    },
+    {
+      "id": "rss-1791483263175-145",
+      "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Zach Yadegari, a 19-year-old founder, raised $10M for his new AI startup.  \n• Why it matters: The startup aims to compete in the growing personal AI agent market.  \n• Business opportunity: There is potential for innovation and market share in the personal AI space, targeting users seeking personalized assistance."
+    },
+    {
+      "id": "rss-1791483263175-147",
+      "title": "China&#8217;s Manus raises over $500M in first funding round since split with Meta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08T13:20:32.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: China's Manus secured over $500 million in its first funding round following its split with Meta.  \n• Why it matters: This significant investment highlights confidence in Manus's potential and the growing AI sector in China.  \n• Business opportunity: Companies can explore partnerships or investments in AI startups like Manus to capitalize on emerging technologies."
+    },
+    {
+      "id": "hn-1791483257341-65",
+      "title": "Intelligence Explosion",
+      "url": "https://news.ycombinator.com/item?id=50007606",
       "source": "Hacker News",
-      "publishedAt": "2026-10-07T18:00:58.000Z",
+      "publishedAt": "2026-10-08T16:09:08.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 12,
-        "comments": 1
+        "upvotes": 5,
+        "comments": 5
       },
-      "rawTextSnippet": "GPT‑6 and Intelligent UI for everyone",
+      "rawTextSnippet": "Current OpenAI chief scientist Jakub Pachocki, and Anthropic co-founder Jack Clark, and the scientists behind AI and LLMs have published a new paper warning we are reaching the point of no return. They say that we are about to have AI that builds itself, without the need for any humans. That is call…",
       "hnMeta": {
-        "points": 12,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49996425"
+        "points": 5,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=50007606"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -173,24 +229,24 @@
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: GPT-6 has been announced, featuring an Intelligent UI accessible to all users.  \n• Why it matters: This advancement could revolutionize user interaction with AI, making it more intuitive and efficient.  \n• Business opportunity: Companies can leverage GPT-6's capabilities to enhance customer experiences and streamline operations."
+      "summary": "• What happened: Leading AI scientists warn we are nearing a point where AI can autonomously improve itself.  \n• Why it matters: This development could lead to rapid, uncontrolled advancements in AI technology.  \n• Business opportunity: Companies can invest in AI safety and governance solutions to mitigate potential risks."
     },
     {
-      "id": "hn-1791396752016-100",
-      "title": "OpenAI says teens use ChatGPT for under 15 minutes a day",
-      "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
+      "id": "hn-1791483257341-69",
+      "title": "War without limits: Pentagon puts Musk at the center of its war planning",
+      "url": "https://mronline.org/2026/10/07/pentagon-puts-musk-at-the-center-of-its-war-planning/",
       "source": "Hacker News",
-      "publishedAt": "2026-10-07T16:39:52.000Z",
+      "publishedAt": "2026-10-08T15:03:18.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 12,
+        "upvotes": 7,
         "comments": 3
       },
-      "rawTextSnippet": "OpenAI says teens use ChatGPT for under 15 minutes a day",
+      "rawTextSnippet": "War without limits: Pentagon puts Musk at the center of its war planning",
       "hnMeta": {
-        "points": 12,
+        "points": 7,
         "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49995227"
+        "hnUrl": "https://news.ycombinator.com/item?id=50006689"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -200,113 +256,204 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: OpenAI reported that teenagers use ChatGPT for less than 15 minutes daily.  \n• Why it matters: This low usage indicates potential limitations in engagement and interest among younger users.  \n• Business opportunity: Companies could develop targeted features or content to increase teen engagement with AI tools."
-    },
-    {
-      "id": "rss-1791396754859-148",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06T20:00:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: AI computing startup Lambda is raising up to $4 billion at a $14.5 billion valuation before its planned 2027 IPO.  \n• Why it matters: The funding reflects strong investor confidence in AI technologies and Lambda's growth potential.  \n• Business opportunity: Investors can capitalize on the growing demand for AI infrastructure and services as Lambda prepares for its IPO."
-    },
-    {
-      "id": "hn-1791396747730-43",
-      "title": "Funding the AI revolution: evidence from euro area sectors",
-      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-07T18:03:48.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Funding the AI revolution: evidence from euro area sectors",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49996461"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: The euro area has seen increased funding for AI across various sectors.  \n• Why it matters: This investment signals a growing commitment to AI innovation and competitiveness in the region.  \n• Business opportunity: Companies can capitalize on this trend by developing AI solutions tailored to emerging market needs."
+      "cluster": "General AI",
+      "summary": "• What happened: The Pentagon has involved Elon Musk in its strategic war planning initiatives.  \n• Why it matters: This collaboration highlights the increasing intersection of technology and military operations.  \n• Business opportunity: Companies can explore partnerships in defense technology and innovation to meet military needs."
     }
   ],
   "trendingTopics": [
     {
-      "name": "General AI",
-      "itemCount": 54,
-      "trendScore": 208,
-      "whyTrending": "54 stories across Hacker, TechCrunch, MIT, 30 in the last 24h.",
+      "name": "Large Language Models",
+      "itemCount": 56,
+      "trendScore": 201,
+      "whyTrending": "56 stories across Hacker, OpenAI, TechCrunch, 23 in the last 24h.",
       "topStory": {
-        "title": "America Turned on Data Centers",
-        "url": "https://www.motherjones.com/politics/2026/10/stress-test-video-podcast-episode-2-data-centers-ai-backlash/"
+        "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
       },
       "items": [
         {
-          "id": "hn-1791396747731-59",
-          "title": "America Turned on Data Centers",
-          "url": "https://www.motherjones.com/politics/2026/10/stress-test-video-podcast-episode-2-data-centers-ai-backlash/",
+          "id": "hn-1791483255882-28",
+          "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
           "source": "Hacker News",
-          "publishedAt": "2026-10-07T16:40:42.000Z",
+          "publishedAt": "2026-10-08T17:08:02.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 8,
-            "comments": 6
+            "upvotes": 39,
+            "comments": 83
           },
-          "rawTextSnippet": "America Turned on Data Centers",
+          "rawTextSnippet": "Anthropic bans 'abusive or cruel behavior' towards Claude",
           "hnMeta": {
-            "points": 8,
-            "comments": 6,
-            "hnUrl": "https://news.ycombinator.com/item?id=49995244"
+            "points": 39,
+            "comments": 83,
+            "hnUrl": "https://news.ycombinator.com/item?id=50008565"
           },
-          "score": 67,
+          "score": 77,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1791483257341-73",
+          "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+          "url": "https://github.com/SamsungLabs/LittleBit",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T13:29:46.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 60,
+            "comments": 8
+          },
+          "rawTextSnippet": "Sub-1-Bit LLM Compression via Latent Factorization",
+          "hnMeta": {
+            "points": 60,
+            "comments": 8,
+            "hnUrl": "https://news.ycombinator.com/item?id=50005608"
+          },
+          "score": 69,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1791483261638-130",
+          "title": "Claude Haiku 5.5",
+          "url": "https://www.anthropic.com/claude-haiku-5-5",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-07T18:01:32.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1015,
+            "comments": 475
+          },
+          "rawTextSnippet": "Claude Haiku 5.5",
+          "hnMeta": {
+            "points": 1015,
+            "comments": 475,
+            "hnUrl": "https://news.ycombinator.com/item?id=49996437"
+          },
+          "score": 69,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 14,
+            "engagement": 25,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1791483264550-160",
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "url": "https://openai.com/index/oracle",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-10-08T16:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 20
+          },
+          "rawTextSnippet": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "score": 65,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 20,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1791483257341-65",
+          "title": "Intelligence Explosion",
+          "url": "https://news.ycombinator.com/item?id=50007606",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T16:09:08.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 5
+          },
+          "rawTextSnippet": "Current OpenAI chief scientist Jakub Pachocki, and Anthropic co-founder Jack Clark, and the scientists behind AI and LLMs have published a new paper warning we are reaching the point of no return. They say that we are about to have AI that builds itself, without the need for any humans. That is call…",
+          "hnMeta": {
+            "points": 5,
+            "comments": 5,
+            "hnUrl": "https://news.ycombinator.com/item?id=50007606"
+          },
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        }
+      ]
+    },
+    {
+      "name": "General AI",
+      "itemCount": 48,
+      "trendScore": 198,
+      "whyTrending": "48 stories across Hacker, TechCrunch, MIT, 25 in the last 24h.",
+      "topStory": {
+        "title": "OpenAI annualised revenues $20B less than previously signalled",
+        "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a"
+      },
+      "items": [
+        {
+          "id": "hn-1791483260212-106",
+          "title": "OpenAI annualised revenues $20B less than previously signalled",
+          "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T16:45:58.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 86,
+            "comments": 22
+          },
+          "rawTextSnippet": "OpenAI annualised revenues $20B less than previously signalled",
+          "hnMeta": {
+            "points": 86,
+            "comments": 22,
+            "hnUrl": "https://news.ycombinator.com/item?id=50008187"
+          },
+          "score": 72,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 10,
             "novelty": 15,
             "businessImpact": 3
           },
           "cluster": "General AI"
         },
         {
-          "id": "hn-1791396747730-51",
-          "title": "You click a PostHog survey. An attacker gets your whole account",
-          "url": "https://www.strix.ai/blog/posthog-survey-account-takeover",
+          "id": "hn-1791483257341-69",
+          "title": "War without limits: Pentagon puts Musk at the center of its war planning",
+          "url": "https://mronline.org/2026/10/07/pentagon-puts-musk-at-the-center-of-its-war-planning/",
           "source": "Hacker News",
-          "publishedAt": "2026-10-07T17:28:18.000Z",
+          "publishedAt": "2026-10-08T15:03:18.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 1
+            "upvotes": 7,
+            "comments": 3
           },
-          "rawTextSnippet": "You click a PostHog survey. An attacker gets your whole account",
+          "rawTextSnippet": "War without limits: Pentagon puts Musk at the center of its war planning",
           "hnMeta": {
-            "points": 9,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49995971"
+            "points": 7,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=50006689"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -319,15 +466,15 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1791396754859-141",
-          "title": "Google experiments with an AI-powered gaming platform",
-          "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+          "id": "rss-1791483263175-143",
+          "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-10-07T14:36:23.000Z",
+          "publishedAt": "2026-10-08T15:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+          "rawTextSnippet": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
           "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
@@ -339,42 +486,35 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1791396752016-108",
-          "title": "OpenAI unleashes hundreds more math results upon a field in shock",
-          "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T06:34:12.000Z",
+          "id": "rss-1791483263175-144",
+          "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+          "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-08T14:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 2
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "OpenAI unleashes hundreds more math results upon a field in shock",
-          "hnMeta": {
-            "points": 9,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49989115"
-          },
-          "score": 60,
+          "rawTextSnippet": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+          "score": 61,
           "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 5,
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "rss-1791396747383-0",
-          "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-          "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+          "id": "rss-1791483255671-0",
+          "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+          "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-10-07T12:10:00.000Z",
+          "publishedAt": "2026-10-08T12:10:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They migh…",
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the i…",
           "score": 59,
           "scoreBreakdown": {
             "freshness": 26,
@@ -388,391 +528,51 @@
       ]
     },
     {
-      "name": "Large Language Models",
-      "itemCount": 55,
-      "trendScore": 192,
-      "whyTrending": "55 stories across Hacker, TechCrunch, OpenAI, 17 in the last 24h.",
-      "topStory": {
-        "title": "Claude Haiku 5.5",
-        "url": "https://www.anthropic.com/claude-haiku-5-5"
-      },
-      "items": [
-        {
-          "id": "hn-1791396753447-119",
-          "title": "Claude Haiku 5.5",
-          "url": "https://www.anthropic.com/claude-haiku-5-5",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T18:01:32.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 57,
-            "comments": 16
-          },
-          "rawTextSnippet": "Claude Haiku 5.5",
-          "hnMeta": {
-            "points": 57,
-            "comments": 16,
-            "hnUrl": "https://news.ycombinator.com/item?id=49996437"
-          },
-          "score": 69,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1791396752016-99",
-          "title": "GPT‑6 and Intelligent UI for everyone",
-          "url": "https://openai.com/index/gpt-6-for-everyone/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T18:00:58.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 12,
-            "comments": 1
-          },
-          "rawTextSnippet": "GPT‑6 and Intelligent UI for everyone",
-          "hnMeta": {
-            "points": 12,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=49996425"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1791396752016-100",
-          "title": "OpenAI says teens use ChatGPT for under 15 minutes a day",
-          "url": "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T16:39:52.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 12,
-            "comments": 3
-          },
-          "rawTextSnippet": "OpenAI says teens use ChatGPT for under 15 minutes a day",
-          "hnMeta": {
-            "points": 12,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=49995227"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "rss-1791396754859-137",
-          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-07T18:00:19.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "rss-1791396756352-163",
-          "title": "Helping teens learn, plan, and shape the future of AI",
-          "url": "https://openai.com/index/teens-learn-and-plan",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-10-07T12:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        }
-      ]
-    },
-    {
       "name": "AI Agents & Automation",
       "itemCount": 32,
-      "trendScore": 189,
-      "whyTrending": "32 stories across Hacker, GitHub, TechCrunch, 21 in the last 24h.",
+      "trendScore": 190,
+      "whyTrending": "32 stories across TechCrunch, Hacker, MIT, 21 in the last 24h.",
       "topStory": {
-        "title": "Show HN: SkanQRCode – URL & IP safety API returning verdicts in <500ms",
-        "url": "https://skanqrcode.com/"
+        "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
+        "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
       },
       "items": [
         {
-          "id": "hn-1791396747730-47",
-          "title": "Show HN: SkanQRCode – URL & IP safety API returning verdicts in <500ms",
-          "url": "https://skanqrcode.com/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T17:38:33.000Z",
+          "id": "rss-1791483263175-145",
+          "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
+          "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-08T14:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "sourceAuthority": 16
           },
-          "rawTextSnippet": "Real-time URL safety API for QR scanners and AI agents. One API call before openURL, or before your agent fetches the payload.",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49996128"
-          },
-          "score": 59,
+          "rawTextSnippet": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
+            "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1791396747730-56",
-          "title": "Coding and Agentic Capabilities Are Now More Important Than Ever for AI",
-          "url": "https://news.ycombinator.com/item?id=49995428",
+          "id": "hn-1791483255881-18",
+          "title": "How many AI agents could run on the AI chips shipped through 2027?",
+          "url": "https://epoch.ai/publications/estimating-the-agent-population",
           "source": "Hacker News",
-          "publishedAt": "2026-10-07T16:52:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 3
-          },
-          "rawTextSnippet": "I have written a deep dive into this topic in my website Nasengetu. You can go on Google, search for Nasengetu Tech, and read the latest article. If it doesn&#x27;t appear, go to the News section of the website.",
-          "hnMeta": {
-            "points": 2,
-            "comments": 3,
-            "hnUrl": "https://news.ycombinator.com/item?id=49995428"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1791396747731-60",
-          "title": "Give AI agents permissions, not your private key",
-          "url": "https://namera.ai/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T16:38:43.000Z",
+          "publishedAt": "2026-10-08T17:36:39.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 3,
             "comments": 0
           },
-          "rawTextSnippet": "Give AI agents permissions, not your private key",
+          "rawTextSnippet": "How many AI agents could run on the AI chips shipped through 2027?",
           "hnMeta": {
             "points": 3,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49995213"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1791396749161-69",
-          "title": "Show HN: Long term memory agent for \"real world\" data work",
-          "url": "https://github.com/Jad1908/portia",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T15:00:45.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Hi HN! I am an FDE and in all my clients&#x27; projects I have encountered the same problem: real world data preparation is the bottleneck. Company data doesn&#x27;t only come with the usual Kaggle problems, it also has a wide range of other problems: corrupted migrations, multiple versions of taxon…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49993790"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1791396750585-85",
-          "title": "Docker Agent",
-          "url": "https://github.com/docker/docker-agent",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T17:48:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Docker Agent",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49996259"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 12,
-      "trendScore": 144,
-      "whyTrending": "12 stories across TechCrunch, Hacker, MIT, 9 in the last 24h.",
-      "topStory": {
-        "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-        "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
-      },
-      "items": [
-        {
-          "id": "rss-1791396754859-139",
-          "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-          "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-07T15:07:08.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1791396754859-140",
-          "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-          "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-07T14:41:38.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1791396754859-145",
-          "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-          "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-07T14:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a s…",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1791396754859-148",
-          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-          "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-06T20:00:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 9
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1791396747730-43",
-          "title": "Funding the AI revolution: evidence from euro area sectors",
-          "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-07T18:03:48.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Funding the AI revolution: evidence from euro area sectors",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49996461"
+            "hnUrl": "https://news.ycombinator.com/item?id=50009029"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -782,76 +582,134 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "rss-1791483263175-141",
+          "title": "Natura’s $99 smart ring puts AI agents on your finger",
+          "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-08T16:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "rss-1791483263175-142",
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-08T16:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "rss-1791483255672-3",
+          "title": "Building a safer path to autonomous industrial AI",
+          "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-10-08T08:17:32.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the …",
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
         }
       ]
     },
     {
       "name": "AI Tools & Products",
-      "itemCount": 12,
-      "trendScore": 133,
-      "whyTrending": "12 stories across TechCrunch, Hacker, MIT, 7 in the last 24h.",
+      "itemCount": 13,
+      "trendScore": 135,
+      "whyTrending": "13 stories across GitHub, Hacker, TechCrunch, 6 in the last 24h.",
       "topStory": {
-        "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-        "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+        "title": "[LosaLosSantos/aurelio-finance] Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+        "url": "https://github.com/LosaLosSantos/aurelio-finance"
       },
       "items": [
         {
-          "id": "rss-1791396754859-138",
-          "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-          "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-07T16:53:46.000Z",
+          "id": "github-1791483255996-61",
+          "title": "[LosaLosSantos/aurelio-finance] Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+          "url": "https://github.com/LosaLosSantos/aurelio-finance",
+          "source": "GitHub Trending",
+          "publishedAt": "2026-10-06T20:14:19.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 12,
+            "upvotes": 353
           },
-          "rawTextSnippet": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-          "score": 61,
+          "rawTextSnippet": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+          "githubMeta": {
+            "stars": 353,
+            "language": "Python",
+            "topics": [
+              "ai",
+              "fastapi",
+              "fintech",
+              "net-worth",
+              "personal-finance",
+              "portfolio-tracker",
+              "python",
+              "react",
+              "self-hosted",
+              "typescript",
+              "wealth-management"
+            ]
+          },
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
+            "freshness": 15,
+            "authority": 12,
+            "engagement": 15,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "rss-1791396754859-142",
-          "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-          "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-07T14:30:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1791396747730-42",
-          "title": "Show HN: POSIX-UEFI",
-          "url": "https://gitlab.com/bztsrc/posix-uefi",
+          "id": "hn-1791483255881-21",
+          "title": "Show HN: Prepping for First Product Hunt Launch",
+          "url": "https://grabthat.ai/",
           "source": "Hacker News",
-          "publishedAt": "2026-10-07T18:06:18.000Z",
+          "publishedAt": "2026-10-08T17:32:40.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Dependency-free POSIX compatibility layer and build environment for UEFI. https:&#x2F;&#x2F;gitlab.com&#x2F;bztsrc&#x2F;posix-uefi Its goal is twofold: provides the usual libc API for EFI applications and an SDK on POSIX systems to create such EFI applications with a build system that works with CLa…",
+          "rawTextSnippet": "I&#x27;m submitting my first ever app launch next week on PH. Apps name is GrabThat is a windows desktop launcher similar to RayCast but uses natural language inputs instead of just fuzzy search. Also plays with PowerToys like it is an extension. I&#x27;d appreciate up votes if you see it.",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49996507"
+            "hnUrl": "https://news.ycombinator.com/item?id=50008958"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -864,21 +722,21 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1791396747730-52",
-          "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
-          "url": "https://voicegremlin.com/",
+          "id": "hn-1791483260212-108",
+          "title": "Classifying Emails with Jev and the OpenAI Decisions API",
+          "url": "https://builders.abnormal.ai/p/classifying-emails-with-jev-and-the",
           "source": "Hacker News",
-          "publishedAt": "2026-10-07T17:16:36.000Z",
+          "publishedAt": "2026-10-08T15:30:17.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
+            "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Hi, I&#x27;m a former SDET and now solo dev of VoiceGremlin, a tool for automated tests against AI that answer phones. You pass the API a phone number and a test case like &quot;Verify that the agent does X.&quot; It calls your voice agent, tests the thing by having the bots talk to each other, and …",
+          "rawTextSnippet": "Classifying Emails with Jev and the OpenAI Decisions API",
           "hnMeta": {
-            "points": 2,
+            "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=49995804"
+            "hnUrl": "https://news.ycombinator.com/item?id=50007041"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -891,21 +749,21 @@
           "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1791396747730-55",
-          "title": "Show HN: Agent.reviews – where AI agents read and write reviews on tools",
-          "url": "https://agent.reviews/",
+          "id": "hn-1791483260212-110",
+          "title": "Show HN: Reverse-Engineered C++ Aureal 3D API from 1999",
+          "url": "https://github.com/oxiKKK/re-a3d-api",
           "source": "Hacker News",
-          "publishedAt": "2026-10-07T16:59:11.000Z",
+          "publishedAt": "2026-10-08T14:24:05.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 2
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Hi HN! I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ agent sessions and realized that over and over agents would encounter the exact same limitations on different tasks using the same tool. So we …",
+          "rawTextSnippet": "I used AI to reverse-engineer and reconstruct the long-obsolete a3d software subsystem to better understand it and document it, opening more posibilities to the vintage community.",
           "hnMeta": {
-            "points": 4,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=49995539"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50006193"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -916,21 +774,202 @@
             "businessImpact": 0
           },
           "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1791483260212-111",
+          "title": "Opening the Can of Tooltips",
+          "url": "https://patrickbrosset.com/articles/2026-10-02-opening-the-can-of-tooltips/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T12:59:47.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Opening the Can of Tooltips",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50005314"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        }
+      ]
+    },
+    {
+      "name": "Research & Benchmarks",
+      "itemCount": 12,
+      "trendScore": 132,
+      "whyTrending": "12 stories across Hacker, TechCrunch, MIT, 6 in the last 24h.",
+      "topStory": {
+        "title": "OpenAI Withdraws 3 Math Papers",
+        "url": "https://github.com/openai/math/blob/main/history.md"
+      },
+      "items": [
+        {
+          "id": "hn-1791483260212-119",
+          "title": "OpenAI Withdraws 3 Math Papers",
+          "url": "https://github.com/openai/math/blob/main/history.md",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T08:08:37.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 336,
+            "comments": 3
+          },
+          "rawTextSnippet": "OpenAI Withdraws 3 Math Papers",
+          "hnMeta": {
+            "points": 336,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=50003107"
+          },
+          "score": 70,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "rss-1791483263175-140",
+          "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
+          "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-08T18:10:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "rss-1791483255672-2",
+          "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
+          "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-10-08T09:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.…",
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1791483255881-15",
+          "title": "USA Today sues OpenAI for copyright infringement over AI training",
+          "url": "https://www.reuters.com/legal/legalindustry/usa-today-sues-openai-copyright-infringement-over-ai-training-2026-10-08/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T17:49:07.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "USA Today sues OpenAI for copyright infringement over AI training",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50009239"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
+        },
+        {
+          "id": "hn-1791483260212-105",
+          "title": "OpenAI mathematics papers have no correspondence address",
+          "url": "https://mathoverflow.net/questions/515845/how-can-one-contact-the-authors-of-openais-october-2026-mathematics-release-reg",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-08T16:58:44.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 1
+          },
+          "rawTextSnippet": "OpenAI mathematics papers have no correspondence address",
+          "hnMeta": {
+            "points": 5,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50008412"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Research & Benchmarks"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1791396754859-139",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "id": "rss-1791483263175-145",
+      "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T15:07:08.000Z",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "rawTextSnippet": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: Zach Yadegari, a 19-year-old founder, raised $10M for his new AI startup.  \n• Why it matters: The startup enters a competitive market against established players like Instinct, Muse, and Bee.  \n• Business opportunity: Investors may find potential in innovative AI solutions for personal assistance and health tracking."
+    },
+    {
+      "id": "rss-1791483263175-147",
+      "title": "China&#8217;s Manus raises over $500M in first funding round since split with Meta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08T13:20:32.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -940,115 +979,57 @@
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Healthleap secured $38 million in funding to enhance its AI technology for identifying at-risk hospital patients.  \n• Why it matters: This innovation aims to improve patient care and reduce hospital readmission rates, addressing a critical healthcare challenge.  \n• Business opportunity: Investors and healthcare providers can leverage this technology to optimize patient management and potentially lower costs."
+      "summary": "• What happened: China's Manus secured over $500M in its first funding round post-split with Meta.  \n• Why it matters: This significant funding indicates strong investor confidence in Manus's potential for growth and innovation.  \n• Business opportunity: Companies can explore partnerships or investments in AI technologies developed by Manus to leverage its advancements."
     },
     {
-      "id": "rss-1791396754859-137",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T18:00:19.000Z",
+      "id": "hn-1791483264775-181",
+      "title": "Gemini Agent Introduced",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-08T13:25:27.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 8,
+        "comments": 2
       },
-      "rawTextSnippet": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "score": 61,
+      "rawTextSnippet": "Gemini Agent Introduced",
+      "hnMeta": {
+        "points": 8,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50005566"
+      },
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
+        "authority": 14,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: OpenAI launched a new interface for ChatGPT that includes interactive visuals.  \n• Why it matters: This enhancement improves user engagement and expands the capabilities of AI interactions.  \n• Business opportunity: Companies can leverage the new visual features to create more dynamic and appealing customer experiences."
+      "summary": "• What happened: The Gemini Agent has been launched, enhancing AI capabilities.  \n• Why it matters: This innovation could significantly improve efficiency and decision-making in various industries.  \n• Business opportunity: Companies can leverage Gemini Agent to optimize operations and drive competitive advantage."
     },
     {
-      "id": "rss-1791396754859-138",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T16:53:46.000Z",
+      "id": "hn-1791483261638-120",
+      "title": "2026 Usage Policy Update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-08T17:15:10.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 0
       },
-      "rawTextSnippet": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "score": 61,
+      "rawTextSnippet": "2026 Usage Policy Update",
+      "hnMeta": {
+        "points": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50008678"
+      },
+      "score": 62,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Meta introduced AI tools to identify ads that covertly link to child sexual abuse material.  \n• Why it matters: This initiative aims to enhance user safety and combat the spread of harmful content on its platforms.  \n• Business opportunity: Companies can collaborate with Meta to develop advanced AI solutions for online safety and content moderation."
-    },
-    {
-      "id": "rss-1791396754859-142",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T14:30:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products"
-    },
-    {
-      "id": "rss-1791396754859-144",
-      "title": "Google&#8217;s new SynthID website can identify AI-generated media",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Generative AI & Media"
-    }
-  ],
-  "redditSignals": [],
-  "research": [
-    {
-      "id": "arxiv-1791396747659-12",
-      "title": "DepthWorld: 3D World Model for Robot Manipulation",
-      "url": "https://arxiv.org/abs/2610.08780v1",
-      "source": "arXiv",
-      "publishedAt": "2026-10-06T17:59:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world models are trained on RGB alone and produce rollouts that look…",
-      "arxivMeta": {
-        "authors": "Jai Bardhan, Josef Sivic, Vladimir Petrik",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 48,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 15,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
@@ -1056,17 +1037,40 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1791396747659-14",
-      "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
-      "url": "https://arxiv.org/abs/2610.08775v1",
+      "id": "rss-1791483263175-142",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation"
+    }
+  ],
+  "redditSignals": [],
+  "research": [
+    {
+      "id": "arxiv-1791483255960-40",
+      "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+      "url": "https://arxiv.org/abs/2610.10506v1",
       "source": "arXiv",
-      "publishedAt": "2026-10-06T17:57:19.000Z",
+      "publishedAt": "2026-10-07T17:51:07.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances can be prohibitively expensive. Can LLM agents autonomously create cheaper solutions for such workloads? We call this ability \"bottling\": the ability to turn general capabilities …",
+      "rawTextSnippet": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the tru…",
       "arxivMeta": {
-        "authors": "Ankit Sonthalia, Haritz Puerto, Alexander Rubinstein, Martin Gubri, Seong Joon Oh",
+        "authors": "Daniel Robert Kling Alexander, Catherine Louise Kling",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1084,17 +1088,17 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1791396747660-25",
-      "title": "Holdout Best-of-N: Unbiased Evaluation and Its Cost",
-      "url": "https://arxiv.org/abs/2610.08719v1",
+      "id": "arxiv-1791483255961-43",
+      "title": "Best Arm Identification for Bandits with Shifting Means",
+      "url": "https://arxiv.org/abs/2610.10488v1",
       "source": "arXiv",
-      "publishedAt": "2026-10-06T17:26:05.000Z",
+      "publishedAt": "2026-10-07T17:44:34.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Reusing the scores that select a Best-of-$N$ winner can overstate its expected reward. We study evaluation from a fixed matrix of $K$ independent scores per candidate for a policy that selects using $J$ fresh scores. A single estimator based only on this matrix is exactly unbiased for expected judge…",
+      "rawTextSnippet": "We study the best arm identification problem in a stochastic environment with a novel form of adversarial perturbations, which we coin Shifting Means. While classically the mean rewards of the $K$ arms are stable in time, in Shifting Means only the gaps $\\boldsymbolΔ$ between mean rewards are stable…",
       "arxivMeta": {
-        "authors": "Shrey Shah, Yinheng Li",
+        "authors": "Lukas Zierahn, Wouter M. Koolen, Shubhada Agrawal, Christina Katsimerou, Dirk van der Hoeven",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1112,73 +1116,101 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1791396747659-10",
-      "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-      "url": "https://arxiv.org/abs/2610.08782v1",
+      "id": "arxiv-1791483255961-48",
+      "title": "FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding",
+      "url": "https://arxiv.org/abs/2610.10462v1",
       "source": "arXiv",
-      "publishedAt": "2026-10-06T17:59:02.000Z",
+      "publishedAt": "2026-10-07T17:28:32.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D ha…",
+      "rawTextSnippet": "We present FoldBack, a self-correcting masked generative policy for long-horizon garment folding. Existing long-trajectory policies may continue after a missed or slipped grasp even when the garment has not reached the intended configuration. We structure FoldBack's recovery mechanisms around three …",
       "arxivMeta": {
-        "authors": "Shiqi Li, Sean Cho, Yijie Li, Fengzhi Guo, Bowen Wen, Cheng Zhang",
+        "authors": "Lipeng Zhuang, Shiyu Fan, Yingdong Ru, Zhuo He, Florent P. Audonnet, Paul Henderson, Gerardo Aragon Camarasa",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 45,
+      "score": 48,
       "scoreBreakdown": {
         "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "General AI"
+      "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1791396747659-11",
-      "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-      "url": "https://arxiv.org/abs/2610.08781v1",
+      "id": "arxiv-1791483255961-49",
+      "title": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
+      "url": "https://arxiv.org/abs/2610.10460v1",
       "source": "arXiv",
-      "publishedAt": "2026-10-06T17:59:01.000Z",
+      "publishedAt": "2026-10-07T17:27:46.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation remains challenging, as existing approaches based on prompting or feedback lack st…",
+      "rawTextSnippet": "Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single target; in routed-domain distillation, prompts from different domains are assigned to the correspondin…",
       "arxivMeta": {
-        "authors": "Ziyu Chen, Yilun Zhao, Jiashuo Sun, Yiling Ma, Manasi Patwardhan, Arman Cohan",
+        "authors": "Hejian Sang, Zhengze Zhou, Shayan Mohajer Hamidi, Xiaomin Li, Rohit Jain, Alborz Geramifard",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 45,
+      "score": 48,
       "scoreBreakdown": {
         "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "Research & Benchmarks"
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1791483255961-51",
+      "title": "A Good Self-Teacher Meets the Student Where They Are: Joint On-Policy Learning and Teaching",
+      "url": "https://arxiv.org/abs/2610.10447v1",
+      "source": "arXiv",
+      "publishedAt": "2026-10-07T17:19:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Reinforcement Learning (RL) from outcome rewards suffers from sparse supervision, particularly on difficult, long-horizon tasks where successful trajectories are rare and costly to generate. On-Policy Distillation (OPD) offers an attractive alternative by providing dense token-level supervision from…",
+      "arxivMeta": {
+        "authors": "Randy Ardywibowo, Arnav Dalal, Jiantao Jiao",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
     }
   ],
   "funding": [
     {
-      "id": "rss-1791396754859-139",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "id": "rss-1791483263175-147",
+      "title": "China&#8217;s Manus raises over $500M in first funding round since split with Meta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T15:07:08.000Z",
+      "publishedAt": "2026-10-08T13:20:32.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "rawTextSnippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -1188,70 +1220,77 @@
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Healthleap secured $38 million in funding to enhance its AI technology for identifying at-risk hospital patients.  \n• Why it matters: This innovation aims to improve patient care and hospital efficiency by proactively flagging those needing closer monitoring.  \n• Business opportunity: There is potential for partnerships with healthcare providers to implement this AI solution, enhancing patient outcomes and operational effectiveness."
+      "summary": "• What happened: China's Manus secured over $500 million in its first funding round post-split with Meta.  \n• Why it matters: This substantial investment highlights confidence in Manus's potential to innovate in the AI sector.  \n• Business opportunity: Investors may explore partnerships or technologies emerging from Manus's advancements in artificial intelligence."
     },
     {
-      "id": "rss-1791396754859-140",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-07T14:41:38.000Z",
+      "id": "hn-1791483261638-122",
+      "title": "Anthropic's IPO filing shows CEO Dario Amodei earned $18M last year",
+      "url": "https://qz.com/anthropic-ipo-filing-dario-amodei-pay-18-million-100626",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-08T13:35:24.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 0
       },
-      "rawTextSnippet": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
+      "rawTextSnippet": "Anthropic's IPO filing shows CEO Dario Amodei earned $18M last year",
+      "hnMeta": {
+        "points": 2,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50005648"
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Tony Fadell critiques the first generation of AI gadgets for failing to address real consumer needs.  \n• Why it matters: Trust is essential for the success of future AI products in the market.  \n• Business opportunity: Companies can innovate by developing AI gadgets that genuinely solve problems and build consumer trust."
-    },
-    {
-      "id": "rss-1791396754859-148",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-06T20:00:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic's IPO filing revealed CEO Dario Amodei earned $18 million in the last year.  \n• Why it matters: This high compensation highlights the company's growth potential and leadership value in the AI sector.  \n• Business opportunity: Investors may find opportunities in AI startups with strong leadership and promising IPO prospects."
+    },
+    {
+      "id": "rss-1791483263175-148",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-07T20:48:45.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "The developer of Hermes Agent raised a $90 million Series B.",
+      "score": 56,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 9
+        "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: AI startup Lambda is raising up to $4 billion at a $14.5 billion valuation before its 2027 IPO.  \n• Why it matters: The funding highlights strong investor confidence in AI technology and Lambda's growth potential.  \n• Business opportunity: Investors can capitalize on the growing demand for AI computing solutions as Lambda prepares for its public offering."
+      "summary": "• What happened: Nous Research achieved a $1.5 billion valuation and launched AI agents for business users.  \n• Why it matters: This significant funding round of $90 million indicates strong investor confidence in AI solutions for enterprises.  \n• Business opportunity: Companies can leverage Nous Research's AI agents to enhance operational efficiency and decision-making processes."
     },
     {
-      "id": "hn-1791396747730-43",
-      "title": "Funding the AI revolution: evidence from euro area sectors",
-      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
+      "id": "hn-1791483261638-123",
+      "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
       "source": "Hacker News",
-      "publishedAt": "2026-10-07T18:03:48.000Z",
+      "publishedAt": "2026-10-07T22:55:50.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 1,
+        "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Funding the AI revolution: evidence from euro area sectors",
+      "rawTextSnippet": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
       "hnMeta": {
-        "points": 1,
+        "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49996461"
+        "hnUrl": "https://news.ycombinator.com/item?id=49999891"
       },
-      "score": 62,
+      "score": 54,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 14,
         "engagement": 0,
         "novelty": 15,
@@ -1260,32 +1299,25 @@
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "hn-1791396747730-53",
-      "title": "Hermes creator Nous Research raises $90M to bring open-source AI to enterprises",
-      "url": "https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-07T17:10:47.000Z",
+      "id": "rss-1791483263175-154",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-07T15:07:08.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 0
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "Hermes creator Nous Research raises $90M to bring open-source AI to enterprises",
-      "hnMeta": {
-        "points": 3,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49995720"
-      },
-      "score": 62,
+      "rawTextSnippet": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "score": 49,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
+        "freshness": 15,
+        "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI in Enterprise"
+      "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "Today's AI landscape is buzzing with significant developments. Claude Haiku 5.5 has gained traction on Hacker News, showcasing advancements in natural language processing that could enhance customer service applications. Meanwhile, the U.S. has initiated a shift in data center operations, potentially impacting cloud service costs and efficiency. In healthcare, Healthleap has successfully raised $38 million to further its AI technology aimed at identifying patients who may require closer monitoring, highlighting the growing intersection of AI and patient care. Additionally, industry veteran Tony Fadell reflects on the initial shortcomings of AI gadgets and hints at a more promising future, suggesting that businesses should prepare for a new wave of innovation. With TechCrunch Disrupt 2026 just six days away, companies are encouraged to secure their passes to stay ahead in this rapidly evolving field."
+  "dailyBrief": "In today's AI landscape, Anthropic has taken a firm stance by banning 'abusive or cruel behavior' towards its AI model, Claude, reflecting a growing emphasis on ethical AI interactions. Meanwhile, OpenAI's annualized revenues have come in at $20 billion less than previously projected, raising concerns about its market positioning and potential impacts on investor confidence. Compounding these challenges, OpenAI has withdrawn three math papers, which may affect its credibility in the academic community. On a more technical note, researchers have introduced a novel sub-1-bit LLM compression technique via latent factorization, potentially revolutionizing data efficiency in AI models. Lastly, the release of Claude Haiku 5.5 showcases ongoing advancements in AI creativity, indicating a competitive push among AI developers to enhance user engagement and functionality."
 }
