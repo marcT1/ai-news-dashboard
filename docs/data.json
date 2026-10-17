@@ -1,70 +1,133 @@
 {
   "topNews": [
     {
-      "id": "hn-1792165854686-127",
-      "title": "Redesigning Source Control at Anthropic",
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "id": "hn-1792248246086-133",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
-      "publishedAt": "2026-10-16T14:34:47.000Z",
+      "publishedAt": "2026-10-16T19:04:47.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 29,
-        "comments": 35
+        "upvotes": 408,
+        "comments": 386
       },
-      "rawTextSnippet": "Redesigning Source Control at Anthropic",
+      "rawTextSnippet": "How the Claude Code team does code review",
       "hnMeta": {
-        "points": 29,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=50118863"
+        "points": 408,
+        "comments": 386,
+        "hnUrl": "https://news.ycombinator.com/item?id=50122951"
       },
-      "score": 69,
+      "score": 76,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 14,
-        "engagement": 10,
+        "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Anthropic announced a redesign of its source control system.  \n• Why it matters: This change aims to improve collaboration and efficiency within the development team.  \n• Business opportunity: Enhanced source control could attract talent and improve product development speed, leading to competitive advantages."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: The Claude Code team shared their code review process.  \n• Why it matters: Effective code reviews enhance software quality and team collaboration.  \n• Business opportunity: Companies can adopt similar practices to improve their development efficiency and product reliability."
     },
     {
-      "id": "rss-1792165848711-0",
-      "title": "The Download: failed social media bans, and extending pets&#8217; lives",
-      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-16T12:10:00.000Z",
+      "id": "hn-1792248246086-134",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-16T18:55:59.000Z",
       "scoreSignals": {
-        "sourceAuthority": 18
+        "sourceAuthority": 14,
+        "upvotes": 941,
+        "comments": 342
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stack…",
-      "score": 66,
+      "rawTextSnippet": "https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;",
+      "hnMeta": {
+        "points": 941,
+        "comments": 342,
+        "hnUrl": "https://news.ycombinator.com/item?id=50122800"
+      },
+      "score": 76,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 25,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Claude disclosed the origins of the ECDSA curve used in cryptography.  \n• Why it matters: This revelation could impact the security and trustworthiness of cryptographic systems worldwide.  \n• Business opportunity: Companies can innovate secure solutions or enhance existing products by addressing potential vulnerabilities in cryptographic algorithms."
+    },
+    {
+      "id": "hn-1792248241677-77",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-17T04:36:53.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 160,
+        "comments": 52
+      },
+      "rawTextSnippet": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "hnMeta": {
+        "points": 160,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=50127979"
+      },
+      "score": 70,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Llmspeed allows users to test the performance of local LLMs before purchasing hardware.  \n• Why it matters: This tool helps consumers make informed decisions, potentially reducing hardware investment risks.  \n• Business opportunity: Companies can leverage Llmspeed to enhance sales of LLM-compatible hardware by demonstrating performance benefits."
+    },
+    {
+      "id": "hn-1792248246086-136",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-16T18:11:42.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 270,
+        "comments": 82
+      },
+      "rawTextSnippet": "https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-s...",
+      "hnMeta": {
+        "points": 270,
+        "comments": 82,
+        "hnUrl": "https://news.ycombinator.com/item?id=50122112"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 15,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: Kids are finding ways to bypass social media bans.  \n• Why it matters: This trend highlights the challenges of enforcing digital restrictions on youth.  \n• Business opportunity: Companies can develop innovative parental control solutions that effectively manage children's online activities."
+      "cluster": "General AI",
+      "summary": "• What happened: Anthropic received the highest junk credit rating in June.  \n• Why it matters: This rating indicates increased financial risk and potential challenges in securing funding.  \n• Business opportunity: Investors may seek to capitalize on undervalued assets or explore partnerships to stabilize Anthropic's financial outlook."
     },
     {
-      "id": "hn-1792165854686-134",
-      "title": "More on Anthropic's Scion ripping off Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "id": "hn-1792248246086-137",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
       "source": "Hacker News",
-      "publishedAt": "2026-10-15T17:05:19.000Z",
+      "publishedAt": "2026-10-16T18:00:18.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 249,
-        "comments": 80
+        "upvotes": 158,
+        "comments": 33
       },
-      "rawTextSnippet": "Redesigning source control at Anthropic - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073633 (996 comments) Anthropic&#x27;s Scion is heavily inspired by Mononoke - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50094694 (149 comments)",
+      "rawTextSnippet": "Designing more efficient quantum circuits with Claude",
       "hnMeta": {
-        "points": 249,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=50106738"
+        "points": 158,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=50121939"
       },
       "score": 66,
       "scoreBreakdown": {
@@ -74,74 +137,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Anthropic's Scion is reportedly inspired by Mononoke, sparking discussions on originality.  \n• Why it matters: This raises concerns about intellectual property and innovation in the tech industry.  \n• Business opportunity: Companies can capitalize on creating unique solutions that differentiate from existing models."
-    },
-    {
-      "id": "rss-1792165856239-156",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16T14:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Veritas has expanded its anti-counterfeit chip technology to include jewelry, trophies, and fragrance bottles.  \n• Why it matters: This move addresses the rising challenge of counterfeit goods, particularly \"superfakes\" that deceive consumers.  \n• Business opportunity: Companies can leverage Veritas's technology to enhance brand integrity and consumer trust in luxury markets."
-    },
-    {
-      "id": "hn-1792165850338-70",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-16T14:18:44.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 41,
-        "comments": 17
-      },
-      "rawTextSnippet": "I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse",
-      "hnMeta": {
-        "points": 41,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50118688"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 10,
-        "businessImpact": 0
-      },
       "cluster": "Large Language Models",
-      "summary": "• What happened: A benchmark for LLMs playing StarCraft has been updated with results from leading AI models.  \n• Why it matters: This showcases advancements in AI capabilities and their application in complex gaming environments.  \n• Business opportunity: Companies can leverage AI gaming benchmarks to enhance model performance and develop competitive gaming applications."
+      "summary": "• What happened: Researchers developed a method to design more efficient quantum circuits using Claude.  \n• Why it matters: Improved quantum circuits can enhance computational power and speed, advancing technology.  \n• Business opportunity: Companies can leverage this innovation to create superior quantum computing solutions and applications."
     },
     {
-      "id": "hn-1792165850338-71",
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "id": "hn-1792248240247-29",
+      "title": "The first vibe-coded gun is here",
+      "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
       "source": "Hacker News",
-      "publishedAt": "2026-10-16T14:16:34.000Z",
+      "publishedAt": "2026-10-17T11:38:46.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 7,
-        "comments": 2
+        "upvotes": 4,
+        "comments": 4
       },
-      "rawTextSnippet": "How to make System 1 LLMs show System 2 competencies?",
+      "rawTextSnippet": "The first vibe-coded gun is here",
       "hnMeta": {
-        "points": 7,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=50118662"
+        "points": 4,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=50130167"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -151,67 +165,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Researchers are exploring methods to enhance System 1 LLMs to exhibit System 2 cognitive abilities.  \n• Why it matters: Improving LLMs' reasoning and analytical skills could significantly advance AI applications in complex problem-solving.  \n• Business opportunity: Companies can leverage enhanced LLMs for more sophisticated decision-making tools and analytics solutions."
+      "cluster": "General AI",
+      "summary": "• What happened: The first vibe-coded gun has been introduced to the market.  \n• Why it matters: This innovation could revolutionize firearm safety and personalization.  \n• Business opportunity: Companies can explore development of smart technology for firearms and related accessories."
     },
     {
-      "id": "rss-1792165848711-1",
-      "title": "This implant can restore sight for patients with macular degeneration",
-      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-16T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-…",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: The Prima system, an implant that restores sight for macular degeneration patients, was approved in Europe and is awaiting FDA clearance in the US.  \n• Why it matters: This breakthrough offers hope to over 5 million people affected by age-related macular degeneration, a condition previously untreatable.  \n• Business opportunity: Companies can explore partnerships in developing and distributing innovative vision restoration technologies and related healthcare services."
-    },
-    {
-      "id": "rss-1792165848711-4",
-      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-16T07:56:32.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Face…",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: France and Australia implemented social media bans for minors, but France's ban was blocked by a court.  \n• Why it matters: These restrictions highlight ongoing debates about children's online safety versus their rights.  \n• Business opportunity: Companies can develop innovative solutions that promote safe social media use for minors while respecting their rights."
-    },
-    {
-      "id": "hn-1792165848913-10",
-      "title": "Perplexity to give away its AI security software",
-      "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
+      "id": "hn-1792248240247-15",
+      "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
+      "url": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
       "source": "Hacker News",
-      "publishedAt": "2026-10-16T15:47:38.000Z",
+      "publishedAt": "2026-10-17T14:08:03.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Perplexity to give away its AI security software",
+      "rawTextSnippet": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50119881"
+        "hnUrl": "https://news.ycombinator.com/item?id=50131320"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -222,24 +194,24 @@
         "businessImpact": 3
       },
       "cluster": "General AI",
-      "summary": "• What happened: Perplexity announced it will provide its AI security software for free.  \n• Why it matters: This move could enhance cybersecurity access for businesses and individuals.  \n• Business opportunity: Companies can leverage this free software to improve their security measures without incurring costs."
+      "summary": "• What happened: A former security engineer highlighted a bystander issue with Amazon's Bee AI devices.  \n• Why it matters: This concern raises potential privacy and safety implications for users and bystanders.  \n• Business opportunity: Companies can develop solutions to address privacy concerns and enhance AI device safety features."
     },
     {
-      "id": "hn-1792165850338-64",
-      "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-      "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+      "id": "hn-1792248240247-20",
+      "title": "Ask HN: It's still worth to show own handmaded games to the public internet?",
+      "url": "https://news.ycombinator.com/item?id=50131023",
       "source": "Hacker News",
-      "publishedAt": "2026-10-16T15:44:30.000Z",
+      "publishedAt": "2026-10-17T13:30:26.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
-        "comments": 0
+        "comments": 2
       },
-      "rawTextSnippet": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+      "rawTextSnippet": "In the past, we made games for fun and showed them off here and there. Some people were amazed, others didn&#x27;t care. So far, so good, completely normal. But what are people supposed to do today with such fun stuff when they get banned and bashed with the blind accusation that everything is just …",
       "hnMeta": {
         "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50119833"
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50131023"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -249,91 +221,147 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Elon Musk is significantly financing the Republican Party's midterm election efforts.  \n• Why it matters: His financial influence could shape election outcomes and party strategies.  \n• Business opportunity: Companies can engage in political advertising or partnerships to align with emerging political trends."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A discussion on Hacker News questions the value of showcasing handmade games online amid criticism.  \n• Why it matters: The conversation highlights challenges creators face in sharing their work in a potentially hostile environment.  \n• Business opportunity: There is potential for platforms that support and protect indie game developers from negative backlash."
+    },
+    {
+      "id": "hn-1792248243096-94",
+      "title": "Open and Emergent Problems in Agentic Privacy and Security",
+      "url": "https://research.google/pubs/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-17T14:20:54.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Open and Emergent Problems in Agentic Privacy and Security",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50131429"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A discussion on the challenges in agentic privacy and security was highlighted.  \n• Why it matters: Addressing these issues is crucial for protecting user autonomy and data integrity in digital environments.  \n• Business opportunity: Companies can innovate solutions that enhance privacy and security measures, catering to growing consumer concerns."
+    },
+    {
+      "id": "hn-1792248249015-169",
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "url": "https://fakeipedia.org",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-16T23:52:04.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 31,
+        "comments": 20
+      },
+      "rawTextSnippet": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn&#x27;t want to release it until…",
+      "hnMeta": {
+        "points": 31,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50126334"
+      },
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Fakeipedia, an automatic world-building platform, allows users to create and explore fictional wikis.  \n• Why it matters: It taps into the growing interest in immersive storytelling and world-building in gaming and literature.  \n• Business opportunity: There is potential for monetization through subscriptions, premium features, or partnerships with content creators in the fantasy genre."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 62,
+      "itemCount": 65,
       "trendScore": 215,
-      "whyTrending": "62 stories across Hacker, MIT, DeepMind, 39 in the last 24h.",
+      "whyTrending": "65 stories across Hacker, OpenAI, TechCrunch, 36 in the last 24h.",
       "topStory": {
-        "title": "Redesigning Source Control at Anthropic",
-        "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
+        "title": "Anthropic assigned highest junk credit rating in June",
+        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"
       },
       "items": [
         {
-          "id": "hn-1792165854686-127",
-          "title": "Redesigning Source Control at Anthropic",
-          "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+          "id": "hn-1792248246086-136",
+          "title": "Anthropic assigned highest junk credit rating in June",
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T14:34:47.000Z",
+          "publishedAt": "2026-10-16T18:11:42.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 29,
-            "comments": 35
+            "upvotes": 270,
+            "comments": 82
           },
-          "rawTextSnippet": "Redesigning Source Control at Anthropic",
+          "rawTextSnippet": "https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-s...",
           "hnMeta": {
-            "points": 29,
-            "comments": 35,
-            "hnUrl": "https://news.ycombinator.com/item?id=50118863"
+            "points": 270,
+            "comments": 82,
+            "hnUrl": "https://news.ycombinator.com/item?id=50122112"
           },
           "score": 69,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1792165854686-134",
-          "title": "More on Anthropic's Scion ripping off Mononoke",
-          "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-15T17:05:19.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 249,
-            "comments": 80
-          },
-          "rawTextSnippet": "Redesigning source control at Anthropic - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073633 (996 comments) Anthropic&#x27;s Scion is heavily inspired by Mononoke - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50094694 (149 comments)",
-          "hnMeta": {
-            "points": 249,
-            "comments": 80,
-            "hnUrl": "https://news.ycombinator.com/item?id=50106738"
-          },
-          "score": 66,
           "scoreBreakdown": {
             "freshness": 22,
             "authority": 14,
             "engagement": 15,
             "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1792248240247-29",
+          "title": "The first vibe-coded gun is here",
+          "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T11:38:46.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 4
+          },
+          "rawTextSnippet": "The first vibe-coded gun is here",
+          "hnMeta": {
+            "points": 4,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=50130167"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "hn-1792165848913-10",
-          "title": "Perplexity to give away its AI security software",
-          "url": "https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software",
+          "id": "hn-1792248240247-15",
+          "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
+          "url": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T15:47:38.000Z",
+          "publishedAt": "2026-10-17T14:08:03.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Perplexity to give away its AI security software",
+          "rawTextSnippet": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50119881"
+            "hnUrl": "https://news.ycombinator.com/item?id=50131320"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -346,48 +374,48 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1792165857732-194",
-          "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
-          "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+          "id": "hn-1792248244587-111",
+          "title": "Why Math Dumped OpenAI",
+          "url": "https://raymyers.org/post/math-dumped-openai/",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T03:49:35.000Z",
+          "publishedAt": "2026-10-17T06:19:44.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 24,
-            "comments": 23
+            "upvotes": 25,
+            "comments": 11
           },
-          "rawTextSnippet": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+          "rawTextSnippet": "Why Math Dumped OpenAI",
           "hnMeta": {
-            "points": 24,
-            "comments": 23,
-            "hnUrl": "https://news.ycombinator.com/item?id=50113841"
+            "points": 25,
+            "comments": 11,
+            "hnUrl": "https://news.ycombinator.com/item?id=50128468"
           },
-          "score": 61,
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 26,
             "authority": 14,
-            "engagement": 10,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "hn-1792165850338-81",
-          "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-          "url": "https://www.yahoo.com/news/articles/exclusive-order-limit-starshield-ukraine-230733575.html",
+          "id": "hn-1792248246086-129",
+          "title": "How employment is changing at Anthropic",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T09:28:52.000Z",
+          "publishedAt": "2026-10-17T03:13:28.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 1
+            "upvotes": 8,
+            "comments": 3
           },
-          "rawTextSnippet": "Order to limit Starshield for Ukraine came from inside White House, sources say",
+          "rawTextSnippet": "How employment is changing at Anthropic",
           "hnMeta": {
-            "points": 9,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=50116156"
+            "points": 8,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=50127555"
           },
           "score": 60,
           "scoreBreakdown": {
@@ -403,144 +431,144 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 66,
-      "trendScore": 197,
-      "whyTrending": "66 stories across Hacker, OpenAI, arXiv, 33 in the last 24h.",
+      "itemCount": 54,
+      "trendScore": 185,
+      "whyTrending": "54 stories across Hacker, GitHub, TechCrunch, 11 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Gemini 4 Argon plays StarCraft",
-        "url": "https://starskirmish.com/bench/v0-2/"
+        "title": "How the Claude Code team does code review",
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
       },
       "items": [
         {
-          "id": "hn-1792165850338-70",
-          "title": "Show HN: Gemini 4 Argon plays StarCraft",
-          "url": "https://starskirmish.com/bench/v0-2/",
+          "id": "hn-1792248246086-133",
+          "title": "How the Claude Code team does code review",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T14:18:44.000Z",
+          "publishedAt": "2026-10-16T19:04:47.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 41,
-            "comments": 17
+            "upvotes": 408,
+            "comments": 386
           },
-          "rawTextSnippet": "I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse",
+          "rawTextSnippet": "How the Claude Code team does code review",
           "hnMeta": {
-            "points": 41,
-            "comments": 17,
-            "hnUrl": "https://news.ycombinator.com/item?id=50118688"
+            "points": 408,
+            "comments": 386,
+            "hnUrl": "https://news.ycombinator.com/item?id=50122951"
           },
-          "score": 64,
+          "score": 76,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 25,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1792248246086-134",
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T18:55:59.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 941,
+            "comments": 342
+          },
+          "rawTextSnippet": "https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;",
+          "hnMeta": {
+            "points": 941,
+            "comments": 342,
+            "hnUrl": "https://news.ycombinator.com/item?id=50122800"
+          },
+          "score": 76,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 25,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1792248241677-77",
+          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "url": "https://llmspeed.dev/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T04:36:53.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 160,
+            "comments": 52
+          },
+          "rawTextSnippet": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "hnMeta": {
+            "points": 160,
+            "comments": 52,
+            "hnUrl": "https://news.ycombinator.com/item?id=50127979"
+          },
+          "score": 70,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1792248246086-137",
+          "title": "Designing more efficient quantum circuits with Claude",
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T18:00:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 158,
+            "comments": 33
+          },
+          "rawTextSnippet": "Designing more efficient quantum circuits with Claude",
+          "hnMeta": {
+            "points": 158,
+            "comments": 33,
+            "hnUrl": "https://news.ycombinator.com/item?id=50121939"
+          },
+          "score": 66,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1792248249015-169",
+          "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+          "url": "https://fakeipedia.org",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T23:52:04.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 31,
+            "comments": 20
+          },
+          "rawTextSnippet": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn&#x27;t want to release it until…",
+          "hnMeta": {
+            "points": 31,
+            "comments": 20,
+            "hnUrl": "https://news.ycombinator.com/item?id=50126334"
+          },
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 22,
             "authority": 14,
             "engagement": 10,
-            "novelty": 10,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792165850338-71",
-          "title": "How to make System 1 LLMs show System 2 competencies?",
-          "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-16T14:16:34.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 2
-          },
-          "rawTextSnippet": "How to make System 1 LLMs show System 2 competencies?",
-          "hnMeta": {
-            "points": 7,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=50118662"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792165848914-24",
-          "title": "It took an octillion calculations to train GPT 6 Astra",
-          "url": "https://www.nytimes.com/interactive/2026/10/15/upshot/ai-data-center-math.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-16T15:14:22.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
-          },
-          "rawTextSnippet": "It took an octillion calculations to train GPT 6 Astra",
-          "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50119432"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792165850338-66",
-          "title": "Claude finds people for you and talks to them",
-          "url": "https://lamoom.com/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-16T15:15:48.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
-          },
-          "rawTextSnippet": "Claude finds people for you and talks to them",
-          "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=50119451"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792165850338-75",
-          "title": "LLMs have a problem with functional programming",
-          "url": "https://kevinaleman.com/ai-has-a-problem-with-functional-programming/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-16T13:36:50.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "LLMs have a problem with functional programming",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50118237"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
@@ -550,30 +578,30 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 37,
-      "trendScore": 194,
-      "whyTrending": "37 stories across Hacker, TechCrunch, arXiv, 25 in the last 24h.",
+      "itemCount": 31,
+      "trendScore": 176,
+      "whyTrending": "31 stories across Hacker, GitHub, TechCrunch, 17 in the last 24h.",
       "topStory": {
-        "title": "Show HN: AegisKernel – Zero-trust deterministic security runtime for AI agents",
-        "url": "https://github.com/adikshatriyag-crypto/aegis-kernel"
+        "title": "Open and Emergent Problems in Agentic Privacy and Security",
+        "url": "https://research.google/pubs/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/"
       },
       "items": [
         {
-          "id": "hn-1792165851733-102",
-          "title": "Show HN: AegisKernel – Zero-trust deterministic security runtime for AI agents",
-          "url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
+          "id": "hn-1792248243096-94",
+          "title": "Open and Emergent Problems in Agentic Privacy and Security",
+          "url": "https://research.google/pubs/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T13:15:46.000Z",
+          "publishedAt": "2026-10-17T14:20:54.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: AegisKernel – Zero-trust deterministic security runtime for AI agents",
+          "rawTextSnippet": "Open and Emergent Problems in Agentic Privacy and Security",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50118011"
+            "hnUrl": "https://news.ycombinator.com/item?id=50131429"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -586,68 +614,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1792165851733-104",
-          "title": "Show HN: I made an MCP Agents can reason every finance data the first time",
-          "url": "https://github.com/PreReason/mcp",
+          "id": "hn-1792248243096-92",
+          "title": "We found a Tencent agent fleet",
+          "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T13:04:39.000Z",
+          "publishedAt": "2026-10-17T14:38:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 0
+            "comments": 1
           },
-          "rawTextSnippet": "Show HN: I made an MCP Agents can reason every finance data the first time",
+          "rawTextSnippet": "We found a Tencent agent fleet",
           "hnMeta": {
             "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50117897"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1792165856239-157",
-          "title": "Replit&#8217;s CEO says the future of work is the &#8216;self-driving company&#8217;",
-          "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-16T12:55:09.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1792165848913-12",
-          "title": "C++ and AI at CppCon: We have to use agents – more or less?",
-          "url": "https://www.sandordargo.com/blog/2026/10/07/cpp-and-ai-at-cppcon",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-16T15:44:04.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "C++ and AI at CppCon: We have to use agents – more or less?",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50119824"
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50131584"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -660,21 +641,75 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1792165848913-15",
-          "title": "Show HN: Termexo – one AI operating your other coding agents, on Windows",
-          "url": "https://github.com/gemron/Termexo",
+          "id": "hn-1792248243096-93",
+          "title": "Hermes Agent: My containerized take",
+          "url": "https://ricardodevries.com/blog/hermes-agent-my-containerized-take",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T15:40:56.000Z",
+          "publishedAt": "2026-10-17T14:27:11.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "Hermes Agent: My containerized take",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50131496"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1792248243096-97",
+          "title": "Show HN: Organ – Run your company with autonomous agents",
+          "url": "https://organ.app/en",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T13:04:39.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: Termexo – one AI operating your other coding agents, on Windows",
+          "rawTextSnippet": "Show HN: Organ – Run your company with autonomous agents",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50119778"
+            "hnUrl": "https://news.ycombinator.com/item?id=50130814"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1792248243096-98",
+          "title": "Show HN: RAE FAANG – catalog and CLI for building products with coding agents",
+          "url": "https://github.com/EnzoVezzaro/rea-faang",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T12:13:35.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: RAE FAANG – catalog and CLI for building products with coding agents",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50130426"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -689,51 +724,31 @@
       ]
     },
     {
-      "name": "Funding & Acquisitions",
-      "itemCount": 12,
-      "trendScore": 130,
-      "whyTrending": "12 stories across MIT, Hacker, TechCrunch, 6 in the last 24h.",
+      "name": "AI Safety & Regulation",
+      "itemCount": 9,
+      "trendScore": 118,
+      "whyTrending": "9 stories across Hacker, TechCrunch, MIT, 4 in the last 24h.",
       "topStory": {
-        "title": "This implant can restore sight for patients with macular degeneration",
-        "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
+        "title": "Ask HN: It's still worth to show own handmaded games to the public internet?",
+        "url": "https://news.ycombinator.com/item?id=50131023"
       },
       "items": [
         {
-          "id": "rss-1792165848711-1",
-          "title": "This implant can restore sight for patients with macular degeneration",
-          "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-10-16T09:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-…",
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1792165850338-64",
-          "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-          "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+          "id": "hn-1792248240247-20",
+          "title": "Ask HN: It's still worth to show own handmaded games to the public internet?",
+          "url": "https://news.ycombinator.com/item?id=50131023",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T15:44:30.000Z",
+          "publishedAt": "2026-10-17T13:30:26.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 0
+            "comments": 2
           },
-          "rawTextSnippet": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+          "rawTextSnippet": "In the past, we made games for fun and showed them off here and there. Some people were amazed, others didn&#x27;t care. So far, so good, completely normal. But what are people supposed to do today with such fun stuff when they get banned and bashed with the blind accusation that everything is just …",
           "hnMeta": {
             "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50119833"
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=50131023"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -743,171 +758,45 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1792165856239-155",
-          "title": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy",
-          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-16T14:26:51.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1792165856239-158",
-          "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
-          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-15T23:44:56.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1792165854686-132",
-          "title": "Investors temper Anthropic IPO valuation expectations as revenue growth slows",
-          "url": "https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/",
+          "id": "hn-1792248243096-100",
+          "title": "Social media bans are not the answer to protect young people's mental health",
+          "url": "https://theconversation.com/can-social-media-bans-protect-young-peoples-mental-health-early-research-suggests-that-bans-arent-the-answer-291629",
           "source": "Hacker News",
-          "publishedAt": "2026-10-16T02:35:22.000Z",
+          "publishedAt": "2026-10-17T09:09:51.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 4,
-            "comments": 0
+            "upvotes": 2,
+            "comments": 2
           },
-          "rawTextSnippet": "Investors temper Anthropic IPO valuation expectations as revenue growth slows",
+          "rawTextSnippet": "Social media bans are not the answer to protect young people's mental health",
           "hnMeta": {
-            "points": 4,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50113243"
+            "points": 2,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=50129284"
           },
           "score": 57,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 14,
             "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
+            "novelty": 10,
+            "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 10,
-      "trendScore": 126,
-      "whyTrending": "10 stories across TechCrunch, Hacker, arXiv, 6 in the last 24h.",
-      "topStory": {
-        "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
-      },
-      "items": [
+          "cluster": "AI Safety & Regulation"
+        },
         {
-          "id": "rss-1792165856239-154",
-          "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "id": "rss-1792248247792-152",
+          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-10-16T15:33:49.000Z",
+          "publishedAt": "2026-10-16T16:30:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1792165848913-14",
-          "title": "Building AI Products, Feature Factory at 10 – Food for Agile Thought 566",
-          "url": "https://age-of-product.com/food-agile-thought-566-building-ai-products/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-16T15:42:19.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Building AI Products, Feature Factory at 10 – Food for Agile Thought 566",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50119800"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1792165848913-20",
-          "title": "Ask HN: Would you use a tool that adds a real back end to any front end?",
-          "url": "https://news.ycombinator.com/item?id=50119622",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-16T15:27:49.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "i am building a backend connection where user can upload any ui&#x2F;ux it will auto connect the backend within 1 minute or maybe 2 and also im providing many backend connectionsincluding advanced version like ai models ,datastorage,login and many other options ,all this in one click setup,what you …",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50119622"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1792165856239-159",
-          "title": "Meta launches an open-weight AI model that runs on Macs",
-          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-15T20:04:53.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+          "rawTextSnippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho…",
           "score": 53,
           "scoreBreakdown": {
             "freshness": 22,
@@ -916,105 +805,208 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "arxiv-1792165848969-38",
-          "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
-          "url": "https://arxiv.org/abs/2610.22343v1",
-          "source": "arXiv",
-          "publishedAt": "2026-10-15T17:56:18.000Z",
+          "id": "rss-1792248240145-1",
+          "title": "The Download: failed social media bans, and extending pets&#8217; lives",
+          "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-10-16T12:10:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 15
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles scene dynamics with camera-induced variation, making the resulting state evolution…",
-          "arxivMeta": {
-            "authors": "Hongchang Liu, Jian Liu, Yujuan Ding, Liang Peng, Xun Jiang, Fei Ma, Xing Xu, Yi Bin",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stack…",
+          "score": 51,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
           },
-          "score": 52,
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1792248246086-131",
+          "title": "Anthropic pitches its own AI safety bill to lawmakers",
+          "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-16T22:03:04.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "Anthropic pitches its own AI safety bill to lawmakers",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50125348"
+          },
+          "score": 51,
           "scoreBreakdown": {
             "freshness": 22,
-            "authority": 15,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
+    },
+    {
+      "name": "Generative AI & Media",
+      "itemCount": 11,
+      "trendScore": 116,
+      "whyTrending": "11 stories across Hacker, MIT, TechCrunch, 5 in the last 24h.",
+      "topStory": {
+        "title": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
+        "url": "https://flyingcar-ai.net"
+      },
+      "items": [
+        {
+          "id": "hn-1792248240247-16",
+          "title": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
+          "url": "https://flyingcar-ai.net",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T14:05:52.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50131300"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Generative AI & Media"
+        },
+        {
+          "id": "rss-1792248240145-0",
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-10-16T18:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c…",
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Generative AI & Media"
+        },
+        {
+          "id": "hn-1792248241677-70",
+          "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
+          "url": "https://Joe-Heffer.github.io/sys2txt/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T08:14:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 0
+          },
+          "rawTextSnippet": "sys2txt is a command line tool that records whatever audio your Linux machine is playing (via PulseAudio&#x2F;PipeWire&#x27;s monitor source) and transcribes it live with Whisper, OpenAI&#x27;s AI-based speech-to-text model. I use it to caption meetings, videos, and calls playing on my own machine w…",
+          "hnMeta": {
+            "points": 3,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50129017"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Generative AI & Media"
+        },
+        {
+          "id": "hn-1792248244587-109",
+          "title": "Show HN: I turned my kids' old Yoto Player into an Audiobookshelf player",
+          "url": "https://github.com/tomekent/yotwo",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-17T08:43:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "My kids love their Yotos and I love Audiobookshelf. I wanted something in between that works as they get older and more control. I had two old Gen 2 players lying around that Yoto no longer supports. It turns the player into an Audiobookshelf client. You browse your library with the two knobs, the 1…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50129137"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Generative AI & Media"
+        },
+        {
+          "id": "rss-1792248247792-153",
+          "title": "Elorian’s first AI model wants to reason with images, not just about them",
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-16T16:01:37.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Generative AI & Media"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1792165850338-70",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
+      "id": "hn-1792248249015-169",
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "url": "https://fakeipedia.org",
       "source": "Hacker News",
-      "publishedAt": "2026-10-16T14:18:44.000Z",
+      "publishedAt": "2026-10-16T23:52:04.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 41,
-        "comments": 17
+        "upvotes": 31,
+        "comments": 20
       },
-      "rawTextSnippet": "I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse",
+      "rawTextSnippet": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn&#x27;t want to release it until…",
       "hnMeta": {
-        "points": 41,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50118688"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 10,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Gemini 4 Argon benchmarked LLMs in StarCraft BW using code.  \n• Why it matters: This showcases advancements in AI's ability to strategize and adapt in complex environments.  \n• Business opportunity: Companies can leverage AI gaming benchmarks to enhance AI training and development for real-world applications."
-    },
-    {
-      "id": "rss-1792165856239-154",
-      "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16T15:33:49.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Tools & Products",
-      "summary": "• What happened: Vercel's AI model, Jev, has achieved record adoption rates.  \n• Why it matters: This rapid uptake indicates strong demand for advanced AI solutions in development environments.  \n• Business opportunity: Companies can leverage Jev's capabilities to enhance their software development processes and improve efficiency."
-    },
-    {
-      "id": "hn-1792165857732-194",
-      "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
-      "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-16T03:49:35.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 24,
-        "comments": 23
-      },
-      "rawTextSnippet": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
-      "hnMeta": {
-        "points": 24,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=50113841"
+        "points": 31,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50126334"
       },
       "score": 61,
       "scoreBreakdown": {
@@ -1024,25 +1016,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Sergey Brin announced that Google's AI models are achieving recursive self-improvement.  \n• Why it matters: This advancement could significantly enhance AI capabilities, leading to more efficient and powerful applications.  \n• Business opportunity: Companies can leverage these improved AI models for innovative solutions across various industries."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Fakeipedia, an automatic world-building platform, was introduced, allowing users to explore fictional worlds through a wiki format.  \n• Why it matters: This innovative tool enhances creativity and storytelling by providing a structured way to develop and share imaginary universes.  \n• Business opportunity: There is potential for monetization through premium features, partnerships with content creators, or educational tools for writers and game developers."
     },
     {
-      "id": "hn-1792165848913-14",
-      "title": "Building AI Products, Feature Factory at 10 – Food for Agile Thought 566",
-      "url": "https://age-of-product.com/food-agile-thought-566-building-ai-products/",
+      "id": "hn-1792248240247-18",
+      "title": "Microsoft AI chief says the company beat OpenAI's models, using less compute",
+      "url": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10",
       "source": "Hacker News",
-      "publishedAt": "2026-10-16T15:42:19.000Z",
+      "publishedAt": "2026-10-17T13:37:39.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
-        "comments": 0
+        "comments": 2
       },
-      "rawTextSnippet": "Building AI Products, Feature Factory at 10 – Food for Agile Thought 566",
+      "rawTextSnippet": "Microsoft AI chief says the company beat OpenAI's models, using less compute",
       "hnMeta": {
         "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50119800"
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50131072"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1052,24 +1044,53 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Tools & Products"
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Microsoft claims its AI models outperform OpenAI's while using less computational power.  \n• Why it matters: This achievement highlights advancements in efficiency and effectiveness in AI development.  \n• Business opportunity: Companies can leverage Microsoft's technology for cost-effective AI solutions, enhancing their competitive edge."
     },
     {
-      "id": "hn-1792165848913-16",
-      "title": "Show HN: We built an open source, agent-first, alternative to Profound",
-      "url": "https://github.com/Canonry/canonry",
+      "id": "hn-1792248240247-22",
+      "title": "Rescue AI models with one click",
+      "url": "https://pirateface.co/rescue",
       "source": "Hacker News",
-      "publishedAt": "2026-10-16T15:38:22.000Z",
+      "publishedAt": "2026-10-17T13:11:45.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2,
+        "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "We wanted a way to track AI visibility locally in an agent first way, so we built Canonry. On top of AI visibility, it integrates GSC, Analytics, server traffic, and ads to give your agent a full view of your site&#x27;s visibility. Some of the things we&#x27;ve built on top of Canonry: an automated…",
+      "rawTextSnippet": "Rescue AI models with one click",
       "hnMeta": {
-        "points": 2,
+        "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50119748"
+        "hnUrl": "https://news.ycombinator.com/item?id=50130865"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A new tool allows users to rescue AI models with a single click.  \n• Why it matters: This innovation simplifies the recovery of AI models, enhancing efficiency and reducing downtime.  \n• Business opportunity: Companies can leverage this tool to improve AI model management and support services."
+    },
+    {
+      "id": "hn-1792248243096-98",
+      "title": "Show HN: RAE FAANG – catalog and CLI for building products with coding agents",
+      "url": "https://github.com/EnzoVezzaro/rea-faang",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-17T12:13:35.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Show HN: RAE FAANG – catalog and CLI for building products with coding agents",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50130426"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1080,12 +1101,59 @@
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation"
+    },
+    {
+      "id": "github-1792248241783-85",
+      "title": "[anujasid/blender-ai-mcp-addon] AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-10-15T22:30:47.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 12,
+        "upvotes": 465
+      },
+      "rawTextSnippet": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "githubMeta": {
+        "stars": 465,
+        "language": "Python",
+        "topics": [
+          "3d-modeling",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-extension",
+          "blender-mcp",
+          "blender-plugin",
+          "blender-python",
+          "blender-scripting",
+          "chatgpt",
+          "gpt",
+          "image-to-3d",
+          "llm",
+          "mcp",
+          "mcp-for-blender",
+          "mcp-server",
+          "model-context-protocol",
+          "python",
+          "text-to-3d"
+        ]
+      },
+      "score": 57,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 12,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1792165848969-33",
+      "id": "arxiv-1792248240363-36",
       "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
       "url": "https://arxiv.org/abs/2610.22362v1",
       "source": "arXiv",
@@ -1102,9 +1170,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1113,7 +1181,7 @@
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1792165848970-40",
+      "id": "arxiv-1792248240364-43",
       "title": "Dexterity from Supervised Play",
       "url": "https://arxiv.org/abs/2610.22340v1",
       "source": "arXiv",
@@ -1130,9 +1198,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1141,7 +1209,7 @@
       "cluster": "AI Agents & Automation"
     },
     {
-      "id": "arxiv-1792165848970-42",
+      "id": "arxiv-1792248240364-45",
       "title": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents",
       "url": "https://arxiv.org/abs/2610.22331v1",
       "source": "arXiv",
@@ -1158,9 +1226,9 @@
           "stat.ML"
         ]
       },
-      "score": 55,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1169,7 +1237,7 @@
       "cluster": "AI Agents & Automation"
     },
     {
-      "id": "arxiv-1792165848969-30",
+      "id": "arxiv-1792248240363-33",
       "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
       "url": "https://arxiv.org/abs/2610.22372v1",
       "source": "arXiv",
@@ -1186,9 +1254,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1197,7 +1265,7 @@
       "cluster": "Research & Benchmarks"
     },
     {
-      "id": "arxiv-1792165848969-31",
+      "id": "arxiv-1792248240363-34",
       "title": "Discovering state-of-the-art quantum circuits with large language models",
       "url": "https://arxiv.org/abs/2610.22367v1",
       "source": "arXiv",
@@ -1214,9 +1282,9 @@
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 45,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1227,77 +1295,28 @@
   ],
   "funding": [
     {
-      "id": "rss-1792165848711-1",
-      "title": "This implant can restore sight for patients with macular degeneration",
-      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-16T09:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-…",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: The Prima system, an implant for restoring sight, has been approved in Europe and is pending FDA clearance in the US.  \n• Why it matters: This innovation offers hope to over 5 million people suffering from age-related macular degeneration (AMD) who currently have no treatment options.  \n• Business opportunity: There is potential for significant market growth in vision restoration technologies and related healthcare services."
-    },
-    {
-      "id": "hn-1792165850338-64",
-      "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-      "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-16T15:44:30.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50119833"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Elon Musk is significantly financing the Republican Party's midterm election efforts.  \n• Why it matters: His financial influence could shape election outcomes and party strategies.  \n• Business opportunity: Companies can explore partnerships or campaigns aligned with Musk's political interests to tap into his supporter base."
-    },
-    {
-      "id": "rss-1792165856239-155",
-      "title": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "id": "rss-1792248247792-152",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16T14:26:51.000Z",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "score": 61,
+      "rawTextSnippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho…",
+      "score": 53,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Mark Wahlberg supports the use of AI in filmmaking to enhance creativity.  \n• Why it matters: His openness signals a shift in the entertainment industry towards integrating AI technologies.  \n• Business opportunity: Companies can explore AI tools for film production to innovate storytelling and reduce costs."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Amulya Vishwanath highlights that robotics is in its \"Lego era,\" focusing on foundational components.  \n• Why it matters: This perspective suggests significant ongoing development and innovation potential in the robotics sector.  \n• Business opportunity: Investing in foundational robotics technologies could yield substantial returns as the market matures."
     },
     {
-      "id": "rss-1792165856239-158",
+      "id": "rss-1792248247792-158",
       "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
       "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
       "source": "TechCrunch AI",
@@ -1306,43 +1325,78 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "score": 59,
+      "score": 52,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 6
       },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Cal AI achieved over $30 million in revenue within two years and was acquired by MyFitnessPal.  \n• Why it matters: The company's viral success highlights the effective use of influencers in driving growth.  \n• Business opportunity: Brands can leverage influencer partnerships to enhance visibility and accelerate revenue growth."
+    },
+    {
+      "id": "rss-1792248240145-2",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-16T09:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combin…",
+      "score": 51,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: The PRIMA system, an implant for restoring sight, has been approved in Europe and is awaiting FDA clearance in the US.  \n• Why it matters: Over 5 million people with age-related macular degeneration currently have no effective treatment to restore their vision.  \n• Business opportunity: The PRIMA system presents a significant market potential in the ophthalmic device industry for vision restoration solutions."
+    },
+    {
+      "id": "rss-1792248247792-155",
+      "title": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T14:26:51.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "score": 46,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "hn-1792165854686-132",
-      "title": "Investors temper Anthropic IPO valuation expectations as revenue growth slows",
-      "url": "https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-16T02:35:22.000Z",
+      "id": "rss-1792248247792-163",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T18:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 0
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "Investors temper Anthropic IPO valuation expectations as revenue growth slows",
-      "hnMeta": {
-        "points": 4,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50113243"
-      },
-      "score": 57,
+      "rawTextSnippet": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+      "score": 46,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
+        "freshness": 15,
+        "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 0
       },
-      "cluster": "Funding & Acquisitions"
+      "cluster": "AI in Enterprise"
     }
   ],
-  "dailyBrief": "Anthropic is undergoing a significant redesign of its source control systems, aiming to enhance collaboration and efficiency in AI development, which could streamline processes and reduce time-to-market for new features. Meanwhile, Veritas is expanding its anti-counterfeit chip technology to sectors like jewelry and fragrances, addressing the growing demand for authenticity in luxury goods, potentially opening new revenue streams. In other news, the latest edition of MIT Technology Review highlights the challenges of enforcing social media bans, which could impact brand reputations and advertising strategies. Lastly, Anthropic's Scion has drawn attention for its similarities to Mononoke, raising questions about originality in AI-generated content and its implications for intellectual property rights. These developments underscore the rapid evolution of AI technologies and their profound effects on various industries."
+  "dailyBrief": "Today's AI landscape is buzzing with significant developments. The Claude Code team has shared insights into their innovative code review process, emphasizing efficiency and accuracy, which could reshape best practices in software development. Meanwhile, Claude's revelation about the origins of ECDSA curves highlights the importance of cryptographic advancements in securing digital transactions, a critical consideration for businesses. Additionally, the launch of Llmspeed allows users to test local LLM performance before hardware investment, potentially streamlining decision-making for tech procurement. However, it's worth noting that Anthropic received the highest junk credit rating in June, raising concerns about its financial stability amidst these advancements. Lastly, Claude's work on designing more efficient quantum circuits could pave the way for breakthroughs in computational power, impacting industries reliant on complex data processing."
 }
