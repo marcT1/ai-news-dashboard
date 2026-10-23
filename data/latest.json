@@ -1,112 +1,70 @@
 {
   "topNews": [
     {
-      "id": "rss-1792686158583-134",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T13:11:13.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: DeepSeek raised $15 billion in a major funding round shortly after US restrictions on its technology.  \n• Why it matters: This funding highlights the growing investment in AI despite geopolitical tensions and national security concerns.  \n• Business opportunity: Investors may explore AI ventures in regions less affected by US regulations, capitalizing on emerging markets."
-    },
-    {
-      "id": "hn-1792686155637-102",
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
+      "id": "hn-1792771921109-124",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
       "source": "Hacker News",
-      "publishedAt": "2026-10-22T05:23:11.000Z",
+      "publishedAt": "2026-10-22T22:54:43.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 207,
-        "comments": 98
+        "upvotes": 401,
+        "comments": 245
       },
-      "rawTextSnippet": "OpenAI CLI",
+      "rawTextSnippet": "LLMs are making formal software verification feasible at a much larger scale",
       "hnMeta": {
-        "points": 207,
-        "comments": 98,
-        "hnUrl": "https://news.ycombinator.com/item?id=50191507"
+        "points": 401,
+        "comments": 245,
+        "hnUrl": "https://news.ycombinator.com/item?id=50202217"
       },
-      "score": 70,
+      "score": 71,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 22,
         "authority": 14,
-        "engagement": 15,
+        "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "General AI",
-      "summary": "• What happened: OpenAI released a Command Line Interface (CLI) for developers.  \n• Why it matters: This tool simplifies integration of OpenAI's models into various applications.  \n• Business opportunity: Companies can leverage the CLI to enhance their products with AI capabilities efficiently."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: LLMs are enhancing the scalability of formal software verification processes.  \n• Why it matters: This advancement can significantly improve software reliability and security across industries.  \n• Business opportunity: Companies can leverage LLMs to offer more robust verification services, attracting clients seeking higher software quality."
     },
     {
-      "id": "rss-1792686161929-197",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "DeepMind Blog",
-      "publishedAt": "2026-10-22T14:30:24.000Z",
+      "id": "rss-1792771924347-181",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 20
       },
-      "rawTextSnippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "score": 65,
+      "rawTextSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "score": 68,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 20,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A global map has been created categorizing every 10-meter patch of land into distinct forest types.  \n• Why it matters: This mapping enhances understanding of biodiversity and forest management.  \n• Business opportunity: Companies can leverage this data for sustainable forestry practices and environmental conservation initiatives."
-    },
-    {
-      "id": "rss-1792686158583-130",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Uber has expanded the use of ChatGPT Work to all 30,000 employees.  \n• Why it matters: This move signifies Uber's commitment to enhancing productivity and efficiency through AI tools.  \n• Business opportunity: Companies can explore similar AI integrations to streamline operations and improve employee performance."
+      "summary": "• What happened: OpenAI scaled its Habitat online storage to support over 1 billion ChatGPT users with enhanced performance.  \n• Why it matters: This improvement enables faster data access, enhancing user experience and system reliability.  \n• Business opportunity: Companies can leverage OpenAI's advancements in storage solutions for their own applications, improving efficiency and scalability."
     },
     {
-      "id": "hn-1792686158716-150",
-      "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
-      "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+      "id": "hn-1792771916843-65",
+      "title": "The lifelong orgasm gap: exploring age's impact on orgasm rates",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11217024/",
       "source": "Hacker News",
-      "publishedAt": "2026-10-22T13:58:47.000Z",
+      "publishedAt": "2026-10-23T14:17:30.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 4
+        "upvotes": 11,
+        "comments": 1
       },
-      "rawTextSnippet": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
+      "rawTextSnippet": "The lifelong orgasm gap: exploring age's impact on orgasm rates",
       "hnMeta": {
-        "points": 6,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=50195420"
+        "points": 11,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50209477"
       },
       "score": 64,
       "scoreBreakdown": {
@@ -117,18 +75,18 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: AI experts predict a radical transformation in the world due to advancements in technology.  \n• Why it matters: This shift could significantly impact industries, economies, and societal structures globally.  \n• Business opportunity: Companies can innovate and adapt their strategies to leverage emerging AI technologies for competitive advantage."
+      "summary": "• What happened: A study highlights the disparity in orgasm rates across different age groups.  \n• Why it matters: Understanding this gap can inform sexual health education and improve overall well-being.  \n• Business opportunity: There is potential for developing targeted sexual wellness products and services for various age demographics."
     },
     {
-      "id": "rss-1792686150979-0",
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "id": "rss-1792771915196-0",
+      "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
       "source": "MIT Technology Review",
-      "publishedAt": "2026-10-22T12:10:00.000Z",
+      "publishedAt": "2026-10-23T12:10:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 18
       },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Botto…",
+      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips…",
       "score": 63,
       "scoreBreakdown": {
         "freshness": 30,
@@ -138,45 +96,24 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: MIT Technology Review discusses advancements in computing and the climate threat posed by melting permafrost.  \n• Why it matters: These developments highlight the urgent need for innovative solutions to address climate change and enhance computing capabilities.  \n• Business opportunity: Companies can invest in technologies that improve computational efficiency and environmental sustainability."
+      "summary": "• What happened: MIT Technology Review's newsletter evaluates six major tech promises and biotech's limitations.  \n• Why it matters: This analysis highlights the gap between technological aspirations and current realities, prompting critical reflection.  \n• Business opportunity: Companies can explore innovative solutions to address the unmet expectations in both tech and biotech sectors."
     },
     {
-      "id": "rss-1792686150979-1",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies…",
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Context-aware AI is being advocated for in enterprise settings to enhance decision-making.  \n• Why it matters: Understanding a business's operations is crucial for AI to provide relevant and effective recommendations.  \n• Business opportunity: Companies can leverage context-aware AI to improve operational efficiency and decision accuracy."
-    },
-    {
-      "id": "hn-1792686155637-96",
-      "title": "DeepSeek just raised $15 billion to take on OpenAI and Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+      "id": "hn-1792771916843-63",
+      "title": "Warhound: Palmer Luckey's war dog startup",
+      "url": "https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10",
       "source": "Hacker News",
-      "publishedAt": "2026-10-22T14:32:29.000Z",
+      "publishedAt": "2026-10-23T15:32:37.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 0
+        "upvotes": 2,
+        "comments": 1
       },
-      "rawTextSnippet": "DeepSeek just raised $15 billion to take on OpenAI and Anthropic",
+      "rawTextSnippet": "Warhound: Palmer Luckey's war dog startup",
       "hnMeta": {
-        "points": 6,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50195956"
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50210734"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -187,132 +124,162 @@
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: DeepSeek secured $15 billion in funding to compete with OpenAI and Anthropic.  \n• Why it matters: This significant investment highlights the growing demand for advanced AI technologies and competition in the sector.  \n• Business opportunity: Companies can explore partnerships or innovations in AI to capitalize on the evolving landscape and increased funding."
+      "summary": "• What happened: Palmer Luckey launched a startup called Warhound focused on military canine technology.  \n• Why it matters: This venture highlights the increasing integration of advanced technology in defense and security sectors.  \n• Business opportunity: Companies can explore partnerships or innovations in military applications of AI and robotics for enhanced operational efficiency."
     },
     {
-      "id": "hn-1792686158716-160",
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-20T09:08:54.000Z",
+      "id": "rss-1792771924347-182",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2325,
-        "comments": 886
+        "sourceAuthority": 20
       },
-      "rawTextSnippet": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "hnMeta": {
-        "points": 2325,
-        "comments": 886,
-        "hnUrl": "https://news.ycombinator.com/item?id=50163277"
-      },
-      "score": 62,
+      "rawTextSnippet": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "score": 60,
       "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 14,
-        "engagement": 25,
+        "freshness": 22,
+        "authority": 20,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: DeepInfer has launched a high-performance inference framework specifically for DeepSeek models.  \n• Why it matters: This framework enhances the efficiency and speed of deploying AI models, potentially improving operational capabilities.  \n• Business opportunity: Companies can leverage DeepInfer to optimize their AI applications, leading to cost savings and faster time-to-market."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenAI has partnered with Poland’s NASK to enhance AI safety and security.  \n• Why it matters: This collaboration aims to strengthen digital safeguards and promote a resilient ecosystem amid growing AI concerns.  \n• Business opportunity: Companies can leverage this partnership to develop innovative AI safety solutions and services."
     },
     {
-      "id": "rss-1792686158583-131",
-      "title": "Spotify&#8217;s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T15:03:58.000Z",
+      "id": "rss-1792771915196-1",
+      "title": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-10-23T09:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 18
       },
-      "rawTextSnippet": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "score": 61,
+      "rawTextSnippet": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new …",
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
+        "freshness": 26,
+        "authority": 18,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Spotify's co-CEO highlighted the potential benefits of AI agents for the music service.  \n• Why it matters: This shift could position Spotify as the preferred platform for agents in the evolving music industry.  \n• Business opportunity: Leveraging AI could enhance user experience and attract more artists and agents to the platform."
+      "cluster": "General AI",
+      "summary": "• What happened: A documentary titled \"You Can See Everything\" about former biotech CEO Elizabeth Holmes was screened.  \n• Why it matters: The film sheds light on the controversies surrounding Holmes and the biotech industry.  \n• Business opportunity: There is potential for new narratives and insights in biotech storytelling and media production."
+    },
+    {
+      "id": "hn-1792771915403-10",
+      "title": "We gave an AI $100k to trade on leverage. Here's what it did",
+      "url": "https://twitter.com/DeployFinance/status/2113642187074195945",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T15:59:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "We gave an AI $100k to trade on leverage. Here's what it did",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50211142"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: An AI was given $100,000 to trade using leverage.  \n• Why it matters: The results highlight the potential and risks of AI in financial trading.  \n• Business opportunity: There is a growing market for AI-driven trading solutions that can optimize investment strategies."
+    },
+    {
+      "id": "hn-1792771915404-11",
+      "title": "Ask HN: How do you get AI loops to converge?",
+      "url": "https://news.ycombinator.com/item?id=50211080",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T15:55:55.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "For any arbitrary coding task, how can a Ralph loop break out of a local minima and converge, such that, even if the loop runs again, there are no tasks left to complete? These tasks are somewhat non-deterministic due to cross-interactions which make their stop conditions hard to define ahead of tim…",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50211080"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A discussion on Hacker News explores methods to achieve convergence in AI loops for coding tasks.  \n• Why it matters: Understanding convergence can enhance AI efficiency and reliability in complex task management.  \n• Business opportunity: Developing tools or frameworks that facilitate AI loop convergence could attract interest from software developers and companies."
+    },
+    {
+      "id": "hn-1792771915404-12",
+      "title": "Show HN: Anyone else frustrated with mermaid diagrams?",
+      "url": "https://github.com/uberblick-ai/ablauf",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T15:52:27.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "I’ve been struggling with Mermaid in Markdown for a while. I appreciate the technical finesse of its rendering, but the diagrams are often unreadable. So we wrote an alternative that is optimized for MCP and LLMs while still looking good to humans. The LLM can position elements, and it stays Markdow…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50211015"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A developer expressed frustration with Mermaid diagrams and created an alternative optimized for MCP and LLMs.  \n• Why it matters: The new tool aims to improve readability and usability of diagrams in Markdown, addressing common user complaints.  \n• Business opportunity: There is potential for developing and marketing user-friendly diagramming tools that enhance visual communication in technical documentation."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 65,
-      "trendScore": 223,
-      "whyTrending": "65 stories across Hacker, DeepMind, MIT, 46 in the last 24h.",
+      "itemCount": 62,
+      "trendScore": 215,
+      "whyTrending": "62 stories across Hacker, MIT, TechCrunch, 38 in the last 24h.",
       "topStory": {
-        "title": "OpenAI CLI",
-        "url": "https://github.com/openai/openai-cli"
+        "title": "The lifelong orgasm gap: exploring age's impact on orgasm rates",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11217024/"
       },
       "items": [
         {
-          "id": "hn-1792686155637-102",
-          "title": "OpenAI CLI",
-          "url": "https://github.com/openai/openai-cli",
+          "id": "hn-1792771916843-65",
+          "title": "The lifelong orgasm gap: exploring age's impact on orgasm rates",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11217024/",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T05:23:11.000Z",
+          "publishedAt": "2026-10-23T14:17:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 207,
-            "comments": 98
+            "upvotes": 11,
+            "comments": 1
           },
-          "rawTextSnippet": "OpenAI CLI",
+          "rawTextSnippet": "The lifelong orgasm gap: exploring age's impact on orgasm rates",
           "hnMeta": {
-            "points": 207,
-            "comments": 98,
-            "hnUrl": "https://news.ycombinator.com/item?id=50191507"
-          },
-          "score": 70,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1792686161929-197",
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-          "source": "DeepMind Blog",
-          "publishedAt": "2026-10-22T14:30:24.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-          "score": 65,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1792686158716-150",
-          "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
-          "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-22T13:58:47.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 6,
-            "comments": 4
-          },
-          "rawTextSnippet": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
-          "hnMeta": {
-            "points": 6,
-            "comments": 4,
-            "hnUrl": "https://news.ycombinator.com/item?id=50195420"
+            "points": 11,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50209477"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -325,15 +292,15 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1792686150979-0",
-          "title": "The Download: computing’s next leap and permafrost’s climate threat",
-          "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+          "id": "rss-1792771915196-0",
+          "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-10-22T12:10:00.000Z",
+          "publishedAt": "2026-10-23T12:10:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Botto…",
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips…",
           "score": 63,
           "scoreBreakdown": {
             "freshness": 30,
@@ -345,19 +312,73 @@
           "cluster": "General AI"
         },
         {
-          "id": "rss-1792686158583-133",
-          "title": "Nirva raises $33M for a pendant that only listens to you",
-          "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-22T13:26:52.000Z",
+          "id": "rss-1792771915196-1",
+          "title": "In the biotech world, you can’t see everything",
+          "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-10-23T09:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-          "score": 61,
+          "rawTextSnippet": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new …",
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 18,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1792771915403-10",
+          "title": "We gave an AI $100k to trade on leverage. Here's what it did",
+          "url": "https://twitter.com/DeployFinance/status/2113642187074195945",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T15:59:36.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "We gave an AI $100k to trade on leverage. Here's what it did",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50211142"
+          },
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 16,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1792771915404-11",
+          "title": "Ask HN: How do you get AI loops to converge?",
+          "url": "https://news.ycombinator.com/item?id=50211080",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T15:55:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "For any arbitrary coding task, how can a Ralph loop break out of a local minima and converge, such that, even if the loop runs again, there are no tasks left to complete? These tasks are somewhat non-deterministic due to cross-interactions which make their stop conditions hard to define ahead of tim…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50211080"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -368,28 +389,55 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 51,
-      "trendScore": 192,
-      "whyTrending": "51 stories across TechCrunch, Hacker, arXiv, 26 in the last 24h.",
+      "itemCount": 58,
+      "trendScore": 191,
+      "whyTrending": "58 stories across Hacker, OpenAI, arXiv, 28 in the last 24h.",
       "topStory": {
-        "title": "Uber puts all 30,000 employees on ChatGPT Work",
-        "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+        "title": "LLMs are making formal software verification feasible at a much larger scale",
+        "url": "https://www.anthropic.com/research/formal-verification"
       },
       "items": [
         {
-          "id": "rss-1792686158583-130",
-          "title": "Uber puts all 30,000 employees on ChatGPT Work",
-          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-22T16:00:00.000Z",
+          "id": "hn-1792771921109-124",
+          "title": "LLMs are making formal software verification feasible at a much larger scale",
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-22T22:54:43.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 14,
+            "upvotes": 401,
+            "comments": 245
           },
-          "rawTextSnippet": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
-          "score": 64,
+          "rawTextSnippet": "LLMs are making formal software verification feasible at a much larger scale",
+          "hnMeta": {
+            "points": 401,
+            "comments": 245,
+            "hnUrl": "https://news.ycombinator.com/item?id=50202217"
+          },
+          "score": 71,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 20,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1792771924347-181",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-10-23T17:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 20
+          },
+          "rawTextSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+          "score": 68,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 16,
+            "authority": 20,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
@@ -397,68 +445,21 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1792686158583-132",
-          "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
-          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-22T13:53:26.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Claude Duet is available through waitlist for Pro and Max plan users.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792686157273-121",
-          "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-          "url": "https://github.com/omnara-ai/omnara",
+          "id": "hn-1792771915404-12",
+          "title": "Show HN: Anyone else frustrated with mermaid diagrams?",
+          "url": "https://github.com/uberblick-ai/ablauf",
           "source": "Hacker News",
-          "publishedAt": "2026-10-21T16:44:53.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 102,
-            "comments": 29
-          },
-          "rawTextSnippet": "Hey all, Kartik from Omnara ( https:&#x2F;&#x2F;omnara.com ) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each a…",
-          "hnMeta": {
-            "points": 102,
-            "comments": 29,
-            "hnUrl": "https://news.ycombinator.com/item?id=50183892"
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 10,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792686151215-10",
-          "title": "Introducing the Gemini API CLI",
-          "url": "https://aistudio.google.com/learn/introducing-the-gemini-api-cli",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-22T16:20:23.000Z",
+          "publishedAt": "2026-10-23T15:52:27.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Introducing the Gemini API CLI",
+          "rawTextSnippet": "I’ve been struggling with Mermaid in Markdown for a while. I appreciate the technical finesse of its rendering, but the diagrams are often unreadable. So we wrote an alternative that is optimized for MCP and LLMs while still looking good to humans. The LLM can position elements, and it stays Markdow…",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50197506"
+            "hnUrl": "https://news.ycombinator.com/item?id=50211015"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -471,21 +472,48 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1792686151216-28",
-          "title": "Show HN: Airlock, which sandboxes AI agents, is available on the Mac App Store",
-          "url": "https://airlock.sorrel.systems",
+          "id": "hn-1792771915404-25",
+          "title": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+          "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T15:28:26.000Z",
+          "publishedAt": "2026-10-23T15:16:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50210481"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1792771916843-61",
+          "title": "Unstructured's New Models Outparse GPT-6, Claude and Gemini",
+          "url": "https://unstructured.io/blog/unstructured-transform-faster-more-accurate-for-your-hardest-documents",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T16:06:03.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Now that Airlock is available on the Mac App Store, I thought it was worth a resubmission. Quickly run your AI agents (Claude, Codex) in a disposable VM. Block the agent from making requests to unknown or untrusted hosts, and get a log of everything that it does - then only bring back the changes yo…",
+          "rawTextSnippet": "Unstructured's New Models Outparse GPT-6, Claude and Gemini",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50196751"
+            "hnUrl": "https://news.ycombinator.com/item?id=50211236"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -501,78 +529,30 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 29,
-      "trendScore": 187,
-      "whyTrending": "29 stories across TechCrunch, arXiv, Hacker, 25 in the last 24h.",
+      "itemCount": 31,
+      "trendScore": 185,
+      "whyTrending": "31 stories across Hacker, TechCrunch, GitHub, 23 in the last 24h.",
       "topStory": {
-        "title": "Spotify&#8217;s current AI bet is about being the music service that agents choose",
-        "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+        "title": "Show HN: Gsearch – Real Google Search for AI Agents(MCP)",
+        "url": "https://github.com/RayenMlayeh/gsearch"
       },
       "items": [
         {
-          "id": "rss-1792686158583-131",
-          "title": "Spotify&#8217;s current AI bet is about being the music service that agents choose",
-          "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-22T15:03:58.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "arxiv-1792686151429-55",
-          "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
-          "url": "https://arxiv.org/abs/2610.30026v1",
-          "source": "arXiv",
-          "publishedAt": "2026-10-21T16:51:25.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 15
-          },
-          "rawTextSnippet": "Enterprise agents act on documents. Before an agent can follow a policy, answer a compliance question or file a ticket, some ingestion layer must turn a Word file or PDF into tokens - and that layer is where an agent deployed in the wild silently loses information. We show that one layer is lost by …",
-          "arxivMeta": {
-            "authors": "Yikai Zhao, Saurabh Pandey, Pradeep Kumar Misra",
-            "categories": [
-              "cs.AI",
-              "cs.CL",
-              "stat.ML"
-            ]
-          },
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 15,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 9
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1792686151215-14",
-          "title": "An interactive simulator for securing autonomous AI agents in AWS",
-          "url": "https://milieucloud.com/architect-training/",
+          "id": "hn-1792771915404-18",
+          "title": "Show HN: Gsearch – Real Google Search for AI Agents(MCP)",
+          "url": "https://github.com/RayenMlayeh/gsearch",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T16:11:05.000Z",
+          "publishedAt": "2026-10-23T15:21:49.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "An interactive simulator for securing autonomous AI agents in AWS",
+          "rawTextSnippet": "Show HN: Gsearch – Real Google Search for AI Agents(MCP)",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50197358"
+            "hnUrl": "https://news.ycombinator.com/item?id=50210576"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -585,21 +565,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1792686151215-21",
-          "title": "Another approach to save tokens from coding agents",
-          "url": "https://github.com/rextail-ai/lessloc",
+          "id": "hn-1792771915404-20",
+          "title": "Google Ads AI Automation is a team of 41 AI agents",
+          "url": "https://github.com/aipsyhelp/ai_ads_google",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T15:58:05.000Z",
+          "publishedAt": "2026-10-23T15:21:33.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Another approach to save tokens from coding agents",
+          "rawTextSnippet": "Google Ads AI Automation is a team of 41 AI agents",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50197177"
+            "hnUrl": "https://news.ycombinator.com/item?id=50210566"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -612,21 +592,21 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1792686152750-65",
-          "title": "I built Live Coloring Book with AI agents after 15 years of coding by hand",
-          "url": "https://www.livecoloringbook.com/how-it-was-built",
+          "id": "hn-1792771915404-26",
+          "title": "Nvidia Sentry: Secure AI Agents at Runtime",
+          "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T14:16:47.000Z",
+          "publishedAt": "2026-10-23T15:01:26.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "I built Live Coloring Book with AI agents after 15 years of coding by hand",
+          "rawTextSnippet": "Nvidia Sentry: Secure AI Agents at Runtime",
           "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=50195681"
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50210221"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -637,89 +617,23 @@
             "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 10,
-      "trendScore": 129,
-      "whyTrending": "10 stories across Hacker, TechCrunch, arXiv, 8 in the last 24h.",
-      "topStory": {
-        "title": "The AI Product Operating System: Why Knowing What to Build Is the Only Moat Left",
-        "url": "https://www.velocitipm.com/blog/the-ai-product-operating-system-why-knowing-what-to-build-is-the-only-moat-left"
-      },
-      "items": [
-        {
-          "id": "hn-1792686151215-17",
-          "title": "The AI Product Operating System: Why Knowing What to Build Is the Only Moat Left",
-          "url": "https://www.velocitipm.com/blog/the-ai-product-operating-system-why-knowing-what-to-build-is-the-only-moat-left",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-22T16:09:45.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
-          },
-          "rawTextSnippet": "The AI Product Operating System: Why Knowing What to Build Is the Only Moat Left",
-          "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=50197331"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
         },
         {
-          "id": "hn-1792686151215-23",
-          "title": "Grok Bot: The cycle of productivity tools repeats itself in AI",
-          "url": "https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/",
+          "id": "hn-1792771916843-62",
+          "title": "LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades",
+          "url": "https://arxiv.org/abs/2610.30769",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T15:51:50.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Grok Bot: The cycle of productivity tools repeats itself in AI",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50197100"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1792686151216-26",
-          "title": "Show HN: Aven-stops AI coding tools from breaking yours project's rules",
-          "url": "https://getaven.pages.dev",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-22T15:30:36.000Z",
+          "publishedAt": "2026-10-23T16:02:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: Aven-stops AI coding tools from breaking yours project's rules",
+          "rawTextSnippet": "LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50196795"
+            "hnUrl": "https://news.ycombinator.com/item?id=50211188"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -729,24 +643,24 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1792686152751-70",
-          "title": "Show HN: Fuse – Anonymous daily rate limits for logins and APIs with ZK proofs",
-          "url": "https://github.com/veiovi/fuse",
+          "id": "hn-1792771918260-85",
+          "title": "Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks, Embodiments",
+          "url": "https://arxiv.org/abs/2610.10409",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T13:54:19.000Z",
+          "publishedAt": "2026-10-23T16:08:07.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Show HN: Fuse – Anonymous daily rate limits for logins and APIs with ZK proofs",
+          "rawTextSnippet": "Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks, Embodiments",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50195376"
+            "hnUrl": "https://news.ycombinator.com/item?id=50211266"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -756,83 +670,36 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "hn-1792686154206-82",
-          "title": "Show HN: XTrace – productivity observability tool for coding agents",
-          "url": "https://github.com/XTraceAI/xtrace-desktop",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-22T16:05:48.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: XTrace – productivity observability tool for coding agents",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50197281"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Agents & Automation"
         }
       ]
     },
     {
       "name": "Funding & Acquisitions",
-      "itemCount": 10,
-      "trendScore": 124,
-      "whyTrending": "10 stories across TechCrunch, Hacker, OpenAI, 5 in the last 24h.",
+      "itemCount": 14,
+      "trendScore": 135,
+      "whyTrending": "14 stories across Hacker, TechCrunch, arXiv, 7 in the last 24h.",
       "topStory": {
-        "title": "DeepSeek reportedly raises $15B days after US restrictions",
-        "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+        "title": "Warhound: Palmer Luckey's war dog startup",
+        "url": "https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10"
       },
       "items": [
         {
-          "id": "rss-1792686158583-134",
-          "title": "DeepSeek reportedly raises $15B days after US restrictions",
-          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-22T13:11:13.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-          "score": 70,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 9
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1792686155637-96",
-          "title": "DeepSeek just raised $15 billion to take on OpenAI and Anthropic",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+          "id": "hn-1792771916843-63",
+          "title": "Warhound: Palmer Luckey's war dog startup",
+          "url": "https://www.businessinsider.com/palmer-luckey-benn-lamm-warhound-war-dog-startup-seed-funding-2026-10",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T14:32:29.000Z",
+          "publishedAt": "2026-10-23T15:32:37.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 6,
-            "comments": 0
+            "upvotes": 2,
+            "comments": 1
           },
-          "rawTextSnippet": "DeepSeek just raised $15 billion to take on OpenAI and Anthropic",
+          "rawTextSnippet": "Warhound: Palmer Luckey's war dog startup",
           "hnMeta": {
-            "points": 6,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50195956"
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50210734"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -845,41 +712,21 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1792686158583-142",
-          "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-          "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-21T17:18:27.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1792686151215-13",
-          "title": "Chiron Changes AI Incident Investigation on Orca-Bench",
-          "url": "https://medium.com/@chironvision_inc/how-chiron-changes-ai-incident-investigation-on-orca-bench-5445b8fdd242",
+          "id": "hn-1792771919690-99",
+          "title": "OpenAI trims valuation target to $1.25T after pitching higher price",
+          "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T16:11:45.000Z",
+          "publishedAt": "2026-10-23T14:19:20.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
+            "upvotes": 5,
             "comments": 0
           },
-          "rawTextSnippet": "Chiron Changes AI Incident Investigation on Orca-Bench",
+          "rawTextSnippet": "OpenAI trims valuation target to $1.25T after pitching higher price",
           "hnMeta": {
-            "points": 1,
+            "points": 5,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50197366"
+            "hnUrl": "https://news.ycombinator.com/item?id=50209513"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -892,15 +739,42 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1792686158583-136",
-          "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-          "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+          "id": "hn-1792771921109-119",
+          "title": "Open call for guest investigators in the life sciences",
+          "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T12:20:25.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Open call for guest investigators in the life sciences",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50207814"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1792771922883-146",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-10-21T22:45:34.000Z",
+          "publishedAt": "2026-10-22T22:08:24.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+          "rawTextSnippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
           "score": 56,
           "scoreBreakdown": {
             "freshness": 22,
@@ -910,171 +784,303 @@
             "businessImpact": 3
           },
           "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1792771922883-156",
+          "title": "DeepSeek reportedly raises $15B days after US restrictions",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-22T13:11:13.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "Funding & Acquisitions"
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Products",
+      "itemCount": 7,
+      "trendScore": 111,
+      "whyTrending": "7 stories across Hacker, OpenAI, TechCrunch, 6 in the last 24h.",
+      "topStory": {
+        "title": "Anthropic strikes deal to launch European consultancy",
+        "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4"
+      },
+      "items": [
+        {
+          "id": "hn-1792771921109-116",
+          "title": "Anthropic strikes deal to launch European consultancy",
+          "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-23T13:11:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic strikes deal to launch European consultancy",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50208444"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1792771924347-183",
+          "title": "Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-10-22T19:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 20
+          },
+          "rawTextSnippet": "Fast, focused, low-cost decisions for any application.",
+          "score": 57,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 20,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1792771922883-147",
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-22T19:07:09.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "rss-1792771922883-149",
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-22T19:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+          "score": 53,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
+        },
+        {
+          "id": "hn-1792771919690-107",
+          "title": "Show HN: Paste an OpenAPI spec, get duplicate-charge replay tests",
+          "url": "https://idempotency-harness-checker.theartofservice.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-22T21:10:22.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: Paste an OpenAPI spec, get duplicate-charge replay tests",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50201089"
+          },
+          "score": 51,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Tools & Products"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1792686150979-1",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "id": "rss-1792771924347-181",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
       "scoreSignals": {
-        "sourceAuthority": 18
+        "sourceAuthority": 20
       },
-      "rawTextSnippet": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies…",
-      "score": 62,
+      "rawTextSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "score": 68,
       "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 18,
+        "freshness": 30,
+        "authority": 20,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Context-aware AI is being advocated for to enhance enterprise AI effectiveness.  \n• Why it matters: Understanding business operations is crucial for AI to make accurate recommendations and decisions.  \n• Business opportunity: Companies can leverage context-aware AI to improve decision-making processes and operational efficiency."
+      "cluster": "Large Language Models",
+      "summary": "• What happened: OpenAI scaled its online storage, Habitat, to support over 1 billion ChatGPT users with enhanced performance.  \n• Why it matters: The improvements enable 12× faster data retrieval, enhancing user experience and application efficiency.  \n• Business opportunity: Companies can leverage this scalable infrastructure for their own AI applications, improving performance and user engagement."
     },
     {
-      "id": "hn-1792686158716-160",
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "id": "hn-1792771916843-61",
+      "title": "Unstructured's New Models Outparse GPT-6, Claude and Gemini",
+      "url": "https://unstructured.io/blog/unstructured-transform-faster-more-accurate-for-your-hardest-documents",
       "source": "Hacker News",
-      "publishedAt": "2026-10-20T09:08:54.000Z",
+      "publishedAt": "2026-10-23T16:06:03.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 2325,
-        "comments": 886
+        "upvotes": 1,
+        "comments": 0
       },
-      "rawTextSnippet": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "rawTextSnippet": "Unstructured's New Models Outparse GPT-6, Claude and Gemini",
       "hnMeta": {
-        "points": 2325,
-        "comments": 886,
-        "hnUrl": "https://news.ycombinator.com/item?id=50163277"
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50211236"
       },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 14,
-        "engagement": 25,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: DeepInfer has been launched as a high-performance inference framework for DeepSeek models.  \n• Why it matters: This framework enhances the efficiency and speed of deep learning model inference, potentially improving AI applications.  \n• Business opportunity: Companies can leverage DeepInfer to optimize their AI solutions, reducing costs and increasing performance in various industries."
-    },
-    {
-      "id": "rss-1792686158583-132",
-      "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T13:53:26.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "score": 61,
+      "score": 59,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: Anthropic launched the Claude Duet app for Pro and Max plan users.  \n• Why it matters: This move signifies Anthropic's commitment to advancing AI agents in the market.  \n• Business opportunity: Companies can leverage Claude Duet to enhance productivity and automation in various applications."
+      "summary": "• What happened: Unstructured launched new models that outperform GPT-6, Claude, and Gemini.  \n• Why it matters: This advancement highlights significant progress in AI model performance and capabilities.  \n• Business opportunity: Companies can leverage these superior models for enhanced data processing and analysis solutions."
     },
     {
-      "id": "hn-1792686157273-121",
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
+      "id": "hn-1792771918260-90",
+      "title": "MemCurrent: Designing Persistent Memory for Production Agents",
+      "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
       "source": "Hacker News",
-      "publishedAt": "2026-10-21T16:44:53.000Z",
+      "publishedAt": "2026-10-23T14:47:15.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 102,
-        "comments": 29
+        "upvotes": 3,
+        "comments": 1
       },
-      "rawTextSnippet": "Hey all, Kartik from Omnara ( https:&#x2F;&#x2F;omnara.com ) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each a…",
+      "rawTextSnippet": "MemCurrent: Designing Persistent Memory for Production Agents",
       "hnMeta": {
-        "points": 102,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=50183892"
+        "points": 3,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50209974"
       },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 10,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    },
-    {
-      "id": "rss-1792686150979-3",
-      "title": "AI&#8217;s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-10-22T08:41:18.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from …",
       "score": 59,
       "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 18,
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Hardware & Chips"
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: MemCurrent has developed a new approach to designing persistent memory for production agents.  \n• Why it matters: This innovation aims to enhance data storage efficiency and performance in computing systems.  \n• Business opportunity: Companies can leverage this technology to improve their data management solutions and optimize operational workflows."
+    },
+    {
+      "id": "hn-1792771919690-98",
+      "title": "Show HN: ParaGraFX – An iOS app for reading and illustrating ePub books",
+      "url": "https://apps.apple.com/us/app/paragrafx-illustrate-books/id6795768929",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T14:27:01.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 1
+      },
+      "rawTextSnippet": "A few years ago when Stable Diffusion was released, I happened to be reading Homer&#x27;s Iliad and came across a section where Achilles&#x27; shield is described in great detail. I fed the passage into Stable Diffusion, wondering how well it would do in creating an illustration of the shield. Of co…",
+      "hnMeta": {
+        "points": 1,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50209650"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Open Source AI"
+    },
+    {
+      "id": "hn-1792771921109-116",
+      "title": "Anthropic strikes deal to launch European consultancy",
+      "url": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T13:11:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Anthropic strikes deal to launch European consultancy",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50208444"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1792686151429-55",
-      "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
-      "url": "https://arxiv.org/abs/2610.30026v1",
+      "id": "arxiv-1792771915612-34",
+      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+      "url": "https://arxiv.org/abs/2610.31657v1",
       "source": "arXiv",
-      "publishedAt": "2026-10-21T16:51:25.000Z",
+      "publishedAt": "2026-10-22T17:58:52.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Enterprise agents act on documents. Before an agent can follow a policy, answer a compliance question or file a ticket, some ingestion layer must turn a Word file or PDF into tokens - and that layer is where an agent deployed in the wild silently loses information. We show that one layer is lost by …",
+      "rawTextSnippet": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a…",
       "arxivMeta": {
-        "authors": "Yikai Zhao, Saurabh Pandey, Pradeep Kumar Misra",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1792686151428-39",
-      "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
-      "url": "https://arxiv.org/abs/2610.30105v1",
-      "source": "arXiv",
-      "publishedAt": "2026-10-21T17:50:31.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Sequential decision-making under partial observability is difficult because agents must explore to infer hidden, task-relevant information before acting effectively. Learning such information-gathering behaviors tabula rasa via online reinforcement learning is sample-inefficient, whereas offline imi…",
-      "arxivMeta": {
-        "authors": "Sriyash Poddar, Yanda Bao, Jacob Krantz, Matthew Chang, Xavier Puig, Roozbeh Mottaghi, Natasha Jaques, Abhishek Gupta",
+        "authors": "Sachin Gupta",
         "categories": [
           "cs.AI",
           "cs.CL",
@@ -1088,97 +1094,195 @@
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1792686151429-52",
-      "title": "SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation",
-      "url": "https://arxiv.org/abs/2610.30044v1",
-      "source": "arXiv",
-      "publishedAt": "2026-10-21T17:03:34.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Humanoid loco-manipulation requires an effective interface between high-level task policies and whole-body control. Existing interfaces typically rely on a single action representation for both task intent and whole-body coordination. This may burden the high-level policy or leave one aspect undersp…",
-      "arxivMeta": {
-        "authors": "Zhaohui Yang, Quanbao Lin, Chengqi Shi, Zhenglang Weng, Jicheng Lin, Boyu Chen, Tengjie Zhu, Guanzhu Ren, Jiahao Xu, Yang Feng, Xiaokang Yang, Yao Mu",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 55,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "arxiv-1792686151427-30",
-      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-      "url": "https://arxiv.org/abs/2610.30132v1",
-      "source": "arXiv",
-      "publishedAt": "2026-10-21T17:59:14.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL,…",
-      "arxivMeta": {
-        "authors": "Zhennan Wan, Jianfei Chen",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 52,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
       },
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1792686151427-31",
-      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-      "url": "https://arxiv.org/abs/2610.30128v1",
+      "id": "arxiv-1792771915612-40",
+      "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+      "url": "https://arxiv.org/abs/2610.31624v1",
       "source": "arXiv",
-      "publishedAt": "2026-10-21T17:58:06.000Z",
+      "publishedAt": "2026-10-22T17:44:41.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items withi…",
+      "rawTextSnippet": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the …",
       "arxivMeta": {
-        "authors": "Zhanshuo Cao, Jiakai Tang, Yuqi Zhou, Sunhao Dai, Jun Xu",
+        "authors": "Barış Alparslan, Sandy Tanwisuth, Caleb Petterson",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 52,
+      "score": 55,
       "scoreBreakdown": {
         "freshness": 22,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "General AI"
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1792771915613-48",
+      "title": "What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2610.31576v1",
+      "source": "arXiv",
+      "publishedAt": "2026-10-22T17:15:04.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Masked diffusion language models generate tokens in parallel, but their efficiency depends on which predictions are committed. Learned unmasking policies improve the speed--accuracy trade-off, yet differ in supervision, inputs, and capacity, obscuring which choices matter. We view supervised policie…",
+      "arxivMeta": {
+        "authors": "Jinya Sakurai, Xun Xu, Jaehong Yoon",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Generative AI & Media"
+    },
+    {
+      "id": "arxiv-1792771915613-50",
+      "title": "When to Follow the Teacher: Advantage-Based On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.31563v1",
+      "source": "arXiv",
+      "publishedAt": "2026-10-22T17:05:21.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Online Policy Distillation (OPD) often outperforms offline methods such as Supervised Fine-Tuning (SFT) by training on trajectories sampled directly from the student. However, standard OPD trains the student to follow the teacher at every state of the trajectory, assuming that teacher guidance is al…",
+      "arxivMeta": {
+        "authors": "Mahdi Sabbaghi, George Pappas, Hamed Hassani, Adel Javanmard",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Research & Benchmarks"
+    },
+    {
+      "id": "arxiv-1792771915614-58",
+      "title": "From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims",
+      "url": "https://arxiv.org/abs/2610.31519v1",
+      "source": "arXiv",
+      "publishedAt": "2026-10-22T16:31:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Large language models (LLMs) are increasingly used to generate domain-specific commercial & medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific person…",
+      "arxivMeta": {
+        "authors": "Suyash Mishra, Qiang Li, Subhabrata Adak, Upender Phogat, Srikanth Patil, Satyanarayan Pati",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 55,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
     }
   ],
   "funding": [
     {
-      "id": "rss-1792686158583-134",
+      "id": "rss-1792771924347-181",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "score": 68,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: OpenAI scaled its Habitat platform to enhance online storage for over 1 billion ChatGPT users.  \n• Why it matters: The improvements enable 12× faster data retrieval, enhancing user experience and performance.  \n• Business opportunity: Companies can leverage this advanced storage solution to optimize their own AI applications and services."
+    },
+    {
+      "id": "hn-1792771921109-119",
+      "title": "Open call for guest investigators in the life sciences",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-23T12:20:25.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Open call for guest investigators in the life sciences",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50207814"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: An open call has been announced for guest investigators in the life sciences sector.  \n• Why it matters: This initiative aims to foster collaboration and innovation in research.  \n• Business opportunity: Companies can leverage this opportunity to partner with emerging researchers and enhance their R&D capabilities."
+    },
+    {
+      "id": "rss-1792771922883-146",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T22:08:24.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "score": 56,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI is pursuing a $30 billion funding round, aiming for a $1.25 trillion valuation ahead of its IPO.  \n• Why it matters: Achieving this valuation would set a record for the highest valuation of a private company.  \n• Business opportunity: Investors may find lucrative prospects in AI as OpenAI's valuation highlights the sector's growth potential."
+    },
+    {
+      "id": "rss-1792771922883-156",
       "title": "DeepSeek reportedly raises $15B days after US restrictions",
       "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "source": "TechCrunch AI",
@@ -1186,114 +1290,45 @@
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-      "score": 70,
+      "rawTextSnippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "score": 55,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 15,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 9
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: DeepSeek raised $15 billion shortly after the US imposed technology restrictions.  \n• Why it matters: This funding highlights significant investor confidence despite geopolitical tensions.  \n• Business opportunity: Companies can explore partnerships or alternatives in AI technology to navigate regulatory challenges."
+      "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "hn-1792686155637-96",
-      "title": "DeepSeek just raised $15 billion to take on OpenAI and Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-22T14:32:29.000Z",
+      "id": "arxiv-1792771915612-40",
+      "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+      "url": "https://arxiv.org/abs/2610.31624v1",
+      "source": "arXiv",
+      "publishedAt": "2026-10-22T17:44:41.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 6,
-        "comments": 0
+        "sourceAuthority": 15
       },
-      "rawTextSnippet": "DeepSeek just raised $15 billion to take on OpenAI and Anthropic",
-      "hnMeta": {
-        "points": 6,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50195956"
+      "rawTextSnippet": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the …",
+      "arxivMeta": {
+        "authors": "Barış Alparslan, Sandy Tanwisuth, Caleb Petterson",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
       },
-      "score": 62,
+      "score": 55,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
+        "freshness": 22,
+        "authority": 15,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: DeepSeek raised $15 billion to compete with OpenAI and Anthropic.  \n• Why it matters: This significant funding indicates strong investor confidence in AI competition and innovation.  \n• Business opportunity: Companies can explore partnerships or solutions leveraging DeepSeek's advancements in AI technology."
-    },
-    {
-      "id": "rss-1792686158583-133",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T13:26:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "score": 61,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Nirva secured $33 million in funding for its $249 ambient AI pendant.  \n• Why it matters: The device promises enhanced privacy by only listening to the user.  \n• Business opportunity: There is potential for growth in the privacy-focused tech market."
-    },
-    {
-      "id": "rss-1792686158583-142",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T17:18:27.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "hn-1792686151215-13",
-      "title": "Chiron Changes AI Incident Investigation on Orca-Bench",
-      "url": "https://medium.com/@chironvision_inc/how-chiron-changes-ai-incident-investigation-on-orca-bench-5445b8fdd242",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-22T16:11:45.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Chiron Changes AI Incident Investigation on Orca-Bench",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50197366"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Funding & Acquisitions"
+      "cluster": "Large Language Models"
     }
   ],
-  "dailyBrief": "DeepSeek has made headlines by raising an impressive $15 billion just days after the U.S. imposed new restrictions on AI technologies, signaling strong investor confidence in the sector despite regulatory challenges. Meanwhile, OpenAI has launched a Command Line Interface (CLI) to enhance user interaction with its models, potentially streamlining workflows for developers. In a significant move towards operational efficiency, Uber has integrated ChatGPT into its daily operations for all 30,000 employees, which could lead to substantial productivity gains. Additionally, DeepMind's latest research on global forest types emphasizes the importance of AI in environmental monitoring, highlighting its role in sustainability efforts. As AI continues to evolve, experts predict a radical transformation in various industries, underscoring the need for businesses to adapt swiftly to these technological advancements."
+  "dailyBrief": "Large Language Models (LLMs) are revolutionizing formal software verification, enabling companies to scale their verification processes significantly, which could enhance software reliability and reduce costs associated with bugs and vulnerabilities. Meanwhile, OpenAI is rapidly expanding its online storage infrastructure to accommodate over 1 billion ChatGPT users, highlighting the growing demand for AI-driven solutions and the necessity for robust data management systems. In the biotech sector, recent discussions reveal critical blind spots that could impact innovation, emphasizing the need for businesses to stay vigilant about industry trends. Additionally, Palmer Luckey's new venture, Warhound, aims to integrate advanced technology into defense applications, potentially reshaping the military landscape and opening new markets for tech firms. These developments underscore the importance of agility and foresight in navigating the evolving business environment shaped by AI and technology."
 }
