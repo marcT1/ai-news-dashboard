@@ -1,77 +1,49 @@
 {
   "topNews": [
     {
-      "id": "hn-1792854491804-106",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "id": "hn-1792941618338-19",
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
       "source": "Hacker News",
-      "publishedAt": "2026-10-24T05:49:57.000Z",
+      "publishedAt": "2026-10-25T14:05:03.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 357,
-        "comments": 116
+        "upvotes": 52,
+        "comments": 52
       },
-      "rawTextSnippet": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "rawTextSnippet": "R/open source bans all solo projects and projects using LLMs",
       "hnMeta": {
-        "points": 357,
-        "comments": 116,
-        "hnUrl": "https://news.ycombinator.com/item?id=50218633"
+        "points": 52,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=50231722"
       },
-      "score": 75,
+      "score": 72,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 20,
+        "engagement": 10,
         "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A hacker discovered that a Samsung TV has an on-board AI capable of listening.  \n• Why it matters: This raises concerns about privacy and data security for consumers using smart devices.  \n• Business opportunity: Companies can develop enhanced privacy solutions or secure smart device technologies to address consumer fears."
-    },
-    {
-      "id": "hn-1792854493222-138",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-22T22:54:43.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 453,
-        "comments": 295
-      },
-      "rawTextSnippet": "LLMs are making formal software verification feasible at a much larger scale",
-      "hnMeta": {
-        "points": 453,
-        "comments": 295,
-        "hnUrl": "https://news.ycombinator.com/item?id=50202217"
-      },
-      "score": 69,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 25,
-        "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: LLMs are enhancing the scalability of formal software verification.  \n• Why it matters: This advancement improves software reliability and security, reducing potential vulnerabilities.  \n• Business opportunity: Companies can leverage LLMs to offer more robust verification services, tapping into a growing market for secure software solutions."
+      "summary": "• What happened: R/open source has prohibited solo projects and those utilizing large language models (LLMs).  \n• Why it matters: This decision could reshape collaboration dynamics and innovation in the open-source community.  \n• Business opportunity: Companies can explore new collaborative models and tools that comply with these restrictions while fostering community engagement."
     },
     {
-      "id": "hn-1792854490393-97",
-      "title": "US-Israeli browser startup valued at $6.4B",
-      "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
+      "id": "hn-1792941618338-23",
+      "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+      "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
       "source": "Hacker News",
-      "publishedAt": "2026-10-24T09:38:42.000Z",
+      "publishedAt": "2026-10-25T13:41:19.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 12,
-        "comments": 17
+        "upvotes": 15,
+        "comments": 4
       },
-      "rawTextSnippet": "US-Israeli browser startup valued at $6.4B",
+      "rawTextSnippet": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
       "hnMeta": {
-        "points": 12,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50219588"
+        "points": 15,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=50231486"
       },
       "score": 67,
       "scoreBreakdown": {
@@ -81,109 +53,53 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: A US-Israeli browser startup has achieved a valuation of $6.4 billion.  \n• Why it matters: This significant valuation highlights the growing demand for innovative web technologies.  \n• Business opportunity: Investors and tech companies can explore partnerships or investments in the evolving browser market."
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: An open-source cybersecurity platform leveraging AI agents was introduced to enhance business protection.  \n• Why it matters: This innovation addresses the growing need for effective cybersecurity solutions in an increasingly digital landscape.  \n• Business opportunity: Companies can adopt or contribute to this platform, potentially reducing costs and improving security measures."
     },
     {
-      "id": "hn-1792854488934-67",
-      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "id": "hn-1792941618338-29",
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
       "source": "Hacker News",
-      "publishedAt": "2026-10-23T23:30:17.000Z",
+      "publishedAt": "2026-10-25T12:47:20.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 177,
-        "comments": 93
+        "upvotes": 20,
+        "comments": 10
       },
-      "rawTextSnippet": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "rawTextSnippet": "Imagine an AI future where being banned means you are now economically useless",
       "hnMeta": {
-        "points": 177,
-        "comments": 93,
-        "hnUrl": "https://news.ycombinator.com/item?id=50216791"
+        "points": 20,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50230995"
       },
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: A new remote code execution (RCE) vulnerability called http2shell has been identified in Node, Python, and other platforms.  \n• Why it matters: This vulnerability poses significant security risks, potentially allowing attackers to exploit various applications.  \n• Business opportunity: Companies can invest in enhanced security solutions and services to protect against evolving threats like http2shell."
-    },
-    {
-      "id": "hn-1792854490393-91",
-      "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
-      "url": "https://github.com/byenzyme/enzyme",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-24T13:30:18.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 12,
-        "comments": 8
-      },
-      "rawTextSnippet": "Show HN: Enzyme – a programming language that compiles wikis for agents",
-      "hnMeta": {
-        "points": 12,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=50221066"
-      },
-      "score": 64,
+      "score": 67,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
         "engagement": 5,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 3
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new programming language called Enzyme has been introduced, designed to compile wikis for agents.  \n• Why it matters: This innovation could streamline the development of intelligent agents by leveraging existing wiki content.  \n• Business opportunity: Companies can explore integrating Enzyme to enhance knowledge management and automate agent training processes."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: A discussion emerged about the implications of AI-driven bans rendering individuals economically irrelevant.  \n• Why it matters: This scenario raises concerns about social equity and the future of employment in an AI-dominated landscape.  \n• Business opportunity: Companies can develop solutions to support reintegration and economic participation for those affected by AI bans."
     },
     {
-      "id": "hn-1792854494689-150",
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "id": "hn-1792941618338-13",
+      "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
+      "url": "https://reddit.com/opensource_projects",
       "source": "Hacker News",
-      "publishedAt": "2026-10-22T22:43:19.000Z",
+      "publishedAt": "2026-10-25T15:03:44.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 467,
-        "comments": 242
+        "upvotes": 2,
+        "comments": 2
       },
-      "rawTextSnippet": "Canadians are running out of time to oppose Bill C-22",
+      "rawTextSnippet": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
       "hnMeta": {
-        "points": 467,
-        "comments": 242,
-        "hnUrl": "https://news.ycombinator.com/item?id=50202114"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 20,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Canadians face a deadline to voice opposition against Bill C-22.  \n• Why it matters: The bill could significantly impact social policies and individual rights in Canada.  \n• Business opportunity: Companies can engage in advocacy or provide resources to help citizens understand and respond to the bill."
-    },
-    {
-      "id": "hn-1792854487484-10",
-      "title": "Security problems, what security problems? This is only the beginning",
-      "url": "https://13trillionparameters.com/comics/006-security-wasnt-in-the-prompt",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-24T15:05:31.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 1
-      },
-      "rawTextSnippet": "Security problems, what security problems? This is only the beginning",
-      "hnMeta": {
-        "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=50221978"
+        "points": 2,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50232289"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -193,46 +109,109 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "General AI",
-      "summary": "• What happened: Security issues are being downplayed, indicating a growing trend.  \n• Why it matters: Ignoring security vulnerabilities can lead to significant risks for businesses and consumers.  \n• Business opportunity: Companies can capitalize on the demand for enhanced cybersecurity solutions and services."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: The subreddit R/opensource has banned all AI-related content.  \n• Why it matters: This ban reflects growing concerns about AI's impact on open-source communities.  \n• Business opportunity: A new subreddit has been created to cater to discussions around AI, presenting a niche platform for engagement."
     },
     {
-      "id": "rss-1792854494997-153",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "id": "hn-1792941618338-17",
+      "title": "r/open source just banned AI, non-English speakers and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-25T14:06:54.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 2
       },
-      "rawTextSnippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "score": 61,
+      "rawTextSnippet": "r/open source just banned AI, non-English speakers and more",
+      "hnMeta": {
+        "points": 1,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50231744"
+      },
+      "score": 62,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
+        "authority": 14,
         "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: The r/open source community has banned discussions related to AI and non-English speakers.  \n• Why it matters: This decision may limit diversity and innovation within the open-source ecosystem.  \n• Business opportunity: Companies can create inclusive platforms that support diverse contributions and AI discussions in open-source projects."
+    },
+    {
+      "id": "hn-1792941622834-98",
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-25T12:28:43.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 2,
+        "comments": 1
+      },
+      "rawTextSnippet": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+      "hnMeta": {
+        "points": 2,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50230847"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Generative AI & Media",
+      "summary": "• What happened: A cybersecurity expert claims Samsung TVs utilize AI to record audio.  \n• Why it matters: This raises significant privacy concerns regarding user data and surveillance.  \n• Business opportunity: Companies can develop enhanced privacy solutions or alternatives to address consumer fears."
+    },
+    {
+      "id": "hn-1792941625929-163",
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-22T22:43:19.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 499,
+        "comments": 280
+      },
+      "rawTextSnippet": "Canadians are running out of time to oppose Bill C-22",
+      "hnMeta": {
+        "points": 499,
+        "comments": 280,
+        "hnUrl": "https://news.ycombinator.com/item?id=50202114"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 8,
+        "authority": 14,
+        "engagement": 25,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A list of notable AI agents for text messaging has been published.  \n• Why it matters: These AI agents enhance communication and productivity across various personal and professional contexts.  \n• Business opportunity: Companies can develop or integrate specialized AI agents to cater to diverse user needs in messaging platforms."
+      "cluster": "General AI",
+      "summary": "• What happened: Canadians face a deadline to voice opposition against Bill C-22.  \n• Why it matters: The bill could significantly impact social policies and public welfare in Canada.  \n• Business opportunity: Companies can engage in advocacy or provide resources to help citizens understand and respond to the bill."
     },
     {
-      "id": "hn-1792854488934-75",
-      "title": "Volodymyr Zelenskyy: The speed limits on Starlink and Starshield are still there",
-      "url": "https://twitter.com/ZelenskyyUa/status/2113677048354947180",
+      "id": "hn-1792941619849-75",
+      "title": "\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
+      "url": "https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films",
       "source": "Hacker News",
-      "publishedAt": "2026-10-23T19:21:40.000Z",
+      "publishedAt": "2026-10-25T01:40:01.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 48,
-        "comments": 17
+        "upvotes": 46,
+        "comments": 15
       },
-      "rawTextSnippet": "Volodymyr Zelenskyy: The speed limits on Starlink and Starshield are still there",
+      "rawTextSnippet": "\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
       "hnMeta": {
-        "points": 48,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50214055"
+        "points": 46,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=50227403"
       },
       "score": 61,
       "scoreBreakdown": {
@@ -243,165 +222,119 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: Volodymyr Zelenskyy confirmed that speed limits on Starlink and Starshield remain unchanged.  \n• Why it matters: This affects internet accessibility and performance for users in Ukraine, particularly in conflict zones.  \n• Business opportunity: There is potential for developing alternative satellite solutions or enhancing existing services to meet demand for faster connectivity."
+      "summary": "• What happened: The \"Musk\" documentary was removed from nearly all 472 theaters after just one week of screening.  \n• Why it matters: This rapid withdrawal indicates poor audience reception and potential misalignment with viewer interests.  \n• Business opportunity: There is a chance to analyze audience preferences for future documentary projects to ensure better engagement."
     },
     {
-      "id": "rss-1792854496413-189",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "id": "hn-1792941619849-83",
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-24T21:42:47.000Z",
       "scoreSignals": {
-        "sourceAuthority": 20
+        "sourceAuthority": 14,
+        "upvotes": 102,
+        "comments": 33
       },
-      "rawTextSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "score": 60,
+      "rawTextSnippet": "The Importance of Limitations for Creativity and Learning (2023)",
+      "hnMeta": {
+        "points": 102,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=50225663"
+      },
+      "score": 61,
       "scoreBreakdown": {
         "freshness": 22,
-        "authority": 20,
-        "engagement": 0,
+        "authority": 14,
+        "engagement": 10,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: OpenAI scaled its online storage system, Habitat, to support over 1 billion ChatGPT users with enhanced performance.  \n• Why it matters: The improvements enable 12× faster data retrieval, significantly enhancing user experience and system reliability.  \n• Business opportunity: Companies can leverage this technology for efficient data management and faster service delivery in their own applications."
+      "cluster": "General AI",
+      "summary": "• What happened: A discussion highlights how limitations can enhance creativity and learning.  \n• Why it matters: Understanding the role of constraints can lead to more innovative problem-solving approaches.  \n• Business opportunity: Companies can leverage this insight to foster creative environments that embrace limitations for better outcomes."
+    },
+    {
+      "id": "hn-1792941622834-107",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-24T15:35:17.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 49,
+        "comments": 39
+      },
+      "rawTextSnippet": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "hnMeta": {
+        "points": 49,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=50222283"
+      },
+      "score": 61,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: A community hub has been created for revising OpenAI's math write-ups.  \n• Why it matters: This initiative fosters collaboration and improvement in AI-related mathematical content.  \n• Business opportunity: Companies can leverage this platform to enhance their AI models and educational resources."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 67,
-      "trendScore": 206,
-      "whyTrending": "67 stories across Hacker, MIT, TechCrunch, 28 in the last 24h.",
+      "itemCount": 68,
+      "trendScore": 204,
+      "whyTrending": "68 stories across Hacker, TechCrunch, GitHub, 35 in the last 24h.",
       "topStory": {
-        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/"
+        "title": "Canadians are running out of time to oppose Bill C-22",
+        "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill"
       },
       "items": [
         {
-          "id": "hn-1792854491804-106",
-          "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T05:49:57.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 357,
-            "comments": 116
-          },
-          "rawTextSnippet": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "hnMeta": {
-            "points": 357,
-            "comments": 116,
-            "hnUrl": "https://news.ycombinator.com/item?id=50218633"
-          },
-          "score": 75,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1792854488934-67",
-          "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-          "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-23T23:30:17.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 177,
-            "comments": 93
-          },
-          "rawTextSnippet": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-          "hnMeta": {
-            "points": 177,
-            "comments": 93,
-            "hnUrl": "https://news.ycombinator.com/item?id=50216791"
-          },
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 15,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1792854494689-150",
+          "id": "hn-1792941625929-163",
           "title": "Canadians are running out of time to oppose Bill C-22",
           "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
           "source": "Hacker News",
           "publishedAt": "2026-10-22T22:43:19.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 467,
-            "comments": 242
+            "upvotes": 499,
+            "comments": 280
           },
           "rawTextSnippet": "Canadians are running out of time to oppose Bill C-22",
           "hnMeta": {
-            "points": 467,
-            "comments": 242,
+            "points": 499,
+            "comments": 280,
             "hnUrl": "https://news.ycombinator.com/item?id=50202114"
           },
-          "score": 64,
+          "score": 62,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 8,
             "authority": 14,
-            "engagement": 20,
+            "engagement": 25,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "hn-1792854487484-10",
-          "title": "Security problems, what security problems? This is only the beginning",
-          "url": "https://13trillionparameters.com/comics/006-security-wasnt-in-the-prompt",
+          "id": "hn-1792941619849-75",
+          "title": "\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
+          "url": "https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films",
           "source": "Hacker News",
-          "publishedAt": "2026-10-24T15:05:31.000Z",
+          "publishedAt": "2026-10-25T01:40:01.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 1
+            "upvotes": 46,
+            "comments": 15
           },
-          "rawTextSnippet": "Security problems, what security problems? This is only the beginning",
+          "rawTextSnippet": "\"Musk\" Documentary Pulled from Almost Every One of 472 Theaters After One Week",
           "hnMeta": {
-            "points": 1,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=50221978"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1792854488934-75",
-          "title": "Volodymyr Zelenskyy: The speed limits on Starlink and Starshield are still there",
-          "url": "https://twitter.com/ZelenskyyUa/status/2113677048354947180",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-23T19:21:40.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 48,
-            "comments": 17
-          },
-          "rawTextSnippet": "Volodymyr Zelenskyy: The speed limits on Starlink and Starshield are still there",
-          "hnMeta": {
-            "points": 48,
-            "comments": 17,
-            "hnUrl": "https://news.ycombinator.com/item?id=50214055"
+            "points": 46,
+            "comments": 15,
+            "hnUrl": "https://news.ycombinator.com/item?id=50227403"
           },
           "score": 61,
           "scoreBreakdown": {
@@ -412,48 +345,210 @@
             "businessImpact": 0
           },
           "cluster": "General AI"
+        },
+        {
+          "id": "hn-1792941619849-83",
+          "title": "The Importance of Limitations for Creativity and Learning (2023)",
+          "url": "https://ratfactor.com/cards/limitations",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-24T21:42:47.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 102,
+            "comments": 33
+          },
+          "rawTextSnippet": "The Importance of Limitations for Creativity and Learning (2023)",
+          "hnMeta": {
+            "points": 102,
+            "comments": 33,
+            "hnUrl": "https://news.ycombinator.com/item?id=50225663"
+          },
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1792941622834-107",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-24T15:35:17.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 49,
+            "comments": 39
+          },
+          "rawTextSnippet": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "hnMeta": {
+            "points": 49,
+            "comments": 39,
+            "hnUrl": "https://news.ycombinator.com/item?id=50222283"
+          },
+          "score": 61,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1792941618338-11",
+          "title": "Show HN: Directory 958 inspirational artisans, craftspeople, smiths, for post-AI",
+          "url": "https://www.worldofbuilders.com/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T15:12:26.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "Show HN: Directory 958 inspirational artisans, craftspeople, smiths, for post-AI",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50232415"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
         }
       ]
     },
     {
       "name": "Large Language Models",
-      "itemCount": 60,
-      "trendScore": 181,
-      "whyTrending": "60 stories across Hacker, OpenAI, arXiv, 13 in the last 24h.",
+      "itemCount": 54,
+      "trendScore": 165,
+      "whyTrending": "54 stories across Hacker, OpenAI, TechCrunch, 8 in the last 24h.",
       "topStory": {
-        "title": "LLMs are making formal software verification feasible at a much larger scale",
-        "url": "https://www.anthropic.com/research/formal-verification"
+        "title": "R/open source bans all solo projects and projects using LLMs",
+        "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai"
       },
       "items": [
         {
-          "id": "hn-1792854493222-138",
-          "title": "LLMs are making formal software verification feasible at a much larger scale",
-          "url": "https://www.anthropic.com/research/formal-verification",
+          "id": "hn-1792941618338-19",
+          "title": "R/open source bans all solo projects and projects using LLMs",
+          "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
           "source": "Hacker News",
-          "publishedAt": "2026-10-22T22:54:43.000Z",
+          "publishedAt": "2026-10-25T14:05:03.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 453,
-            "comments": 295
+            "upvotes": 52,
+            "comments": 52
           },
-          "rawTextSnippet": "LLMs are making formal software verification feasible at a much larger scale",
+          "rawTextSnippet": "R/open source bans all solo projects and projects using LLMs",
           "hnMeta": {
-            "points": 453,
-            "comments": 295,
-            "hnUrl": "https://news.ycombinator.com/item?id=50202217"
+            "points": 52,
+            "comments": 52,
+            "hnUrl": "https://news.ycombinator.com/item?id=50231722"
           },
-          "score": 69,
+          "score": 72,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 25,
+            "engagement": 10,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1792941619849-70",
+          "title": "Michal Wallace on Narrative Programming: Why Learn J when LLMs Code?",
+          "url": "https://alexalejandre.com/interviews/michal-wallace/",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T05:14:39.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "Michal Wallace on Narrative Programming: Why Learn J when LLMs Code?",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50228537"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1792854496413-189",
+          "id": "hn-1792941624430-120",
+          "title": "I've left Anthropic after more than a year of working on Claude Code",
+          "url": "https://twitter.com/trq212/status/2113844051938054167",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T08:52:01.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "I've left Anthropic after more than a year of working on Claude Code",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50229539"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1792941624430-121",
+          "title": "Anthropic's Claude Code Sandbox",
+          "url": "https://aiweekly.co/alerts/anthropic-open-sources-claude-code-sandbox-under-apache-20",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T03:34:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic's Claude Code Sandbox",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50228041"
+          },
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "rss-1792941627064-164",
           "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
           "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
           "source": "OpenAI Blog",
@@ -462,94 +557,13 @@
             "sourceAuthority": 20
           },
           "rawTextSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-          "score": 60,
+          "score": 53,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 15,
             "authority": 20,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792854487484-13",
-          "title": "Glyphh Ada: Decision model that learns from your past decisions, no transformer",
-          "url": "https://glyphh.ai/blog/introducing-ada",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T14:48:37.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Glyphh Ada: Decision model that learns from your past decisions, no transformer",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50221793"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792854490393-89",
-          "title": "Show HN: Bellman – rooms where agents from different providers work together",
-          "url": "https://github.com/bellman-sh/bellman",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T14:23:13.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: Bellman – rooms where agents from different providers work together",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50221513"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "hn-1792854491804-118",
-          "title": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
-          "url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-23T15:16:10.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 7,
-            "comments": 2
-          },
-          "rawTextSnippet": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
-          "hnMeta": {
-            "points": 7,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=50210481"
-          },
-          "score": 56,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
           },
           "cluster": "Large Language Models"
         }
@@ -558,169 +572,29 @@
     {
       "name": "AI Agents & Automation",
       "itemCount": 26,
-      "trendScore": 169,
-      "whyTrending": "26 stories across Hacker, TechCrunch, GitHub, 15 in the last 24h.",
+      "trendScore": 165,
+      "whyTrending": "26 stories across Hacker, GitHub, TechCrunch, 14 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
-        "url": "https://github.com/byenzyme/enzyme"
+        "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+        "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42"
       },
       "items": [
         {
-          "id": "hn-1792854490393-91",
-          "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
-          "url": "https://github.com/byenzyme/enzyme",
+          "id": "hn-1792941618338-23",
+          "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+          "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
           "source": "Hacker News",
-          "publishedAt": "2026-10-24T13:30:18.000Z",
+          "publishedAt": "2026-10-25T13:41:19.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 12,
-            "comments": 8
+            "upvotes": 15,
+            "comments": 4
           },
-          "rawTextSnippet": "Show HN: Enzyme – a programming language that compiles wikis for agents",
+          "rawTextSnippet": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
           "hnMeta": {
-            "points": 12,
-            "comments": 8,
-            "hnUrl": "https://news.ycombinator.com/item?id=50221066"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1792854494997-153",
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-24T14:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1792854487484-17",
-          "title": "Show HN: TenseMem – deterministic memory for AI agents",
-          "url": "https://github.com/tensemem/tensemem",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T14:38:03.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Show HN: TenseMem – deterministic memory for AI agents",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50221670"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1792854487484-18",
-          "title": "AegisKernel – Zero-Trust OS Syscall and Shell Defense for AI Agents",
-          "url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T14:26:03.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "AegisKernel – Zero-Trust OS Syscall and Shell Defense for AI Agents",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50221549"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1792854490393-88",
-          "title": "Farol: The anti-slop workspace for your agents",
-          "url": "https://www.farol.build/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T14:52:17.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Farol: The anti-slop workspace for your agents",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50221844"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 13,
-      "trendScore": 122,
-      "whyTrending": "13 stories across Hacker, TechCrunch, arXiv, 2 in the last 24h.",
-      "topStory": {
-        "title": "US-Israeli browser startup valued at $6.4B",
-        "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/"
-      },
-      "items": [
-        {
-          "id": "hn-1792854490393-97",
-          "title": "US-Israeli browser startup valued at $6.4B",
-          "url": "https://www.timesofisrael.com/us-israeli-browser-startup-valued-at-6-4-billion-as-ai-agents-reshape-workplace-risk/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T09:38:42.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 12,
-            "comments": 17
-          },
-          "rawTextSnippet": "US-Israeli browser startup valued at $6.4B",
-          "hnMeta": {
-            "points": 12,
-            "comments": 17,
-            "hnUrl": "https://news.ycombinator.com/item?id=50219588"
+            "points": 15,
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=50231486"
           },
           "score": 67,
           "scoreBreakdown": {
@@ -730,41 +604,288 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "rss-1792854494997-156",
-          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-23T19:06:23.000Z",
+          "id": "hn-1792941618338-10",
+          "title": "Show HN: Agent-trace – verify an AI agent's action log and catch a rebuilt one",
+          "url": "https://github.com/oleg-vdv/proofbyte/tree/main/packages/agent-trace",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T15:19:26.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
           },
-          "rawTextSnippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs…",
+          "rawTextSnippet": "I build tools that let a company show an auditor what its AI agents actually did. Kazakhstan&#x27;s new AI law and the EU AI Act (Art. 12) both push towards record-keeping, and the obvious answer is a hash-chained log: every record carries the hash of the previous one, so you cannot quietly edit his…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50232505"
+          },
           "score": 59,
           "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 16,
+            "freshness": 30,
+            "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 6
+            "businessImpact": 0
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "rss-1792854494997-159",
-          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "id": "hn-1792941618338-12",
+          "title": "Ask HN: Can we do something about this impending AI dystopia",
+          "url": "https://news.ycombinator.com/item?id=50232407",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T15:12:10.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "There have been, increasingly, a large number of posts [1] on HN in the past few weeks, where developers are slowly coming to terms with the breakneck speed with which Agentic Coding has advanced in the past few months. We all agree that an average software developer today is closely resembling the …",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50232407"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1792941618338-18",
+          "title": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
+          "url": "https://github.com/NoMac-app/simulator-use",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T14:05:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50231724"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1792941621349-86",
+          "title": "Devin agent skills that patch the GitLab CVSS 10.0, PHP and Node.js RCEs",
+          "url": "https://github.com/cognitionai/devin-vuln-fixes",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T14:11:13.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Devin agent skills that patch the GitLab CVSS 10.0, PHP and Node.js RCEs",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50231787"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "AI Safety & Regulation",
+      "itemCount": 8,
+      "trendScore": 119,
+      "whyTrending": "8 stories across Hacker, TechCrunch, OpenAI, 5 in the last 24h.",
+      "topStory": {
+        "title": "Imagine an AI future where being banned means you are now economically useless",
+        "url": "https://twitter.com/boneGPT/status/2114035719853265264"
+      },
+      "items": [
+        {
+          "id": "hn-1792941618338-29",
+          "title": "Imagine an AI future where being banned means you are now economically useless",
+          "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T12:47:20.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 20,
+            "comments": 10
+          },
+          "rawTextSnippet": "Imagine an AI future where being banned means you are now economically useless",
+          "hnMeta": {
+            "points": 20,
+            "comments": 10,
+            "hnUrl": "https://news.ycombinator.com/item?id=50230995"
+          },
+          "score": 67,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1792941618338-13",
+          "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
+          "url": "https://reddit.com/opensource_projects",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T15:03:44.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 2
+          },
+          "rawTextSnippet": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
+          "hnMeta": {
+            "points": 2,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=50232289"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1792941618338-17",
+          "title": "r/open source just banned AI, non-English speakers and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T14:06:54.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 2
+          },
+          "rawTextSnippet": "r/open source just banned AI, non-English speakers and more",
+          "hnMeta": {
+            "points": 1,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=50231744"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1792941619849-76",
+          "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+          "url": "https://huggingface.co/destined/hurston-1",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-25T01:30:13.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 1
+          },
+          "rawTextSnippet": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted t…",
+          "hnMeta": {
+            "points": 1,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50227330"
+          },
+          "score": 54,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1792941619849-81",
+          "title": "Finding Flaws in Technical Documentation",
+          "url": "http://paddy3118.blogspot.com/2026/10/finding-flaws-in-technical-documentation.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-10-24T22:03:04.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Finding Flaws in Technical Documentation",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50225829"
+          },
+          "score": 51,
+          "scoreBreakdown": {
+            "freshness": 22,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
+    },
+    {
+      "name": "Funding & Acquisitions",
+      "itemCount": 9,
+      "trendScore": 97,
+      "whyTrending": "9 stories across TechCrunch, DeepMind, arXiv, 1 in the last 24h.",
+      "topStory": {
+        "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      },
+      "items": [
+        {
+          "id": "rss-1792941625643-135",
+          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-10-22T22:08:24.000Z",
+          "publishedAt": "2026-10-24T19:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-          "score": 49,
+          "rawTextSnippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "score": 56,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 22,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
@@ -773,27 +894,67 @@
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "rss-1792854494998-169",
-          "title": "DeepSeek reportedly raises $15B days after US restrictions",
-          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "id": "rss-1792941625643-141",
+          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-10-22T13:11:13.000Z",
+          "publishedAt": "2026-10-23T19:06:23.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-          "score": 48,
+          "rawTextSnippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs…",
+          "score": 52,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "rss-1792941625643-144",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-22T22:08:24.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+          "score": 42,
           "scoreBreakdown": {
             "freshness": 8,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 9
+            "businessImpact": 3
           },
           "cluster": "Funding & Acquisitions"
         },
         {
-          "id": "arxiv-1792854487692-42",
+          "id": "rss-1792941628485-205",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "source": "DeepMind Blog",
+          "publishedAt": "2026-09-08T14:00:15.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 20
+          },
+          "rawTextSnippet": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "score": 40,
+          "scoreBreakdown": {
+            "freshness": 2,
+            "authority": 20,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "Funding & Acquisitions"
+        },
+        {
+          "id": "arxiv-1792941618549-42",
           "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
           "url": "https://arxiv.org/abs/2610.31606v1",
           "source": "arXiv",
@@ -810,9 +971,9 @@
               "stat.ML"
             ]
           },
-          "score": 45,
+          "score": 38,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 8,
             "authority": 15,
             "engagement": 0,
             "novelty": 15,
@@ -821,186 +982,81 @@
           "cluster": "Funding & Acquisitions"
         }
       ]
-    },
-    {
-      "name": "Research & Benchmarks",
-      "itemCount": 7,
-      "trendScore": 109,
-      "whyTrending": "7 stories across Hacker, OpenAI, arXiv, 4 in the last 24h.",
-      "topStory": {
-        "title": "UX Research for AI Products: The AI-Native Research Lifecycle",
-        "url": "https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html"
-      },
-      "items": [
-        {
-          "id": "hn-1792854487484-16",
-          "title": "UX Research for AI Products: The AI-Native Research Lifecycle",
-          "url": "https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T14:39:45.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "UX Research for AI Products: The AI-Native Research Lifecycle",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50221693"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "hn-1792854493222-125",
-          "title": "Reviewing the evidence on worker retraining programs Download the report",
-          "url": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T10:42:52.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Reviewing the evidence on worker retraining programs Download the report",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50219974"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "hn-1792854491804-107",
-          "title": "Show HN: A map of outdoor gyms and pull-up bars",
-          "url": "https://openairworkout.com/",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T03:42:02.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "I&#x27;ve been training mostly outside for over a decade. I spent a decent amount of time in front of a screen, so it&#x27;s usually a good opportunity to get some sun and fresh air. I used https:&#x2F;&#x2F;calisthenics-parks.com&#x2F; for most of that time, but it was always slow and clunky. And t…",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50218188"
-          },
-          "score": 55,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "hn-1792854491804-108",
-          "title": "OpenAI disables internet access during model training",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
-          "source": "Hacker News",
-          "publishedAt": "2026-10-24T02:40:53.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 2
-          },
-          "rawTextSnippet": "OpenAI disables internet access during model training",
-          "hnMeta": {
-            "points": 2,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=50217927"
-          },
-          "score": 51,
-          "scoreBreakdown": {
-            "freshness": 22,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        },
-        {
-          "id": "rss-1792854496413-190",
-          "title": "Securing our frontier model training environment",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-10-23T10:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-          "score": 50,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Research & Benchmarks"
-        }
-      ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1792854496413-189",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI Blog",
-      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "id": "hn-1792941618338-19",
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-25T14:05:03.000Z",
       "scoreSignals": {
-        "sourceAuthority": 20
+        "sourceAuthority": 14,
+        "upvotes": 52,
+        "comments": 52
       },
-      "rawTextSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "score": 60,
+      "rawTextSnippet": "R/open source bans all solo projects and projects using LLMs",
+      "hnMeta": {
+        "points": 52,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=50231722"
+      },
+      "score": 72,
       "scoreBreakdown": {
-        "freshness": 22,
-        "authority": 20,
-        "engagement": 0,
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: OpenAI enhanced its Habitat platform to support over 1 billion ChatGPT users with improved performance.  \n• Why it matters: The upgrades enable 12× faster data retrieval, enhancing user experience and scalability.  \n• Business opportunity: Companies can leverage this infrastructure for efficient data storage and retrieval solutions in AI applications."
+      "summary": "• What happened: R/open source has prohibited solo projects and those utilizing large language models (LLMs).  \n• Why it matters: This decision could significantly impact the development landscape for open-source contributions and innovation.  \n• Business opportunity: Companies may explore collaborative platforms or alternative models to foster community-driven projects without LLMs."
     },
     {
-      "id": "hn-1792854487484-13",
-      "title": "Glyphh Ada: Decision model that learns from your past decisions, no transformer",
-      "url": "https://glyphh.ai/blog/introducing-ada",
+      "id": "hn-1792941618338-17",
+      "title": "r/open source just banned AI, non-English speakers and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
       "source": "Hacker News",
-      "publishedAt": "2026-10-24T14:48:37.000Z",
+      "publishedAt": "2026-10-25T14:06:54.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 2
+      },
+      "rawTextSnippet": "r/open source just banned AI, non-English speakers and more",
+      "hnMeta": {
+        "points": 1,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50231744"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: The r/open source subreddit has banned discussions related to AI and non-English speakers.  \n• Why it matters: This decision could stifle diverse perspectives and innovation in the open-source community.  \n• Business opportunity: Companies can create inclusive platforms that support multilingual contributions and AI discussions in open-source projects."
+    },
+    {
+      "id": "hn-1792941618338-14",
+      "title": "Can AI Make Us So Productive That It Destroys the Economy?",
+      "url": "https://www.vincentschmalbach.com/can-ai-make-us-so-productive-it-destroys-the-economy/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-25T14:32:18.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "Glyphh Ada: Decision model that learns from your past decisions, no transformer",
+      "rawTextSnippet": "Can AI Make Us So Productive That It Destroys the Economy?",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50221793"
+        "hnUrl": "https://news.ycombinator.com/item?id=50231991"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1010,25 +1066,25 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Glyphh Ada launched a decision model that learns from user past decisions without using transformers.  \n• Why it matters: This innovation could enhance decision-making processes by leveraging historical data more efficiently.  \n• Business opportunity: Companies can integrate Glyphh Ada to improve analytics and personalized decision support systems."
+      "cluster": "AI Tools & Products",
+      "summary": "• What happened: A discussion emerged on the potential of AI to significantly boost productivity.  \n• Why it matters: Concerns arise that extreme productivity gains could lead to economic instability and job displacement.  \n• Business opportunity: Companies can explore AI solutions to enhance efficiency while developing strategies to mitigate potential economic risks."
     },
     {
-      "id": "hn-1792854487484-16",
-      "title": "UX Research for AI Products: The AI-Native Research Lifecycle",
-      "url": "https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html",
+      "id": "hn-1792941618338-15",
+      "title": "Skyl – One Go interface for 400 AI models",
+      "url": "https://skyl-docs.vercel.app/",
       "source": "Hacker News",
-      "publishedAt": "2026-10-24T14:39:45.000Z",
+      "publishedAt": "2026-10-25T14:28:48.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
         "comments": 0
       },
-      "rawTextSnippet": "UX Research for AI Products: The AI-Native Research Lifecycle",
+      "rawTextSnippet": "Skyl – One Go interface for 400 AI models",
       "hnMeta": {
         "points": 1,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50221693"
+        "hnUrl": "https://news.ycombinator.com/item?id=50231961"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1038,52 +1094,24 @@
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: A new framework for UX research tailored specifically for AI products has been introduced.  \n• Why it matters: This approach enhances user experience by integrating AI capabilities into the research process.  \n• Business opportunity: Companies can leverage this framework to improve AI product design and user satisfaction, driving market competitiveness."
+      "cluster": "General AI"
     },
     {
-      "id": "hn-1792854487484-25",
-      "title": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
-      "url": "https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck",
+      "id": "hn-1792941618338-26",
+      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
+      "url": "https://github.com/insanai/ccm",
       "source": "Hacker News",
-      "publishedAt": "2026-10-24T12:57:53.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50220831"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "hn-1792854487484-26",
-      "title": "Show HN: Mantid, a Mac app that lets non-ML people train their own AI models",
-      "url": "https://mantid.dev",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-24T12:49:06.000Z",
+      "publishedAt": "2026-10-25T13:13:26.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 1,
-        "comments": 1
+        "comments": 0
       },
-      "rawTextSnippet": "Show HN: Mantid, a Mac app that lets non-ML people train their own AI models",
+      "rawTextSnippet": "I worked a lot with cloc, sloc and scc and used them in various prohects. But with AI driven development some of the models COCOMO I and II might not be applicable. So built a new cli ccm short for code counter machine with new calculation model which estimate the new AI driven development costs. Th…",
       "hnMeta": {
         "points": 1,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=50220773"
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50231217"
       },
       "score": 59,
       "scoreBreakdown": {
@@ -1099,7 +1127,7 @@
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1792854487691-34",
+      "id": "arxiv-1792941618549-34",
       "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
       "url": "https://arxiv.org/abs/2610.31657v1",
       "source": "arXiv",
@@ -1116,9 +1144,9 @@
           "stat.ML"
         ]
       },
-      "score": 48,
+      "score": 41,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1127,7 +1155,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1792854487692-40",
+      "id": "arxiv-1792941618549-40",
       "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
       "url": "https://arxiv.org/abs/2610.31624v1",
       "source": "arXiv",
@@ -1144,9 +1172,9 @@
           "stat.ML"
         ]
       },
-      "score": 48,
+      "score": 41,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1155,7 +1183,7 @@
       "cluster": "Large Language Models"
     },
     {
-      "id": "arxiv-1792854487692-48",
+      "id": "arxiv-1792941618550-48",
       "title": "What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models",
       "url": "https://arxiv.org/abs/2610.31576v1",
       "source": "arXiv",
@@ -1172,9 +1200,9 @@
           "stat.ML"
         ]
       },
-      "score": 48,
+      "score": 41,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1183,7 +1211,7 @@
       "cluster": "Generative AI & Media"
     },
     {
-      "id": "arxiv-1792854487692-50",
+      "id": "arxiv-1792941618550-50",
       "title": "When to Follow the Teacher: Advantage-Based On-Policy Distillation",
       "url": "https://arxiv.org/abs/2610.31563v1",
       "source": "arXiv",
@@ -1200,9 +1228,9 @@
           "stat.ML"
         ]
       },
-      "score": 48,
+      "score": 41,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1211,7 +1239,7 @@
       "cluster": "Research & Benchmarks"
     },
     {
-      "id": "arxiv-1792854487692-58",
+      "id": "arxiv-1792941618551-58",
       "title": "From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims",
       "url": "https://arxiv.org/abs/2610.31519v1",
       "source": "arXiv",
@@ -1228,9 +1256,9 @@
           "stat.ML"
         ]
       },
-      "score": 48,
+      "score": 41,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1241,7 +1269,7 @@
   ],
   "funding": [
     {
-      "id": "rss-1792854496413-189",
+      "id": "rss-1792941627064-164",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI Blog",
@@ -1250,47 +1278,19 @@
         "sourceAuthority": 20
       },
       "rawTextSnippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "score": 60,
+      "score": 53,
       "scoreBreakdown": {
-        "freshness": 22,
+        "freshness": 15,
         "authority": 20,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Large Language Models",
-      "summary": "• What happened: OpenAI enhanced its Habitat online storage to support over 1 billion ChatGPT users with improved performance.  \n• Why it matters: The upgrades enable 12× faster data reads, significantly enhancing user experience and system efficiency.  \n• Business opportunity: Companies can leverage this scalable storage solution to improve their own applications and services that require high-speed data access."
+      "summary": "• What happened: OpenAI scaled its Habitat online storage to support over 1 billion ChatGPT users with enhanced performance.  \n• Why it matters: This improvement enables faster data access, enhancing user experience and system reliability.  \n• Business opportunity: Companies can leverage OpenAI's advancements in storage solutions for their own applications, improving efficiency and user satisfaction."
     },
     {
-      "id": "hn-1792854487484-24",
-      "title": "Investigating alignment failures in AISI's incident",
-      "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-24T13:00:32.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Investigating alignment failures in AISI's incident",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50220852"
-      },
-      "score": 59,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: AISI is investigating alignment failures related to a recent incident.  \n• Why it matters: Understanding these failures is crucial for improving safety and operational protocols.  \n• Business opportunity: Companies can develop solutions to enhance alignment and prevent similar incidents in the future."
-    },
-    {
-      "id": "rss-1792854494997-159",
+      "id": "rss-1792941625643-144",
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "TechCrunch AI",
@@ -1299,39 +1299,19 @@
         "sourceAuthority": 16
       },
       "rawTextSnippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "score": 49,
+      "score": 42,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: OpenAI is seeking to raise $30 billion at a $1.25 trillion valuation ahead of its IPO.  \n• Why it matters: This valuation would establish OpenAI as the most highly valued private company in history.  \n• Business opportunity: Investors may capitalize on the growing AI market and OpenAI's leading position within it."
+      "summary": "• What happened: OpenAI is pursuing a $30 billion funding round, aiming for a $1.25 trillion valuation ahead of its IPO.  \n• Why it matters: Achieving this valuation would set a record for the highest valuation of a private company.  \n• Business opportunity: Investors may find lucrative prospects in AI technology as OpenAI's valuation highlights the sector's growth potential."
     },
     {
-      "id": "rss-1792854494998-169",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T13:11:13.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-      "score": 48,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "arxiv-1792854487692-40",
+      "id": "arxiv-1792941618549-40",
       "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
       "url": "https://arxiv.org/abs/2610.31624v1",
       "source": "arXiv",
@@ -1348,16 +1328,57 @@
           "stat.ML"
         ]
       },
-      "score": 48,
+      "score": 41,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 8,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Large Language Models"
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A study examines instrumental convergence in reinforcement learning, highlighting potential power-seeking behaviors of AI agents.  \n• Why it matters: Understanding these behaviors is crucial to addressing societal risks posed by advanced AI systems.  \n• Business opportunity: Companies can develop AI safety solutions and frameworks to mitigate risks associated with power-seeking AI behaviors."
+    },
+    {
+      "id": "rss-1792941627064-175",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-10-21T04:50:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "score": 40,
+      "scoreBreakdown": {
+        "freshness": 2,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation"
+    },
+    {
+      "id": "rss-1792941628485-205",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "DeepMind Blog",
+      "publishedAt": "2026-09-08T14:00:15.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "score": 40,
+      "scoreBreakdown": {
+        "freshness": 2,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In today's AI landscape, a hacker's revelation about Samsung TVs highlights potential privacy concerns, as they discovered on-board AI capable of listening, raising questions about data security for consumers. Meanwhile, advancements in large language models (LLMs) are making formal software verification more scalable, which could significantly enhance software reliability and reduce development costs for businesses. In the investment arena, a US-Israeli browser startup has reached a valuation of $6.4 billion, underscoring the growing interest in innovative web technologies. However, the emergence of vulnerabilities like http2shell, which poses remote code execution risks across multiple programming languages, reminds companies of the critical need for robust cybersecurity measures. Additionally, the introduction of Enzyme, a new programming language that compiles wikis for AI agents, could streamline AI development processes, potentially accelerating innovation in the sector."
+  "dailyBrief": "In a significant move, the r/open source subreddit has banned all solo projects and those utilizing large language models (LLMs), raising concerns about the future of AI development within the open-source community. This decision could stifle innovation and collaboration, potentially limiting businesses' access to cutting-edge AI tools. Conversely, a new open-source cybersecurity platform leveraging AI agents has emerged, promising enhanced protection for businesses against cyber threats, highlighting the dual-edged nature of AI's rapid evolution. As discussions intensify around the economic implications of AI bans, the emergence of alternative subreddits indicates a growing demand for spaces where AI can be freely discussed and developed. This evolving landscape underscores the need for businesses to navigate regulatory challenges while harnessing AI's potential for competitive advantage."
 }
