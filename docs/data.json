@@ -1,21 +1,133 @@
 {
   "topNews": [
     {
-      "id": "hn-1794337653165-87",
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "id": "hn-1794423831208-73",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "source": "Hacker News",
-      "publishedAt": "2026-11-10T18:01:15.000Z",
+      "publishedAt": "2026-11-11T16:38:44.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 40,
-        "comments": 8
+        "upvotes": 231,
+        "comments": 122
       },
-      "rawTextSnippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types…",
+      "rawTextSnippet": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "hnMeta": {
-        "points": 40,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=50443812"
+        "points": 231,
+        "comments": 122,
+        "hnUrl": "https://news.ycombinator.com/item?id=50455394"
+      },
+      "score": 74,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 15,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: A false smoke alarm nearly flooded Jane Street's sole NYC datacenter.  \n• Why it matters: This incident highlights vulnerabilities in datacenter safety protocols and emergency response systems.  \n• Business opportunity: Companies can innovate solutions for enhanced monitoring and alarm systems to prevent similar incidents."
+    },
+    {
+      "id": "hn-1794423835475-130",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-10T22:17:56.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 440,
+        "comments": 214
+      },
+      "rawTextSnippet": "Tracking Anthropic-discovered vulnerabilities",
+      "hnMeta": {
+        "points": 440,
+        "comments": 214,
+        "hnUrl": "https://news.ycombinator.com/item?id=50447074"
+      },
+      "score": 71,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 14,
+        "engagement": 20,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Anthropic identified vulnerabilities in AI systems.  \n• Why it matters: These vulnerabilities could pose significant risks to AI safety and reliability.  \n• Business opportunity: Companies can invest in security solutions to address and mitigate these vulnerabilities."
+    },
+    {
+      "id": "hn-1794423831208-74",
+      "title": "Reddit Migration's Impact on Lemmy (2023)",
+      "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T16:35:38.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 20,
+        "comments": 21
+      },
+      "rawTextSnippet": "Reddit Migration's Impact on Lemmy (2023)",
+      "hnMeta": {
+        "points": 20,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=50455358"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Many Reddit users are migrating to Lemmy, a decentralized alternative.  \n• Why it matters: This shift highlights growing dissatisfaction with centralized platforms and the demand for more user-controlled spaces.  \n• Business opportunity: Companies can explore developing tools and services that enhance user experience on decentralized platforms like Lemmy."
+    },
+    {
+      "id": "hn-1794423831208-80",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T15:33:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 60,
+        "comments": 32
+      },
+      "rawTextSnippet": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here&#x27;s a quick demo video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=…",
+      "hnMeta": {
+        "points": 60,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=50454625"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A developer launched Yogurt, an open-source app for meeting transcription and summarization.  \n• Why it matters: Yogurt offers a free and private alternative to existing paid services, enhancing user data security.  \n• Business opportunity: Companies seeking cost-effective, secure meeting solutions can adopt or contribute to Yogurt's development."
+    },
+    {
+      "id": "hn-1794423834060-100",
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T16:00:50.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 45,
+        "comments": 20
+      },
+      "rawTextSnippet": "I&#x27;ve been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI …",
+      "hnMeta": {
+        "points": 45,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50454951"
       },
       "score": 69,
       "scoreBreakdown": {
@@ -26,18 +138,18 @@
         "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: A new tool enables developers to transition from outdated JavaScript to modern web primitives.  \n• Why it matters: This shift simplifies coding, reducing reliance on extensive JavaScript and dependencies.  \n• Business opportunity: Companies can enhance web performance and user experience by adopting these modern coding practices."
+      "summary": "• What happened: A developer introduced Klad, a paint app designed for AI-driven game development.  \n• Why it matters: It addresses frustrations with current AI tools in the art department, enhancing efficiency for developers.  \n• Business opportunity: There is potential for growth in AI-assisted creative tools within the gaming industry."
     },
     {
-      "id": "rss-1794337657046-142",
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "id": "rss-1794423836770-133",
+      "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T13:30:00.000Z",
+      "publishedAt": "2026-11-11T16:14:44.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "rawTextSnippet": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
       "score": 67,
       "scoreBreakdown": {
         "freshness": 30,
@@ -46,453 +158,335 @@
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Ring has launched a home security drone and a robot for enterprise security.  \n• Why it matters: This expansion into robotics enhances Ring's product offerings and strengthens its market position in home and business security.  \n• Business opportunity: Companies can explore partnerships or integrations with Ring's new security technologies to enhance their own security solutions."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI's quarterly revenue surpassed $10 billion for the first time, marking a significant increase.  \n• Why it matters: This 50% growth from the previous quarter indicates strong demand for AI solutions.  \n• Business opportunity: Companies can leverage OpenAI's advancements to enhance their own AI capabilities and drive innovation."
     },
     {
-      "id": "rss-1794337649038-0",
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-11-10T13:10:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 18
-      },
-      "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th…",
-      "score": 66,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 18,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "General AI",
-      "summary": "• What happened: Nancy Pelosi's successor, Scott Wiener, is proposing regulations for AI and addressing power issues at data centers.  \n• Why it matters: This move signals increased governmental oversight of AI technologies and their infrastructure, impacting innovation and compliance.  \n• Business opportunity: Companies can explore solutions that enhance energy efficiency in data centers and develop compliance frameworks for AI regulations."
-    },
-    {
-      "id": "rss-1794337657046-135",
-      "title": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a timeline",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T17:04:19.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Nvidia CEO Jensen Huang's alleged affair with a Chinese spy has surfaced.  \n• Why it matters: This situation raises concerns about national security amid U.S.-China competition in AI development.  \n• Business opportunity: Companies can capitalize on the heightened demand for secure AI technologies and solutions."
-    },
-    {
-      "id": "rss-1794337657046-136",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T15:54:08.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Google introduced two new tensor processing units (TPUs) for specialized AI applications.  \n• Why it matters: These chips enhance capabilities for confidential model training and increased memory capacity.  \n• Business opportunity: Companies can leverage these advanced TPUs to improve AI performance and security in their applications."
-    },
-    {
-      "id": "rss-1794337658531-163",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "id": "rss-1794423838224-165",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI Blog",
-      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 20
       },
-      "rawTextSnippet": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "score": 64,
+      "rawTextSnippet": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "score": 65,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 30,
         "authority": 20,
         "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Research & Benchmarks",
-      "summary": "• What happened: ThinkYoung released research on enhancing AI literacy in education.  \n• Why it matters: It addresses the need for better support for teachers and students in navigating AI technologies.  \n• Business opportunity: There is potential for developing educational tools and training programs focused on AI integration in classrooms."
-    },
-    {
-      "id": "rss-1794337659917-198",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "DeepMind Blog",
-      "publishedAt": "2026-11-10T12:02:28.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: DeepMind introduced AlphaProof Code, which verified Signal's core encryption by generating three million lines of proofs.  \n• Why it matters: This breakthrough enhances software verification, ensuring higher security standards for complex systems.  \n• Business opportunity: Companies can leverage AlphaProof Code to improve their software security and compliance, attracting clients seeking robust encryption solutions."
-    },
-    {
-      "id": "hn-1794337659882-190",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-09T18:24:38.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 700,
-        "comments": 145
-      },
-      "rawTextSnippet": "Google Gemini routes personal Drive files and emails to human annotators",
-      "hnMeta": {
-        "points": 700,
-        "comments": 145,
-        "hnUrl": "https://news.ycombinator.com/item?id=50429426"
-      },
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 14,
-        "engagement": 20,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: Google Gemini is directing personal Drive files and emails to human annotators for processing.  \n• Why it matters: This raises concerns about privacy and data security for users' personal information.  \n• Business opportunity: Companies can develop enhanced privacy solutions or tools to help users manage their data more securely."
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: Gilbert + Tobin is integrating AI into its legal practices to enhance efficiency.  \n• Why it matters: This shift could redefine traditional law firm operations and client service.  \n• Business opportunity: Firms can leverage AI to reduce costs and improve service delivery, attracting more clients."
     },
     {
-      "id": "hn-1794337649990-42",
-      "title": "Ask HN: Should I be stockpiling goods because of AI and cybersecurity?",
-      "url": "https://news.ycombinator.com/item?id=50444692",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-10T19:04:31.000Z",
+      "id": "rss-1794423839683-199",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "DeepMind Blog",
+      "publishedAt": "2026-11-11T15:00:15.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "sourceAuthority": 20
       },
-      "rawTextSnippet": "Normally I&#x27;m attuned to my prepper side, but suddenly I have very non-prepper friends telling me they&#x27;re stockpiling things because &quot;AI and cybersecurity&quot; - and I&#x27;m wondering what I&#x27;ve missed. For context: I&#x27;m very well-seasoned in the AI space and ongoing developm…",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50444692"
-      },
-      "score": 62,
+      "rawTextSnippet": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "score": 65,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
+        "authority": 20,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 3
+        "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: A discussion arose on Hacker News about stockpiling goods due to concerns over AI and cybersecurity risks.  \n• Why it matters: Increased anxiety around technological advancements may lead to shifts in consumer behavior and preparedness strategies.  \n• Business opportunity: Companies can explore markets for survival goods and cybersecurity solutions to meet rising demand."
+      "summary": "• What happened: DeepMind launched AlphaGenome 2 to analyze how DNA sequences affect human cells and diseases.  \n• Why it matters: This advancement could lead to improved understanding and treatment of various diseases.  \n• Business opportunity: There is potential for biotech firms to leverage this technology for innovative therapies and diagnostics."
     },
     {
-      "id": "hn-1794337649990-51",
-      "title": "Transformers for Mobile User Acquisition",
-      "url": "https://aiadvances.org/transformers-for-mobile-user-acquisition-f3816d8b0c41?source=friends_link&sk=b030b59b5c360a659e8602fdc35590fa",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-10T18:37:55.000Z",
+      "id": "rss-1794423836770-132",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-11T16:16:07.000Z",
       "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
+        "sourceAuthority": 16
       },
-      "rawTextSnippet": "Transformers for Mobile User Acquisition",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50444334"
-      },
-      "score": 62,
+      "rawTextSnippet": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 14,
+        "authority": 16,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A new approach using transformers has been introduced for mobile user acquisition.  \n• Why it matters: This innovation could significantly enhance targeting and engagement strategies in mobile marketing.  \n• Business opportunity: Companies can leverage this technology to optimize user acquisition campaigns and improve ROI."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Reports suggest that bad behavior among senior industry figures is more widespread than acknowledged.  \n• Why it matters: This culture of condoning misconduct can undermine workplace integrity and employee morale.  \n• Business opportunity: Companies can capitalize on this by promoting ethical leadership and creating safer work environments."
+    },
+    {
+      "id": "hn-1794423829775-16",
+      "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+      "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T18:44:23.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 7,
+        "comments": 2
+      },
+      "rawTextSnippet": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+      "hnMeta": {
+        "points": 7,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50456926"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Laser-equipped AI submarines are deployed in Norwegian salmon farms to eliminate sea lice.  \n• Why it matters: This technology addresses a significant challenge in aquaculture, enhancing fish health and sustainability.  \n• Business opportunity: Companies can invest in or develop similar robotic solutions for pest control in various agricultural sectors."
     }
   ],
   "trendingTopics": [
     {
-      "name": "Large Language Models",
-      "itemCount": 56,
-      "trendScore": 206,
-      "whyTrending": "56 stories across Hacker, TechCrunch, OpenAI, 30 in the last 24h.",
+      "name": "General AI",
+      "itemCount": 50,
+      "trendScore": 207,
+      "whyTrending": "50 stories across Hacker, DeepMind, MIT, 33 in the last 24h.",
       "topStory": {
-        "title": "Google Gemini routes personal Drive files and emails to human annotators",
-        "url": "https://github.com/thisisme6598/gemini_files/"
+        "title": "Tracking Anthropic-discovered vulnerabilities",
+        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
       },
       "items": [
         {
-          "id": "hn-1794337659882-190",
-          "title": "Google Gemini routes personal Drive files and emails to human annotators",
-          "url": "https://github.com/thisisme6598/gemini_files/",
+          "id": "hn-1794423835475-130",
+          "title": "Tracking Anthropic-discovered vulnerabilities",
+          "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
           "source": "Hacker News",
-          "publishedAt": "2026-11-09T18:24:38.000Z",
+          "publishedAt": "2026-11-10T22:17:56.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 700,
-            "comments": 145
+            "upvotes": 440,
+            "comments": 214
           },
-          "rawTextSnippet": "Google Gemini routes personal Drive files and emails to human annotators",
+          "rawTextSnippet": "Tracking Anthropic-discovered vulnerabilities",
           "hnMeta": {
-            "points": 700,
-            "comments": 145,
-            "hnUrl": "https://news.ycombinator.com/item?id=50429426"
+            "points": 440,
+            "comments": 214,
+            "hnUrl": "https://news.ycombinator.com/item?id=50447074"
           },
-          "score": 64,
+          "score": 71,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 22,
             "authority": 14,
             "engagement": 20,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1794337649990-51",
-          "title": "Transformers for Mobile User Acquisition",
-          "url": "https://aiadvances.org/transformers-for-mobile-user-acquisition-f3816d8b0c41?source=friends_link&sk=b030b59b5c360a659e8602fdc35590fa",
+          "id": "hn-1794423831208-74",
+          "title": "Reddit Migration's Impact on Lemmy (2023)",
+          "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
           "source": "Hacker News",
-          "publishedAt": "2026-11-10T18:37:55.000Z",
+          "publishedAt": "2026-11-11T16:35:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 20,
+            "comments": 21
           },
-          "rawTextSnippet": "Transformers for Mobile User Acquisition",
+          "rawTextSnippet": "Reddit Migration's Impact on Lemmy (2023)",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50444334"
+            "points": 20,
+            "comments": 21,
+            "hnUrl": "https://news.ycombinator.com/item?id=50455358"
           },
-          "score": 62,
+          "score": 69,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 10,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "hn-1794337651618-70",
-          "title": "Git considers voting to determine its LLM policy",
-          "url": "https://lwn.net/SubscriberLink/1104195/1193ea577aaef643/",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-10T16:53:31.000Z",
+          "id": "rss-1794423839683-199",
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "source": "DeepMind Blog",
+          "publishedAt": "2026-11-11T15:00:15.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 9,
-            "comments": 0
+            "sourceAuthority": 20
           },
-          "rawTextSnippet": "Git considers voting to determine its LLM policy",
-          "hnMeta": {
-            "points": 9,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50442964"
-          },
-          "score": 62,
+          "rawTextSnippet": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+          "score": 65,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "rss-1794337657046-133",
-          "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-10T18:49:52.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
+            "authority": 20,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         },
         {
-          "id": "rss-1794337657046-134",
-          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-10T17:30:00.000Z",
+          "id": "hn-1794423829775-16",
+          "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+          "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T18:44:23.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 14,
+            "upvotes": 7,
+            "comments": 2
           },
-          "rawTextSnippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-          "score": 61,
+          "rawTextSnippet": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+          "hnMeta": {
+            "points": 7,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=50456926"
+          },
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 16,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "rss-1794423829326-0",
+          "title": "What to know about this year’s UN climate talks",
+          "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-11-11T17:00:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 18
+          },
+          "rawTextSnippet": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world…",
+          "score": 63,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Large Language Models"
+          "cluster": "General AI"
         }
       ]
     },
     {
-      "name": "General AI",
-      "itemCount": 48,
-      "trendScore": 203,
-      "whyTrending": "48 stories across MIT, Hacker, arXiv, 31 in the last 24h.",
+      "name": "Large Language Models",
+      "itemCount": 54,
+      "trendScore": 193,
+      "whyTrending": "54 stories across Hacker, OpenAI, DeepMind, 20 in the last 24h.",
       "topStory": {
-        "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-        "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+        "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+        "url": "https://github.com/FrigadeHQ/yogurt"
       },
       "items": [
         {
-          "id": "rss-1794337649038-0",
-          "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-          "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-11-10T13:10:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 18
-          },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th…",
-          "score": 66,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 18,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "hn-1794337649990-42",
-          "title": "Ask HN: Should I be stockpiling goods because of AI and cybersecurity?",
-          "url": "https://news.ycombinator.com/item?id=50444692",
+          "id": "hn-1794423831208-80",
+          "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+          "url": "https://github.com/FrigadeHQ/yogurt",
           "source": "Hacker News",
-          "publishedAt": "2026-11-10T19:04:31.000Z",
+          "publishedAt": "2026-11-11T15:33:06.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
+            "upvotes": 60,
+            "comments": 32
           },
-          "rawTextSnippet": "Normally I&#x27;m attuned to my prepper side, but suddenly I have very non-prepper friends telling me they&#x27;re stockpiling things because &quot;AI and cybersecurity&quot; - and I&#x27;m wondering what I&#x27;ve missed. For context: I&#x27;m very well-seasoned in the AI space and ongoing developm…",
+          "rawTextSnippet": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here&#x27;s a quick demo video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=…",
           "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50444692"
+            "points": 60,
+            "comments": 32,
+            "hnUrl": "https://news.ycombinator.com/item?id=50454625"
           },
-          "score": 62,
+          "score": 69,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 10,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1794337649990-53",
-          "title": "Show HN: Fix Gate – verifies security-fix PRs, incl. AI-written ones",
-          "url": "https://github.com/IWEBai/fix-gate-action",
+          "id": "hn-1794423829775-20",
+          "title": "Gemini Decisions API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
           "source": "Hacker News",
-          "publishedAt": "2026-11-10T18:26:35.000Z",
+          "publishedAt": "2026-11-11T18:32:42.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
+            "upvotes": 7,
+            "comments": 2
           },
-          "rawTextSnippet": "Show HN: Fix Gate – verifies security-fix PRs, incl. AI-written ones",
+          "rawTextSnippet": "Gemini Decisions API",
           "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50444188"
+            "points": 7,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=50456791"
           },
-          "score": 62,
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 0,
+            "engagement": 5,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1794337649038-1",
-          "title": "Evolving metal extraction processes",
-          "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-11-10T13:00:00.000Z",
+          "id": "rss-1794423838224-166",
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-11-11T08:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 18
+            "sourceAuthority": 20
           },
-          "rawTextSnippet": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familia…",
-          "score": 59,
+          "rawTextSnippet": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+          "score": 61,
           "scoreBreakdown": {
             "freshness": 26,
-            "authority": 18,
+            "authority": 20,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1794337649990-41",
-          "title": "AI's impact will be bottlenecked by institutions more than by capabilities",
-          "url": "https://stablai.substack.com/p/the-missing-quadrant-in-responses",
+          "id": "hn-1794423829775-29",
+          "title": "Show HN: AI Spar – Let Claude, GPT, and Gemini Debate a Question",
+          "url": "https://aispar.app/",
           "source": "Hacker News",
-          "publishedAt": "2026-11-10T19:06:12.000Z",
+          "publishedAt": "2026-11-11T18:17:54.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "AI's impact will be bottlenecked by institutions more than by capabilities",
+          "rawTextSnippet": "Show HN: AI Spar – Let Claude, GPT, and Gemini Debate a Question",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50444736"
+            "hnUrl": "https://news.ycombinator.com/item?id=50456581"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -502,36 +496,63 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "General AI"
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1794423831208-65",
+          "title": "37% on ARC-AGI 2 without an LLM",
+          "url": "https://mvakde.github.io/blog/looped-mdlarc/#vs-trm",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T18:30:21.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "37% on ARC-AGI 2 without an LLM",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50456764"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
         }
       ]
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 34,
-      "trendScore": 187,
-      "whyTrending": "34 stories across Hacker, DeepMind, TechCrunch, 19 in the last 24h.",
+      "itemCount": 38,
+      "trendScore": 190,
+      "whyTrending": "38 stories across Hacker, TechCrunch, OpenAI, 17 in the last 24h.",
       "topStory": {
-        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-        "url": "https://github.com/GoogleChrome/modern-web-guidance"
+        "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+        "url": "https://github.com/klad-app/klad"
       },
       "items": [
         {
-          "id": "hn-1794337653165-87",
-          "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-          "url": "https://github.com/GoogleChrome/modern-web-guidance",
+          "id": "hn-1794423834060-100",
+          "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+          "url": "https://github.com/klad-app/klad",
           "source": "Hacker News",
-          "publishedAt": "2026-11-10T18:01:15.000Z",
+          "publishedAt": "2026-11-11T16:00:50.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 40,
-            "comments": 8
+            "upvotes": 45,
+            "comments": 20
           },
-          "rawTextSnippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types…",
+          "rawTextSnippet": "I&#x27;ve been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI …",
           "hnMeta": {
-            "points": 40,
-            "comments": 8,
-            "hnUrl": "https://news.ycombinator.com/item?id=50443812"
+            "points": 45,
+            "comments": 20,
+            "hnUrl": "https://news.ycombinator.com/item?id=50454951"
           },
           "score": 69,
           "scoreBreakdown": {
@@ -544,221 +565,48 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "rss-1794337659917-198",
-          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-          "source": "DeepMind Blog",
-          "publishedAt": "2026-11-10T12:02:28.000Z",
+          "id": "hn-1794423832628-86",
+          "title": "AWS Emulator and the engineer's job when agents write the code",
+          "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T18:28:31.000Z",
           "scoreSignals": {
-            "sourceAuthority": 20
+            "sourceAuthority": 14,
+            "upvotes": 17,
+            "comments": 0
           },
-          "rawTextSnippet": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+          "rawTextSnippet": "AWS Emulator and the engineer's job when agents write the code",
+          "hnMeta": {
+            "points": 17,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50456740"
+          },
           "score": 64,
           "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 20,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1794337657046-137",
-          "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
-          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-10T15:29:30.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-          "score": 61,
-          "scoreBreakdown": {
             "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
+            "authority": 14,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "rss-1794337657046-138",
-          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-10T14:05:10.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "rss-1794337657046-140",
-          "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-          "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-10T14:00:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        }
-      ]
-    },
-    {
-      "name": "Funding & Acquisitions",
-      "itemCount": 15,
-      "trendScore": 162,
-      "whyTrending": "15 stories across Hacker, TechCrunch, arXiv, 13 in the last 24h.",
-      "topStory": {
-        "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-        "url": "https://www.reuters.com/legal/litigation/anthropics-ipo-close-look-ai-frontrunners-rapid-growth-spiraling-costs-2026-10-26/"
-      },
-      "items": [
-        {
-          "id": "hn-1794337649990-54",
-          "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-          "url": "https://www.reuters.com/legal/litigation/anthropics-ipo-close-look-ai-frontrunners-rapid-growth-spiraling-costs-2026-10-26/",
+          "id": "hn-1794423832628-90",
+          "title": "Show HN: Bot-bottle – secure runtime, DLP and remote control for local agents",
+          "url": "https://github.com/diderisoft/bot-bottle",
           "source": "Hacker News",
-          "publishedAt": "2026-11-10T18:26:05.000Z",
+          "publishedAt": "2026-11-11T17:45:44.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 3,
-            "comments": 0
-          },
-          "rawTextSnippet": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-          "hnMeta": {
-            "points": 3,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50444181"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1794337653165-93",
-          "title": "Anthropic IPO Roadshow",
-          "url": "https://www.netroadshow.com/custom/IPO/Anthropic/retail/agenda.html",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-10T16:59:45.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Anthropic IPO Roadshow",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50443055"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1794337655188-100",
-          "title": "TSMC approves investments of up to $500M each in Anthropic and OpenAI",
-          "url": "https://pr.tsmc.com/english/news/3352",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-10T14:59:55.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "TSMC approves investments of up to $500M each in Anthropic and OpenAI",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50441326"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1794337656775-119",
-          "title": "Anthropic eyes $1.4T IPO valuation in test of Wall Street's AI fervor",
-          "url": "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-10T18:08:15.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 0
-          },
-          "rawTextSnippet": "Anthropic eyes $1.4T IPO valuation in test of Wall Street's AI fervor",
-          "hnMeta": {
-            "points": 2,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50443910"
-          },
-          "score": 62,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1794337656775-120",
-          "title": "Anthropic unveils Office tools ahead of IPO",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-10T17:33:31.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 4,
+            "upvotes": 1,
             "comments": 1
           },
-          "rawTextSnippet": "Anthropic unveils Office tools ahead of IPO",
+          "rawTextSnippet": "Hey! About 6 months ago, I started looking for a tool to safely run coding agents on my (security sensitive) developer machine. Specifically, I wanted a tool that: - I could use regardless of the model or harness running underneath - I could build simple, composable, plaintext security policies for …",
           "hnMeta": {
-            "points": 4,
+            "points": 1,
             "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=50443448"
+            "hnUrl": "https://news.ycombinator.com/item?id=50456190"
           },
           "score": 62,
           "scoreBreakdown": {
@@ -768,148 +616,618 @@
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
-        }
-      ]
-    },
-    {
-      "name": "AI Tools & Products",
-      "itemCount": 10,
-      "trendScore": 115,
-      "whyTrending": "10 stories across Hacker, TechCrunch, OpenAI, 3 in the last 24h.",
-      "topStory": {
-        "title": "Woolly, a local memory shared by all your AI tools",
-        "url": "https://github.com/rjcuff/woolly"
-      },
-      "items": [
+          "cluster": "AI Agents & Automation"
+        },
         {
-          "id": "hn-1794337649990-40",
-          "title": "Woolly, a local memory shared by all your AI tools",
-          "url": "https://github.com/rjcuff/woolly",
+          "id": "hn-1794423832628-93",
+          "title": "No employees and prototypes within days: AI agents supercharge startups",
+          "url": "https://www.ft.com/content/d338594b-ca66-418a-9884-8f562a175fed",
           "source": "Hacker News",
-          "publishedAt": "2026-11-10T19:07:04.000Z",
+          "publishedAt": "2026-11-11T17:25:37.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 0
+            "comments": 4
           },
-          "rawTextSnippet": "Woolly, a local memory shared by all your AI tools",
+          "rawTextSnippet": "No employees and prototypes within days: AI agents supercharge startups",
           "hnMeta": {
             "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50444749"
+            "comments": 4,
+            "hnUrl": "https://news.ycombinator.com/item?id=50455957"
           },
-          "score": 59,
+          "score": 62,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 3
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1794337651618-74",
-          "title": "Show HN: Ziperu is rubyzip with a Rust core, same API but faster and safer",
-          "url": "https://github.com/caplanmaor/ziperu",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-10T15:54:15.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "Annoyed by slow zip handling in Ruby apps in gems like roo and caxlsx, they use rubyzip underneath which is pure Ruby and does a lot of per entry work in Ruby objects which is slow. My project keeps the rubyzip API (Zip::File, Zip::InputStream, etc.) but does the parsing compression and file IO in R…",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50442141"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Tools & Products"
-        },
-        {
-          "id": "rss-1794337657047-144",
-          "title": "Otter AI can now follow conversations across 30+ languages",
-          "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+          "id": "rss-1794423836770-134",
+          "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+          "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-11-10T07:00:00.000Z",
+          "publishedAt": "2026-11-11T15:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-          "score": 53,
+          "rawTextSnippet": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+          "score": 61,
           "scoreBreakdown": {
-            "freshness": 22,
+            "freshness": 30,
             "authority": 16,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
-        },
+          "cluster": "AI Agents & Automation"
+        }
+      ]
+    },
+    {
+      "name": "AI Safety & Regulation",
+      "itemCount": 13,
+      "trendScore": 138,
+      "whyTrending": "13 stories across OpenAI, MIT, Hacker, 6 in the last 24h.",
+      "topStory": {
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      },
+      "items": [
         {
-          "id": "rss-1794337658531-168",
-          "title": "Kuken Industries searches 70 years of drawings in minutes",
-          "url": "https://openai.com/index/kuken",
+          "id": "rss-1794423838224-165",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "source": "OpenAI Blog",
-          "publishedAt": "2026-11-09T08:00:00.000Z",
+          "publishedAt": "2026-11-12T00:00:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 20
           },
-          "rawTextSnippet": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-          "score": 50,
+          "rawTextSnippet": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "score": 65,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 30,
             "authority": 20,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1794337649038-5",
-          "title": "Innovating with AI in the special chemicals industry",
-          "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+          "id": "rss-1794423829326-1",
+          "title": "The Download: preserving minds and weighing open AI risks",
+          "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
           "source": "MIT Technology Review",
-          "publishedAt": "2026-11-09T13:00:00.000Z",
+          "publishedAt": "2026-11-11T13:10:00.000Z",
           "scoreSignals": {
             "sourceAuthority": 18
           },
-          "rawTextSnippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur…",
-          "score": 48,
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, …",
+          "score": 63,
           "scoreBreakdown": {
-            "freshness": 15,
+            "freshness": 30,
             "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "AI Tools & Products"
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1794423829774-12",
+          "title": "Access models for security and safety work that mainstream AI often refuses",
+          "url": "https://abliteration.ai/platform",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T18:56:48.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Access models for security and safety work that mainstream AI often refuses",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50457079"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1794423829775-26",
+          "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+          "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T18:23:31.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 6,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+          "hnMeta": {
+            "points": 6,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50456668"
+          },
+          "score": 62,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1794423835475-117",
+          "title": "Anthropogenic Provisioning and the Evolution of Primatological Ethics",
+          "url": "https://crvscience.com/news/jane-goodall-s-legacy-anthropogenic-provisioning-and-the-evolution-of-primatological-ethics",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T18:19:32.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Anthropogenic Provisioning and the Evolution of Primatological Ethics",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50456604"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        }
+      ]
+    },
+    {
+      "name": "AI Hardware & Chips",
+      "itemCount": 10,
+      "trendScore": 124,
+      "whyTrending": "10 stories across Hacker, TechCrunch, arXiv, 4 in the last 24h.",
+      "topStory": {
+        "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+      },
+      "items": [
+        {
+          "id": "hn-1794423831208-73",
+          "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+          "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T16:38:44.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 231,
+            "comments": 122
+          },
+          "rawTextSnippet": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+          "hnMeta": {
+            "points": 231,
+            "comments": 122,
+            "hnUrl": "https://news.ycombinator.com/item?id=50455394"
+          },
+          "score": 74,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 15,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1794423829775-21",
+          "title": "Show HN: Isometric Burlington – my town redrawn by an image model",
+          "url": "https://isoburlington.com",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T18:31:18.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "You can spin the city to all four sides and zoom from the whole lake down to individual houses. The sky follows the real sunset and the live weather, GMT buses move along their routes on the timetable, and planes in and out of BTV appear live. I built it in about two days for roughly $90 of computer…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50456774"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "hn-1794423831208-72",
+          "title": "Show HN: Sonamu – Tree-Based Wayland Compositor",
+          "url": "https://github.com/mathkimchi/sonamu/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-11T17:09:49.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "I use computers for everything and constantly have hundreds of tabs open. Existing paradigms limited me to grouping tabs by applications, but I needed to organize by task. With Sonamu, I can put my GitHub page on the browser right next to my terminal instead of my emails. Sonamu is a Wayland composi…",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50455780"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "rss-1794423836770-136",
+          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+          "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-11T07:30:51.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+          "score": 57,
+          "scoreBreakdown": {
+            "freshness": 26,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "rss-1794423836771-144",
+          "title": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a timeline",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-10T17:04:19.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+          "score": 49,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 3
+          },
+          "cluster": "AI Hardware & Chips"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "rss-1794337657046-142",
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "id": "hn-1794423831208-80",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T15:33:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 60,
+        "comments": 32
+      },
+      "rawTextSnippet": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here&#x27;s a quick demo video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=…",
+      "hnMeta": {
+        "points": 60,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=50454625"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: A developer launched Yogurt, an open-source app for meeting transcription and summarization.  \n• Why it matters: Yogurt offers a free and private alternative to existing commercial solutions, enhancing user data security.  \n• Business opportunity: Companies can leverage Yogurt to reduce costs associated with meeting management and improve productivity."
+    },
+    {
+      "id": "hn-1794423834060-100",
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T16:00:50.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 45,
+        "comments": 20
+      },
+      "rawTextSnippet": "I&#x27;ve been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI …",
+      "hnMeta": {
+        "points": 45,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50454951"
+      },
+      "score": 69,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Agents & Automation",
+      "summary": "• What happened: A developer introduced Klad, a paint app designed for AI-driven game development.  \n• Why it matters: It addresses frustrations with current AI tools in the art department, enhancing creativity and efficiency.  \n• Business opportunity: There is potential for growth in AI-assisted creative tools for game developers and artists."
+    },
+    {
+      "id": "hn-1794423829775-20",
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T18:32:42.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 7,
+        "comments": 2
+      },
+      "rawTextSnippet": "Gemini Decisions API",
+      "hnMeta": {
+        "points": 7,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50456791"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: Gemini Decisions launched an API to enhance decision-making processes.  \n• Why it matters: This innovation streamlines data integration, improving efficiency for businesses.  \n• Business opportunity: Companies can leverage the API to optimize operations and gain competitive advantages."
+    },
+    {
+      "id": "hn-1794423831208-71",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "https://pomerado.ai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T17:11:56.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 19,
+        "comments": 10
+      },
+      "rawTextSnippet": "Hi HN, we’re Alan and Akshay from Pomerado ( https:&#x2F;&#x2F;pomerado.ai&#x2F; ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact w…",
+      "hnMeta": {
+        "points": 19,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50455811"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "AI Tools & Products"
+    },
+    {
+      "id": "hn-1794423829774-12",
+      "title": "Access models for security and safety work that mainstream AI often refuses",
+      "url": "https://abliteration.ai/platform",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T18:56:48.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Access models for security and safety work that mainstream AI often refuses",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50457079"
+      },
+      "score": 62,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    }
+  ],
+  "redditSignals": [],
+  "research": [
+    {
+      "id": "arxiv-1794423829802-36",
+      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+      "url": "https://arxiv.org/abs/2611.14493v1",
+      "source": "arXiv",
+      "publishedAt": "2026-11-10T18:50:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based …",
+      "arxivMeta": {
+        "authors": "Howard Zhang, Chuck Arvin, Logan Brown, Mihir Bhatia, Neelu Choudhary, Lily Miao",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Agents & Automation"
+    },
+    {
+      "id": "arxiv-1794423829802-42",
+      "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+      "url": "https://arxiv.org/abs/2611.14467v1",
+      "source": "arXiv",
+      "publishedAt": "2026-11-10T18:31:36.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of …",
+      "arxivMeta": {
+        "authors": "Audrey Huang, Nan Jiang, Sham M. Kakade, Sadhika Malladi, Akshay Krishnamurthy, Dylan J. Foster",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1794423829802-43",
+      "title": "One Curve, Different Weights: AUC, the Brier Score, Decision-Weighted AUC, and the Policy Youden Index",
+      "url": "https://arxiv.org/abs/2611.14465v1",
+      "source": "arXiv",
+      "publishedAt": "2026-11-10T18:29:50.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "AUC and the Brier score are standard summaries of a binary risk score, yet they can rank models differently. We introduce a weighted AUC, AUC$_π$, which weights each pair of observations by how differently a decision maker with probability of acting $π$ treats them. We show that all three are built …",
+      "arxivMeta": {
+        "authors": "Yegor Baranovski",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1794423829803-47",
+      "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
+      "url": "https://arxiv.org/abs/2611.14432v1",
+      "source": "arXiv",
+      "publishedAt": "2026-11-10T18:06:16.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10. The core of the solution is a single vision-language-action (VLA) model, one checkpoint for all 100…",
+      "arxivMeta": {
+        "authors": "Ilia Larchenko, Gleb Zarin, Atindra Nair, Keerti Manney, Vitaly Kleban, Mirko Kiefer, Anjana Yodaiken",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1794423829803-49",
+      "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
+      "url": "https://arxiv.org/abs/2611.14425v1",
+      "source": "arXiv",
+      "publishedAt": "2026-11-10T18:01:23.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Time-Series Foundation Models (TSFMs) are increasingly used in sensor applications, where sampling frequency (SF) varies across sensors, devices, and operating modes (e.g., power saving). Ideally, TSFMs must remain effective during such SF changes, provided the SF retains task-critical bandwidth. In…",
+      "arxivMeta": {
+        "authors": "Sourish Gunesh Dhekane, Abinaya Kumar, Torsten Woertwein, Yan-Bo Lin, Thomas Ploetz, Shabnam Ghaffarzadegan",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    }
+  ],
+  "funding": [
+    {
+      "id": "rss-1794423836770-133",
+      "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T13:30:00.000Z",
+      "publishedAt": "2026-11-11T16:14:44.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "rawTextSnippet": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
       "score": 67,
       "scoreBreakdown": {
         "freshness": 30,
@@ -918,19 +1236,19 @@
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Ring launched a home security drone and an enterprise security robot.  \n• Why it matters: This expansion into robotics enhances Ring's product offerings and addresses growing security concerns.  \n• Business opportunity: Companies can leverage these innovations to enhance their security services and attract new customers."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: OpenAI's quarterly revenue surpassed $10 billion for the first time, marking a significant increase.  \n• Why it matters: This 50% growth from the previous quarter highlights the rising demand for AI technologies.  \n• Business opportunity: Companies can explore partnerships or integrations with OpenAI to leverage its expanding capabilities and market presence."
     },
     {
-      "id": "rss-1794337657046-136",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "id": "rss-1794423836770-132",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T15:54:08.000Z",
+      "publishedAt": "2026-11-11T16:16:07.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "rawTextSnippet": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -939,349 +1257,73 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Hardware & Chips",
-      "summary": "• What happened: Google introduced two new tensor processing units (TPUs) for specialized AI applications.  \n• Why it matters: These chips enhance capabilities for confidential model training and increased memory capacity.  \n• Business opportunity: Companies can leverage these advanced TPUs to improve AI performance and security in their applications."
-    },
-    {
-      "id": "hn-1794337649990-54",
-      "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-      "url": "https://www.reuters.com/legal/litigation/anthropics-ipo-close-look-ai-frontrunners-rapid-growth-spiraling-costs-2026-10-26/",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-10T18:26:05.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 0
-      },
-      "rawTextSnippet": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-      "hnMeta": {
-        "points": 3,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50444181"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic is preparing for an IPO amid significant growth and increasing costs.  \n• Why it matters: The IPO highlights the competitive landscape in AI, showcasing the financial pressures faced by leading firms.  \n• Business opportunity: Investors can capitalize on the growing AI sector by exploring opportunities in emerging technologies and startups."
+      "summary": "• What happened: Reports suggest that bad behavior among senior industry figures, including Jensen Huang, is being overlooked.  \n• Why it matters: This culture of condoning misconduct could harm workplace environments and employee morale.  \n• Business opportunity: Companies can differentiate themselves by promoting a strong ethical culture and accountability in leadership."
     },
     {
-      "id": "hn-1794337656775-120",
-      "title": "Anthropic unveils Office tools ahead of IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-10T17:33:31.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 4,
-        "comments": 1
-      },
-      "rawTextSnippet": "Anthropic unveils Office tools ahead of IPO",
-      "hnMeta": {
-        "points": 4,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=50443448"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "rss-1794337657046-132",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "id": "rss-1794423836770-140",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T19:03:52.000Z",
+      "publishedAt": "2026-11-10T19:23:34.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "score": 61,
+      "rawTextSnippet": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
-        "businessImpact": 0
+        "businessImpact": 9
       },
-      "cluster": "AI in Enterprise"
-    }
-  ],
-  "redditSignals": [],
-  "research": [
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Oura announced the acquisition of AI-native primary care startup Counsel Health for $625 million.  \n• Why it matters: This move follows Oura's indefinite postponement of its IPO due to market uncertainties.  \n• Business opportunity: The acquisition positions Oura to enhance its health technology offerings and tap into the growing demand for AI-driven healthcare solutions."
+    },
     {
-      "id": "arxiv-1794337649367-18",
-      "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
-      "url": "https://arxiv.org/abs/2611.12816v1",
-      "source": "arXiv",
-      "publishedAt": "2026-11-09T18:19:57.000Z",
+      "id": "hn-1794423829775-26",
+      "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T18:23:31.000Z",
       "scoreSignals": {
-        "sourceAuthority": 15
+        "sourceAuthority": 14,
+        "upvotes": 6,
+        "comments": 0
       },
-      "rawTextSnippet": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introduces and compares two frameworks for extracting disassembly instructions from unstructured informatio…",
-      "arxivMeta": {
-        "authors": "Tim Schnieders, Tareq Maximilian Gabriel Ahrari, Oliver Petrovic, Christian Brecher",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
+      "rawTextSnippet": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+      "hnMeta": {
+        "points": 6,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50456668"
       },
-      "score": 48,
+      "score": 62,
       "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 15,
+        "freshness": 30,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1794337649367-21",
-      "title": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
-      "url": "https://arxiv.org/abs/2611.12799v1",
-      "source": "arXiv",
-      "publishedAt": "2026-11-09T18:07:42.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the best-validation checkpoint and discards the rest. We show that this is lossy: in GRPO training of LLM agents, the best-validation checkpoint fails on problems that earlier c…",
-      "arxivMeta": {
-        "authors": "Tingcheng Bian, Kangye Gong, Jinchang Luo, MingQuan Cheng, Feiran Liu, Ni Li, Xiaoling Xia, Haiwei Wang, Hui Li",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 48,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1794337649367-10",
-      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2611.12872v1",
-      "source": "arXiv",
-      "publishedAt": "2026-11-09T18:57:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, whic…",
-      "arxivMeta": {
-        "authors": "Haozhen Zhang, Bohan Liu, Jianzhu Bao, Qingyuan Liu, Haodong Yue, Xiao Li, Zi Pong Lim, Wenya Wang",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 45,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "AI Agents & Automation"
-    },
-    {
-      "id": "arxiv-1794337649367-11",
-      "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
-      "url": "https://arxiv.org/abs/2611.12865v1",
-      "source": "arXiv",
-      "publishedAt": "2026-11-09T18:52:20.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains fea…",
-      "arxivMeta": {
-        "authors": "Xinjie Shen",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 45,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
       },
       "cluster": "AI Safety & Regulation"
     },
     {
-      "id": "arxiv-1794337649367-12",
-      "title": "Is Persona Generalization Predictable?",
-      "url": "https://arxiv.org/abs/2611.12864v1",
-      "source": "arXiv",
-      "publishedAt": "2026-11-09T18:51:03.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising \"on-the-line\" phenomenon in persona generalization: in-domain and out-of-domain p…",
-      "arxivMeta": {
-        "authors": "Olina Mukherjee, Arnav Goel, Aditi Raghunathan, Jacob Mitchell Springer",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 45,
-      "scoreBreakdown": {
-        "freshness": 15,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models"
-    }
-  ],
-  "funding": [
-    {
-      "id": "rss-1794337659917-198",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "DeepMind Blog",
-      "publishedAt": "2026-11-10T12:02:28.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 20
-      },
-      "rawTextSnippet": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 26,
-        "authority": 20,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: DeepMind introduced AlphaProof Code, which verified Signal's core encryption by generating three million lines of proofs.  \n• Why it matters: This breakthrough enhances software verification, ensuring higher security and reliability in complex systems.  \n• Business opportunity: Companies can leverage this technology to improve their software security and compliance processes."
-    },
-    {
-      "id": "hn-1794337649990-51",
-      "title": "Transformers for Mobile User Acquisition",
-      "url": "https://aiadvances.org/transformers-for-mobile-user-acquisition-f3816d8b0c41?source=friends_link&sk=b030b59b5c360a659e8602fdc35590fa",
+      "id": "hn-1794423835475-121",
+      "title": "Anthropic's IPO Visualized",
+      "url": "https://www.kadoa.com/companies/insights/anthropic-ipo-pricing",
       "source": "Hacker News",
-      "publishedAt": "2026-11-10T18:37:55.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 1,
-        "comments": 0
-      },
-      "rawTextSnippet": "Transformers for Mobile User Acquisition",
-      "hnMeta": {
-        "points": 1,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50444334"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: New transformer models are being developed for mobile user acquisition strategies.  \n• Why it matters: These models can enhance targeting and engagement, improving marketing efficiency.  \n• Business opportunity: Companies can leverage these advancements to optimize user acquisition campaigns and boost ROI."
-    },
-    {
-      "id": "hn-1794337649990-54",
-      "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-      "url": "https://www.reuters.com/legal/litigation/anthropics-ipo-close-look-ai-frontrunners-rapid-growth-spiraling-costs-2026-10-26/",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-10T18:26:05.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 3,
-        "comments": 0
-      },
-      "rawTextSnippet": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-      "hnMeta": {
-        "points": 3,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50444181"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic is preparing for an IPO amid significant growth and rising expenses.  \n• Why it matters: The company's trajectory highlights the challenges and potential of the AI sector.  \n• Business opportunity: Investors may find lucrative prospects in AI firms navigating rapid expansion and cost management."
-    },
-    {
-      "id": "hn-1794337653165-93",
-      "title": "Anthropic IPO Roadshow",
-      "url": "https://www.netroadshow.com/custom/IPO/Anthropic/retail/agenda.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-10T16:59:45.000Z",
+      "publishedAt": "2026-11-11T13:18:24.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
         "upvotes": 2,
         "comments": 0
       },
-      "rawTextSnippet": "Anthropic IPO Roadshow",
+      "rawTextSnippet": "Anthropic's IPO Visualized",
       "hnMeta": {
         "points": 2,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50443055"
-      },
-      "score": 62,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Funding & Acquisitions"
-    },
-    {
-      "id": "hn-1794337655188-100",
-      "title": "TSMC approves investments of up to $500M each in Anthropic and OpenAI",
-      "url": "https://pr.tsmc.com/english/news/3352",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-10T14:59:55.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 2,
-        "comments": 0
-      },
-      "rawTextSnippet": "TSMC approves investments of up to $500M each in Anthropic and OpenAI",
-      "hnMeta": {
-        "points": 2,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50441326"
+        "hnUrl": "https://news.ycombinator.com/item?id=50453064"
       },
       "score": 62,
       "scoreBreakdown": {
@@ -1294,5 +1336,5 @@
       "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "In today's AI landscape, significant developments are shaping the future of technology and security. Ring has expanded its product line with a home security drone and an enterprise security robot, signaling a shift towards more autonomous surveillance solutions that could disrupt traditional security services. Meanwhile, Nvidia's CEO Jensen Huang faces scrutiny amid allegations of an affair with a Chinese spy, raising concerns about corporate governance and international relations in the tech sector. On the regulatory front, Pelosi's successor is pushing for tighter controls on AI and data centers, which are grappling with power supply issues, highlighting the urgent need for sustainable energy solutions in tech. Additionally, Google has enhanced its AI hardware capabilities by introducing two new specialized chips, indicating a competitive push in the AI hardware market that could impact various industries reliant on advanced computing power."
+  "dailyBrief": "In a dramatic incident, a false smoke alarm nearly compromised Jane Street's sole NYC datacenter, underscoring the critical importance of robust infrastructure management in high-stakes trading environments. Meanwhile, Anthropic's recent identification of vulnerabilities highlights the ongoing need for businesses to prioritize cybersecurity, as these weaknesses could pose significant risks to operational integrity. The migration of Reddit users to alternative platforms like Lemmy is reshaping online community dynamics, presenting both challenges and opportunities for businesses in digital marketing and user engagement strategies. Additionally, innovative projects like Yogurt, an open-source alternative to Granola, and Klad, a paint app driven by coding agents, reflect a growing trend towards privacy-focused and user-driven software solutions, which could influence future product development and consumer preferences in the tech landscape."
 }
