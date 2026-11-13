@@ -1,126 +1,49 @@
 {
   "topNews": [
     {
-      "id": "hn-1794511349629-119",
+      "id": "hn-1794596403446-132",
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us/",
       "source": "Hacker News",
       "publishedAt": "2026-11-12T11:46:41.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 678,
-        "comments": 687
+        "upvotes": 987,
+        "comments": 898
       },
       "rawTextSnippet": "Anthropic IPO",
       "hnMeta": {
-        "points": 678,
-        "comments": 687,
+        "points": 987,
+        "comments": 898,
         "hnUrl": "https://news.ycombinator.com/item?id=50465829"
       },
-      "score": 83,
+      "score": 72,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 15,
         "authority": 14,
         "engagement": 25,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic has announced its intention to go public through an IPO.  \n• Why it matters: This move highlights the growing interest and investment in AI companies.  \n• Business opportunity: Investors may find potential in the expanding AI sector as companies like Anthropic seek capital for growth."
+      "summary": "• What happened: Anthropic has announced its intention to go public through an IPO.  \n• Why it matters: This move highlights the growing interest and investment in AI companies.  \n• Business opportunity: Investors may find lucrative opportunities in the expanding AI sector as more companies pursue public listings."
     },
     {
-      "id": "hn-1794511345129-79",
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "id": "hn-1794596403446-124",
+      "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+      "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
       "source": "Hacker News",
-      "publishedAt": "2026-11-12T15:23:10.000Z",
+      "publishedAt": "2026-11-13T14:34:13.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 151,
-        "comments": 58
+        "upvotes": 30,
+        "comments": 65
       },
-      "rawTextSnippet": "I'm making LLMs work on small and old devices",
+      "rawTextSnippet": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
       "hnMeta": {
-        "points": 151,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=50468888"
-      },
-      "score": 74,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 15,
-        "novelty": 15,
-        "businessImpact": 0
-      },
-      "cluster": "Large Language Models",
-      "summary": "• What happened: A developer is optimizing large language models (LLMs) to function on small and older devices.  \n• Why it matters: This innovation could democratize access to advanced AI technology, enabling broader usage across various demographics.  \n• Business opportunity: Companies can target niche markets by offering AI solutions for low-resource environments, enhancing user engagement."
-    },
-    {
-      "id": "rss-1794511350664-139",
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T17:00:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: SoftBank incurred over $3 billion in losses from preordering natural gas turbines for AI data centers.  \n• Why it matters: This significant financial setback may limit future investments in AI-related energy solutions.  \n• Business opportunity: Companies can explore alternative energy sources or technologies to support AI infrastructure sustainably."
-    },
-    {
-      "id": "hn-1794511345129-68",
-      "title": "Show HN: Kapso – Iterative learning from enterprise data",
-      "url": "https://news.ycombinator.com/item?id=50471281",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-12T17:51:23.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 10,
-        "comments": 1
-      },
-      "rawTextSnippet": "Hey HN! We&#x27;re Alireza and Majid building Leeroo ( https:&#x2F;&#x2F;leeroo.com&#x2F; ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we&#x27;re open-sourcing Kapso ( h…",
-      "hnMeta": {
-        "points": 10,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=50471281"
-      },
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Alireza and Majid launched Kapso, an open-source tool for iterative learning from enterprise data.  \n• Why it matters: This initiative leverages their experience from building AI systems at major tech companies to enhance enterprise data utilization.  \n• Business opportunity: Companies can adopt Kapso to improve data-driven decision-making and optimize their operations."
-    },
-    {
-      "id": "hn-1794511345129-72",
-      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-12T16:59:26.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 47,
-        "comments": 17
-      },
-      "rawTextSnippet": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "hnMeta": {
-        "points": 47,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50470445"
+        "points": 30,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=50484110"
       },
       "score": 69,
       "scoreBreakdown": {
@@ -131,18 +54,18 @@
         "businessImpact": 0
       },
       "cluster": "General AI",
-      "summary": "• What happened: AWS Lambda Web Functions continue to incur memory billing for approximately 7 minutes after the last request.  \n• Why it matters: This billing delay can lead to increased costs for users relying on serverless architecture.  \n• Business opportunity: Companies can develop tools or services to optimize serverless usage and reduce unnecessary costs."
+      "summary": "• What happened: Amodei claims AI will cure cancer within ten years, but doctors express skepticism.  \n• Why it matters: This statement highlights the potential of AI in healthcare while revealing concerns about its feasibility.  \n• Business opportunity: Companies can explore AI-driven healthcare solutions, focusing on cancer research and treatment innovations."
     },
     {
-      "id": "rss-1794511350664-137",
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "id": "rss-1794596403975-138",
+      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models—uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T17:36:40.000Z",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "rawTextSnippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "score": 67,
       "scoreBreakdown": {
         "freshness": 30,
@@ -151,61 +74,116 @@
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Hugging Face's CEO committed to promoting open source AI following Jensen Huang's departure.  \n• Why it matters: This shift raises concerns about the future of open source initiatives amid significant corporate acquisitions.  \n• Business opportunity: Companies can capitalize on the growing demand for open source AI solutions as alternatives to proprietary technologies."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: China’s leading AI models were developed using Nvidia chips that are under export restrictions.  \n• Why it matters: This raises concerns about compliance and the effectiveness of export controls in curbing technology transfer.  \n• Business opportunity: Companies can explore alternatives to Nvidia chips for AI development to meet regulatory standards."
     },
     {
-      "id": "rss-1794511350664-148",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T13:26:25.000Z",
+      "id": "hn-1794596401582-106",
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T17:55:23.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 20,
+        "comments": 2
       },
-      "rawTextSnippet": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+      "rawTextSnippet": "OpenAI disbands its robotics team as its general models start running robots",
+      "hnMeta": {
+        "points": 20,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50487184"
+      },
       "score": 67,
       "scoreBreakdown": {
         "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Nine Korean startups are competing for a place in Disrupt 2027's Startup Battlefield 200.  \n• Why it matters: Their participation highlights the growing influence of Korean innovation in deep tech sectors.  \n• Business opportunity: Investors can explore emerging technologies in healthcare, fintech, energy, semiconductors, and AI from these startups."
-    },
-    {
-      "id": "rss-1794511350664-135",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T19:11:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
+        "authority": 14,
+        "engagement": 5,
         "novelty": 15,
         "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenAI has disbanded its robotics team.  \n• Why it matters: This shift indicates that general AI models can now effectively control robotic systems.  \n• Business opportunity: Companies can leverage AI models for automation in robotics, reducing the need for specialized teams."
+    },
+    {
+      "id": "github-1794596398239-83",
+      "title": "[sidvvkk/manus--ai] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "url": "https://github.com/sidvvkk/manus--ai",
+      "source": "GitHub Trending",
+      "publishedAt": "2026-11-13T14:45:09.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 12,
+        "upvotes": 146
+      },
+      "rawTextSnippet": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "githubMeta": {
+        "stars": 146,
+        "language": null,
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai",
+          "llm",
+          "multimodal",
+          "openai",
+          "react",
+          "solidjs",
+          "streaming",
+          "svelte",
+          "tanstack",
+          "tool-calling",
+          "typescript",
+          "typescript-sdk",
+          "vue"
+        ]
+      },
+      "score": 67,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 12,
+        "engagement": 10,
+        "novelty": 15,
+        "businessImpact": 0
       },
       "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Nectar launched an AI agent to automate influencer marketing for brands.  \n• Why it matters: This innovation streamlines creator discovery and outreach, enhancing marketing efficiency.  \n• Business opportunity: Brands can leverage this tool to optimize influencer partnerships and improve campaign performance."
+      "summary": "• What happened: AI Manus launched as a general-purpose AI Agent system for sandbox operations.  \n• Why it matters: It enables diverse tool usage in a controlled environment, enhancing AI capabilities.  \n• Business opportunity: Companies can leverage AI Manus for innovative applications and improved operational efficiency."
     },
     {
-      "id": "rss-1794511350664-136",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "id": "rss-1794596405365-158",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 20
+      },
+      "rawTextSnippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "score": 65,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 20,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Large Language Models",
+      "summary": "• What happened: OpenAI launched ChatGPT Wallet for secure transactions in its applications.  \n• Why it matters: This feature enhances user security and trust in AI-driven transactions.  \n• Business opportunity: Companies can leverage ChatGPT Wallet to streamline payments and improve customer experience in AI services."
+    },
+    {
+      "id": "rss-1794596403975-140",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T18:39:23.000Z",
+      "publishedAt": "2026-11-13T15:58:00.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "rawTextSnippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -214,19 +192,19 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Open Source AI",
-      "summary": "• What happened: Jensen Huang's resignation has cast doubt on Nvidia's dedication to open source AI initiatives.  \n• Why it matters: Nvidia's support for open source is crucial for its reputation and collaboration in the AI community.  \n• Business opportunity: Companies can capitalize on potential gaps in Nvidia's open source strategy by offering alternative solutions or partnerships."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: Jensen Huang resigned from Nvidia due to an affair.  \n• Why it matters: His departure may impact national security amid the U.S.-China AI competition.  \n• Business opportunity: Companies could capitalize on leadership changes to innovate in AI infrastructure development."
     },
     {
-      "id": "rss-1794511350664-138",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "id": "rss-1794596403975-141",
+      "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T17:17:58.000Z",
+      "publishedAt": "2026-11-13T14:44:48.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "rawTextSnippet": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
       "score": 64,
       "scoreBreakdown": {
         "freshness": 30,
@@ -235,37 +213,93 @@
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: United Airlines has prohibited the use of AI agents for booking flights and managing reservations.  \n• Why it matters: This decision highlights concerns over cybersecurity risks associated with AI in the travel industry.  \n• Business opportunity: Companies can develop secure AI solutions tailored for the airline sector to enhance customer experience while addressing security concerns."
+      "cluster": "AI in Enterprise",
+      "summary": "• What happened: ElevenLabs launched a new app for meeting note-taking and dictation tailored for teams.  \n• Why it matters: This innovation enhances productivity and collaboration by streamlining the documentation process.  \n• Business opportunity: Companies can leverage this tool to improve team efficiency and reduce time spent on manual note-taking."
+    },
+    {
+      "id": "hn-1794596396811-43",
+      "title": "6-11X speedup running Qwen3.6 on my RTX 4090, full repo.",
+      "url": "https://github.com/me-farza/lightreason/tree/main",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T18:40:37.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 13,
+        "comments": 0
+      },
+      "rawTextSnippet": "6-11X speedup running Qwen3.6 on my RTX 4090, full repo.",
+      "hnMeta": {
+        "points": 13,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50487861"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Qwen3.6 achieved a 6-11X speedup on the RTX 4090.  \n• Why it matters: This significant performance boost enhances computational efficiency for AI tasks.  \n• Business opportunity: Companies can leverage this technology for faster AI model training and deployment."
+    },
+    {
+      "id": "hn-1794596396811-51",
+      "title": "Are we just going to ignore that books are destroyed for AI?",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T18:14:38.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 12,
+        "comments": 9
+      },
+      "rawTextSnippet": "Are we just going to ignore that books are destroyed for AI?",
+      "hnMeta": {
+        "points": 12,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=50487469"
+      },
+      "score": 64,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI",
+      "summary": "• What happened: Concerns have arisen over the destruction of books for AI training purposes.  \n• Why it matters: This raises ethical questions about intellectual property and cultural preservation.  \n• Business opportunity: Companies can explore sustainable AI training methods that respect copyright and promote digital preservation."
     }
   ],
   "trendingTopics": [
     {
       "name": "General AI",
-      "itemCount": 50,
-      "trendScore": 199,
-      "whyTrending": "50 stories across Hacker, OpenAI, MIT, 28 in the last 24h.",
+      "itemCount": 53,
+      "trendScore": 207,
+      "whyTrending": "53 stories across Hacker, TechCrunch, OpenAI, 32 in the last 24h.",
       "topStory": {
-        "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-        "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory"
+        "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+        "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11"
       },
       "items": [
         {
-          "id": "hn-1794511345129-72",
-          "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-          "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+          "id": "hn-1794596403446-124",
+          "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+          "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
           "source": "Hacker News",
-          "publishedAt": "2026-11-12T16:59:26.000Z",
+          "publishedAt": "2026-11-13T14:34:13.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 47,
-            "comments": 17
+            "upvotes": 30,
+            "comments": 65
           },
-          "rawTextSnippet": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+          "rawTextSnippet": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
           "hnMeta": {
-            "points": 47,
-            "comments": 17,
-            "hnUrl": "https://news.ycombinator.com/item?id=50470445"
+            "points": 30,
+            "comments": 65,
+            "hnUrl": "https://news.ycombinator.com/item?id=50484110"
           },
           "score": 69,
           "scoreBreakdown": {
@@ -278,21 +312,21 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1794511345129-81",
-          "title": "30 years of Internet transfers with curl",
-          "url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+          "id": "hn-1794596396811-43",
+          "title": "6-11X speedup running Qwen3.6 on my RTX 4090, full repo.",
+          "url": "https://github.com/me-farza/lightreason/tree/main",
           "source": "Hacker News",
-          "publishedAt": "2026-11-12T14:31:32.000Z",
+          "publishedAt": "2026-11-13T18:40:37.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 29,
+            "upvotes": 13,
             "comments": 0
           },
-          "rawTextSnippet": "30 years of Internet transfers with curl",
+          "rawTextSnippet": "6-11X speedup running Qwen3.6 on my RTX 4090, full repo.",
           "hnMeta": {
-            "points": 29,
+            "points": 13,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50467886"
+            "hnUrl": "https://news.ycombinator.com/item?id=50487861"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -305,67 +339,81 @@
           "cluster": "General AI"
         },
         {
-          "id": "hn-1794511345129-71",
-          "title": "Request for Collaboration on a Message Mirror Security Architecture",
-          "url": "https://ajs-consult-llc.github.io/mirror-encryption-rfc/",
+          "id": "hn-1794596396811-51",
+          "title": "Are we just going to ignore that books are destroyed for AI?",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
           "source": "Hacker News",
-          "publishedAt": "2026-11-12T17:10:38.000Z",
+          "publishedAt": "2026-11-13T18:14:38.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 2,
-            "comments": 1
+            "upvotes": 12,
+            "comments": 9
           },
-          "rawTextSnippet": "Request for Collaboration on a Message Mirror Security Architecture",
+          "rawTextSnippet": "Are we just going to ignore that books are destroyed for AI?",
           "hnMeta": {
-            "points": 2,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=50470634"
+            "points": 12,
+            "comments": 9,
+            "hnUrl": "https://news.ycombinator.com/item?id=50487469"
           },
-          "score": 62,
+          "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
             "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "General AI"
-        },
-        {
-          "id": "rss-1794511352201-163",
-          "title": "Holiday Extras is rethinking what it can build with Codex",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI Blog",
-          "publishedAt": "2026-11-12T09:30:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 20
-          },
-          "rawTextSnippet": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-          "score": 61,
-          "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 20,
-            "engagement": 0,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "General AI"
         },
         {
-          "id": "rss-1794511343060-0",
-          "title": "The Download: COP31’s climate challenge and the quest for immortality",
-          "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-          "source": "MIT Technology Review",
-          "publishedAt": "2026-11-12T13:10:00.000Z",
+          "id": "hn-1794596396812-53",
+          "title": "Is it OK to write blog posts with AI yet?",
+          "url": "https://rmoff.net/2026/11/13/is-it-ok-to-write-blog-posts-with-ai-yet/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T18:10:54.000Z",
           "scoreSignals": {
-            "sourceAuthority": 18
+            "sourceAuthority": 14,
+            "upvotes": 4,
+            "comments": 5
           },
-          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an…",
-          "score": 59,
+          "rawTextSnippet": "Is it OK to write blog posts with AI yet?",
+          "hnMeta": {
+            "points": 4,
+            "comments": 5,
+            "hnUrl": "https://news.ycombinator.com/item?id=50487420"
+          },
+          "score": 64,
           "scoreBreakdown": {
-            "freshness": 26,
-            "authority": 18,
-            "engagement": 0,
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "General AI"
+        },
+        {
+          "id": "hn-1794596398216-64",
+          "title": "China now burns more coal than the rest of the world combined",
+          "url": "https://ourworldindata.org/data-insights/almost-all-the-growth-in-global-coal-use-since-the-late-1980s-has-come-from-china",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T16:17:12.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 7,
+            "comments": 6
+          },
+          "rawTextSnippet": "China now burns more coal than the rest of the world combined",
+          "hnMeta": {
+            "points": 7,
+            "comments": 6,
+            "hnUrl": "https://news.ycombinator.com/item?id=50485692"
+          },
+          "score": 64,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 0
           },
@@ -375,78 +423,44 @@
     },
     {
       "name": "Large Language Models",
-      "itemCount": 53,
-      "trendScore": 186,
-      "whyTrending": "53 stories across Hacker, TechCrunch, DeepMind, 16 in the last 24h.",
+      "itemCount": 51,
+      "trendScore": 187,
+      "whyTrending": "51 stories across OpenAI, TechCrunch, Hacker, 17 in the last 24h.",
       "topStory": {
-        "title": "I'm making LLMs work on small and old devices",
-        "url": "https://github.com/hyperionaidev/smolmaxxing/"
+        "title": "Introducing ChatGPT Wallet",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet"
       },
       "items": [
         {
-          "id": "hn-1794511345129-79",
-          "title": "I'm making LLMs work on small and old devices",
-          "url": "https://github.com/hyperionaidev/smolmaxxing/",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-12T15:23:10.000Z",
+          "id": "rss-1794596405365-158",
+          "title": "Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI Blog",
+          "publishedAt": "2026-11-13T15:00:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 151,
-            "comments": 58
+            "sourceAuthority": 20
           },
-          "rawTextSnippet": "I'm making LLMs work on small and old devices",
-          "hnMeta": {
-            "points": 151,
-            "comments": 58,
-            "hnUrl": "https://news.ycombinator.com/item?id=50468888"
-          },
-          "score": 74,
+          "rawTextSnippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "score": 65,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 14,
-            "engagement": 15,
+            "authority": 20,
+            "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1794511352450-192",
-          "title": "Gemini Decisions API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-11T18:32:42.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 546,
-            "comments": 156
-          },
-          "rawTextSnippet": "Gemini Decisions API",
-          "hnMeta": {
-            "points": 546,
-            "comments": 156,
-            "hnUrl": "https://news.ycombinator.com/item?id=50456791"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 15,
-            "authority": 14,
-            "engagement": 20,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "Large Language Models"
-        },
-        {
-          "id": "rss-1794511350664-146",
-          "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers&#8217; chat transcripts",
-          "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+          "id": "rss-1794596403975-139",
+          "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T15:02:28.000Z",
+          "publishedAt": "2026-11-13T16:00:12.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "This is Fireworks' second data breach in as many months.",
+          "rawTextSnippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
           "score": 61,
           "scoreBreakdown": {
             "freshness": 30,
@@ -458,41 +472,75 @@
           "cluster": "Large Language Models"
         },
         {
-          "id": "rss-1794511353987-198",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-          "source": "DeepMind Blog",
-          "publishedAt": "2026-11-12T18:00:50.000Z",
+          "id": "hn-1794596396811-50",
+          "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchases",
+          "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T18:17:27.000Z",
           "scoreSignals": {
-            "sourceAuthority": 20
+            "sourceAuthority": 14,
+            "upvotes": 5,
+            "comments": 1
           },
-          "rawTextSnippet": "",
-          "score": 60,
+          "rawTextSnippet": "OpenAI launches ChatGPT Wallet, AI agents pay for purchases",
+          "hnMeta": {
+            "points": 5,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50487510"
+          },
+          "score": 59,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 20,
+            "authority": 14,
             "engagement": 0,
-            "novelty": 10,
+            "novelty": 15,
             "businessImpact": 0
           },
           "cluster": "Large Language Models"
         },
         {
-          "id": "hn-1794511343254-20",
-          "title": "Local AI chat for iPhone(test build), built on a custom engine",
-          "url": "https://github.com/MiTLN/OwnOwl-iPhone",
+          "id": "hn-1794596396812-56",
+          "title": "Show HN: AI Juggler – Orchestrate your desktop Claude and Codex apps",
+          "url": "https://github.com/figurehead-ai/AI-juggler",
           "source": "Hacker News",
-          "publishedAt": "2026-11-12T18:47:53.000Z",
+          "publishedAt": "2026-11-13T18:06:55.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 1
+          },
+          "rawTextSnippet": "Show HN: AI Juggler – Orchestrate your desktop Claude and Codex apps",
+          "hnMeta": {
+            "points": 2,
+            "comments": 1,
+            "hnUrl": "https://news.ycombinator.com/item?id=50487349"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "Large Language Models"
+        },
+        {
+          "id": "hn-1794596398216-60",
+          "title": "Theoretical Limits of Language Model Alignment",
+          "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T17:24:51.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
-            "comments": 2
+            "comments": 0
           },
-          "rawTextSnippet": "Local AI chat for iPhone(test build), built on a custom engine",
+          "rawTextSnippet": "Theoretical Limits of Language Model Alignment",
           "hnMeta": {
             "points": 1,
-            "comments": 2,
-            "hnUrl": "https://news.ycombinator.com/item?id=50472179"
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50486683"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -508,70 +556,77 @@
     },
     {
       "name": "AI Agents & Automation",
-      "itemCount": 36,
-      "trendScore": 186,
-      "whyTrending": "36 stories across TechCrunch, Hacker, OpenAI, 21 in the last 24h.",
+      "itemCount": 33,
+      "trendScore": 184,
+      "whyTrending": "33 stories across GitHub, Hacker, OpenAI, 19 in the last 24h.",
       "topStory": {
-        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-        "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+        "title": "[sidvvkk/manus--ai] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+        "url": "https://github.com/sidvvkk/manus--ai"
       },
       "items": [
         {
-          "id": "rss-1794511350664-135",
-          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T19:11:00.000Z",
+          "id": "github-1794596398239-83",
+          "title": "[sidvvkk/manus--ai] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+          "url": "https://github.com/sidvvkk/manus--ai",
+          "source": "GitHub Trending",
+          "publishedAt": "2026-11-13T14:45:09.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 12,
+            "upvotes": 146
           },
-          "rawTextSnippet": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-          "score": 64,
+          "rawTextSnippet": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+          "githubMeta": {
+            "stars": 146,
+            "language": null,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "anthropic",
+              "chatbot",
+              "function-calling",
+              "gemeni",
+              "generative-ai",
+              "llm",
+              "multimodal",
+              "openai",
+              "react",
+              "solidjs",
+              "streaming",
+              "svelte",
+              "tanstack",
+              "tool-calling",
+              "typescript",
+              "typescript-sdk",
+              "vue"
+            ]
+          },
+          "score": 67,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
+            "authority": 12,
+            "engagement": 10,
             "novelty": 15,
-            "businessImpact": 3
+            "businessImpact": 0
           },
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "rss-1794511350664-138",
-          "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T17:17:58.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1794511343254-29",
-          "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-          "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+          "id": "hn-1794596399646-94",
+          "title": "Gnomon. Git for Postgres data, built for agents",
+          "url": "https://github.com/bitsinfra/gnomon",
           "source": "Hacker News",
-          "publishedAt": "2026-11-12T18:15:48.000Z",
+          "publishedAt": "2026-11-13T17:09:52.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 26,
-            "comments": 1
+            "upvotes": 11,
+            "comments": 10
           },
-          "rawTextSnippet": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving …",
+          "rawTextSnippet": "Gnomon. Git for Postgres data, built for agents",
           "hnMeta": {
-            "points": 26,
-            "comments": 1,
-            "hnUrl": "https://news.ycombinator.com/item?id=50471650"
+            "points": 11,
+            "comments": 10,
+            "hnUrl": "https://news.ycombinator.com/item?id=50486480"
           },
           "score": 64,
           "scoreBreakdown": {
@@ -584,48 +639,75 @@
           "cluster": "AI Agents & Automation"
         },
         {
-          "id": "hn-1794511346753-94",
-          "title": "Expo Simulators: cloud simulators built for agents",
-          "url": "https://expo.dev/blog/introducing-expo-simulators-cloud-simulators-built-for-agents",
+          "id": "hn-1794596396811-42",
+          "title": "Show HN: Port of Context – Token efficient MCP context layer",
+          "url": "https://portofcontext.com",
           "source": "Hacker News",
-          "publishedAt": "2026-11-12T17:53:54.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 22,
-            "comments": 11
-          },
-          "rawTextSnippet": "Expo Simulators: cloud simulators built for agents",
-          "hnMeta": {
-            "points": 22,
-            "comments": 11,
-            "hnUrl": "https://news.ycombinator.com/item?id=50471310"
-          },
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 5,
-            "novelty": 15,
-            "businessImpact": 0
-          },
-          "cluster": "AI Agents & Automation"
-        },
-        {
-          "id": "hn-1794511343254-10",
-          "title": "Relate – the agent-native graph database",
-          "url": "https://relatedb.ai/",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-12T19:21:00.000Z",
+          "publishedAt": "2026-11-13T18:43:40.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
             "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "Relate – the agent-native graph database",
+          "rawTextSnippet": "Hi HN, I&#x27;m working on a context layer built on OSS and open standards that lets agents search your company knowledge and use MCP tools all through a single gateway with code mode. Building this because we believe context can and should be portable across harnesses. The metric we are solving for…",
           "hnMeta": {
             "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50472738"
+            "hnUrl": "https://news.ycombinator.com/item?id=50487905"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1794596398216-67",
+          "title": "Show HN: Agent-plan a CLI that automatically commits your agent's plans",
+          "url": "https://github.com/ghmeier/agent-plan",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T15:23:59.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "After spending quite a bit of time using various coding agents and a workflow that uses markdown-based research&#x2F;plan&#x2F;handoff documents to hold context across sessions, I kept on running into an this question of how and where to store the generated markdown. The contents are usually useful …",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50484892"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Agents & Automation"
+        },
+        {
+          "id": "hn-1794596399646-89",
+          "title": "Turn Discord support threads into an FAQ for agents",
+          "url": "https://cocoindex.io/blogs/discord-support-faq/",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T18:25:37.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 1,
+            "comments": 0
+          },
+          "rawTextSnippet": "Turn Discord support threads into an FAQ for agents",
+          "hnMeta": {
+            "points": 1,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50487638"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -642,23 +724,43 @@
     {
       "name": "AI Hardware & Chips",
       "itemCount": 12,
-      "trendScore": 137,
-      "whyTrending": "12 stories across TechCrunch, Hacker, arXiv, 9 in the last 24h.",
+      "trendScore": 143,
+      "whyTrending": "12 stories across TechCrunch, MIT, Hacker, 9 in the last 24h.",
       "topStory": {
-        "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-        "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+        "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models—uh oh, Jensen!",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
       },
       "items": [
         {
-          "id": "rss-1794511350664-142",
-          "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+          "id": "rss-1794596403975-138",
+          "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models—uh oh, Jensen!",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T16:32:33.000Z",
+          "publishedAt": "2026-11-13T18:40:30.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+          "rawTextSnippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+          "score": 67,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 6
+          },
+          "cluster": "AI Hardware & Chips"
+        },
+        {
+          "id": "rss-1794596403975-140",
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-13T15:58:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
           "score": 64,
           "scoreBreakdown": {
             "freshness": 30,
@@ -670,19 +772,19 @@
           "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "rss-1794511350664-143",
-          "title": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor",
-          "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T16:12:44.000Z",
+          "id": "rss-1794596396542-0",
+          "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+          "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-11-13T13:10:00.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-          "score": 61,
+          "rawTextSnippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former execut…",
+          "score": 63,
           "scoreBreakdown": {
             "freshness": 30,
-            "authority": 16,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
             "businessImpact": 0
@@ -690,187 +792,100 @@
           "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "rss-1794511350664-144",
-          "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-          "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T15:37:29.000Z",
+          "id": "rss-1794596396542-3",
+          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "source": "MIT Technology Review",
+          "publishedAt": "2026-11-12T20:16:24.000Z",
           "scoreSignals": {
-            "sourceAuthority": 16
+            "sourceAuthority": 18
           },
-          "rawTextSnippet": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+          "rawTextSnippet": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote…",
           "score": 61,
           "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
+            "freshness": 22,
+            "authority": 18,
             "engagement": 0,
             "novelty": 15,
-            "businessImpact": 0
+            "businessImpact": 6
           },
           "cluster": "AI Hardware & Chips"
         },
         {
-          "id": "rss-1794511350664-147",
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "id": "rss-1794596403975-142",
+          "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
+          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T14:30:01.000Z",
+          "publishedAt": "2026-11-13T12:52:19.000Z",
           "scoreSignals": {
             "sourceAuthority": 16
           },
-          "rawTextSnippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-          "score": 59,
+          "rawTextSnippet": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+          "score": 60,
           "scoreBreakdown": {
-            "freshness": 30,
+            "freshness": 26,
             "authority": 16,
             "engagement": 0,
-            "novelty": 10,
+            "novelty": 15,
             "businessImpact": 3
-          },
-          "cluster": "AI Hardware & Chips"
-        },
-        {
-          "id": "hn-1794511343254-15",
-          "title": "The Nvidia Machine Was Already Facing a Tougher Future",
-          "url": "https://www.nextplatform.com/ai/2026/11/12/the-nvidia-machine-is-self-sustaining-and-was-already-facing-a-tougher-future/5309473",
-          "source": "Hacker News",
-          "publishedAt": "2026-11-12T19:03:00.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 14,
-            "upvotes": 1,
-            "comments": 0
-          },
-          "rawTextSnippet": "The Nvidia Machine Was Already Facing a Tougher Future",
-          "hnMeta": {
-            "points": 1,
-            "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50472445"
-          },
-          "score": 59,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 14,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 0
           },
           "cluster": "AI Hardware & Chips"
         }
       ]
     },
     {
-      "name": "Funding & Acquisitions",
-      "itemCount": 7,
-      "trendScore": 132,
-      "whyTrending": "7 stories across Hacker, TechCrunch, 6 in the last 24h.",
+      "name": "AI Safety & Regulation",
+      "itemCount": 14,
+      "trendScore": 141,
+      "whyTrending": "14 stories across Hacker, TechCrunch, OpenAI, 5 in the last 24h.",
       "topStory": {
-        "title": "Anthropic IPO",
-        "url": "https://ipo.anthropic.com/us/"
+        "title": "OpenAI disbands its robotics team as its general models start running robots",
+        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
       },
       "items": [
         {
-          "id": "hn-1794511349629-119",
-          "title": "Anthropic IPO",
-          "url": "https://ipo.anthropic.com/us/",
+          "id": "hn-1794596401582-106",
+          "title": "OpenAI disbands its robotics team as its general models start running robots",
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
           "source": "Hacker News",
-          "publishedAt": "2026-11-12T11:46:41.000Z",
+          "publishedAt": "2026-11-13T17:55:23.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 678,
-            "comments": 687
+            "upvotes": 20,
+            "comments": 2
           },
-          "rawTextSnippet": "Anthropic IPO",
+          "rawTextSnippet": "OpenAI disbands its robotics team as its general models start running robots",
           "hnMeta": {
-            "points": 678,
-            "comments": 687,
-            "hnUrl": "https://news.ycombinator.com/item?id=50465829"
+            "points": 20,
+            "comments": 2,
+            "hnUrl": "https://news.ycombinator.com/item?id=50487184"
           },
-          "score": 83,
+          "score": 67,
           "scoreBreakdown": {
-            "freshness": 26,
+            "freshness": 30,
             "authority": 14,
-            "engagement": 25,
+            "engagement": 5,
             "novelty": 15,
             "businessImpact": 3
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
         },
         {
-          "id": "rss-1794511350664-137",
-          "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T17:36:40.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1794511350664-148",
-          "title": "Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition",
-          "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T13:26:25.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-          "score": 67,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 6
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "rss-1794511350664-145",
-          "title": "Norwest pushes deeper into AI with new $4B fund",
-          "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-12T15:18:14.000Z",
-          "scoreSignals": {
-            "sourceAuthority": 16
-          },
-          "rawTextSnippet": "This is the investment firm's largest fund to date.",
-          "score": 64,
-          "scoreBreakdown": {
-            "freshness": 30,
-            "authority": 16,
-            "engagement": 0,
-            "novelty": 15,
-            "businessImpact": 3
-          },
-          "cluster": "Funding & Acquisitions"
-        },
-        {
-          "id": "hn-1794511345129-70",
-          "title": "ParseBench-2: Severity-Aware Evaluation of Document Parsing",
-          "url": "https://huggingface.co/datasets/llamaindex/ParseBench-2",
+          "id": "hn-1794596396811-47",
+          "title": "AI models read the law to the right of their politics",
+          "url": "https://www.ryancompton.net/2026/10/08/ai-supreme-court.html",
           "source": "Hacker News",
-          "publishedAt": "2026-11-12T17:39:20.000Z",
+          "publishedAt": "2026-11-13T18:29:11.000Z",
           "scoreSignals": {
             "sourceAuthority": 14,
-            "upvotes": 5,
+            "upvotes": 1,
             "comments": 0
           },
-          "rawTextSnippet": "ParseBench-2: Severity-Aware Evaluation of Document Parsing",
+          "rawTextSnippet": "AI models read the law to the right of their politics",
           "hnMeta": {
-            "points": 5,
+            "points": 1,
             "comments": 0,
-            "hnUrl": "https://news.ycombinator.com/item?id=50471095"
+            "hnUrl": "https://news.ycombinator.com/item?id=50487686"
           },
           "score": 59,
           "scoreBreakdown": {
@@ -880,50 +895,96 @@
             "novelty": 15,
             "businessImpact": 0
           },
-          "cluster": "Funding & Acquisitions"
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1794596399646-92",
+          "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
+          "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T17:49:48.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 2,
+            "comments": 0
+          },
+          "rawTextSnippet": "German parliament passes law giving spy agencies hacking, sabotage powers",
+          "hnMeta": {
+            "points": 2,
+            "comments": 0,
+            "hnUrl": "https://news.ycombinator.com/item?id=50487086"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "hn-1794596401582-107",
+          "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
+          "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+          "source": "Hacker News",
+          "publishedAt": "2026-11-13T17:52:00.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 14,
+            "upvotes": 3,
+            "comments": 3
+          },
+          "rawTextSnippet": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
+          "hnMeta": {
+            "points": 3,
+            "comments": 3,
+            "hnUrl": "https://news.ycombinator.com/item?id=50487126"
+          },
+          "score": 59,
+          "scoreBreakdown": {
+            "freshness": 30,
+            "authority": 14,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 0
+          },
+          "cluster": "AI Safety & Regulation"
+        },
+        {
+          "id": "rss-1794596403975-153",
+          "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
+          "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-12T17:00:52.000Z",
+          "scoreSignals": {
+            "sourceAuthority": 16
+          },
+          "rawTextSnippet": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+          "score": 55,
+          "scoreBreakdown": {
+            "freshness": 15,
+            "authority": 16,
+            "engagement": 0,
+            "novelty": 15,
+            "businessImpact": 9
+          },
+          "cluster": "AI Safety & Regulation"
         }
       ]
     }
   ],
   "toolLaunches": [
     {
-      "id": "hn-1794511345129-68",
-      "title": "Show HN: Kapso – Iterative learning from enterprise data",
-      "url": "https://news.ycombinator.com/item?id=50471281",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-12T17:51:23.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 14,
-        "upvotes": 10,
-        "comments": 1
-      },
-      "rawTextSnippet": "Hey HN! We&#x27;re Alireza and Majid building Leeroo ( https:&#x2F;&#x2F;leeroo.com&#x2F; ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we&#x27;re open-sourcing Kapso ( h…",
-      "hnMeta": {
-        "points": 10,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=50471281"
-      },
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 14,
-        "engagement": 5,
-        "novelty": 15,
-        "businessImpact": 6
-      },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Alireza and Majid launched Kapso, an open-source tool for iterative learning from enterprise data.  \n• Why it matters: This initiative leverages their experience from building AI systems at major tech companies to enhance enterprise data utilization.  \n• Business opportunity: Companies can adopt Kapso to improve data-driven decision-making and optimize their AI strategies."
-    },
-    {
-      "id": "rss-1794511350664-137",
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "id": "rss-1794596403975-138",
+      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models—uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T17:36:40.000Z",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "rawTextSnippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "score": 67,
       "scoreBreakdown": {
         "freshness": 30,
@@ -932,101 +993,164 @@
         "novelty": 15,
         "businessImpact": 6
       },
-      "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Hugging Face's CEO committed to promoting open source AI following Jensen Huang's departure from Nvidia.  \n• Why it matters: This shift may impact the competitive landscape of AI development and innovation.  \n• Business opportunity: Companies can explore partnerships with Hugging Face to leverage open source AI solutions."
+      "cluster": "AI Hardware & Chips",
+      "summary": "• What happened: China's advanced AI models were trained using Nvidia chips that are under export ban.  \n• Why it matters: This raises concerns about compliance and the effectiveness of export controls on technology.  \n• Business opportunity: Companies can explore alternative chip designs or partnerships to meet AI demands without violating regulations."
     },
     {
-      "id": "rss-1794511350664-135",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T19:11:00.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Agents & Automation",
-      "summary": "• What happened: Nectar launched an AI agent to automate influencer marketing for brands.  \n• Why it matters: This innovation streamlines creator discovery and outreach, enhancing marketing efficiency.  \n• Business opportunity: Brands can leverage this tool to optimize influencer partnerships and improve campaign performance."
-    },
-    {
-      "id": "rss-1794511350664-136",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T18:39:23.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "score": 64,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "Open Source AI"
-    },
-    {
-      "id": "hn-1794511352450-192",
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "id": "hn-1794596401582-106",
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
       "source": "Hacker News",
-      "publishedAt": "2026-11-11T18:32:42.000Z",
+      "publishedAt": "2026-11-13T17:55:23.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 546,
-        "comments": 156
+        "upvotes": 20,
+        "comments": 2
       },
-      "rawTextSnippet": "Gemini Decisions API",
+      "rawTextSnippet": "OpenAI disbands its robotics team as its general models start running robots",
       "hnMeta": {
-        "points": 546,
-        "comments": 156,
-        "hnUrl": "https://news.ycombinator.com/item?id=50456791"
+        "points": 20,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50487184"
       },
-      "score": 64,
+      "score": 67,
       "scoreBreakdown": {
-        "freshness": 15,
+        "freshness": 30,
         "authority": 14,
-        "engagement": 20,
+        "engagement": 5,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation",
+      "summary": "• What happened: OpenAI has disbanded its robotics team.  \n• Why it matters: This shift indicates that general AI models can now effectively control robotic functions.  \n• Business opportunity: Companies can explore integrating AI models into robotics for enhanced automation and efficiency."
+    },
+    {
+      "id": "rss-1794596403975-146",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T21:27:10.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 16
+      },
+      "rawTextSnippet": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 22,
+        "authority": 16,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Nebius announced a $40 billion expansion of its AI infrastructure, funded by customer prepayments and loans.  \n• Why it matters: Delays at a Microsoft data center raise concerns about the viability of Nebius's financing model.  \n• Business opportunity: Companies can explore partnerships or investments in AI infrastructure to capitalize on the growing demand for cloud services."
+    },
+    {
+      "id": "hn-1794596396811-47",
+      "title": "AI models read the law to the right of their politics",
+      "url": "https://www.ryancompton.net/2026/10/08/ai-supreme-court.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T18:29:11.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "AI models read the law to the right of their politics",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50487686"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
         "novelty": 15,
         "businessImpact": 0
       },
-      "cluster": "Large Language Models"
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "hn-1794596396811-48",
+      "title": "Emerging International Best Practices for AI Model Specs",
+      "url": "https://saif.org/research/model-specs/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T18:24:08.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 14,
+        "upvotes": 1,
+        "comments": 0
+      },
+      "rawTextSnippet": "Emerging International Best Practices for AI Model Specs",
+      "hnMeta": {
+        "points": 1,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50487614"
+      },
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 30,
+        "authority": 14,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "General AI"
     }
   ],
   "redditSignals": [],
   "research": [
     {
-      "id": "arxiv-1794511343400-35",
-      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
-      "url": "https://arxiv.org/abs/2611.14493v1",
+      "id": "arxiv-1794596396767-37",
+      "title": "CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts",
+      "url": "https://arxiv.org/abs/2611.17115v1",
       "source": "arXiv",
-      "publishedAt": "2026-11-10T18:50:06.000Z",
+      "publishedAt": "2026-11-12T17:07:22.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based …",
+      "rawTextSnippet": "Enforcement defenses against prompt injection, such as CaMeL, Progent, IPIGuard and DRIFT, ask the agent's own model to write a security artifact (a program, a privilege policy, a dependency graph or a constraint list) that code then enforces. We ask whether small language model (SLM) agents can be …",
       "arxivMeta": {
-        "authors": "Howard Zhang, Chuck Arvin, Logan Brown, Mihir Bhatia, Neelu Choudhary, Lily Miao",
+        "authors": "Zimo Xu, Wenzhuo Liu, Hideki Nakayama",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 41,
+      "score": 51,
       "scoreBreakdown": {
-        "freshness": 8,
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 6
+      },
+      "cluster": "Large Language Models"
+    },
+    {
+      "id": "arxiv-1794596396765-11",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "https://arxiv.org/abs/2611.17323v1",
+      "source": "arXiv",
+      "publishedAt": "2026-11-12T18:59:06.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested …",
+      "arxivMeta": {
+        "authors": "Ethan Lin, Akanksha Sarkar, Ziang Liu, Kristin Branson, Jennifer J. Sun",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
@@ -1035,209 +1159,181 @@
       "cluster": "AI Agents & Automation"
     },
     {
-      "id": "arxiv-1794511343400-41",
-      "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
-      "url": "https://arxiv.org/abs/2611.14467v1",
+      "id": "arxiv-1794596396765-17",
+      "title": "Quantifying structural stability of transparent models for general insurance pricing",
+      "url": "https://arxiv.org/abs/2611.17308v1",
       "source": "arXiv",
-      "publishedAt": "2026-11-10T18:31:36.000Z",
+      "publishedAt": "2026-11-12T18:56:54.000Z",
       "scoreSignals": {
         "sourceAuthority": 15
       },
-      "rawTextSnippet": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of …",
+      "rawTextSnippet": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the pre-update model in both predictions and structure. Structural stability is upstream of …",
       "arxivMeta": {
-        "authors": "Audrey Huang, Nan Jiang, Sham M. Kakade, Sadhika Malladi, Akshay Krishnamurthy, Dylan J. Foster",
+        "authors": "Félix Côté, Marie-Pier Côté",
         "categories": [
           "cs.AI",
           "cs.CL",
           "stat.ML"
         ]
       },
-      "score": 41,
+      "score": 48,
       "scoreBreakdown": {
-        "freshness": 8,
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Tools & Products"
+    },
+    {
+      "id": "arxiv-1794596396766-21",
+      "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2611.17287v1",
+      "source": "arXiv",
+      "publishedAt": "2026-11-12T18:52:33.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this reg…",
+      "arxivMeta": {
+        "authors": "Jiacheng Xu, Shuo He, Fuxiang Zhang, Chaojie Wang, Bo An",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
+        "authority": 15,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 3
+      },
+      "cluster": "AI Safety & Regulation"
+    },
+    {
+      "id": "arxiv-1794596396766-24",
+      "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+      "url": "https://arxiv.org/abs/2611.17241v1",
+      "source": "arXiv",
+      "publishedAt": "2026-11-12T18:28:08.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 15
+      },
+      "rawTextSnippet": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge…",
+      "arxivMeta": {
+        "authors": "Samidha Verma, Ankit Anand, Sayan Ranu",
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "stat.ML"
+        ]
+      },
+      "score": 48,
+      "scoreBreakdown": {
+        "freshness": 15,
         "authority": 15,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Large Language Models"
-    },
-    {
-      "id": "arxiv-1794511343400-42",
-      "title": "One Curve, Different Weights: AUC, the Brier Score, Decision-Weighted AUC, and the Policy Youden Index",
-      "url": "https://arxiv.org/abs/2611.14465v1",
-      "source": "arXiv",
-      "publishedAt": "2026-11-10T18:29:50.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "AUC and the Brier score are standard summaries of a binary risk score, yet they can rank models differently. We introduce a weighted AUC, AUC$_π$, which weights each pair of observations by how differently a decision maker with probability of acting $π$ treats them. We show that all three are built …",
-      "arxivMeta": {
-        "authors": "Yegor Baranovski",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "arxiv-1794511343401-46",
-      "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
-      "url": "https://arxiv.org/abs/2611.14432v1",
-      "source": "arXiv",
-      "publishedAt": "2026-11-10T18:06:16.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10. The core of the solution is a single vision-language-action (VLA) model, one checkpoint for all 100…",
-      "arxivMeta": {
-        "authors": "Ilia Larchenko, Gleb Zarin, Atindra Nair, Keerti Manney, Vitaly Kleban, Mirko Kiefer, Anjana Yodaiken",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
-    },
-    {
-      "id": "arxiv-1794511343401-48",
-      "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
-      "url": "https://arxiv.org/abs/2611.14425v1",
-      "source": "arXiv",
-      "publishedAt": "2026-11-10T18:01:23.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 15
-      },
-      "rawTextSnippet": "Time-Series Foundation Models (TSFMs) are increasingly used in sensor applications, where sampling frequency (SF) varies across sensors, devices, and operating modes (e.g., power saving). Ideally, TSFMs must remain effective during such SF changes, provided the SF retains task-critical bandwidth. In…",
-      "arxivMeta": {
-        "authors": "Sourish Gunesh Dhekane, Abinaya Kumar, Torsten Woertwein, Yan-Bo Lin, Thomas Ploetz, Shabnam Ghaffarzadegan",
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "stat.ML"
-        ]
-      },
-      "score": 41,
-      "scoreBreakdown": {
-        "freshness": 8,
-        "authority": 15,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 3
-      },
-      "cluster": "AI Safety & Regulation"
     }
   ],
   "funding": [
     {
-      "id": "hn-1794511349629-119",
+      "id": "hn-1794596403446-132",
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us/",
       "source": "Hacker News",
       "publishedAt": "2026-11-12T11:46:41.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 678,
-        "comments": 687
+        "upvotes": 987,
+        "comments": 898
       },
       "rawTextSnippet": "Anthropic IPO",
       "hnMeta": {
-        "points": 678,
-        "comments": 687,
+        "points": 987,
+        "comments": 898,
         "hnUrl": "https://news.ycombinator.com/item?id=50465829"
       },
-      "score": 83,
+      "score": 72,
       "scoreBreakdown": {
-        "freshness": 26,
+        "freshness": 15,
         "authority": 14,
         "engagement": 25,
         "novelty": 15,
         "businessImpact": 3
       },
       "cluster": "Funding & Acquisitions",
-      "summary": "• What happened: Anthropic has announced its initial public offering (IPO).  \n• Why it matters: This move signals growing investor confidence in AI companies and the tech sector.  \n• Business opportunity: Investors may find lucrative opportunities in AI-focused startups and related technologies."
+      "summary": "• What happened: Anthropic has announced its initial public offering (IPO).  \n• Why it matters: This move signals growing investor interest in AI companies and their potential for profitability.  \n• Business opportunity: Investors may seek to capitalize on the AI sector's expansion by participating in Anthropic's IPO."
     },
     {
-      "id": "rss-1794511350664-139",
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T17:00:52.000Z",
-      "scoreSignals": {
-        "sourceAuthority": 16
-      },
-      "rawTextSnippet": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "score": 70,
-      "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
-        "engagement": 0,
-        "novelty": 15,
-        "businessImpact": 9
-      },
-      "cluster": "AI Safety & Regulation",
-      "summary": "• What happened: SoftBank incurred over $3 billion in losses from preordering natural gas turbines for AI data centers.  \n• Why it matters: This significant financial setback may limit investment in AI-related energy infrastructure.  \n• Business opportunity: Companies could explore alternative energy solutions to support AI data centers more sustainably."
-    },
-    {
-      "id": "hn-1794511345129-68",
-      "title": "Show HN: Kapso – Iterative learning from enterprise data",
-      "url": "https://news.ycombinator.com/item?id=50471281",
+      "id": "hn-1794596403446-123",
+      "title": "Anthropic refusing to take money from Chinese Firms in IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
       "source": "Hacker News",
-      "publishedAt": "2026-11-12T17:51:23.000Z",
+      "publishedAt": "2026-11-13T15:53:23.000Z",
       "scoreSignals": {
         "sourceAuthority": 14,
-        "upvotes": 10,
-        "comments": 1
+        "upvotes": 2,
+        "comments": 2
       },
-      "rawTextSnippet": "Hey HN! We&#x27;re Alireza and Majid building Leeroo ( https:&#x2F;&#x2F;leeroo.com&#x2F; ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we&#x27;re open-sourcing Kapso ( h…",
+      "rawTextSnippet": "Anthropic refusing to take money from Chinese Firms in IPO",
       "hnMeta": {
-        "points": 10,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=50471281"
+        "points": 2,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50485334"
       },
-      "score": 70,
+      "score": 62,
       "scoreBreakdown": {
         "freshness": 30,
         "authority": 14,
-        "engagement": 5,
+        "engagement": 0,
         "novelty": 15,
-        "businessImpact": 6
+        "businessImpact": 3
       },
-      "cluster": "AI in Enterprise",
-      "summary": "• What happened: Alireza and Majid launched Kapso, an open-source tool for iterative learning from enterprise data.  \n• Why it matters: This initiative leverages their experience at LinkedIn and Meta to enhance AI applications in businesses.  \n• Business opportunity: Companies can adopt Kapso to improve data-driven decision-making and optimize operations."
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Anthropic is declining investments from Chinese firms during its IPO.  \n• Why it matters: This decision reflects concerns over national security and geopolitical tensions.  \n• Business opportunity: Companies in other regions may seek to fill the investment gap left by Chinese firms."
     },
     {
-      "id": "rss-1794511350664-137",
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "id": "rss-1794596396542-2",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "scoreSignals": {
+        "sourceAuthority": 18
+      },
+      "rawTextSnippet": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investo…",
+      "score": 59,
+      "scoreBreakdown": {
+        "freshness": 26,
+        "authority": 18,
+        "engagement": 0,
+        "novelty": 15,
+        "businessImpact": 0
+      },
+      "cluster": "Funding & Acquisitions",
+      "summary": "• What happened: Silicon Valley leaders mispredicted the outcomes of the midterm elections despite their claims of foresight.  \n• Why it matters: This misjudgment raises questions about the reliability of tech visionaries in forecasting societal trends.  \n• Business opportunity: Companies can capitalize on the demand for more accurate predictive analytics and data-driven insights in political and social contexts."
+    },
+    {
+      "id": "rss-1794596403975-146",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T17:36:40.000Z",
+      "publishedAt": "2026-11-12T21:27:10.000Z",
       "scoreSignals": {
         "sourceAuthority": 16
       },
-      "rawTextSnippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "score": 67,
+      "rawTextSnippet": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "score": 59,
       "scoreBreakdown": {
-        "freshness": 30,
+        "freshness": 22,
         "authority": 16,
         "engagement": 0,
         "novelty": 15,
@@ -1246,25 +1342,32 @@
       "cluster": "Funding & Acquisitions"
     },
     {
-      "id": "rss-1794511350664-136",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-12T18:39:23.000Z",
+      "id": "hn-1794596403446-125",
+      "title": "How Anthropic stacks up against some of the biggest US IPOs",
+      "url": "https://www.reuters.com/legal/transactional/how-anthropic-stacks-up-against-some-biggest-us-ipos-2026-11-12/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T10:26:39.000Z",
       "scoreSignals": {
-        "sourceAuthority": 16
+        "sourceAuthority": 14,
+        "upvotes": 4,
+        "comments": 1
       },
-      "rawTextSnippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "score": 64,
+      "rawTextSnippet": "How Anthropic stacks up against some of the biggest US IPOs",
+      "hnMeta": {
+        "points": 4,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50481328"
+      },
+      "score": 58,
       "scoreBreakdown": {
-        "freshness": 30,
-        "authority": 16,
+        "freshness": 26,
+        "authority": 14,
         "engagement": 0,
         "novelty": 15,
         "businessImpact": 3
       },
-      "cluster": "Open Source AI"
+      "cluster": "Funding & Acquisitions"
     }
   ],
-  "dailyBrief": "Anthropic is reportedly preparing for an IPO, signaling a significant moment for AI startups as they seek to capitalize on the growing interest in generative AI technologies. Meanwhile, developers are innovating ways to optimize large language models (LLMs) for deployment on smaller, older devices, potentially expanding AI accessibility in resource-constrained environments. However, SoftBank's recent billion-dollar loss raises concerns about the sustainability of investments in AI, particularly in sectors like natural gas, which may face increased scrutiny. On the enterprise front, the launch of Kapso, a platform for iterative learning from enterprise data, highlights the ongoing trend of leveraging AI for enhanced business intelligence. Lastly, AWS Lambda's billing practices, which continue to charge for memory usage up to seven minutes after the last request, could prompt businesses to reassess their cloud cost management strategies."
+  "dailyBrief": "In today's AI landscape, Anthropic is making headlines with its anticipated IPO, signaling growing investor confidence in AI technologies. Meanwhile, CEO Dario Amodei's bold claim that AI could cure cancer within a decade has raised eyebrows among medical professionals, who remain cautious about the timeline and feasibility. In a concerning development for U.S. tech dominance, reports reveal that export-banned Nvidia chips are powering China's most advanced AI models, potentially shifting the competitive balance in the global AI race. Additionally, OpenAI's decision to disband its robotics team highlights a strategic pivot towards leveraging general AI models for automation tasks. Lastly, the emergence of AI Manus, a versatile AI agent capable of running various operations in a sandbox environment, underscores the rapid evolution of AI applications across industries."
 }
